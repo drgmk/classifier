@@ -414,12 +414,12 @@ class Colours(object):
         
         Conditions to be skipped are:
         - no effective temperature estimate
-        - more than two 'filled' colours (>1 missing phot) and not a star
+        - more than two 'filled' colours (>1 missing phot)
         """
 
         if not np.isfinite(self.med_temp()):
             return True
-        elif np.sum(list(self.filled.values())) > 2 and label != 'star':
+        elif np.sum(list(self.filled.values())) > 2:
             return True
         else:
             return False
@@ -631,7 +631,7 @@ def predict_phot(phot_file):
     data = np.array(c.sorted_colours()).reshape(1, -1)
     pred = clf.predict(data)[0]
 
-    return labels[pred]
+    return labels[pred].lower()
 
 
 def predict_phot_shell():
