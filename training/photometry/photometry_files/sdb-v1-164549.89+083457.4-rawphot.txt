@@ -1,0 +1,43 @@
+\ photometry/spectra for sdb-v1-164549.89+083457.4
+\
+\main_id='* i Her'
+\raj2000=251.457883
+\dej2000=8.582611
+\sp_type='K5III'
+\sp_bibcode=None
+\plx_value=9.21
+\plx_err=0.4099999964237213
+\plx_bibcode='2007A&A...474..653V'
+\id='sdb-v1-164549.89+083457.4'
+|   Band|  Phot|      Err|     Sys| Lim|Unit|            bibcode|    Note1|    Note2|                 SourceID|private|exclude|
+|   char|double|   double|  double|long|char|               char|     char|     char|                     char|   long|   long|
+|       |      |         |        |    |    |                   |         |         |                         |       |       |
+|   null|  null|     null|    null|null|null|               null|     null|     null|                     null|   null|   null|
+  GALFUV 19.865     0.142     0.01    0  mag 2011Ap&SS.335..161B    Fafl:0    Fexf:0 sdb-v1-164549.89+083457.4       0       0 
+  GALNUV 15.583     0.009     0.01    0  mag 2011Ap&SS.335..161B    Nafl:0    Nexf:0 sdb-v1-164549.89+083457.4       0       0 
+   UJ_BJ  1.916     0.011    0.028    0  mag 2006yCat.2168....0M     Comp:   n_U_B:>                 HD 151217       0       0 
+      BT  7.188     0.015    0.006    0  mag 2000A&A...355L..27H  Prox:844 HIP:82073 sdb-v1-164549.89+083457.4       0       0 
+  BAPASS  7.141       0.0     0.01    0  mag 2016yCat.2336....0H    nobs:2    mobs:6 sdb-v1-164549.89+083457.4       0       1 
+   BJ_VJ  1.535     0.004     0.02    0  mag 2006yCat.2168....0M     Comp:   n_B_V:>                 HD 151217       0       0 
+      VT  5.329     0.009    0.006    0  mag 2000A&A...355L..27H  Prox:844 HIP:82073 sdb-v1-164549.89+083457.4       0       0 
+      HP 5.2731 0.0101119    0.005    0  mag 1997HIP...C......0E VarType:M     Mult:                 HIP 82073       0       0 
+  VAPASS  5.675       0.0     0.01    0  mag 2016yCat.2336....0H    nobs:2    mobs:6 sdb-v1-164549.89+083457.4       0       1 
+      VJ  5.137     0.006     0.02    0  mag 2006yCat.2168....0M     Comp:  n_Vmag:>                 HD 151217       0       0 
+     2MJ  2.475     0.242     0.01    0  mag 2003tmc..book.....C    Qflg:D    Cflg:0 sdb-v1-164549.89+083457.4       0       0 
+     2MH  1.668       0.2     0.01    0  mag 2003tmc..book.....C    Qflg:C    Cflg:0 sdb-v1-164549.89+083457.4       0       0 
+ KSDENIS  1.351     0.029     0.01    0  mag 2004A&A...413.1037K     Var:0     Note:                 HD 151217       0       0 
+    2MKS  1.438     0.242     0.01    0  mag 2003tmc..book.....C    Qflg:D    Cflg:0 sdb-v1-164549.89+083457.4       0       0 
+ WISE3P4 -1.342       0.0    0.024    1  mag 2010AJ....140.1868W    qual:U  Var:nn21 sdb-v1-164549.89+083457.4       0       1 
+ WISE4P6 -0.352       0.0    0.028    1  mag 2010AJ....140.1868W    qual:U  Var:nn21 sdb-v1-164549.89+083457.4       0       1 
+  AKARI9  16.59    0.0506  0.24885    0   Jy 2010A&A...514A...1I    ext?:0  N-near:0 sdb-v1-164549.89+083457.4       0       0 
+  IRAS12   12.0      0.48      0.0    0   Jy 1988IRASP.C......0J    Qual:3    Conf:0           IRAS 16434+0840       0       1 
+  IRAS12   12.2      0.61      0.0    0   Jy 1990IRASF.C......0M    Qual:3    Conf:0          IRAS F16434+0840       0       0 
+  WISE12  1.375     0.036    0.045    0  mag 2010AJ....140.1868W    qual:A  Var:nn21 sdb-v1-164549.89+083457.4       0       0 
+ AKARI18  3.773    0.0375 0.056595    0   Jy 2010A&A...514A...1I    ext?:0  N-near:0 sdb-v1-164549.89+083457.4       0       0 
+  WISE22  1.289     0.017    0.057    0  mag 2010AJ....140.1868W    qual:A  Var:nn21 sdb-v1-164549.89+083457.4       0       0 
+  IRAS25   2.83    0.1698      0.0    0   Jy 1988IRASP.C......0J    Qual:3    Conf:0           IRAS 16434+0840       0       1 
+  IRAS25   2.89    0.1734      0.0    0   Jy 1990IRASF.C......0M    Qual:3    Conf:0          IRAS F16434+0840       0       0 
+  IRAS60  0.429   0.06864      0.0    0   Jy 1990IRASF.C......0M    Qual:3    Conf:0          IRAS F16434+0840       0       0 
+  IRAS60  0.451   0.04059      0.0    0   Jy 1988IRASP.C......0J    Qual:3    Conf:0           IRAS 16434+0840       0       1 
+ IRAS100    1.0       0.0      0.0    1   Jy 1988IRASP.C......0J    Qual:1    Conf:0           IRAS 16434+0840       0       1 
+ IRAS100  0.929   0.22296      0.0    1   Jy 1990IRASF.C......0M    Qual:1    Conf:0          IRAS F16434+0840       0       0 

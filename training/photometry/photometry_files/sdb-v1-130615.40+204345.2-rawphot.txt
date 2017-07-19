@@ -1,0 +1,35 @@
+\ photometry/spectra for sdb-v1-130615.40+204345.2
+\
+\main_id='BD+21 2486'
+\raj2000=196.564159
+\dej2000=20.729243
+\sp_type='K4V'
+\sp_bibcode='1986AJ.....92..139S'
+\plx_value=53.18
+\plx_err=1.7300000190734863
+\plx_bibcode='2007A&A...474..653V'
+\id='sdb-v1-130615.40+204345.2'
+\irsstare0='cassis/irsstare/cassis_yaaar_spcfw_25676032t.fits'
+|   Band|  Phot|      Err|     Sys| Lim|Unit|            bibcode|        Note1|    Note2|                 SourceID|private|exclude|
+|   char|double|   double|  double|long|char|               char|         char|     char|                     char|   long|   long|
+|       |      |         |        |    |    |                   |             |         |                         |       |       |
+|   null|  null|     null|    null|null|null|               null|         null|     null|                     null|   null|   null|
+  GALFUV 20.447     0.194     0.01    0  mag 2011Ap&SS.335..161B        Fafl:0    Fexf:0 sdb-v1-130615.40+204345.2       0       0 
+  GALNUV 17.597     0.035     0.01    0  mag 2011Ap&SS.335..161B       Nafl:19    Nexf:0 sdb-v1-130615.40+204345.2       0       0 
+   UJ_BJ   1.22       0.0    0.028    0  mag 2006yCat.2168....0M        Comp:D    n_U_B:                BD+21 2486       0       1 
+      BT 11.388     0.087    0.006    0  mag 2000A&A...355L..27H        Prox:9 HIP:63942 sdb-v1-130615.40+204345.2       0       0 
+  BAPASS  10.86     0.113     0.01    0  mag 2016yCat.2336....0H        nobs:3    mobs:9 sdb-v1-130615.40+204345.2       0       0 
+  GAPASS 10.423       0.0     0.01    0  mag 2016yCat.2336....0H        nobs:3    mobs:9 sdb-v1-130615.40+204345.2       0       1 
+   BJ_VJ   1.29       0.0     0.02    0  mag 2006yCat.2168....0M        Comp:D    n_B_V:                BD+21 2486       0       1 
+      VT  9.721     0.035    0.006    0  mag 2000A&A...355L..27H        Prox:9 HIP:63942 sdb-v1-130615.40+204345.2       0       0 
+      HP 9.5124 0.0182321    0.005    0  mag 1997HIP...C......0E     VarType:C    Mult:C                 HIP 63942       0       0 
+      VJ   9.43       0.0     0.02    0  mag 2006yCat.2168....0M        Comp:D   n_Vmag:                BD+21 2486       0       1 
+   2MR1J  6.825     0.021     0.01    0  mag 2003tmc..book.....C        Qflg:A    Cflg:0 sdb-v1-130615.40+204345.2       0       0 
+   2MR1H  6.208     0.016     0.01    0  mag 2003tmc..book.....C        Qflg:A    Cflg:0 sdb-v1-130615.40+204345.2       0       0 
+  2MR1KS  6.041     0.017     0.01    0  mag 2003tmc..book.....C        Qflg:A    Cflg:0 sdb-v1-130615.40+204345.2       0       0 
+ WISE3P4   5.94     0.155    0.024    0  mag 2010AJ....140.1868W        qual:B  Var:0100 sdb-v1-130615.40+204345.2       0       0 
+ WISE4P6  5.843     0.055    0.028    0  mag 2010AJ....140.1868W        qual:A  Var:0100 sdb-v1-130615.40+204345.2       0       0 
+  AKARI9 0.2522    0.0172 0.003783    0   Jy 2010A&A...514A...1I        ext?:0  N-near:0 sdb-v1-130615.40+204345.2       0       0 
+  WISE12  5.871     0.015    0.045    0  mag 2010AJ....140.1868W        qual:A  Var:0100 sdb-v1-130615.40+204345.2       0       0 
+  WISE22  5.691     0.045    0.057    0  mag 2010AJ....140.1868W        qual:A  Var:0100 sdb-v1-130615.40+204345.2       0       0 
+  MIPS70   44.7       3.9    3.129    0  mJy 2014ApJS..211...25C Name:HIP63942  r_F70:33                 HIP 63942       0       0 

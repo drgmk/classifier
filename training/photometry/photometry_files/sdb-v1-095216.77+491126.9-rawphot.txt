@@ -1,0 +1,45 @@
+\ photometry/spectra for sdb-v1-095216.77+491126.9
+\
+\main_id='HD 85301'
+\raj2000=148.06987
+\dej2000=49.190791
+\sp_type='G5'
+\sp_bibcode='1993yCat.3135....0C'
+\plx_value=29.989999771118164
+\plx_err=0.25
+\plx_bibcode='2016yCat.1337....0G'
+\id='sdb-v1-095216.77+491126.9'
+\irsstare0='cassis/irsstare/cassis_yaaar_spcfw_5399808t.fits'
+|   Band|     Phot|       Err|        Sys| Lim|Unit|            bibcode|       Note1|       Note2|                  SourceID|private|exclude|
+|   char|   double|    double|     double|long|char|               char|        char|        char|                      char|   long|   long|
+|       |         |          |           |    |    |                   |            |            |                          |       |       |
+|   null|     null|      null|       null|null|null|               null|        null|        null|                      null|   null|   null|
+ STROMC1      0.32       0.01       0.005    0  mag 2015A&A...580A..23P   Vmag:7.746        beta:             TYC 3436-765-1       0       0 
+      BT     8.617      0.016       0.006    0  mag 2000A&A...355L..27H     Prox:999    HIP:48423  sdb-v1-095216.77+491126.9       0       0 
+ STROMM1     0.251      0.012       0.005    0  mag 2015A&A...580A..23P   Vmag:7.746        beta:             TYC 3436-765-1       0       0 
+   BS_YS     0.436      0.008       0.005    0  mag 2015A&A...580A..23P   Vmag:7.746        beta:             TYC 3436-765-1       0       0 
+      VT     7.815      0.011       0.006    0  mag 2000A&A...355L..27H     Prox:999    HIP:48423  sdb-v1-095216.77+491126.9       0       0 
+      HP    7.8764   0.018071       0.005    0  mag 1997HIP...C......0E    VarType:U        Mult:                  HIP 48423       0       1 
+   2MR1J     6.466      0.023        0.01    0  mag 2003tmc..book.....C       Qflg:A       Cflg:0  sdb-v1-095216.77+491126.9       0       0 
+   2MR1H     6.136      0.029        0.01    0  mag 2003tmc..book.....C       Qflg:A       Cflg:0  sdb-v1-095216.77+491126.9       0       0 
+  2MR1KS     6.095       0.02        0.01    0  mag 2003tmc..book.....C       Qflg:A       Cflg:0  sdb-v1-095216.77+491126.9       0       0 
+ WISE3P4     6.147      0.088       0.024    0  mag 2010AJ....140.1868W       qual:A     Var:1011  sdb-v1-095216.77+491126.9       0       0 
+ WISE4P6     5.973      0.033       0.028    0  mag 2010AJ....140.1868W       qual:A     Var:1011  sdb-v1-095216.77+491126.9       0       0 
+  AKARI9    0.2366     0.0239    0.003549    0   Jy 2010A&A...514A...1I       ext?:0     N-near:0  sdb-v1-095216.77+491126.9       0       0 
+  IRAS12     0.162    0.02268         0.0    0   Jy 1990IRASF.C......0M       Qual:3       Conf:0           IRAS F09490+4925       0       0 
+  WISE12     6.085      0.014       0.045    0  mag 2010AJ....140.1868W       qual:A     Var:1011  sdb-v1-095216.77+491126.9       0       0 
+  WISE22     5.688      0.047       0.057    0  mag 2010AJ....140.1868W       qual:A     Var:1011  sdb-v1-095216.77+491126.9       0       0 
+  IRAS25     0.107    0.02461         0.0    1   Jy 1990IRASF.C......0M       Qual:1       Conf:0           IRAS F09490+4925       0       0 
+  MIPS24   37690.0      63.54       753.8    0  uJy       2013.SEIP.dr4     Brt:1.01        Ext:0  sdb-v1-095216.77+491126.9       0       0 
+  IRAS60     0.114    0.02508         0.0    1   Jy 1990IRASF.C......0M       Qual:1       Conf:0           IRAS F09490+4925       0       0 
+  MIPS70      38.5        7.0       2.695    0  mJy 2014ApJS..211...25C Name:HD85301      r_F70:3                   HD 85301       0       0 
+  MIPS70      38.5        7.0        1.54    0  mJy 2008ApJS..179..423C NameHD 85301      Flag70:                   HD 85301       0       1 
+ IRAS100     0.443    0.09303         0.0    1   Jy 1990IRASF.C......0M       Qual:1       Conf:0           IRAS F09490+4925       0       0 
+ PACS100 0.0360707 0.00161075 0.000909345    0   Jy             HSA_GMK   1342252963     Phot:PSF                   HD 85301       0       1 
+ PACS100   35.3412    6.57074     1.76706    0  mJy 2017arXiv170505693M Elong:0.7312      Blend:0 HPPSC100A_J095216.5+491128       0       0 
+ PACS160   35.7622    13.8663     1.07287    0  mJy 2017arXiv170505693M Elong:0.0000      Blend:0 HPPSC160A_J095216.5+491126       0       0 
+ PACS160 0.0274741 0.00504789   0.0011353    0   Jy             HSA_GMK   1342252963     Phot:PSF                   HD 85301       0       1 
+  WAV350      17.4        0.0         0.0    1  mJy 2009A&A...497..409R    Instr:CSO        Name:                   HD 85301       0       0 
+  WAV450      45.0        0.0         0.0    1  mJy 2017arXiv170601218H        No:45 Assoc:Hyades                   HD 85301       0       0 
+  WAV850       4.5        0.0         0.0    1  mJy 2017arXiv170601218H        No:45 Assoc:Hyades                   HD 85301       0       0 
+ WAV1200       2.7        0.0         0.0    1  mJy 2009A&A...497..409R   Instr:IRAM        Name:                   HD 85301       0       0 

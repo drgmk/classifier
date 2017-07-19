@@ -1,0 +1,40 @@
+\ photometry/spectra for sdb-v1-043138.46+181358.0
+\
+\main_id='V* HL Tau'
+\raj2000=67.910269
+\dej2000=18.232774
+\sp_type='K5'
+\sp_bibcode='2004ApJ...616..998W'
+\plx_value=None
+\plx_err=None
+\plx_bibcode=None
+\id='sdb-v1-043138.46+181358.0'
+|    Band|     Phot|    Err|     Sys| Lim|Unit|            bibcode|       Note1|     Note2|                  SourceID|private|exclude|
+|    char|   double| double|  double|long|char|               char|        char|      char|                      char|   long|   long|
+|        |         |       |        |    |    |                   |            |          |                          |       |       |
+|    null|     null|   null|    null|null|null|               null|        null|      null|                      null|   null|   null|
+   BAPASS    15.891   0.107     0.01    0  mag 2016yCat.2336....0H       nobs:4    mobs:20  sdb-v1-043138.46+181358.0       0       0 
+   GAPASS    15.201   0.059     0.01    0  mag 2016yCat.2336....0H       nobs:4    mobs:20  sdb-v1-043138.46+181358.0       0       0 
+   VAPASS    14.489   0.056     0.01    0  mag 2016yCat.2336....0H       nobs:4    mobs:20  sdb-v1-043138.46+181358.0       0       0 
+   RAPASS    13.799   0.065     0.01    0  mag 2016yCat.2336....0H       nobs:4    mobs:20  sdb-v1-043138.46+181358.0       0       0 
+   IAPASS    13.008   0.078     0.01    0  mag 2016yCat.2336....0H       nobs:4    mobs:20  sdb-v1-043138.46+181358.0       0       0 
+    2MR2J    10.624   0.042     0.01    0  mag 2003tmc..book.....C       Qflg:A     Cflg:0  sdb-v1-043138.46+181358.0       0       0 
+    2MR2H     9.171   0.046     0.01    0  mag 2003tmc..book.....C       Qflg:A     Cflg:d  sdb-v1-043138.46+181358.0       0       1 
+   2MR1KS      7.41   0.017     0.01    0  mag 2003tmc..book.....C       Qflg:A     Cflg:d  sdb-v1-043138.46+181358.0       0       1 
+  WISE3P4     5.242   0.121    0.024    0  mag 2010AJ....140.1868W       qual:B   Var:14nn  sdb-v1-043138.46+181358.0       0       0 
+  IRAC3P6 3.703e+06   229.6  74060.0    0  uJy       2013.SEIP.dr4     Brt:0.98      Ext:0  sdb-v1-043138.46+181358.0       0       0 
+  IRAC4P5 3.736e+06   252.5  74720.0    0  uJy       2013.SEIP.dr4     Brt:0.95      Ext:0  sdb-v1-043138.46+181358.0       0       0 
+  WISE4P6     3.422   0.332    0.028    0  mag 2010AJ....140.1868W       qual:B   Var:14nn  sdb-v1-043138.46+181358.0       0       0 
+   AKARI9     4.691    0.11 0.070365    0   Jy 2010A&A...514A...1I       ext?:0   N-near:2  sdb-v1-043138.46+181358.0       0       0 
+   IRAS12      10.0     0.4      0.0    0   Jy 1988IRASP.C......0J       Qual:3     Conf:0            IRAS 04287+1807       0       0 
+   WISE12     1.181   0.026    0.045    0  mag 2010AJ....140.1868W       qual:A   Var:14nn  sdb-v1-043138.46+181358.0       0       0 
+  AKARI18     14.84   0.768   0.2226    0   Jy 2010A&A...514A...1I       ext?:0   N-near:0  sdb-v1-043138.46+181358.0       0       0 
+   WISE22    -1.305   0.006    0.057    0  mag 2010AJ....140.1868W       qual:A   Var:14nn  sdb-v1-043138.46+181358.0       0       0 
+   IRAS25      30.3   1.515      0.0    0   Jy 1988IRASP.C......0J       Qual:3     Conf:0            IRAS 04287+1807       0       0 
+   IRAS60      77.8   9.336      0.0    0   Jy 1988IRASP.C......0J       Qual:3     Conf:0            IRAS 04287+1807       0       0 
+   PACS70   63001.8 51.1038  1890.05    0  mJy 2017arXiv170505693M Elong:0.8745    Blend:0 HPPSC070A_J043138.4+181357       0       0 
+  IRAS100     458.0     0.0      0.0    1   Jy 1988IRASP.C......0J       Qual:1     Conf:0            IRAS 04287+1807       0       0 
+  PACS100   72219.7 292.743  3610.99    0  mJy 2017arXiv170505693M Elong:0.0000    Blend:0 HPPSC100A_J043138.4+181357       0       0 
+  PACS160   52815.6 2619.64  1584.47    0  mJy 2017arXiv170505693M Elong:0.0000    Blend:0 HPPSC160A_J043138.4+181356       0       0 
+ SPIRE250   32995.9   389.9  2309.71    0  mJy       2017.HSPSC_v1        Ext:1 Low FWHM:0  HSPSC250A_J0431.63+1813.9       0       0 
+ SPIRE350   19636.2   150.8  1374.53    0  mJy       2017.HSPSC_v1        Ext:1 Low FWHM:0  HSPSC350A_J0431.63+1813.9       0       0 

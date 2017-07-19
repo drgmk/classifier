@@ -1,0 +1,40 @@
+\ photometry/spectra for sdb-v1-232304.57+121850.1
+\
+\main_id='* 66 Peg'
+\raj2000=350.769035
+\dej2000=12.313905
+\sp_type='K3III'
+\sp_bibcode='1985ApJS...59...95A'
+\plx_value=8.4
+\plx_err=0.27000001072883606
+\plx_bibcode='2007A&A...474..653V'
+\id='sdb-v1-232304.57+121850.1'
+|   Band|  Phot|       Err|     Sys| Lim|Unit|            bibcode|   Note1|     Note2|                 SourceID|private|exclude|
+|   char|double|    double|  double|long|char|               char|    char|      char|                     char|   long|   long|
+|       |      |          |        |    |    |                   |        |          |                         |       |       |
+|   null|  null|      null|    null|null|null|               null|    null|      null|                     null|   null|   null|
+  GALFUV 19.803      0.197     0.01    0  mag 2011Ap&SS.335..161B   Fafl:0     Fexf:0 sdb-v1-232304.57+121850.1       0       0 
+  GALNUV 14.796      0.008     0.01    0  mag 2011Ap&SS.335..161B   Nafl:2     Nexf:0 sdb-v1-232304.57+121850.1       0       0 
+   UJ_BJ  1.501       0.01    0.028    0  mag 2006yCat.2168....0M   Comp:D     n_U_B:                 HD 220363       0       1 
+      BT  6.808      0.015    0.006    0  mag 2000A&A...355L..27H Prox:999 HIP:115444 sdb-v1-232304.57+121850.1       0       0 
+   BJ_VJ  1.316      0.005     0.02    0  mag 2006yCat.2168....0M   Comp:D     n_B_V:                 HD 220363       0       1 
+      VT  5.232      0.009    0.006    0  mag 2000A&A...355L..27H Prox:999 HIP:115444 sdb-v1-232304.57+121850.1       0       0 
+      HP  5.246 0.00611882    0.005    0  mag 1997HIP...C......0E VarType:      Mult:                HIP 115444       0       0 
+      VJ  5.102       0.02     0.02    0  mag 2006yCat.2168....0M   Comp:D    n_Vmag:                 HD 220363       0       1 
+  JDENIS  2.864      0.002     0.01    0  mag 2004A&A...413.1037K    Var:0      Note:                 HD 220363       0       0 
+     2MJ  2.915      0.252     0.01    0  mag 2003tmc..book.....C   Qflg:D     Cflg:0 sdb-v1-232304.57+121850.1       0       0 
+     2MH  2.316      0.188     0.01    0  mag 2003tmc..book.....C   Qflg:C     Cflg:0 sdb-v1-232304.57+121850.1       0       0 
+ KSDENIS  1.998      0.025     0.01    0  mag 2004A&A...413.1037K    Var:0      Note:                 HD 220363       0       0 
+ WISE3P4  0.343        0.0    0.024    1  mag 2010AJ....140.1868W   qual:U   Var:nnn0 sdb-v1-232304.57+121850.1       0       1 
+ WISE4P6  0.401        0.0    0.028    1  mag 2010AJ....140.1868W   qual:U   Var:nnn0 sdb-v1-232304.57+121850.1       0       1 
+  AKARI9  8.903     0.0175 0.133545    0   Jy 2010A&A...514A...1I   ext?:0   N-near:0 sdb-v1-232304.57+121850.1       0       0 
+  IRAS12   6.93     0.4851      0.0    0   Jy 1990IRASF.C......0M   Qual:3     Conf:0          IRAS F23205+1202       0       0 
+  IRAS12   7.14      0.357      0.0    0   Jy 1988IRASP.C......0J   Qual:3     Conf:0           IRAS 23205+1202       0       1 
+ AKARI18  2.027     0.0342 0.030405    0   Jy 2010A&A...514A...1I   ext?:0   N-near:0 sdb-v1-232304.57+121850.1       0       0 
+  WISE22  1.976      0.019    0.057    0  mag 2010AJ....140.1868W   qual:A   Var:nnn0 sdb-v1-232304.57+121850.1       0       0 
+  IRAS25   1.55      0.124      0.0    0   Jy 1990IRASF.C......0M   Qual:2     Conf:0          IRAS F23205+1202       0       0 
+  IRAS25   1.56      0.156      0.0    0   Jy 1988IRASP.C......0J   Qual:3     Conf:0           IRAS 23205+1202       0       1 
+  IRAS60  0.235     0.0611      0.0    0   Jy 1990IRASF.C......0M   Qual:2     Conf:0          IRAS F23205+1202       0       0 
+  IRAS60    0.4        0.0      0.0    1   Jy 1988IRASP.C......0J   Qual:1     Conf:0           IRAS 23205+1202       0       1 
+ IRAS100    1.0        0.0      0.0    1   Jy 1988IRASP.C......0J   Qual:1     Conf:0           IRAS 23205+1202       0       1 
+ IRAS100  0.664     0.1992      0.0    1   Jy 1990IRASF.C......0M   Qual:1     Conf:0          IRAS F23205+1202       0       0 

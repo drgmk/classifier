@@ -1,0 +1,45 @@
+\ photometry/spectra for sdb-v1-120433.73+662011.7
+\
+\main_id='HD 104860'
+\raj2000=181.1405453
+\dej2000=66.3365869
+\sp_type='F8'
+\sp_bibcode='2007AJ....133.2524W'
+\plx_value=22.219999313354492
+\plx_err=0.2199999988079071
+\plx_bibcode='2016yCat.1337....0G'
+\id='sdb-v1-120433.73+662011.7'
+\irsstare0='cassis/irsstare/cassis_yaaar_spcfw_5270272t.fits'
+|   Band|    Phot|       Err|       Sys| Lim|Unit|            bibcode|        Note1|         Note2|                 SourceID|private|exclude|
+|   char|  double|    double|    double|long|char|               char|         char|          char|                     char|   long|   long|
+|       |        |          |          |    |    |                   |             |              |                         |       |       |
+|   null|    null|      null|      null|null|null|               null|         null|          null|                     null|   null|   null|
+  GALFUV   18.697      0.094       0.01    0  mag 2011Ap&SS.335..161B        Fafl:0         Fexf:0 sdb-v1-120433.73+662011.7       0       0 
+  GALNUV   13.755      0.006       0.01    0  mag 2011Ap&SS.335..161B        Nafl:0         Nexf:0 sdb-v1-120433.73+662011.7       0       0 
+ STROMC1    0.307       0.01      0.005    0  mag 2015A&A...580A..23P    Vmag:7.915          beta:            TYC 4160-122-1       0       0 
+      BT    8.632      0.016      0.006    0  mag 2000A&A...355L..27H      Prox:999      HIP:58876 sdb-v1-120433.73+662011.7       0       0 
+ STROMM1    0.181      0.012      0.005    0  mag 2015A&A...580A..23P    Vmag:7.915          beta:            TYC 4160-122-1       0       0 
+   BS_YS    0.381      0.008      0.005    0  mag 2015A&A...580A..23P    Vmag:7.915          beta:            TYC 4160-122-1       0       0 
+      VT    7.979      0.011      0.006    0  mag 2000A&A...355L..27H      Prox:999      HIP:58876 sdb-v1-120433.73+662011.7       0       0 
+      HP   8.0437  0.0201318      0.005    0  mag 1997HIP...C......0E     VarType:U          Mult:                 HIP 58876       0       1 
+   2MR1J    6.822      0.018       0.01    0  mag 2003tmc..book.....C        Qflg:A         Cflg:0 sdb-v1-120433.73+662011.7       0       0 
+   2MR1H     6.58      0.016       0.01    0  mag 2003tmc..book.....C        Qflg:A         Cflg:0 sdb-v1-120433.73+662011.7       0       0 
+  2MR1KS    6.499      0.017       0.01    0  mag 2003tmc..book.....C        Qflg:A         Cflg:0 sdb-v1-120433.73+662011.7       0       0 
+ WISE3P4    6.468      0.074      0.024    0  mag 2010AJ....140.1868W        qual:A       Var:2000 sdb-v1-120433.73+662011.7       0       0 
+ WISE4P6    6.415      0.024      0.028    0  mag 2010AJ....140.1868W        qual:A       Var:2000 sdb-v1-120433.73+662011.7       0       0 
+  AKARI9   0.1572     0.0114   0.002358    0   Jy 2010A&A...514A...1I        ext?:0       N-near:0 sdb-v1-120433.73+662011.7       0       0 
+  WISE12     6.48      0.015      0.045    0  mag 2010AJ....140.1868W        qual:A       Var:2000 sdb-v1-120433.73+662011.7       0       0 
+  WISE22    6.357      0.058      0.057    0  mag 2010AJ....140.1868W        qual:A       Var:2000 sdb-v1-120433.73+662011.7       0       0 
+  MIPS24  20210.0       45.7      404.2    0  uJy       2013.SEIP.dr4         Brt:0          Ext:0 sdb-v1-120433.73+662011.7       0       0 
+  MIPS70    183.1        7.4     12.817    0  mJy 2014ApJS..211...25C Name:HD104860        r_F70:3                 HD 104860       0       0 
+  MIPS70    183.1        7.4      7.324    0  mJy 2008ApJS..179..423C NameHD 104860        Flag70:                 HD 104860       0       1 
+ PACS100 0.232258 0.00159024 0.00585525    0   Jy             HSA_GMK    1342243342       Phot:PSF                 HD 104860       0       0 
+ PACS160 0.242131 0.00430646  0.0100054    0   Jy             HSA_GMK    1342243342       Phot:PSF                 HD 104860       0       0 
+  WAV350     50.1        9.3        0.0    0  mJy 2009A&A...497..409R     Instr:CSO          Name:                 HD 104860       0       0 
+  WAV450     47.0       11.0        0.0    0  mJy 2005ApJ...635..625N   Instr:SCUBA          Name:                 HD 104860       0       0 
+  WAV450     81.0        0.0        0.0    1  mJy 2017arXiv170601218H         No:98    Assoc:Field                 HD 104860       0       0 
+  WAV850      6.5        1.0        0.0    0  mJy 2017arXiv170601218H         No:98    Assoc:Field                 HD 104860       0       0 
+  WAV850      6.8        1.2        0.0    0  mJy 2005ApJ...635..625N   Instr:SCUBA          Name:                 HD 104860       0       0 
+ WAV1200      4.4        1.1        0.0    0  mJy 2009A&A...497..409R    Instr:IRAM          Name:                 HD 104860       0       0 
+ WAV3000     1.35       0.67        0.0    0  mJy 2005AJ....129.1049C    Instr:OVRO Name:HD 104860                 HD 104860       0       0 
+ WAV9000   0.0014     0.0035        0.0    0  mJy 2016ApJ...823...79M     Instr:VLA          Name:                 HD 104860       0       0 

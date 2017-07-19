@@ -1,0 +1,25 @@
+\ photometry/spectra for sdb-v1-043136.10+181343.6
+\
+\main_id='EM* LkHA 358'
+\raj2000=67.900427
+\dej2000=18.228781
+\sp_type='M5.5'
+\sp_bibcode=None
+\plx_value=None
+\plx_err=None
+\plx_bibcode=None
+\id='sdb-v1-043136.10+181343.6'
+\irsstare0='cassis/irsstare/cassis_yaaar_spcfw_3540480t.fits'
+|   Band|   Phot|    Err|     Sys| Lim|Unit|            bibcode|       Note1|   Note2|                  SourceID|private|exclude|
+|   char| double| double|  double|long|char|               char|        char|    char|                      char|   long|   long|
+|       |       |       |        |    |    |                   |            |        |                          |       |       |
+|   null|   null|   null|    null|null|null|               null|        null|    null|                      null|   null|   null|
+   2MR2J  12.792   0.032     0.01    0  mag 2003tmc..book.....C       Qflg:A   Cflg:0  sdb-v1-043136.10+181343.6       0       0 
+   2MR2H  10.922   0.029     0.01    0  mag 2003tmc..book.....C       Qflg:A   Cflg:0  sdb-v1-043136.10+181343.6       0       0 
+  2MR2KS   9.687   0.021     0.01    0  mag 2003tmc..book.....C       Qflg:A   Cflg:0  sdb-v1-043136.10+181343.6       0       0 
+ WISE3P4    8.21   0.023    0.024    0  mag 2010AJ....140.1868W       qual:A Var:11nn  sdb-v1-043136.10+181343.6       0       0 
+ WISE4P6   7.274   0.021    0.028    0  mag 2010AJ....140.1868W       qual:A Var:11nn  sdb-v1-043136.10+181343.6       0       0 
+  AKARI9  0.3764  0.0585 0.005646    0   Jy 2010A&A...514A...1I       ext?:0 N-near:1  sdb-v1-043136.10+181343.6       0       0 
+  WISE12   5.031   0.013    0.045    0  mag 2010AJ....140.1868W       qual:A Var:11nn  sdb-v1-043136.10+181343.6       0       0 
+  WISE22   6.075   0.164    0.057    0  mag 2010AJ....140.1868W       qual:B Var:11nn  sdb-v1-043136.10+181343.6       0       1 
+  PACS70 1756.33 10283.3    52.69    0  mJy 2017arXiv170505693M Elong:0.0000  Blend:0 HPPSC070A_J043136.2+181343       0       0 

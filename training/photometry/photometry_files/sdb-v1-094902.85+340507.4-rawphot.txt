@@ -1,0 +1,39 @@
+\ photometry/spectra for sdb-v1-094902.85+340507.4
+\
+\main_id='HD 84870'
+\raj2000=147.2618548
+\dej2000=34.0853944
+\sp_type='A3'
+\sp_bibcode=None
+\plx_value=12.100000381469727
+\plx_err=0.7699999809265137
+\plx_bibcode='2016yCat.1337....0G'
+\id='sdb-v1-094902.85+340507.4'
+\irsstare0='cassis/irsstare/cassis_yaaar_spcfw_21798144t.fits'
+|   Band|    Phot|       Err|       Sys| Lim|Unit|            bibcode|       Note1|      Note2|                  SourceID|private|exclude|
+|   char|  double|    double|    double|long|char|               char|        char|       char|                      char|   long|   long|
+|       |        |          |          |    |    |                   |            |           |                          |       |       |
+|   null|    null|      null|      null|null|null|               null|        null|       null|                      null|   null|   null|
+  GALFUV   13.724      0.007       0.01    0  mag 2011Ap&SS.335..161B       Fafl:0      Fexf:0  sdb-v1-094902.85+340507.4       0       0 
+  GALNUV   11.602      0.002       0.01    0  mag 2011Ap&SS.335..161B      Nafl:10      Nexf:2  sdb-v1-094902.85+340507.4       0       0 
+      BT    7.484      0.015      0.006    0  mag 2000A&A...355L..27H     Prox:246   HIP:48164  sdb-v1-094902.85+340507.4       0       0 
+      VT    7.219       0.01      0.006    0  mag 2000A&A...355L..27H     Prox:246   HIP:48164  sdb-v1-094902.85+340507.4       0       0 
+      HP   7.2658 0.00905538      0.005    0  mag 1997HIP...C......0E    VarType:C       Mult:                  HIP 48164       0       0 
+   2MR1J    6.752      0.032       0.01    0  mag 2003tmc..book.....C       Qflg:A      Cflg:0  sdb-v1-094902.85+340507.4       0       0 
+   2MR1H    6.682      0.016       0.01    0  mag 2003tmc..book.....C       Qflg:A      Cflg:0  sdb-v1-094902.85+340507.4       0       0 
+  2MR1KS    6.628      0.016       0.01    0  mag 2003tmc..book.....C       Qflg:A      Cflg:0  sdb-v1-094902.85+340507.4       0       0 
+ WISE3P4    6.637      0.071      0.024    0  mag 2010AJ....140.1868W       qual:A    Var:0000  sdb-v1-094902.85+340507.4       0       0 
+ WISE4P6    6.611      0.022      0.028    0  mag 2010AJ....140.1868W       qual:A    Var:0000  sdb-v1-094902.85+340507.4       0       0 
+  AKARI9   0.1424    0.00723   0.002136    0   Jy 2010A&A...514A...1I       ext?:0    N-near:0  sdb-v1-094902.85+340507.4       0       0 
+  IRAS12    0.119    0.02975        0.0    1   Jy 1990IRASF.C......0M       Qual:1      Conf:0           IRAS F09460+3419       0       0 
+  WISE12    6.666      0.017      0.045    0  mag 2010AJ....140.1868W       qual:A    Var:0000  sdb-v1-094902.85+340507.4       0       0 
+  WISE22    6.177      0.049      0.057    0  mag 2010AJ....140.1868W       qual:A    Var:0000  sdb-v1-094902.85+340507.4       0       0 
+  IRAS25    0.136      0.034        0.0    1   Jy 1990IRASF.C......0M       Qual:1      Conf:0           IRAS F09460+3419       0       0 
+  IRAS60    0.243    0.04617        0.0    0   Jy 1990IRASF.C......0M       Qual:3      Conf:0           IRAS F09460+3419       0       0 
+ IRAS100    0.628    0.15072        0.0    1   Jy 1990IRASF.C......0M       Qual:1      Conf:0           IRAS F09460+3419       0       0 
+ PACS100  0.22757 0.00282331 0.00573705    0   Jy             HSA_GMK   1342271035    Phot:PSF                   HD 84870       0       1 
+ PACS100  254.863    9.37333    12.7431    0  mJy 2017arXiv170505693M Elong:0.9053     Blend:0 HPPSC100A_J094902.8+340506       0       0 
+ PACS160  204.268    24.0843    6.12803    0  mJy 2017arXiv170505693M Elong:0.0000     Blend:0 HPPSC160A_J094902.8+340506       0       0 
+ PACS160 0.205808 0.00811389 0.00850445    0   Jy             HSA_GMK   1342271035    Phot:PSF                   HD 84870       0       1 
+  WAV450     30.0        0.0        0.0    1  mJy 2017arXiv170601218H        No:77 Assoc:Field                   HD 84870       0       0 
+  WAV850      6.2        1.0        0.0    0  mJy 2017arXiv170601218H        No:77 Assoc:Field                   HD 84870       0       0 

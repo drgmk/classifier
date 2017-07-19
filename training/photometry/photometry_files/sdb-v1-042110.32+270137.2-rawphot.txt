@@ -1,0 +1,27 @@
+\ photometry/spectra for sdb-v1-042110.32+270137.2
+\
+\main_id='HPESL160A_J042110.4+270138'
+\raj2000=65.29299926757812
+\dej2000=27.027000427246094
+\sp_type=None
+\sp_bibcode=None
+\plx_value=None
+\plx_err=None
+\plx_bibcode=None
+\id='sdb-v1-042110.32+270137.2'
+|   Band|    Phot|    Err|    Sys| Lim|Unit|            bibcode|       Note1|      Note2|                  SourceID|private|exclude|
+|   char|  double| double| double|long|char|               char|        char|       char|                      char|   long|   long|
+|       |        |       |       |    |    |                   |            |           |                          |       |       |
+|   null|    null|   null|   null|null|null|               null|        null|       null|                      null|   null|   null|
+     2MJ    18.89     0.0    0.01    0  mag 2003tmc..book.....C       Qflg:U      Cflg:0  sdb-v1-042110.32+270137.2       0       1 
+   2MR2H   13.783    0.03    0.01    0  mag 2003tmc..book.....C       Qflg:A      Cflg:0  sdb-v1-042110.32+270137.2       0       0 
+  2MR2KS   11.085   0.022    0.01    0  mag 2003tmc..book.....C       Qflg:A      Cflg:0  sdb-v1-042110.32+270137.2       0       0 
+ WISE3P4    9.514   0.024   0.024    0  mag 2010AJ....140.1868W       qual:A    Var:44nn  sdb-v1-042110.32+270137.2       0       0 
+ IRAC3P6  41210.0   56.56   824.2    0  uJy       2013.SEIP.dr4     Brt:1.02       Ext:0  sdb-v1-042110.32+270137.2       0       0 
+ WISE4P6    8.066    0.02   0.028    0  mag 2010AJ....140.1868W       qual:A    Var:44nn  sdb-v1-042110.32+270137.2       0       0 
+ IRAC5P8 105800.0   83.04  2116.0    0  uJy       2013.SEIP.dr4     Brt:1.02       Ext:0  sdb-v1-042110.32+270137.2       0       0 
+  WISE12    5.711   0.014   0.045    0  mag 2010AJ....140.1868W       qual:A    Var:44nn  sdb-v1-042110.32+270137.2       0       0 
+  WISE22    2.866    0.02   0.057    0  mag 2010AJ....140.1868W       qual:A    Var:44nn  sdb-v1-042110.32+270137.2       0       0 
+  MIPS24 551700.0   306.5 11034.0    0  uJy       2013.SEIP.dr4     Brt:1.01    Ext:1.01  sdb-v1-042110.32+270137.2       0       0 
+  PACS70  1958.11 183.778 58.7432    0  mJy 2017arXiv170505693M Elong:0.0000     Blend:0 HPPSC070A_J042110.3+270138       0       0 
+ PACS160  2731.76  208.27 136.588    0  mJy 2017arXiv170505693M Elong:0.3909 FWHMx:42.80 HPESL160A_J042110.4+270138       0       0 

@@ -1,0 +1,54 @@
+\ photometry/spectra for sdb-v1-132825.81+134643.6
+\
+\main_id='* 70 Vir'
+\raj2000=202.107537
+\dej2000=13.778788
+\sp_type='G4Va'
+\sp_bibcode='1989ApJS...71..245K'
+\plx_value=54.70000076293945
+\plx_err=0.8799999952316284
+\plx_bibcode='2016yCat.1337....0G'
+\id='sdb-v1-132825.81+134643.6'
+\irsstare0='cassis/irsstare/cassis_yaaar_spcfw_12717312t.fits'
+|   Band|     Phot|       Err|       Sys| Lim|Unit|            bibcode|        Note1|     Note2|                  SourceID|private|exclude|
+|   char|   double|    double|    double|long|char|               char|         char|      char|                      char|   long|   long|
+|       |         |          |          |    |    |                   |             |          |                          |       |       |
+|   null|     null|      null|      null|null|null|               null|         null|      null|                      null|   null|   null|
+   UJ_BJ      0.76        0.0      0.028    0  mag 2006yCat.2168....0M        Comp:2     n_U_B:                  HD 117176       0       1 
+   UJ_BJ     0.262       0.01      0.028    0  mag 2006yCat.2168....0M        Comp:1    n_U_B:>                  HD 117176       0       1 
+ STROMC1     0.353      0.005      0.005    0  mag 2015A&A...580A..23P    Vmag:4.981 beta:2.576             TYC 898-1042-1       0       0 
+      BT     5.843      0.014      0.006    0  mag 2000A&A...355L..27H      Prox:999  HIP:65721  sdb-v1-132825.81+134643.6       0       0 
+ STROMM1     0.229      0.006      0.005    0  mag 2015A&A...580A..23P    Vmag:4.981 beta:2.576             TYC 898-1042-1       0       0 
+   BJ_VJ       1.0        0.0       0.02    0  mag 2006yCat.2168....0M        Comp:2     n_B_V:                  HD 117176       0       1 
+   BJ_VJ     0.714      0.007       0.02    0  mag 2006yCat.2168....0M        Comp:1    n_B_V:>                  HD 117176       0       1 
+   BS_YS      0.45      0.006      0.005    0  mag 2015A&A...580A..23P    Vmag:4.981 beta:2.576             TYC 898-1042-1       0       0 
+      VT     5.045      0.009      0.006    0  mag 2000A&A...355L..27H      Prox:999  HIP:65721  sdb-v1-132825.81+134643.6       0       0 
+      HP    5.1033 0.00501597      0.005    0  mag 1997HIP...C......0E      VarType:      Mult:                  HIP 65721       0       0 
+      VJ      8.52        0.0       0.02    0  mag 2006yCat.2168....0M        Comp:2    n_Vmag:                  HD 117176       0       1 
+      VJ     4.976      0.008       0.02    0  mag 2006yCat.2168....0M        Comp:1   n_Vmag:>                  HD 117176       0       1 
+     2MJ     3.798      0.286       0.01    0  mag 2003tmc..book.....C        Qflg:D     Cflg:0  sdb-v1-132825.81+134643.6       0       0 
+     2MH     3.457      0.206       0.01    0  mag 2003tmc..book.....C        Qflg:C     Cflg:0  sdb-v1-132825.81+134643.6       0       0 
+    2MKS       3.5      0.294       0.01    0  mag 2003tmc..book.....C        Qflg:D     Cflg:0  sdb-v1-132825.81+134643.6       0       0 
+ WISE3P4      2.49        0.0      0.024    1  mag 2010AJ....140.1868W        qual:U   Var:n000  sdb-v1-132825.81+134643.6       0       1 
+ WISE4P6     2.951      0.439      0.028    0  mag 2010AJ....140.1868W        qual:C   Var:n000  sdb-v1-132825.81+134643.6       0       1 
+  AKARI9     2.907     0.0367   0.043605    0   Jy 2010A&A...514A...1I        ext?:0   N-near:0  sdb-v1-132825.81+134643.6       0       0 
+  IRAS12      2.29     0.1603        0.0    0   Jy 1988IRASP.C......0J        Qual:3     Conf:0            IRAS 13259+1402       0       1 
+  IRAS12      2.28     0.1596        0.0    0   Jy 1990IRASF.C......0M        Qual:3     Conf:0           IRAS F13259+1402       0       0 
+  WISE12     3.257      0.009      0.045    0  mag 2010AJ....140.1868W        qual:A   Var:n000  sdb-v1-132825.81+134643.6       0       0 
+ AKARI18    0.7295     0.0242  0.0109425    0   Jy 2010A&A...514A...1I        ext?:0   N-near:0  sdb-v1-132825.81+134643.6       0       0 
+  WISE22     3.186      0.023      0.057    0  mag 2010AJ....140.1868W        qual:A   Var:n000  sdb-v1-132825.81+134643.6       0       0 
+  IRAS25     0.537     0.0537        0.0    0   Jy 1990IRASF.C......0M        Qual:3     Conf:0           IRAS F13259+1402       0       0 
+  IRAS25     0.531    0.06903        0.0    0   Jy 1988IRASP.C......0J        Qual:3     Conf:0            IRAS 13259+1402       0       1 
+  IRAS60       0.4        0.0        0.0    1   Jy 1988IRASP.C......0J        Qual:1     Conf:0            IRAS 13259+1402       0       1 
+  IRAS60     0.123     0.0369        0.0    1   Jy 1990IRASF.C......0M        Qual:1     Conf:0           IRAS F13259+1402       0       0 
+  MIPS70     75.85        4.3     5.3095    0  mJy 2014ApJS..211...25C Name:HD117176    r_F70:9                  HD 117176       0       0 
+  MIPS70      72.1        4.1      2.884    0  mJy 2009ApJ...705.1226B   Star:70 Vir     Note:d                  HD 117176       0       1 
+  MIPS70      72.0        4.0       2.88    0  mJy 2008ApJ...674.1086T     Vmag:4.97   Kmag:3.2                  HD 117176       0       1 
+  MIPS70     75.85        4.3     3.7925    0  mJy 2013ApJ...768...25G          Xs:Y   AgeFlg:3                  HIP 65721       0       1 
+ IRAS100       1.0        0.0        0.0    1   Jy 1988IRASP.C......0J        Qual:1     Conf:0            IRAS 13259+1402       0       1 
+ IRAS100     0.406    0.11368        0.0    1   Jy 1990IRASF.C......0M        Qual:1     Conf:0           IRAS F13259+1402       0       0 
+ PACS100   43.9289    3.42137    2.19644    0  mJy 2017arXiv170505693M  Elong:0.9242    Blend:0 HPPSC100A_J132825.6+134638       0       0 
+ PACS100 0.0410861 0.00212839 0.00123258    0   Jy             HSA_GMK    1342213093    Phot:Ap                   * 70 Vir       0       1 
+ PACS160 0.0286024 0.00294378 0.00143012    0   Jy             HSA_GMK    1342213093    Phot:Ap                   * 70 Vir       0       1 
+ PACS160   31.8503    7.80084    0.95551    0  mJy 2017arXiv170505693M  Elong:0.8540    Blend:0 HPPSC160A_J132825.6+134638       0       0 
+ WAV1200      14.1        0.0        0.0    1  mJy 2009A&A...497..409R    Instr:IRAM      Name:                  HD 117176       0       0 

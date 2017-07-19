@@ -1,0 +1,40 @@
+\ photometry/spectra for sdb-v1-042800.78+213711.7
+\
+\main_id='HD 28226'
+\raj2000=67.003263
+\dej2000=21.619904
+\sp_type='Am'
+\sp_bibcode=None
+\plx_value=21.22
+\plx_err=0.4099999964237213
+\plx_bibcode='2007A&A...474..653V'
+\id='sdb-v1-042800.78+213711.7'
+|   Band|   Phot|       Err|   Sys| Lim|Unit|            bibcode|     Note1|       Note2|                 SourceID|private|exclude|
+|   char| double|    double|double|long|char|               char|      char|        char|                     char|   long|   long|
+|       |       |          |      |    |    |                   |          |            |                         |       |       |
+|   null|   null|      null|  null|null|null|               null|      null|        null|                     null|   null|   null|
+ STROMC1   0.777      0.011  0.005    0  mag 2015A&A...580A..23P Vmag:5.705   beta:2.774           TYC 1277-1628-1       0       0 
+      BT   6.045      0.014  0.006    0  mag 2000A&A...355L..27H   Prox:999    HIP:20842 sdb-v1-042800.78+213711.7       0       0 
+ STROMM1   0.207      0.011  0.005    0  mag 2015A&A...580A..23P Vmag:5.705   beta:2.774           TYC 1277-1628-1       0       0 
+   BS_YS   0.168      0.006  0.005    0  mag 2015A&A...580A..23P Vmag:5.705   beta:2.774           TYC 1277-1628-1       0       0 
+      VT   5.745      0.009  0.006    0  mag 2000A&A...355L..27H   Prox:999    HIP:20842 sdb-v1-042800.78+213711.7       0       0 
+      HP  5.7887 0.00407922  0.005    0  mag 1997HIP...C......0E  VarType:C        Mult:                 HIP 20842       0       0 
+   2MR1J   5.163      0.017   0.01    0  mag 2003tmc..book.....C     Qflg:E       Cflg:0 sdb-v1-042800.78+213711.7       0       1 
+   2MR1H   5.103      0.017   0.01    0  mag 2003tmc..book.....C     Qflg:A       Cflg:0 sdb-v1-042800.78+213711.7       0       0 
+  2MR1KS   5.055      0.018   0.01    0  mag 2003tmc..book.....C     Qflg:A       Cflg:0 sdb-v1-042800.78+213711.7       0       0 
+ WISE3P4   5.091      0.131  0.024    0  mag 2010AJ....140.1868W     qual:B     Var:0nnn sdb-v1-042800.78+213711.7       0       0 
+ WISE4P6   4.869      0.074  0.028    0  mag 2010AJ....140.1868W     qual:A     Var:0nnn sdb-v1-042800.78+213711.7       0       0 
+  IRAS12   0.392     0.0392    0.0    0   Jy 1988IRASP.C......0J     Qual:3       Conf:0           IRAS 04250+2130       0       1 
+  IRAS12   0.355     0.0284    0.0    0   Jy 1990IRASF.C......0M     Qual:3       Conf:0          IRAS F04250+2130       0       0 
+  WISE12   5.096      0.014  0.045    0  mag 2010AJ....140.1868W     qual:A     Var:0nnn sdb-v1-042800.78+213711.7       0       0 
+  WISE22   4.973      0.029  0.057    0  mag 2010AJ....140.1868W     qual:A     Var:0nnn sdb-v1-042800.78+213711.7       0       0 
+  IRAS25   0.372    0.06324    0.0    0   Jy 1988IRASP.C......0J     Qual:2       Conf:0           IRAS 04250+2130       0       1 
+  IRAS25   0.304      0.076    0.0    1   Jy 1990IRASF.C......0M     Qual:1       Conf:0          IRAS F04250+2130       0       0 
+  MIPS24 76910.0      198.0 1538.2    0  uJy       2013.SEIP.dr4   Brt:0.85        Ext:0 sdb-v1-042800.78+213711.7       0       0 
+  IRAS60     0.4        0.0    0.0    1   Jy 1988IRASP.C......0J     Qual:1       Conf:0           IRAS 04250+2130       0       1 
+  IRAS60   0.609    0.14616    0.0    1   Jy 1990IRASF.C......0M     Qual:1       Conf:0          IRAS F04250+2130       0       0 
+  MIPS70  107.55      10.11  4.302    0  mJy 2006ApJ...653..675S    Age:625     xs70:YES                  HD 28226       0       0 
+ IRAS100    2.14        0.0    0.0    1   Jy 1988IRASP.C......0J     Qual:1       Conf:0           IRAS 04250+2130       0       1 
+ IRAS100    5.25     1.2075    0.0    1   Jy 1990IRASF.C......0M     Qual:1       Conf:0          IRAS F04250+2130       0       0 
+  WAV450    60.0        0.0    0.0    1  mJy 2017arXiv170601218H      No:74 Assoc:Hyades                  HD 28226       0       0 
+  WAV850     4.5        0.0    0.0    1  mJy 2017arXiv170601218H      No:74 Assoc:Hyades                  HD 28226       0       0 

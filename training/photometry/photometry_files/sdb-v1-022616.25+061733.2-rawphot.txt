@@ -1,0 +1,47 @@
+\ photometry/spectra for sdb-v1-022616.25+061733.2
+\
+\main_id='HD 15115'
+\raj2000=36.567691
+\dej2000=6.2925515
+\sp_type='F4IV'
+\sp_bibcode='1974AJ.....79..682H'
+\plx_value=20.760000228881836
+\plx_err=0.4099999964237213
+\plx_bibcode='2016yCat.1337....0G'
+\id='sdb-v1-022616.25+061733.2'
+\irsstare0='cassis/irsstare/cassis_yaaar_spcfw_10885632t.fits'
+|    Band|    Phot|       Err|       Sys| Lim|Unit|            bibcode|       Note1|         Note2|                  SourceID|private|exclude|
+|    char|  double|    double|    double|long|char|               char|        char|          char|                      char|   long|   long|
+|        |        |          |          |    |    |                   |            |              |                          |       |       |
+|    null|    null|      null|      null|null|null|               null|        null|          null|                      null|   null|   null|
+    UJ_BJ    -0.03        0.0      0.028    0  mag 2006yCat.2168....0M        Comp:         n_U_B:                   HD 15115       0       0 
+  STROMC1    0.471      0.001      0.005    0  mag 2015A&A...580A..23P   Vmag:6.786          beta:               TYC 45-990-1       0       0 
+       BT    7.251      0.015      0.006    0  mag 2000A&A...355L..27H     Prox:889      HIP:11360  sdb-v1-022616.25+061733.2       0       0 
+  STROMM1    0.155      0.001      0.005    0  mag 2015A&A...580A..23P   Vmag:6.786          beta:               TYC 45-990-1       0       0 
+    BJ_VJ     0.39        0.0       0.02    0  mag 2006yCat.2168....0M        Comp:         n_B_V:                   HD 15115       0       0 
+    BS_YS    0.267      0.001      0.005    0  mag 2015A&A...580A..23P   Vmag:6.786          beta:               TYC 45-990-1       0       0 
+       VT    6.828      0.011      0.006    0  mag 2000A&A...355L..27H     Prox:889      HIP:11360  sdb-v1-022616.25+061733.2       0       0 
+       HP   6.8811  0.0080895      0.005    0  mag 1997HIP...C......0E    VarType:C          Mult:                  HIP 11360       0       0 
+       VJ     6.76        0.0       0.02    0  mag 2006yCat.2168....0M        Comp:        n_Vmag:                   HD 15115       0       0 
+    2MR1J    6.028       0.02       0.01    0  mag 2003tmc..book.....C       Qflg:A         Cflg:0  sdb-v1-022616.25+061733.2       0       0 
+    2MR1H    5.863      0.024       0.01    0  mag 2003tmc..book.....C       Qflg:A         Cflg:0  sdb-v1-022616.25+061733.2       0       0 
+   2MR1KS    5.822      0.021       0.01    0  mag 2003tmc..book.....C       Qflg:A         Cflg:0  sdb-v1-022616.25+061733.2       0       0 
+  WISE3P4    5.814      0.068      0.024    0  mag 2010AJ....140.1868W       qual:A       Var:0310  sdb-v1-022616.25+061733.2       0       0 
+  WISE4P6    5.646      0.025      0.028    0  mag 2010AJ....140.1868W       qual:A       Var:0310  sdb-v1-022616.25+061733.2       0       0 
+   AKARI9    0.283    0.00648   0.004245    0   Jy 2010A&A...514A...1I       ext?:0       N-near:0  sdb-v1-022616.25+061733.2       0       0 
+   WISE12    5.778      0.015      0.045    0  mag 2010AJ....140.1868W       qual:A       Var:0310  sdb-v1-022616.25+061733.2       0       0 
+   WISE22    5.269      0.033      0.057    0  mag 2010AJ....140.1868W       qual:A       Var:0310  sdb-v1-022616.25+061733.2       0       0 
+   MIPS24  57210.0      124.4     1144.2    0  uJy       2013.SEIP.dr4     Brt:1.11          Ext:0  sdb-v1-022616.25+061733.2       0       0 
+   PACS70  448.825    1.25932    13.4647    0  mJy 2017arXiv170505693M Elong:0.8249        Blend:0 HPPSC070A_J022616.2+061733       0       0 
+   PACS70 0.365533 0.00131492 0.00945345    0   Jy             HSA_GMK   1342249174       Phot:PSF                   HD 15115       0       1 
+   MIPS70    451.9       32.6     18.076    0  mJy 2011ApJS..193....4M AOR:10885888         Notes:                   HD 15115       0       1 
+   MIPS70    451.9       32.6     31.633    0  mJy 2014ApJS..211...25C Name:HD15115       r_F70:23                   HD 15115       0       0 
+  PACS160  270.482    10.5641    8.11447    0  mJy 2017arXiv170505693M Elong:0.8519        Blend:0 HPPSC160A_J022616.2+061733       0       0 
+  PACS160 0.269051 0.00286843  0.0111178    0   Jy             HSA_GMK   1342249174       Phot:PSF                   HD 15115       0       1 
+ SPIRE250    111.3        6.3      7.791    0  mJy       2017.HSPSC_v1        Ext:0     Low FWHM:0  HSPSC250A_J0226.26+0617.5       0       0 
+ SPIRE350     50.9        8.0      3.563    0  mJy       2017.HSPSC_v1        Ext:0     Low FWHM:0  HSPSC350A_J0226.26+0617.5       0       0 
+   WAV450     90.0        0.0        0.0    1  mJy 2017arXiv170601218H        No:54 Assoc:_ Pic MG                   HD 15115       0       0 
+   WAV850      8.2        1.1        0.0    0  mJy 2017arXiv170601218H        No:54 Assoc:_ Pic MG                   HD 15115       0       0 
+   WAV850      4.9        1.6        0.0    0  mJy 2006ApJ...653.1480W  Instr:SCUBA          Name:                   HD 15115       0       0 
+   WAV870     15.3        0.0        0.0    1  mJy 2009A&A...508.1057N Instr:LABOCA          Name:                   HD 15115       0       0 
+  WAV9000  0.00128     0.0041        0.0    0  mJy 2016ApJ...823...79M    Instr:VLA          Name:                   HD 15115       0       0 

@@ -1,0 +1,43 @@
+\ photometry/spectra for sdb-v1-104230.07-334016.5
+\
+\ irsstare1=cassis/irsstare/cassis_yaaar_spcfw_12704512t.fits
+\main_id='V* CE Ant'
+\raj2000=160.625275
+\dej2000=-33.671254
+\sp_type='M2Ve'
+\sp_bibcode='2006A&A...460..695T'
+\plx_value=None
+\plx_err=None
+\plx_bibcode=None
+\id='sdb-v1-104230.07-334016.5'
+\irsstare2='cassis/irsstare/cassis_yaaar_spcfw_3572736t.fits'
+|    Band|   Phot|    Err|     Sys| Lim|Unit|            bibcode|       Note1|          Note2|                  SourceID|private|exclude|
+|    char| double| double|  double|long|char|               char|        char|           char|                      char|   long|   long|
+|        |       |       |        |    |    |                   |            |               |                          |       |       |
+|    null|   null|   null|    null|null|null|               null|        null|           null|                      null|   null|   null|
+       BT    12.6   0.216    0.006    0  mag 2000A&A...355L..27H     Prox:710            HIP:  sdb-v1-104230.07-334016.5       0       0 
+   BAPASS  13.229   0.028     0.01    0  mag 2016yCat.2336....0H       nobs:5         mobs:24  sdb-v1-104230.07-334016.5       0       0 
+   GAPASS   12.48   0.006     0.01    0  mag 2016yCat.2336....0H       nobs:5         mobs:24  sdb-v1-104230.07-334016.5       0       0 
+       VT   11.06   0.073    0.006    0  mag 2000A&A...355L..27H     Prox:710            HIP:  sdb-v1-104230.07-334016.5       0       0 
+   VAPASS  11.754   0.057     0.01    0  mag 2016yCat.2336....0H       nobs:5         mobs:24  sdb-v1-104230.07-334016.5       0       0 
+   RAPASS   11.16   0.058     0.01    0  mag 2016yCat.2336....0H       nobs:5         mobs:24  sdb-v1-104230.07-334016.5       0       0 
+   IAPASS  10.023     0.1     0.01    0  mag 2016yCat.2336....0H       nobs:5         mobs:24  sdb-v1-104230.07-334016.5       0       0 
+    2MR1J   7.792   0.021     0.01    0  mag 2003tmc..book.....C       Qflg:A          Cflg:0  sdb-v1-104230.07-334016.5       0       0 
+    2MR1H   7.125   0.029     0.01    0  mag 2003tmc..book.....C       Qflg:A          Cflg:0  sdb-v1-104230.07-334016.5       0       0 
+   2MR1KS   6.899   0.027     0.01    0  mag 2003tmc..book.....C       Qflg:A          Cflg:0  sdb-v1-104230.07-334016.5       0       0 
+  WISE3P4   6.793   0.037    0.024    0  mag 2010AJ....140.1868W       qual:A        Var:0000  sdb-v1-104230.07-334016.5       0       0 
+  WISE4P6   6.655   0.019    0.028    0  mag 2010AJ....140.1868W       qual:A        Var:0000  sdb-v1-104230.07-334016.5       0       0 
+   AKARI9  0.1356  0.0085 0.002034    0   Jy 2010A&A...514A...1I       ext?:0        N-near:0  sdb-v1-104230.07-334016.5       0       0 
+   WISE12   6.598   0.016    0.045    0  mag 2010AJ....140.1868W       qual:A        Var:0000  sdb-v1-104230.07-334016.5       0       0 
+   WISE22   5.998   0.051    0.057    0  mag 2010AJ....140.1868W       qual:A        Var:0000  sdb-v1-104230.07-334016.5       0       0 
+   MIPS24 29530.0   39.83    590.6    0  uJy       2013.SEIP.dr4        Brt:0           Ext:0  sdb-v1-104230.07-334016.5       0       0 
+   MIPS70    85.0    17.0      3.4    0  mJy 2005ApJ...631.1170L   Star:TWA 7      epoch:35.4                      TWA 7       0       0 
+  PACS100 80.9837 8.01249  4.04919    0  mJy 2017arXiv170505693M Elong:0.9121         Blend:0 HPPSC100A_J104230.1-334018       0       0 
+  PACS160 76.2657 21.7545  2.28797    0  mJy 2017arXiv170505693M Elong:0.6504         Blend:0 HPPSC160A_J104230.0-334018       0       0 
+ SPIRE250    27.5     5.0      0.0    0  mJy 2013ApJ...762..100C        TWA 7        ID:TWA 7                      TWA 7       0       1 
+ SPIRE250    33.0     7.5     2.31    0  mJy       2017.HSPSC_v1        Ext:0      Low FWHM:0  HSPSC250A_J1042.50-3340.2       0       0 
+ SPIRE350    24.0     5.0      0.0    0  mJy 2013ApJ...762..100C        TWA 7        ID:TWA 7                      TWA 7       0       0 
+   WAV450    23.0     7.2      0.0    0  mJy 2007ApJ...663.1103M  Instr:SCUBA      Name:TWA 7                      TWA 7       0       0 
+   WAV450   180.0     0.0      0.0    1  mJy 2017arXiv170601218H        No:86 Assoc:TW Hydrae                  V* CE Ant       0       0 
+   WAV850     9.7     1.6      0.0    0  mJy 2007ApJ...663.1103M  Instr:SCUBA      Name:TWA 7                      TWA 7       0       0 
+   WAV850     7.2     1.3      0.0    0  mJy 2017arXiv170601218H        No:86 Assoc:TW Hydrae                  V* CE Ant       0       0 

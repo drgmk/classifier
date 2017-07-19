@@ -1,0 +1,45 @@
+\ photometry/spectra for sdb-v1-043339.35+175152.1
+\
+\main_id='V* HN Tau'
+\raj2000=68.413961
+\dej2000=17.864469
+\sp_type='K5e'
+\sp_bibcode='1994ApJ...427..961H'
+\plx_value=None
+\plx_err=None
+\plx_bibcode=None
+\id='sdb-v1-043339.35+175152.1'
+|    Band|    Phot|    Err|      Sys| Lim|Unit|            bibcode|       Note1|     Note2|                  SourceID|private|exclude|
+|    char|  double| double|   double|long|char|               char|        char|      char|                      char|   long|   long|
+|        |        |       |         |    |    |                   |            |          |                          |       |       |
+|    null|    null|   null|     null|null|null|               null|        null|      null|                      null|   null|   null|
+   BAPASS    14.98   0.236      0.01    0  mag 2016yCat.2336....0H       nobs:7    mobs:31  sdb-v1-043339.35+175152.1       0       0 
+   GAPASS   14.621   0.247      0.01    0  mag 2016yCat.2336....0H       nobs:7    mobs:31  sdb-v1-043339.35+175152.1       0       0 
+   VAPASS   14.174   0.204      0.01    0  mag 2016yCat.2336....0H       nobs:7    mobs:31  sdb-v1-043339.35+175152.1       0       0 
+   RAPASS   13.658   0.154      0.01    0  mag 2016yCat.2336....0H       nobs:7    mobs:31  sdb-v1-043339.35+175152.1       0       0 
+   IAPASS   13.101   0.181      0.01    0  mag 2016yCat.2336....0H       nobs:7    mobs:31  sdb-v1-043339.35+175152.1       0       0 
+    2MR2J   10.699   0.026      0.01    0  mag 2003tmc..book.....C       Qflg:E     Cflg:0  sdb-v1-043339.35+175152.1       0       1 
+    2MR2H    9.471   0.027      0.01    0  mag 2003tmc..book.....C       Qflg:A     Cflg:0  sdb-v1-043339.35+175152.1       0       0 
+   2MR2KS    8.384   0.021      0.01    0  mag 2003tmc..book.....C       Qflg:A     Cflg:0  sdb-v1-043339.35+175152.1       0       0 
+  WISE3P4     7.23   0.035     0.024    0  mag 2010AJ....140.1868W       qual:A   Var:6611  sdb-v1-043339.35+175152.1       0       0 
+  IRAC3P6 477900.0   80.55    9558.0    0  uJy       2013.SEIP.dr4     Brt:0.95      Ext:0  sdb-v1-043339.35+175152.1       0       0 
+  IRAC4P5 552900.0   91.86   11058.0    0  uJy       2013.SEIP.dr4     Brt:1.02      Ext:0  sdb-v1-043339.35+175152.1       0       0 
+  WISE4P6    6.384   0.025     0.028    0  mag 2010AJ....140.1868W       qual:A   Var:6611  sdb-v1-043339.35+175152.1       0       0 
+  IRAC5P8 567100.0   211.1   11342.0    0  uJy       2013.SEIP.dr4     Brt:1.05      Ext:0  sdb-v1-043339.35+175152.1       0       0 
+   AKARI9   0.8607  0.0468 0.0129105    0   Jy 2010A&A...514A...1I       ext?:0   N-near:0  sdb-v1-043339.35+175152.1       0       0 
+   IRAS12     1.42  0.0852       0.0    0   Jy 1988IRASP.C......0J       Qual:3     Conf:0            IRAS 04307+1745       0       1 
+   IRAS12     1.39  0.0695       0.0    0   Jy 1990IRASF.C......0M       Qual:3     Conf:0           IRAS F04307+1745       0       0 
+   WISE12    4.174   0.015     0.045    0  mag 2010AJ....140.1868W       qual:A   Var:6611  sdb-v1-043339.35+175152.1       0       0 
+  AKARI18    1.121  0.0441  0.016815    0   Jy 2010A&A...514A...1I       ext?:0   N-near:0  sdb-v1-043339.35+175152.1       0       0 
+   WISE22     2.16   0.021     0.057    0  mag 2010AJ....140.1868W       qual:A   Var:6611  sdb-v1-043339.35+175152.1       0       0 
+   IRAS25     1.86  0.1674       0.0    0   Jy 1988IRASP.C......0J       Qual:3     Conf:0            IRAS 04307+1745       0       1 
+   IRAS25     1.89  0.1134       0.0    0   Jy 1990IRASF.C......0M       Qual:3     Conf:0           IRAS F04307+1745       0       0 
+   IRAS60     1.32  0.1716       0.0    0   Jy 1988IRASP.C......0J       Qual:3     Conf:0            IRAS 04307+1745       0       1 
+   IRAS60     1.24  0.1116       0.0    0   Jy 1990IRASF.C......0M       Qual:2     Conf:0           IRAS F04307+1745       0       0 
+   PACS70   1115.1 3.39759   33.4531    0  mJy 2017arXiv170505693M Elong:1.0022    Blend:0 HPPSC070A_J043339.3+175152       0       0 
+  IRAS100     2.18  0.5232       0.0    1   Jy 1990IRASF.C......0M       Qual:1     Conf:0           IRAS F04307+1745       0       0 
+  IRAS100      6.8     0.0       0.0    1   Jy 1988IRASP.C......0J       Qual:1     Conf:0            IRAS 04307+1745       0       1 
+  PACS160  599.403 9.58915   17.9821    0  mJy 2017arXiv170505693M Elong:0.0000    Blend:0 HPPSC160A_J043339.4+175152       0       0 
+ SPIRE250    290.2    19.3    20.314    0  mJy       2017.HSPSC_v1        Ext:0 Low FWHM:0  HSPSC250A_J0433.65+1751.8       0       0 
+ SPIRE350    184.6    22.8    12.922    0  mJy       2017.HSPSC_v1        Ext:0 Low FWHM:0  HSPSC350A_J0433.65+1751.8       0       0 
+ SPIRE500     91.8    19.3     6.426    0  mJy       2017.HSPSC_v1        Ext:0 Low FWHM:0  HSPSC500A_J0433.65+1751.8       0       0 

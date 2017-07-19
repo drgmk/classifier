@@ -1,0 +1,26 @@
+\ photometry/spectra for sdb-v1-041430.55+280514.6
+\
+\main_id='HPPSC100A_J041430.6+280515'
+\raj2000=63.627276
+\dej2000=28.087395
+\sp_type=None
+\sp_bibcode=None
+\plx_value=None
+\plx_err=None
+\plx_bibcode=None
+\id='sdb-v1-041430.55+280514.6'
+|   Band|   Phot|    Err|     Sys| Lim|Unit|            bibcode|       Note1|   Note2|                  SourceID|private|exclude|
+|   char| double| double|  double|long|char|               char|        char|    char|                      char|   long|   long|
+|       |       |       |        |    |    |                   |            |        |                          |       |       |
+|   null|   null|   null|    null|null|null|               null|        null|    null|                      null|   null|   null|
+   2MR2J  11.178   0.021     0.01    0  mag 2003tmc..book.....C       Qflg:A   Cflg:0  sdb-v1-041430.55+280514.6       0       0 
+   2MR2H   9.249   0.022     0.01    0  mag 2003tmc..book.....C       Qflg:A   Cflg:0  sdb-v1-041430.55+280514.6       0       0 
+  2MR1KS   8.243   0.023     0.01    0  mag 2003tmc..book.....C       Qflg:A   Cflg:0  sdb-v1-041430.55+280514.6       0       0 
+ WISE3P4   6.984   0.035    0.024    0  mag 2010AJ....140.1868W       qual:A Var:nnnn  sdb-v1-041430.55+280514.6       0       1 
+ WISE4P6   5.742   0.035    0.028    0  mag 2010AJ....140.1868W       qual:A Var:nnnn  sdb-v1-041430.55+280514.6       0       1 
+  AKARI9   1.351  0.0291 0.020265    0   Jy 2010A&A...514A...1I       ext?:0 N-near:0  sdb-v1-041430.55+280514.6       0       0 
+  WISE12   2.621   0.009    0.045    0  mag 2010AJ....140.1868W       qual:A Var:nnnn  sdb-v1-041430.55+280514.6       0       1 
+ AKARI18    4.03  0.0582  0.06045    0   Jy 2010A&A...514A...1I       ext?:0 N-near:0  sdb-v1-041430.55+280514.6       0       0 
+  WISE22   0.234   0.012    0.057    0  mag 2010AJ....140.1868W       qual:A Var:nnnn  sdb-v1-041430.55+280514.6       0       1 
+ PACS100  2453.7 26.5123  122.685    0  mJy 2017arXiv170505693M Elong:0.8775  Blend:0 HPPSC100A_J041430.6+280515       0       0 
+ PACS160 2532.68 51.9875  75.9803    0  mJy 2017arXiv170505693M Elong:0.7176  Blend:0 HPPSC160A_J041430.7+280516       0       0 

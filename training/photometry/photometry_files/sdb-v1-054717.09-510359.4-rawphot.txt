@@ -1,0 +1,69 @@
+\ photometry/spectra for sdb-v1-054717.09-510359.4
+\
+\main_id='* bet Pic'
+\raj2000=86.821199
+\dej2000=-51.066511
+\sp_type='A6V'
+\sp_bibcode='2006AJ....132..161G'
+\plx_value=51.44
+\plx_err=0.11999999731779099
+\plx_bibcode='2007A&A...474..653V'
+\id='sdb-v1-054717.09-510359.4'
+|    Band|     Phot|       Err|      Sys| Lim|Unit|            bibcode|        Note1|        Note2|                  SourceID|private|exclude|
+|    char|   double|    double|   double|long|char|               char|         char|         char|                      char|   long|   long|
+|        |         |          |         |    |    |                   |             |             |                          |       |       |
+|    null|     null|      null|     null|null|null|               null|         null|         null|                      null|   null|   null|
+    UJ_BJ     0.087       0.01     0.028    0  mag 2006yCat.2168....0M         Comp:       n_U_B:>                   HD 39060       0       0 
+  STROMC1     0.891       0.01     0.005    0  mag 2015A&A...580A..23P      Vmag:3.8    beta:2.859            TYC 8099-1392-1       0       0 
+       BT     4.056      0.014     0.006    0  mag 2000A&A...355L..27H      Prox:999     HIP:27321  sdb-v1-054717.09-510359.4       0       0 
+  STROMM1     0.196      0.012     0.005    0  mag 2015A&A...580A..23P      Vmag:3.8    beta:2.859            TYC 8099-1392-1       0       0 
+    BJ_VJ     0.175      0.005      0.02    0  mag 2006yCat.2168....0M         Comp:       n_B_V:>                   HD 39060       0       0 
+    BJ_VJ      0.17        0.0      0.02    0  mag 1990A&AS...83..357B         Std?:     Vmag:3.86                     GJ 219       0       0 
+    BS_YS     0.094      0.008     0.005    0  mag 2015A&A...580A..23P      Vmag:3.8    beta:2.859            TYC 8099-1392-1       0       0 
+       VT      3.87      0.009     0.006    0  mag 2000A&A...355L..27H      Prox:999     HIP:27321  sdb-v1-054717.09-510359.4       0       0 
+       HP    3.9077 0.00503587     0.005    0  mag 1997HIP...C......0E      VarType:         Mult:                  HIP 27321       0       0 
+       VJ      3.86        0.0      0.02    0  mag 1990A&AS...83..357B         Std?:     Vmag:3.86                     GJ 219       0       0 
+       VJ     3.845      0.005      0.02    0  mag 2006yCat.2168....0M         Comp:      n_Vmag:>                   HD 39060       0       0 
+    VJ_RC      0.09        0.0      0.02    0  mag 1990A&AS...83..357B         Std?:     Vmag:3.86                     GJ 219       0       0 
+    VJ_IC      0.18        0.0      0.02    0  mag 1990A&AS...83..357B         Std?:     Vmag:3.86                     GJ 219       0       0 
+      2MJ     3.669      0.236      0.01    0  mag 2003tmc..book.....C        Qflg:D        Cflg:0  sdb-v1-054717.09-510359.4       0       0 
+      2MH     3.544        0.2      0.01    0  mag 2003tmc..book.....C        Qflg:C        Cflg:0  sdb-v1-054717.09-510359.4       0       0 
+     2MKS     3.526      0.222      0.01    0  mag 2003tmc..book.....C        Qflg:D        Cflg:d  sdb-v1-054717.09-510359.4       0       1 
+  WISE3P4     3.484      0.372     0.024    0  mag 2010AJ....140.1868W        qual:C      Var:0033  sdb-v1-054717.09-510359.4       0       1 
+  IRAC3P6  1.11e+07      45.59  222000.0    0  uJy       2013.SEIP.dr4      Brt:0.95         Ext:0  sdb-v1-054717.09-510359.4       0       0 
+  IRAC4P5 7.125e+06      39.61  142500.0    0  uJy       2013.SEIP.dr4      Brt:0.95         Ext:0  sdb-v1-054717.09-510359.4       0       0 
+  WISE4P6     3.182      0.249     0.028    0  mag 2010AJ....140.1868W        qual:B      Var:0033  sdb-v1-054717.09-510359.4       0       0 
+  IRAC5P8 4.616e+06      69.49   92320.0    0  uJy       2013.SEIP.dr4      Brt:1.05         Ext:0  sdb-v1-054717.09-510359.4       0       0 
+    IRAC8 3.061e+06      35.54   61220.0    0  uJy       2013.SEIP.dr4      Brt:0.95         Ext:0  sdb-v1-054717.09-510359.4       0       0 
+   AKARI9     3.216     0.0089   0.04824    0   Jy 2010A&A...514A...1I        ext?:0      N-near:0  sdb-v1-054717.09-510359.4       0       0 
+   IRAS12      3.46     0.2076       0.0    0   Jy 1988IRASP.C......0J        Qual:3        Conf:4            IRAS 05460-5104       0       0 
+   WISE12     2.597      0.007     0.045    0  mag 2010AJ....140.1868W        qual:A      Var:0033  sdb-v1-054717.09-510359.4       0       0 
+  AKARI18     4.799     0.0418  0.071985    0   Jy 2010A&A...514A...1I        ext?:0      N-near:0  sdb-v1-054717.09-510359.4       0       0 
+   WISE22     0.014      0.016     0.057    0  mag 2010AJ....140.1868W        qual:A      Var:0033  sdb-v1-054717.09-510359.4       0       0 
+   IRAS25      9.05     0.4525       0.0    0   Jy 1988IRASP.C......0J        Qual:3        Conf:4            IRAS 05460-5104       0       0 
+   IRAS60      19.9      1.393       0.0    0   Jy 1988IRASP.C......0J        Qual:3        Conf:4            IRAS 05460-5104       0       0 
+   PACS70   14.4749  0.0202027  0.817832    0   Jy         2018.DEBRIS chisq:5109.63       Phot:Ap    2MASS J05471708-5103594       0       0 
+   PACS70   16000.0     8000.0       0.0    0  mJy 2010A&A...518L.133V      beta Pic   ID:HD 39060                   HD 39060       0       1 
+   PACS70   10912.4    4.16288   327.373    0  mJy 2017arXiv170505693M  Elong:0.4188       Blend:0 HPPSC070A_J054716.9-510359       0       1 
+   MIPS70   12990.0        0.0     519.6    0  mJy 2008ApJ...681.1484R   ID:beta Pic      Vmag:3.9                   HD 39060       0       1 
+   MIPS70   12990.4    2240.44   909.328    0  mJy 2014ApJS..211...25C   Name:betPic      r_F70:35                   HD 39060       0       0 
+   MIPS70   12990.4     1825.4   519.616    0  mJy 2006ApJ...653..675S        Age:12      xs70:YES                   HD 39060       0       1 
+  IRAS100      11.3      0.904       0.0    0   Jy 1988IRASP.C......0J        Qual:3        Conf:4            IRAS 05460-5104       0       0 
+  PACS100    9800.0      500.0       0.0    0  mJy 2010A&A...518L.133V      beta Pic   ID:HD 39060                   HD 39060       0       0 
+  PACS160    4054.1    35.8565   121.623    0  mJy 2017arXiv170505693M  Elong:0.6826       Blend:0 HPPSC160A_J054717.0-510358       0       1 
+  PACS160   4.23284  0.0407032  0.275135    0   Jy         2018.DEBRIS chisq:5109.63       Phot:Ap    2MASS J05471708-5103594       0       0 
+  PACS160    5100.0      500.0       0.0    0  mJy 2010A&A...518L.133V      beta Pic   ID:HD 39060                   HD 39060       0       1 
+ SPIRE250   1.32316 0.00278209 0.0926212    0   Jy         2018.DEBRIS chisq:4.17454       Cov:108    2MASS J05471708-5103594       0       0 
+ SPIRE250    1629.1        5.6   114.037    0  mJy       2017.HSPSC_v1         Ext:1    Low FWHM:0  HSPSC250A_J0547.28-5103.9       0       1 
+ SPIRE250    1900.0      100.0       0.0    0  mJy 2010A&A...518L.133V      beta Pic   ID:HD 39060                   HD 39060       0       1 
+ SPIRE350     730.5        4.4    51.135    0  mJy       2017.HSPSC_v1         Ext:1    Low FWHM:0  HSPSC350A_J0547.28-5103.9       0       1 
+ SPIRE350  0.603137 -0.0373841 0.0435917    0   Jy         2018.DEBRIS chisq:4.17454       Cov:262    2MASS J05471708-5103594       0       0 
+ SPIRE350     720.0       50.0       0.0    0  mJy 2010A&A...518L.133V      beta Pic   ID:HD 39060                   HD 39060       0       1 
+ SPIRE500  0.268314 0.00354404  0.018782    0   Jy         2018.DEBRIS chisq:4.17454       Cov:133    2MASS J05471708-5103594       0       0 
+ SPIRE500     282.0       21.2     19.74    0  mJy       2017.HSPSC_v1         Ext:0    Low FWHM:0  HSPSC500A_J0547.28-5103.9       0       1 
+ SPIRE500     380.0       30.0       0.0    0  mJy 2010A&A...518L.133V      beta Pic   ID:HD 39060                   HD 39060       0       1 
+   WAV850      58.3        6.5       0.0    0  mJy 1998Natur.392..788H   Instr:SCUBA Name:beta Pic                   HD 39060       0       0 
+   WAV870      63.6        6.7       0.0    0  mJy 2009A&A...508.1057N  Instr:LABOCA Name:beta Pic                   HD 39060       0       0 
+  WAV1200      24.3        3.0       0.0    0  mJy 2003A&A...402..183L   Instr:SIMBA Name:beta Pic                   HD 39060       0       0 
+  WAV1300      24.9        2.6       0.0    0  mJy 1991A&A...252..220C   Instr:MPIfR Name:beta Pic                   HD 39060       0       0 
+  WAV6800      0.24     0.0332       0.0    0  mJy 2015ApJ...813..138R    Instr:ATCA  Name:bet Pic                   HD 39060       0       0 

@@ -1,0 +1,36 @@
+\ photometry/spectra for sdb-v1-052636.59-222923.8
+\
+\main_id='HD 35841'
+\raj2000=81.6524435
+\dej2000=-22.4899266
+\sp_type='F3V'
+\sp_bibcode='1988MSS...C04....0H'
+\plx_value=9.729999542236328
+\plx_err=0.25999999046325684
+\plx_bibcode='2016yCat.1337....0G'
+\id='sdb-v1-052636.59-222923.8'
+\irsstare0='cassis/irsstare/cassis_yaaar_spcfw_15026688t.fits'
+|   Band|   Phot|   Err|   Sys| Lim|Unit|            bibcode|       Note1|        Note2|                 SourceID|private|exclude|
+|   char| double|double|double|long|char|               char|        char|         char|                     char|   long|   long|
+|       |       |      |      |    |    |                   |            |             |                         |       |       |
+|   null|   null|  null|  null|null|null|               null|        null|         null|                     null|   null|   null|
+      BT   9.464  0.016  0.006    0  mag 2000A&A...355L..27H     Prox:999          HIP: sdb-v1-052636.59-222923.8       0       0 
+  BAPASS   9.361    0.0   0.01    0  mag 2016yCat.2336....0H       nobs:5       mobs:25 sdb-v1-052636.59-222923.8       0       1 
+  GAPASS   9.085    0.0   0.01    0  mag 2016yCat.2336....0H       nobs:5       mobs:25 sdb-v1-052636.59-222923.8       0       1 
+      VT   8.955  0.012  0.006    0  mag 2000A&A...355L..27H     Prox:999          HIP: sdb-v1-052636.59-222923.8       0       0 
+  VAPASS   8.922    0.0   0.01    0  mag 2016yCat.2336....0H       nobs:5       mobs:25 sdb-v1-052636.59-222923.8       0       1 
+  RAPASS   8.811    0.0   0.01    0  mag 2016yCat.2336....0H       nobs:5       mobs:25 sdb-v1-052636.59-222923.8       0       1 
+  IAPASS   8.795    0.0   0.01    0  mag 2016yCat.2336....0H       nobs:5       mobs:25 sdb-v1-052636.59-222923.8       0       1 
+  IDENIS   8.645   0.03   0.01    0  mag 2005yCat.2263....0T      Ipsf:96     Iflg:1004 sdb-v1-052636.59-222923.8       0       1 
+   2MR1J   8.038  0.021   0.01    0  mag 2003tmc..book.....C       Qflg:A        Cflg:0 sdb-v1-052636.59-222923.8       0       0 
+   2MR1H   7.842  0.034   0.01    0  mag 2003tmc..book.....C       Qflg:A        Cflg:0 sdb-v1-052636.59-222923.8       0       0 
+  2MR1KS   7.826  0.051   0.01    0  mag 2003tmc..book.....C       Qflg:A        Cflg:0 sdb-v1-052636.59-222923.8       0       0 
+ WISE3P4   7.719  0.027  0.024    0  mag 2010AJ....140.1868W       qual:A      Var:1000 sdb-v1-052636.59-222923.8       0       0 
+ WISE4P6   7.765  0.021  0.028    0  mag 2010AJ....140.1868W       qual:A      Var:1000 sdb-v1-052636.59-222923.8       0       0 
+  WISE12   7.731  0.019  0.045    0  mag 2010AJ....140.1868W       qual:A      Var:1000 sdb-v1-052636.59-222923.8       0       0 
+  WISE22   6.598  0.075  0.057    0  mag 2010AJ....140.1868W       qual:A      Var:1000 sdb-v1-052636.59-222923.8       0       0 
+  MIPS24 18570.0  50.25  371.4    0  uJy       2013.SEIP.dr4        Brt:0         Ext:0 sdb-v1-052636.59-222923.8       0       0 
+  MIPS70   172.1   13.6 12.047    0  mJy 2014ApJS..211...25C Name:HD35841      r_F70:23                  HD 35841       0       0 
+  MIPS70   172.1   13.6  6.884    0  mJy 2011ApJS..193....4M AOR:15011840        Notes:                  HD 35841       0       1 
+  WAV450    21.0    0.0    0.0    1  mJy 2017arXiv170601218H        No:94 Assoc:Columba                  HD 35841       0       0 
+  WAV850     3.5    0.8    0.0    0  mJy 2017arXiv170601218H        No:94 Assoc:Columba                  HD 35841       0       0 

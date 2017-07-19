@@ -1,0 +1,31 @@
+\ photometry/spectra for sdb-v1-043520.23+223214.6
+\
+\main_id='V* HO Tau'
+\raj2000=68.834285
+\dej2000=22.537376
+\sp_type='M0.5'
+\sp_bibcode='2012A&A...538L...3R'
+\plx_value=None
+\plx_err=None
+\plx_bibcode=None
+\id='sdb-v1-043520.23+223214.6'
+\irsstare0='cassis/irsstare/cassis_yaaar_spcfw_3546368t.fits'
+|    Band|   Phot|    Err|    Sys| Lim|Unit|            bibcode|       Note1|     Note2|                  SourceID|private|exclude|
+|    char| double| double| double|long|char|               char|        char|      char|                      char|   long|   long|
+|        |       |       |       |    |    |                   |            |          |                          |       |       |
+|    null|   null|   null|   null|null|null|               null|        null|      null|                      null|   null|   null|
+    2MR2J  11.202   0.022    0.01    0  mag 2003tmc..book.....C       Qflg:A     Cflg:0  sdb-v1-043520.23+223214.6       0       0 
+    2MR2H  10.244   0.021    0.01    0  mag 2003tmc..book.....C       Qflg:A     Cflg:0  sdb-v1-043520.23+223214.6       0       0 
+   2MR2KS   9.731   0.018    0.01    0  mag 2003tmc..book.....C       Qflg:A     Cflg:0  sdb-v1-043520.23+223214.6       0       0 
+  WISE3P4   8.909   0.024   0.024    0  mag 2010AJ....140.1868W       qual:A   Var:66nn  sdb-v1-043520.23+223214.6       0       0 
+  IRAC4P5 64240.0    35.4  1284.8    0  uJy       2013.SEIP.dr4     Brt:0.98      Ext:0  sdb-v1-043520.23+223214.6       0       0 
+  WISE4P6   8.434    0.02   0.028    0  mag 2010AJ....140.1868W       qual:A   Var:66nn  sdb-v1-043520.23+223214.6       0       0 
+  IRAC5P8 48610.0   65.48   972.2    0  uJy       2013.SEIP.dr4     Brt:1.02      Ext:0  sdb-v1-043520.23+223214.6       0       0 
+    IRAC8 40710.0   56.51   814.2    0  uJy       2013.SEIP.dr4     Brt:0.95      Ext:0  sdb-v1-043520.23+223214.6       0       0 
+   WISE12   6.949   0.019   0.045    0  mag 2010AJ....140.1868W       qual:A   Var:66nn  sdb-v1-043520.23+223214.6       0       0 
+   WISE22   4.986   0.047   0.057    0  mag 2010AJ....140.1868W       qual:A   Var:66nn  sdb-v1-043520.23+223214.6       0       0 
+   MIPS24 84220.0   174.8  1684.4    0  uJy       2013.SEIP.dr4     Brt:1.01      Ext:0  sdb-v1-043520.23+223214.6       0       0 
+   PACS70 97.8397 2.60085 2.93519    0  mJy 2017arXiv170505693M Elong:0.0000    Blend:0 HPPSC070A_J043520.2+223214       0       0 
+  PACS100 112.063 9.69004 5.60314    0  mJy 2017arXiv170505693M Elong:0.9523    Blend:0 HPPSC100A_J043520.2+223214       0       0 
+  PACS160 117.276 12.1285 3.51827    0  mJy 2017arXiv170505693M Elong:0.0000    Blend:0 HPPSC160A_J043520.2+223214       0       0 
+ SPIRE250   139.4    17.3   9.758    0  mJy       2017.HSPSC_v1        Ext:0 Low FWHM:0  HSPSC250A_J0435.34+2232.2       0       0 

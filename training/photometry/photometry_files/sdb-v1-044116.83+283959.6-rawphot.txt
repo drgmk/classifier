@@ -1,0 +1,42 @@
+\ photometry/spectra for sdb-v1-044116.83+283959.6
+\
+\main_id='CoKu Tau-Aur Star 4'
+\raj2000=70.320133
+\dej2000=28.666564
+\sp_type='M1.5e'
+\sp_bibcode='1980AJ.....85...29C'
+\plx_value=None
+\plx_err=None
+\plx_bibcode=None
+\id='sdb-v1-044116.83+283959.6'
+\irsstare2='cassis/irsstare/cassis_yaaar_spcfw_3548416t.fits'
+|   Band|    Phot|    Err|      Sys| Lim|Unit|            bibcode|       Note1|      Note2|                  SourceID|private|exclude|
+|   char|  double| double|   double|long|char|               char|        char|       char|                      char|   long|   long|
+|       |        |       |         |    |    |                   |            |           |                          |       |       |
+|   null|    null|   null|     null|null|null|               null|        null|       null|                      null|   null|   null|
+  BAPASS   16.497   0.079      0.01    0  mag 2016yCat.2336....0H       nobs:7     mobs:76  sdb-v1-044116.83+283959.6       0       0 
+  GAPASS   15.646   0.034      0.01    0  mag 2016yCat.2336....0H       nobs:7     mobs:76  sdb-v1-044116.83+283959.6       0       0 
+  VAPASS   14.669   0.063      0.01    0  mag 2016yCat.2336....0H       nobs:7     mobs:76  sdb-v1-044116.83+283959.6       0       0 
+  RAPASS   13.833   0.048      0.01    0  mag 2016yCat.2336....0H       nobs:7     mobs:76  sdb-v1-044116.83+283959.6       0       0 
+  IAPASS   12.617   0.039      0.01    0  mag 2016yCat.2336....0H       nobs:7     mobs:76  sdb-v1-044116.83+283959.6       0       0 
+   2MR2J   10.163    0.03      0.01    0  mag 2003tmc..book.....C       Qflg:A      Cflg:0  sdb-v1-044116.83+283959.6       0       0 
+   2MR2H    9.077   0.024      0.01    0  mag 2003tmc..book.....C       Qflg:A      Cflg:0  sdb-v1-044116.83+283959.6       0       0 
+  2MR2KS    8.656   0.019      0.01    0  mag 2003tmc..book.....C       Qflg:A      Cflg:0  sdb-v1-044116.83+283959.6       0       0 
+ WISE3P4    8.499   0.024     0.024    0  mag 2010AJ....140.1868W       qual:A    Var:0000  sdb-v1-044116.83+283959.6       0       0 
+ WISE4P6    8.347   0.022     0.028    0  mag 2010AJ....140.1868W       qual:A    Var:0000  sdb-v1-044116.83+283959.6       0       0 
+ IRAC5P8  51890.0   87.57    1037.8    0  uJy       2013.SEIP.dr4     Brt:0.95       Ext:0  sdb-v1-044116.83+283959.6       0       0 
+   IRAC8  36910.0   36.09     738.2    0  uJy       2013.SEIP.dr4     Brt:1.02       Ext:0  sdb-v1-044116.83+283959.6       0       0 
+  IRAS12    0.122  0.0305       0.0    1   Jy 1990IRASF.C......0M       Qual:1      Conf:0           IRAS F04381+2834       0       0 
+  IRAS12     0.25     0.0       0.0    1   Jy 1988IRASP.C......0J       Qual:1      Conf:0            IRAS 04381+2834       0       1 
+  WISE12     6.68   0.016     0.045    0  mag 2010AJ....140.1868W       qual:A    Var:0000  sdb-v1-044116.83+283959.6       0       0 
+ AKARI18   0.4641  0.0287 0.0069615    0   Jy 2010A&A...514A...1I       ext?:0    N-near:0  sdb-v1-044116.83+283959.6       0       0 
+  WISE22    2.432   0.016     0.057    0  mag 2010AJ....140.1868W       qual:A    Var:0000  sdb-v1-044116.83+283959.6       0       0 
+  IRAS25     1.12  0.1008       0.0    0   Jy 1988IRASP.C......0J       Qual:3      Conf:0            IRAS 04381+2834       0       1 
+  IRAS25     1.01  0.0808       0.0    0   Jy 1990IRASF.C......0M       Qual:3      Conf:0           IRAS F04381+2834       0       0 
+  MIPS24 855300.0   185.9   17106.0    0  uJy       2013.SEIP.dr4     Brt:1.01    Ext:1.01  sdb-v1-044116.83+283959.6       0       0 
+  IRAS60     1.33  0.0931       0.0    0   Jy 1990IRASF.C......0M       Qual:2      Conf:0           IRAS F04381+2834       0       0 
+  IRAS60      1.4   0.126       0.0    0   Jy 1988IRASP.C......0J       Qual:3      Conf:0            IRAS 04381+2834       0       1 
+ IRAS100     3.14     0.0       0.0    1   Jy 1988IRASP.C......0J       Qual:1      Conf:0            IRAS 04381+2834       0       1 
+ IRAS100     6.94   1.735       0.0    1   Jy 1990IRASF.C......0M       Qual:1      Conf:0           IRAS F04381+2834       0       0 
+ PACS100  753.116 11.3806   37.6558    0  mJy 2017arXiv170505693M Elong:0.8607     Blend:0 HPPSC100A_J044116.8+284000       0       0 
+ PACS160  1157.72 33.7387   57.8862    0  mJy 2017arXiv170505693M Elong:0.5728 FWHMx:24.20 HPESL160A_J044116.9+283959       0       0 

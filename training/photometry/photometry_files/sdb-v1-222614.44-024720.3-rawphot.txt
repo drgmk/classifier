@@ -1,0 +1,43 @@
+\ photometry/spectra for sdb-v1-222614.44-024720.3
+\
+\main_id='HD 212695'
+\raj2000=336.560176
+\dej2000=-2.788979
+\sp_type='F3V'
+\sp_bibcode='1999MSS...C05....0H'
+\plx_value=21.51
+\plx_err=0.5699999928474426
+\plx_bibcode='2007A&A...474..653V'
+\id='sdb-v1-222614.44-024720.3'
+\irsstare0='cassis/irsstare/cassis_yaaar_spcfw_25674752t.fits'
+|   Band|   Phot|       Err|    Sys| Lim|Unit|            bibcode|        Note1|      Note2|                 SourceID|private|exclude|
+|   char| double|    double| double|long|char|               char|         char|       char|                     char|   long|   long|
+|       |       |          |       |    |    |                   |             |           |                         |       |       |
+|   null|   null|      null|   null|null|null|               null|         null|       null|                     null|   null|   null|
+  GALFUV  16.142      0.024    0.01    0  mag 2011Ap&SS.335..161B      Fafl:256      Fexf:0 sdb-v1-222614.44-024720.3       0       0 
+  GALNUV  12.367      0.002    0.01    0  mag 2011Ap&SS.335..161B        Nafl:2      Nexf:0 sdb-v1-222614.44-024720.3       0       0 
+ STROMC1   0.427      0.002   0.005    0  mag 2015A&A...580A..23P    Vmag:6.944       beta:           TYC 5229-1621-1       0       0 
+      BT   7.461      0.015   0.006    0  mag 2000A&A...355L..27H      Prox:999  HIP:110753 sdb-v1-222614.44-024720.3       0       0 
+  BAPASS   7.353        0.0    0.01    0  mag 2016yCat.2336....0H        nobs:5     mobs:16 sdb-v1-222614.44-024720.3       0       1 
+  GAPASS   7.329        0.0    0.01    0  mag 2016yCat.2336....0H        nobs:5     mobs:16 sdb-v1-222614.44-024720.3       0       1 
+ STROMM1   0.157      0.001   0.005    0  mag 2015A&A...580A..23P    Vmag:6.944       beta:           TYC 5229-1621-1       0       0 
+   BS_YS   0.289      0.001   0.005    0  mag 2015A&A...580A..23P    Vmag:6.944       beta:           TYC 5229-1621-1       0       0 
+      VT   7.003       0.01   0.006    0  mag 2000A&A...355L..27H      Prox:999  HIP:110753 sdb-v1-222614.44-024720.3       0       0 
+      HP  7.0445 0.00905538   0.005    0  mag 1997HIP...C......0E      VarType:       Mult:                HIP 110753       0       0 
+  VAPASS   6.965       0.03    0.01    0  mag 2016yCat.2336....0H        nobs:5     mobs:16 sdb-v1-222614.44-024720.3       0       1 
+  RAPASS   6.878        0.0    0.01    0  mag 2016yCat.2336....0H        nobs:5     mobs:16 sdb-v1-222614.44-024720.3       0       1 
+  IAPASS   6.812        0.0    0.01    0  mag 2016yCat.2336....0H        nobs:5     mobs:16 sdb-v1-222614.44-024720.3       0       1 
+  IDENIS   8.641       0.02    0.01    0  mag 2005yCat.2263....0T       Ipsf:48      Iflg:4 sdb-v1-222614.44-024720.3       0       1 
+   2MR1J   6.076      0.019    0.01    0  mag 2003tmc..book.....C        Qflg:A      Cflg:0 sdb-v1-222614.44-024720.3       0       0 
+   2MR1H   5.924      0.044    0.01    0  mag 2003tmc..book.....C        Qflg:A      Cflg:0 sdb-v1-222614.44-024720.3       0       0 
+  2MR1KS   5.818      0.023    0.01    0  mag 2003tmc..book.....C        Qflg:A      Cflg:0 sdb-v1-222614.44-024720.3       0       0 
+ WISE3P4   5.834      0.112   0.024    0  mag 2010AJ....140.1868W        qual:B    Var:0100 sdb-v1-222614.44-024720.3       0       0 
+ WISE4P6   5.746      0.047   0.028    0  mag 2010AJ....140.1868W        qual:A    Var:0100 sdb-v1-222614.44-024720.3       0       0 
+  AKARI9   0.272    0.00718 0.00408    0   Jy 2010A&A...514A...1I        ext?:0    N-near:0 sdb-v1-222614.44-024720.3       0       0 
+  WISE12   5.881      0.016   0.045    0  mag 2010AJ....140.1868W        qual:A    Var:0100 sdb-v1-222614.44-024720.3       0       0 
+  WISE22   5.772      0.041   0.057    0  mag 2010AJ....140.1868W        qual:A    Var:0100 sdb-v1-222614.44-024720.3       0       0 
+  MIPS24 33250.0      90.97   665.0    0  uJy       2013.SEIP.dr4      Brt:0.85       Ext:0 sdb-v1-222614.44-024720.3       0       0 
+  MIPS70    38.0       3.55    2.66    0  mJy 2014ApJS..211...25C Name:HD212695    r_F70:38                 HD 212695       0       0 
+  MIPS70    38.0        3.0    1.52    0  mJy 2008ApJ...674.1086T     Vmag:6.94   Kmag:5.82                 HD 212695       0       1 
+  WAV450    51.0        0.0     0.0    1  mJy 2017arXiv170601218H         No:20 Assoc:Field                 HD 212695       0       0 
+  WAV850     5.7        1.1     0.0    0  mJy 2017arXiv170601218H         No:20 Assoc:Field                 HD 212695       0       0 

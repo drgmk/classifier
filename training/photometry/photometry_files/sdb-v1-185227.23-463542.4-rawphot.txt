@@ -1,0 +1,41 @@
+\ photometry/spectra for sdb-v1-185227.23-463542.4
+\
+\main_id='HR 7092'
+\raj2000=283.113458
+\dej2000=-46.595121
+\sp_type='M0III'
+\sp_bibcode='1978MSS...C02....0H'
+\plx_value=3.15
+\plx_err=0.3199999928474426
+\plx_bibcode='2007A&A...474..653V'
+\id='sdb-v1-185227.23-463542.4'
+|   Band|  Phot|      Err|     Sys| Lim|Unit|            bibcode|    Note1|    Note2|                 SourceID|private|exclude|
+|   char|double|   double|  double|long|char|               char|     char|     char|                     char|   long|   long|
+|       |      |         |        |    |    |                   |         |         |                         |       |       |
+|   null|  null|     null|    null|null|null|               null|     null|     null|                     null|   null|   null|
+  GALFUV 19.232     0.097     0.01    0  mag 2011Ap&SS.335..161B    Fafl:0    Fexf:0 sdb-v1-185227.23-463542.4       0       0 
+  GALNUV 15.867     0.011     0.01    0  mag 2011Ap&SS.335..161B    Nafl:0    Nexf:0 sdb-v1-185227.23-463542.4       0       0 
+      BT  7.656     0.015    0.006    0  mag 2000A&A...355L..27H  Prox:999 HIP:92630 sdb-v1-185227.23-463542.4       0       0 
+   BJ_VJ   1.63       0.0     0.02    0  mag 2006yCat.2168....0M     Comp:   n_B_V:>                 HD 174387       0       0 
+      VT  5.691     0.009    0.006    0  mag 2000A&A...355L..27H  Prox:999 HIP:92630 sdb-v1-185227.23-463542.4       0       0 
+      HP 5.6082 0.0132019    0.005    0  mag 1997HIP...C......0E VarType:U     Mult:                 HIP 92630       0       1 
+      VJ   5.54       0.0     0.02    0  mag 2006yCat.2168....0M     Comp:  n_Vmag:>                 HD 174387       0       0 
+  JDENIS  2.487     0.166     0.01    0  mag 2004A&A...413.1037K     Var:0     Note:                 HD 174387       0       0 
+     2MJ  2.622     0.298     0.01    0  mag 2003tmc..book.....C    Qflg:D    Cflg:0 sdb-v1-185227.23-463542.4       0       0 
+     2MH  1.808     0.284     0.01    0  mag 2003tmc..book.....C    Qflg:D    Cflg:0 sdb-v1-185227.23-463542.4       0       0 
+ KSDENIS  1.381     0.034     0.01    0  mag 2004A&A...413.1037K     Var:0     Note:                 HD 174387       0       0 
+    2MKS  1.585     0.302     0.01    0  mag 2003tmc..book.....C    Qflg:D    Cflg:0 sdb-v1-185227.23-463542.4       0       0 
+ WISE3P4  -1.09       0.0    0.024    1  mag 2010AJ....140.1868W    qual:U  Var:nn41 sdb-v1-185227.23-463542.4       0       1 
+ WISE4P6 -0.381       0.0    0.028    1  mag 2010AJ....140.1868W    qual:U  Var:nn41 sdb-v1-185227.23-463542.4       0       1 
+  AKARI9  16.42    0.0336   0.2463    0   Jy 2010A&A...514A...1I    ext?:0  N-near:0 sdb-v1-185227.23-463542.4       0       0 
+  IRAS12   11.6      0.58      0.0    0   Jy 1990IRASF.C......0M    Qual:3    Conf:0          IRAS F18487-4639       0       0 
+  IRAS12   12.1     0.484      0.0    0   Jy 1988IRASP.C......0J    Qual:3    Conf:0           IRAS 18487-4639       0       1 
+  WISE12  1.394     0.027    0.045    0  mag 2010AJ....140.1868W    qual:A  Var:nn41 sdb-v1-185227.23-463542.4       0       0 
+ AKARI18  3.727    0.0239 0.055905    0   Jy 2010A&A...514A...1I    ext?:0  N-near:0 sdb-v1-185227.23-463542.4       0       0 
+  WISE22  1.303     0.021    0.057    0  mag 2010AJ....140.1868W    qual:A  Var:nn41 sdb-v1-185227.23-463542.4       0       0 
+  IRAS25   2.95    0.1475      0.0    0   Jy 1990IRASF.C......0M    Qual:3    Conf:0          IRAS F18487-4639       0       0 
+  IRAS25   3.02    0.1812      0.0    0   Jy 1988IRASP.C......0J    Qual:3    Conf:0           IRAS 18487-4639       0       1 
+  IRAS60   0.46     0.046      0.0    0   Jy 1988IRASP.C......0J    Qual:2    Conf:0           IRAS 18487-4639       0       1 
+  IRAS60  0.463   0.06482      0.0    0   Jy 1990IRASF.C......0M    Qual:2    Conf:0          IRAS F18487-4639       0       0 
+ IRAS100    1.0       0.0      0.0    1   Jy 1988IRASP.C......0J    Qual:1    Conf:0           IRAS 18487-4639       0       1 
+ IRAS100   1.28    0.3328      0.0    1   Jy 1990IRASF.C......0M    Qual:1    Conf:0          IRAS F18487-4639       0       0 

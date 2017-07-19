@@ -1,0 +1,25 @@
+\ photometry/spectra for sdb-v1-053526.57-050355.1
+\
+\main_id='HOPS 84'
+\raj2000=83.860708
+\dej2000=-5.065306
+\sp_type=None
+\sp_bibcode=None
+\plx_value=None
+\plx_err=None
+\plx_bibcode=None
+\id='sdb-v1-053526.57-050355.1'
+\irsstare0='cassis/irsstare/cassis_yaaar_spcfw_26652416t.fits'
+\irsstare1='cassis/irsstare/cassis_yaaar_spcfw_26100736t.fits'
+|   Band|    Phot|    Err|      Sys| Lim|Unit|            bibcode|       Note1|   Note2|                  SourceID|private|exclude|
+|   char|  double| double|   double|long|char|               char|        char|    char|                      char|   long|   long|
+|       |        |       |         |    |    |                   |            |        |                          |       |       |
+|   null|    null|   null|     null|null|null|               null|        null|    null|                      null|   null|   null|
+  AKARI9   0.9743   0.138 0.0146145    0   Jy 2010A&A...514A...1I       ext?:0 N-near:0  sdb-v1-053526.57-050355.1       0       0 
+  IRAS12     4.48  0.3136       0.0    0   Jy 1988IRASP.C......0J       Qual:3   Conf:0            IRAS 05329-0505       0       0 
+  IRAS25     32.0    1.92       0.0    0   Jy 1988IRASP.C......0J       Qual:3   Conf:0            IRAS 05329-0505       0       0 
+  IRAS60     84.9     0.0       0.0    1   Jy 1988IRASP.C......0J       Qual:1   Conf:0            IRAS 05329-0505       0       0 
+  PACS70  94703.0 51626.3   2841.09    0  mJy 2017arXiv170505693M Elong:1.1431  Blend:0 HPPSC070A_J053526.5-050355       0       0 
+ IRAS100     27.3     0.0       0.0    1   Jy 1988IRASP.C......0J       Qual:1   Conf:0            IRAS 05329-0505       0       0 
+ PACS100 107579.0 3791.39   5378.96    0  mJy 2017arXiv170505693M Elong:0.8464  Blend:0 HPPSC100A_J053526.5-050354       0       0 
+ PACS160 142638.0 4302.64   4279.14    0  mJy 2017arXiv170505693M Elong:0.8388  Blend:0 HPPSC160A_J053526.4-050356       0       0 

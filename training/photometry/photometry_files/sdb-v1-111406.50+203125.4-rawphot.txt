@@ -1,0 +1,39 @@
+\ photometry/spectra for sdb-v1-111406.50+203125.4
+\
+\main_id='* del Leo'
+\raj2000=168.527089
+\dej2000=20.523718
+\sp_type='A5IV(n)'
+\sp_bibcode='2003AJ....126.2048G'
+\plx_value=55.82
+\plx_err=0.25
+\plx_bibcode='2007A&A...474..653V'
+\id='sdb-v1-111406.50+203125.4'
+|   Band|     Phot|       Err|       Sys| Lim|Unit|            bibcode|        Note1|     Note2|                  SourceID|private|exclude|
+|   char|   double|    double|    double|long|char|               char|         char|      char|                      char|   long|   long|
+|       |         |          |          |    |    |                   |             |          |                          |       |       |
+|   null|     null|      null|      null|null|null|               null|         null|      null|                      null|   null|   null|
+   UJ_BJ      0.11      0.009      0.028    0  mag 2006yCat.2168....0M         Comp:    n_U_B:>                   HD 97603       0       0 
+ STROMC1     1.036      0.008      0.005    0  mag 2015A&A...580A..23P      Vmag:2.6 beta:2.869            TYC 1439-2479-1       0       0 
+      BT      2.71      0.014      0.006    0  mag 2000A&A...355L..27H      Prox:999  HIP:54872  sdb-v1-111406.50+203125.4       0       0 
+ STROMM1     0.196      0.018      0.005    0  mag 2015A&A...580A..23P      Vmag:2.6 beta:2.869            TYC 1439-2479-1       0       0 
+   BJ_VJ     0.128      0.014       0.02    0  mag 2006yCat.2168....0M         Comp:    n_B_V:>                   HD 97603       0       0 
+   BS_YS     0.066       0.01      0.005    0  mag 2015A&A...580A..23P      Vmag:2.6 beta:2.869            TYC 1439-2479-1       0       0 
+      VT     2.544      0.009      0.006    0  mag 2000A&A...355L..27H      Prox:999  HIP:54872  sdb-v1-111406.50+203125.4       0       0 
+      HP    2.5932 0.00401995      0.005    0  mag 1997HIP...C......0E      VarType:      Mult:                  HIP 54872       0       0 
+      VJ      2.56      0.007       0.02    0  mag 2006yCat.2168....0M         Comp:   n_Vmag:>                   HD 97603       0       0 
+     2MJ     2.238      0.258       0.01    0  mag 2003tmc..book.....C        Qflg:D     Cflg:0  sdb-v1-111406.50+203125.4       0       0 
+     2MH     2.191      0.188       0.01    0  mag 2003tmc..book.....C        Qflg:C     Cflg:0  sdb-v1-111406.50+203125.4       0       0 
+    2MKS     2.144      0.206       0.01    0  mag 2003tmc..book.....C        Qflg:C     Cflg:0  sdb-v1-111406.50+203125.4       0       0 
+ WISE3P4     0.761        0.0      0.024    1  mag 2010AJ....140.1868W        qual:U   Var:nnn1  sdb-v1-111406.50+203125.4       0       1 
+ WISE4P6     0.585        0.0      0.028    1  mag 2010AJ....140.1868W        qual:U   Var:nnn1  sdb-v1-111406.50+203125.4       0       1 
+  AKARI9     7.131     0.0442   0.106965    0   Jy 2010A&A...514A...1I        ext?:0   N-near:0  sdb-v1-111406.50+203125.4       0       0 
+  WISE12      2.34      0.013      0.045    0  mag 2010AJ....140.1868W        qual:A   Var:nnn1  sdb-v1-111406.50+203125.4       0       1 
+ AKARI18     1.579     0.0215   0.023685    0   Jy 2010A&A...514A...1I        ext?:0   N-near:0  sdb-v1-111406.50+203125.4       0       0 
+  WISE22     2.276      0.017      0.057    0  mag 2010AJ....140.1868W        qual:A   Var:nnn1  sdb-v1-111406.50+203125.4       0       0 
+  MIPS70     98.49       5.27     4.9245    0  mJy 2013ApJ...768...25G          Xs:N   AgeFlg:2                   HD 97603       0       0 
+ PACS100 0.0500679 0.00155585 0.00126222    0   Jy             HSA_GMK    1342211428   Phot:PSF                  * del Leo       0       1 
+ PACS100   56.7121    6.35428     2.8356    0  mJy 2017arXiv170505693M  Elong:0.0000    Blend:0 HPPSC100A_J111406.7+203123       0       1 
+ PACS100 0.0502865 0.00150446 0.00240868    0   Jy         2018.DEBRIS chisq:1.11239   Phot:PSF    2MASS J11140651+2031258       0       0 
+ PACS160 0.0248503 0.00372392 0.00102687    0   Jy             HSA_GMK    1342211428   Phot:PSF                  * del Leo       0       1 
+ PACS160  0.023021 0.00381644 0.00123666    0   Jy         2018.DEBRIS chisq:1.11239   Phot:PSF    2MASS J11140651+2031258       0       0 

@@ -1,0 +1,41 @@
+\ photometry/spectra for sdb-v1-145123.38+190601.7
+\
+\main_id='* ksi Boo'
+\raj2000=222.847416
+\dej2000=19.100472
+\sp_type='G7Ve+K5Ve'
+\sp_bibcode='1978PASP...90..429L'
+\plx_value=148.98
+\plx_err=0.47999998927116394
+\plx_bibcode='2007A&A...474..653V'
+\id='sdb-v1-145123.38+190601.7'
+|   Band|     Phot|       Err|        Sys| Lim|Unit|            bibcode|         Note1|    Note2|                  SourceID|private|exclude|
+|   char|   double|    double|     double|long|char|               char|          char|     char|                      char|   long|   long|
+|       |         |          |           |    |    |                   |              |         |                          |       |       |
+|   null|     null|      null|       null|null|null|               null|          null|     null|                      null|   null|   null|
+  GALNUV    12.285      0.003        0.01    0  mag 2011Ap&SS.335..161B         Nafl:2    Nexf:0  sdb-v1-145123.38+190601.7       0       0 
+   UJ_BJ     0.281      0.018       0.028    0  mag 2006yCat.2168....0M         Comp:D    n_U_B:                  HD 131156       0       1 
+   UJ_BJ      1.15        0.0       0.028    0  mag 2006yCat.2168....0M         Comp:2    n_U_B:                  HD 131156       0       1 
+   UJ_BJ     0.237      0.005       0.028    0  mag 2006yCat.2168....0M         Comp:1    n_U_B:                  HD 131156       0       1 
+      BT     5.575      0.014       0.006    0  mag 2000A&A...355L..27H        Prox:71 HIP:72659  sdb-v1-145123.38+190601.7       0       0 
+   BJ_VJ      0.72        0.0        0.02    0  mag 2006yCat.2168....0M         Comp:1    n_B_V:                  HD 131156       0       1 
+   BJ_VJ     0.767      0.011        0.02    0  mag 2006yCat.2168....0M         Comp:D   n_B_V:>                  HD 131156       0       1 
+   BJ_VJ     1.104      0.083        0.02    0  mag 2006yCat.2168....0M         Comp:2   n_B_V:>                  HD 131156       0       1 
+      VT     4.757      0.009       0.006    0  mag 2000A&A...355L..27H        Prox:71 HIP:72659  sdb-v1-145123.38+190601.7       0       0 
+      HP    4.6801  0.0130752       0.005    0  mag 1997HIP...C......0E      VarType:U    Mult:C                  HIP 72659       0       1 
+      VJ      4.56      0.025        0.02    0  mag 2006yCat.2168....0M         Comp:D  n_Vmag:>                  HD 131156       0       1 
+      VJ     6.947      0.029        0.02    0  mag 2006yCat.2168....0M         Comp:2  n_Vmag:>                  HD 131156       0       1 
+      VJ      4.72        0.0        0.02    0  mag 2006yCat.2168....0M         Comp:1   n_Vmag:                  HD 131156       0       1 
+  AKARI9     5.454     0.0256     0.08181    0   Jy 2010A&A...514A...1I         ext?:0  N-near:0  sdb-v1-145123.38+190601.7       0       0 
+  IRAS12      4.09     0.2863         0.0    0   Jy 1988IRASP.C......0J         Qual:3    Conf:2            IRAS 14490+1918       0       0 
+ AKARI18     1.233     0.0531    0.018495    0   Jy 2010A&A...514A...1I         ext?:0  N-near:0  sdb-v1-145123.38+190601.7       0       0 
+  IRAS25     0.964    0.07712         0.0    0   Jy 1988IRASP.C......0J         Qual:3    Conf:2            IRAS 14490+1918       0       0 
+  IRAS60       0.4        0.0         0.0    1   Jy 1988IRASP.C......0J         Qual:1    Conf:2            IRAS 14490+1918       0       0 
+ IRAS100       1.0        0.0         0.0    1   Jy 1988IRASP.C......0J         Qual:1    Conf:2            IRAS 14490+1918       0       0 
+ PACS100 0.0360647 0.00220478  0.00172747    0   Jy         2018.DEBRIS chisq:0.956257  Phot:PSF                 AG+19 1391       0       0 
+ PACS100 0.0406089 0.00178276  0.00102375    0   Jy             HSA_GMK     1342213800  Phot:PSF                  * ksi Boo       0       1 
+ PACS100   40.1502     6.9094     2.00751    0  mJy 2017arXiv170505693M   Elong:0.7232   Blend:0 HPPSC100A_J145123.4+190603       0       1 
+ PACS160 0.0291814 0.00300332  0.00120585    0   Jy             HSA_GMK     1342213800  Phot:PSF                  * ksi Boo       0       1 
+ PACS160 0.0184968 0.00491398 0.000993629    0   Jy         2018.DEBRIS chisq:0.956257  Phot:PSF                 AG+19 1391       0       0 
+  WAV870     17.28        0.0         0.0    1  mJy 2003AJ....125.3334H     Instr:SMTO     Name:                  HD 131156       0       0 
+ WAV1300      6.25       1.88         0.0    0  mJy 2003AJ....125.3334H     Instr:SMTO     Name:                  HD 131156       0       0 

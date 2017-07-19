@@ -1,0 +1,46 @@
+\ photometry/spectra for sdb-v1-000825.75+063700.5
+\
+\main_id='HD 377'
+\raj2000=2.107273
+\dej2000=6.6168026
+\sp_type='G2V'
+\sp_bibcode='2006A&A...460..695T'
+\plx_value=26.399999618530273
+\plx_err=0.3100000023841858
+\plx_bibcode='2016yCat.1337....0G'
+\id='sdb-v1-000825.75+063700.5'
+\irsstare1='cassis/irsstare/cassis_yaaar_spcfw_5268736t.fits'
+|   Band|   Phot|      Err|      Sys| Lim|Unit|            bibcode|     Note1|      Note2|                 SourceID|private|exclude|
+|   char| double|   double|   double|long|char|               char|      char|       char|                     char|   long|   long|
+|       |       |         |         |    |    |                   |          |           |                         |       |       |
+|   null|   null|     null|     null|null|null|               null|      null|       null|                     null|   null|   null|
+  GALFUV   18.63     0.096      0.01    0  mag 2011Ap&SS.335..161B     Fafl:0      Fexf:0 sdb-v1-000825.75+063700.5       0       0 
+  GALNUV  13.562     0.006      0.01    0  mag 2011Ap&SS.335..161B     Nafl:0      Nexf:0 sdb-v1-000825.75+063700.5       0       0 
+ STROMC1   0.322     0.009     0.005    0  mag 2015A&A...580A..23P Vmag:7.582       beta:               TYC 7-632-1       0       0 
+      BT   8.353     0.017     0.006    0  mag 2000A&A...355L..27H   Prox:999     HIP:682 sdb-v1-000825.75+063700.5       0       0 
+  BAPASS   8.203       0.0      0.01    0  mag 2016yCat.2336....0H     nobs:3     mobs:21 sdb-v1-000825.75+063700.5       0       1 
+  GAPASS   8.185       0.0      0.01    0  mag 2016yCat.2336....0H     nobs:3     mobs:21 sdb-v1-000825.75+063700.5       0       1 
+ STROMM1   0.204     0.006     0.005    0  mag 2015A&A...580A..23P Vmag:7.582       beta:               TYC 7-632-1       0       0 
+   BS_YS   0.391     0.003     0.005    0  mag 2015A&A...580A..23P Vmag:7.582       beta:               TYC 7-632-1       0       0 
+      VT   7.662     0.012     0.006    0  mag 2000A&A...355L..27H   Prox:999     HIP:682 sdb-v1-000825.75+063700.5       0       0 
+      HP  7.7269 0.0141421     0.005    0  mag 1997HIP...C......0E  VarType:U       Mult:                   HIP 682       0       1 
+  VAPASS   7.572       0.0      0.01    0  mag 2016yCat.2336....0H     nobs:3     mobs:21 sdb-v1-000825.75+063700.5       0       1 
+  RAPASS   7.423       0.0      0.01    0  mag 2016yCat.2336....0H     nobs:3     mobs:21 sdb-v1-000825.75+063700.5       0       1 
+  IAPASS   7.204       0.0      0.01    0  mag 2016yCat.2336....0H     nobs:3     mobs:21 sdb-v1-000825.75+063700.5       0       1 
+   2MR1J   6.422     0.021      0.01    0  mag 2003tmc..book.....C     Qflg:A      Cflg:0 sdb-v1-000825.75+063700.5       0       0 
+   2MR1H   6.149     0.021      0.01    0  mag 2003tmc..book.....C     Qflg:A      Cflg:0 sdb-v1-000825.75+063700.5       0       0 
+  2MR1KS   6.116     0.021      0.01    0  mag 2003tmc..book.....C     Qflg:A      Cflg:0 sdb-v1-000825.75+063700.5       0       0 
+ WISE3P4   6.092     0.113     0.024    0  mag 2010AJ....140.1868W     qual:B    Var:0000 sdb-v1-000825.75+063700.5       0       0 
+ WISE4P6   6.026     0.041     0.028    0  mag 2010AJ....140.1868W     qual:A    Var:0000 sdb-v1-000825.75+063700.5       0       0 
+  AKARI9  0.2185     0.018 0.0032775    0   Jy 2010A&A...514A...1I     ext?:0    N-near:0 sdb-v1-000825.75+063700.5       0       0 
+  WISE12   6.101     0.015     0.045    0  mag 2010AJ....140.1868W     qual:A    Var:0000 sdb-v1-000825.75+063700.5       0       0 
+  WISE22   5.741     0.044     0.057    0  mag 2010AJ....140.1868W     qual:A    Var:0000 sdb-v1-000825.75+063700.5       0       0 
+  MIPS24 38180.0     125.3     763.6    0  uJy       2013.SEIP.dr4   Brt:1.01       Ext:0 sdb-v1-000825.75+063700.5       0       0 
+  MIPS70   162.0      12.6      6.48    0  mJy 2008ApJS..179..423C NameHD 377     Flag70:                    HD 377       0       1 
+  MIPS70   162.0      12.6     11.34    0  mJy 2014ApJS..211...25C Name:HD377     r_F70:3                    HD 377       0       0 
+  WAV450    54.0       0.0       0.0    1  mJy 2017arXiv170601218H      No:38 Assoc:Field                    HD 377       0       0 
+  WAV850     5.3       1.0       0.0    0  mJy 2017arXiv170601218H      No:38 Assoc:Field                    HD 377       0       0 
+ WAV1200     4.0       1.0       0.0    0  mJy 2009A&A...497..409R Instr:IRAM       Name:                    HD 377       0       0 
+ WAV2700    0.32       0.8       0.0    0  mJy 2005AJ....129.1049C Instr:OVRO Name:HD 377                    HD 377       0       0 
+ WAV3000    0.79      0.61       0.0    0  mJy 2005AJ....129.1049C Instr:OVRO Name:HD 377                    HD 377       0       0 
+ WAV9000     0.0    0.0044       0.0    0  mJy 2016ApJ...823...79M  Instr:VLA       Name:                    HD 377       0       0 

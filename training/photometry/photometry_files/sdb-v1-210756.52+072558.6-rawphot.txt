@@ -1,0 +1,39 @@
+\ photometry/spectra for sdb-v1-210756.52+072558.6
+\
+\main_id='HD 201219'
+\raj2000=316.985501
+\dej2000=7.432942
+\sp_type='G5'
+\sp_bibcode='2007AJ....133.2524W'
+\plx_value=26.229999542236328
+\plx_err=0.23000000417232513
+\plx_bibcode='2016yCat.1337....0G'
+\id='sdb-v1-210756.52+072558.6'
+\irsstare0='cassis/irsstare/cassis_yaaar_spcfw_5396736t.fits'
+|   Band|     Phot|      Err|        Sys| Lim|Unit|            bibcode|        Note1|     Note2|                  SourceID|private|exclude|
+|   char|   double|   double|     double|long|char|               char|         char|      char|                      char|   long|   long|
+|       |         |         |           |    |    |                   |             |          |                          |       |       |
+|   null|     null|     null|       null|null|null|               null|         null|      null|                      null|   null|   null|
+  GALFUV    20.045     0.134        0.01    0  mag 2011Ap&SS.335..161B        Fafl:0     Fexf:0  sdb-v1-210756.52+072558.6       0       0 
+  GALNUV    13.871     0.005        0.01    0  mag 2011Ap&SS.335..161B        Nafl:2     Nexf:0  sdb-v1-210756.52+072558.6       0       0 
+ STROMC1     0.332     0.001       0.005    0  mag 2015A&A...580A..23P    Vmag:8.018      beta:              TYC 539-261-1       0       0 
+      BT     8.887     0.021       0.006    0  mag 2000A&A...355L..27H      Prox:999 HIP:104318  sdb-v1-210756.52+072558.6       0       0 
+ STROMM1     0.257     0.002       0.005    0  mag 2015A&A...580A..23P    Vmag:8.018      beta:              TYC 539-261-1       0       0 
+   BS_YS     0.442     0.003       0.005    0  mag 2015A&A...580A..23P    Vmag:8.018      beta:              TYC 539-261-1       0       0 
+      VT      8.08     0.015       0.006    0  mag 2000A&A...355L..27H      Prox:999 HIP:104318  sdb-v1-210756.52+072558.6       0       0 
+      HP     8.149 0.0141283       0.005    0  mag 1997HIP...C......0E     VarType:C      Mult:                 HIP 104318       0       0 
+   2MR1J     6.756     0.021        0.01    0  mag 2003tmc..book.....C        Qflg:A     Cflg:0  sdb-v1-210756.52+072558.6       0       0 
+   2MR1H       6.5     0.021        0.01    0  mag 2003tmc..book.....C        Qflg:A     Cflg:0  sdb-v1-210756.52+072558.6       0       0 
+  2MR1KS     6.361     0.026        0.01    0  mag 2003tmc..book.....C        Qflg:A     Cflg:0  sdb-v1-210756.52+072558.6       0       0 
+ WISE3P4     6.333     0.085       0.024    0  mag 2010AJ....140.1868W        qual:A   Var:2111  sdb-v1-210756.52+072558.6       0       0 
+ WISE4P6     6.278     0.026       0.028    0  mag 2010AJ....140.1868W        qual:A   Var:2111  sdb-v1-210756.52+072558.6       0       0 
+  AKARI9    0.1519   0.00761   0.0022785    0   Jy 2010A&A...514A...1I        ext?:0   N-near:0  sdb-v1-210756.52+072558.6       0       0 
+  WISE12      6.36     0.015       0.045    0  mag 2010AJ....140.1868W        qual:A   Var:2111  sdb-v1-210756.52+072558.6       0       0 
+  WISE22     6.264     0.067       0.057    0  mag 2010AJ....140.1868W        qual:A   Var:2111  sdb-v1-210756.52+072558.6       0       0 
+  MIPS24   22730.0      58.1       454.6    0  uJy       2013.SEIP.dr4         Brt:0      Ext:0  sdb-v1-210756.52+072558.6       0       0 
+  MIPS70      42.4       7.2       1.696    0  mJy 2008ApJS..179..423C NameHD 201219   Flag70:2                  HD 201219       0       1 
+  MIPS70      42.4       7.2       2.968    0  mJy 2014ApJS..211...25C Name:HD201219    r_F70:3                  HD 201219       0       0 
+ PACS100 0.0347688 0.0038019 0.000876525    0   Jy             HSA_GMK    1342269728   Phot:PSF                  HD 201219       0       1 
+ PACS100   42.0674   7.17276     2.10337    0  mJy 2017arXiv170505693M  Elong:0.8980    Blend:0 HPPSC100A_J210756.6+072600       0       0 
+ PACS160 0.0153386 0.0127633 0.000633825    0   Jy             HSA_GMK    1342269728   Phot:PSF                  HD 201219       0       0 
+ WAV1200       4.1       0.0         0.0    1  mJy 2009A&A...497..409R    Instr:IRAM      Name:                  HD 201219       0       0 

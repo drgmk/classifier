@@ -1,0 +1,34 @@
+\ photometry/spectra for sdb-v1-211834.77+623508.1
+\
+\main_id='* alf Cep'
+\raj2000=319.644885
+\dej2000=62.585574
+\sp_type='A8Vn'
+\sp_bibcode='2003AJ....126.2048G'
+\plx_value=66.5
+\plx_err=0.10999999940395355
+\plx_bibcode='2007A&A...474..653V'
+\id='sdb-v1-211834.77+623508.1'
+|   Band|  Phot|       Err|     Sys| Lim|Unit|            bibcode|   Note1|     Note2|                 SourceID|private|exclude|
+|   char|double|    double|  double|long|char|               char|    char|      char|                     char|   long|   long|
+|       |      |          |        |    |    |                   |        |          |                         |       |       |
+|   null|  null|      null|    null|null|null|               null|    null|      null|                     null|   null|   null|
+   UJ_BJ  0.102      0.012    0.028    0  mag 2006yCat.2168....0M   Comp:D    n_U_B:>                 HD 203280       0       1 
+      BT  2.725      0.014    0.006    0  mag 2000A&A...355L..27H Prox:999 HIP:105199 sdb-v1-211834.77+623508.1       0       0 
+   BJ_VJ  0.216      0.006     0.02    0  mag 2006yCat.2168....0M   Comp:D    n_B_V:>                 HD 203280       0       1 
+      VT  2.458      0.009    0.006    0  mag 2000A&A...355L..27H Prox:999 HIP:105199 sdb-v1-211834.77+623508.1       0       0 
+      HP 2.5141 0.00401995    0.005    0  mag 1997HIP...C......0E VarType:      Mult:                HIP 105199       0       0 
+      VJ  2.453      0.012     0.02    0  mag 2006yCat.2168....0M   Comp:D   n_Vmag:>                 HD 203280       0       1 
+     2MJ  2.154      0.298     0.01    0  mag 2003tmc..book.....C   Qflg:D     Cflg:0 sdb-v1-211834.77+623508.1       0       0 
+     2MH  2.134      0.176     0.01    0  mag 2003tmc..book.....C   Qflg:C     Cflg:0 sdb-v1-211834.77+623508.1       0       0 
+    2MKS  2.066      0.242     0.01    0  mag 2003tmc..book.....C   Qflg:D     Cflg:0 sdb-v1-211834.77+623508.1       0       0 
+ WISE3P4  0.058        0.0    0.024    1  mag 2010AJ....140.1868W   qual:U   Var:nn63 sdb-v1-211834.77+623508.1       0       1 
+ WISE4P6  0.216        0.0    0.028    1  mag 2010AJ....140.1868W   qual:U   Var:nn63 sdb-v1-211834.77+623508.1       0       1 
+  AKARI9  9.826     0.0435  0.14739    0   Jy 2010A&A...514A...1I   ext?:0   N-near:0 sdb-v1-211834.77+623508.1       0       0 
+  IRAS12   7.22     0.2888      0.0    0   Jy 1988IRASP.C......0J   Qual:3     Conf:0           IRAS 21174+6222       0       0 
+  WISE12  1.986      0.012    0.045    0  mag 2010AJ....140.1868W   qual:A   Var:nn63 sdb-v1-211834.77+623508.1       0       0 
+ AKARI18  2.161     0.0217 0.032415    0   Jy 2010A&A...514A...1I   ext?:0   N-near:0 sdb-v1-211834.77+623508.1       0       0 
+  WISE22  1.885      0.015    0.057    0  mag 2010AJ....140.1868W   qual:A   Var:nn63 sdb-v1-211834.77+623508.1       0       0 
+  IRAS25   1.71     0.1368      0.0    0   Jy 1988IRASP.C......0J   Qual:3     Conf:0           IRAS 21174+6222       0       0 
+  IRAS60    0.4        0.0      0.0    1   Jy 1988IRASP.C......0J   Qual:1     Conf:0           IRAS 21174+6222       0       0 
+ IRAS100   12.6        0.0      0.0    1   Jy 1988IRASP.C......0J   Qual:1     Conf:0           IRAS 21174+6222       0       0 

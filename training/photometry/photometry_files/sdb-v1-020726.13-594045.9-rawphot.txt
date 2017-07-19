@@ -1,0 +1,40 @@
+\ photometry/spectra for sdb-v1-020726.13-594045.9
+\
+\main_id='HD 13246'
+\raj2000=31.8588542
+\dej2000=-59.6794285
+\sp_type='F7V'
+\sp_bibcode='2006A&A...460..695T'
+\plx_value=21.860000610351562
+\plx_err=0.2199999988079071
+\plx_bibcode='2016yCat.1337....0G'
+\id='sdb-v1-020726.13-594045.9'
+\irsstare0='cassis/irsstare/cassis_yaaar_spcfw_26368768t.fits'
+\irsstare1='cassis/irsstare/cassis_yaaar_spcfw_13621504t.fits'
+|   Band|      Phot|       Err|        Sys| Lim|Unit|            bibcode|       Note1|     Note2|                  SourceID|private|exclude|
+|   char|    double|    double|     double|long|char|               char|        char|      char|                      char|   long|   long|
+|       |          |          |           |    |    |                   |            |          |                          |       |       |
+|   null|      null|      null|       null|null|null|               null|        null|      null|                      null|   null|   null|
+  GALFUV     17.586      0.055        0.01    0  mag 2011Ap&SS.335..161B       Fafl:0     Fexf:0  sdb-v1-020726.13-594045.9       0       0 
+  GALNUV     12.465      0.003        0.01    0  mag 2011Ap&SS.335..161B       Nafl:2     Nexf:2  sdb-v1-020726.13-594045.9       0       0 
+ STROMC1       0.34      0.004       0.005    0  mag 2015A&A...580A..23P   Vmag:7.503 beta:2.639             TYC 8489-565-1       0       0 
+      BT      8.129      0.016       0.006    0  mag 2000A&A...355L..27H     Prox:523   HIP:9902  sdb-v1-020726.13-594045.9       0       0 
+ STROMM1      0.178      0.012       0.005    0  mag 2015A&A...580A..23P   Vmag:7.503 beta:2.639             TYC 8489-565-1       0       0 
+   BS_YS      0.339      0.011       0.005    0  mag 2015A&A...580A..23P   Vmag:7.503 beta:2.639             TYC 8489-565-1       0       0 
+      VT      7.557      0.011       0.006    0  mag 2000A&A...355L..27H     Prox:523   HIP:9902  sdb-v1-020726.13-594045.9       0       0 
+      HP     7.6171  0.0141152       0.005    0  mag 1997HIP...C......0E     VarType:      Mult:                   HIP 9902       0       0 
+  IDENIS      8.144       0.05        0.01    0  mag 2005yCat.2263....0T      Ipsf:59     Iflg:4  sdb-v1-020726.13-594045.9       0       1 
+   2MR1J      6.534       0.02        0.01    0  mag 2003tmc..book.....C       Qflg:A     Cflg:0  sdb-v1-020726.13-594045.9       0       0 
+   2MR1H      6.304      0.033        0.01    0  mag 2003tmc..book.....C       Qflg:A     Cflg:0  sdb-v1-020726.13-594045.9       0       0 
+  2MR1KS      6.204       0.02        0.01    0  mag 2003tmc..book.....C       Qflg:A     Cflg:0  sdb-v1-020726.13-594045.9       0       0 
+ WISE3P4      6.215      0.097       0.024    0  mag 2010AJ....140.1868W       qual:A   Var:4110  sdb-v1-020726.13-594045.9       0       0 
+ WISE4P6      6.067      0.035       0.028    0  mag 2010AJ....140.1868W       qual:A   Var:4110  sdb-v1-020726.13-594045.9       0       0 
+  AKARI9     0.2212    0.00806    0.003318    0   Jy 2010A&A...514A...1I       ext?:0   N-near:0  sdb-v1-020726.13-594045.9       0       0 
+  WISE12      6.116      0.015       0.045    0  mag 2010AJ....140.1868W       qual:A   Var:4110  sdb-v1-020726.13-594045.9       0       0 
+  WISE22      5.465      0.035       0.057    0  mag 2010AJ....140.1868W       qual:A   Var:4110  sdb-v1-020726.13-594045.9       0       0 
+  MIPS24    46520.0      93.82       930.4    0  uJy       2013.SEIP.dr4      Brt:0.9      Ext:0  sdb-v1-020726.13-594045.9       0       0 
+  PACS70     20.547    1.41839     0.61641    0  mJy 2017arXiv170505693M Elong:0.0000    Blend:0 HPPSC070A_J020726.3-594046       0       0 
+  PACS70  0.0220574 0.00122868  0.00057045    0   Jy             HSA_GMK   1342247696   Phot:PSF                   HD 13246       0       1 
+  MIPS70       20.1        3.3       1.407    0  mJy 2014ApJS..211...25C Name:HD13246   r_F70:22                   HD 13246       0       0 
+  MIPS70       31.7        0.0       1.268    0  mJy 2011ApJ...732...61Z         xs:Y      IRS:Y                   HD 13246       0       1 
+ PACS160 0.00784047 0.00261831 0.000323986    0   Jy             HSA_GMK   1342247696   Phot:PSF                   HD 13246       0       0 

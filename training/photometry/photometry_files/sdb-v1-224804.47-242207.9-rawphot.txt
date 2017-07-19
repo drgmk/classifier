@@ -1,0 +1,48 @@
+\ photometry/spectra for sdb-v1-224804.47-242207.9
+\
+\main_id='* alf PsA C'
+\raj2000=342.018632
+\dej2000=-24.368872
+\sp_type='M4.0Ve'
+\sp_bibcode='2015AJ....149..106D'
+\plx_value=None
+\plx_err=None
+\plx_bibcode=None
+\id='sdb-v1-224804.47-242207.9'
+|    Band|      Phot|        Err|        Sys| Lim|Unit|            bibcode|         Note1|       Note2|                  SourceID|private|exclude|
+|    char|    double|     double|     double|long|char|               char|          char|        char|                      char|   long|   long|
+|        |          |           |           |    |    |                   |              |            |                          |       |       |
+|    null|      null|       null|       null|null|null|               null|          null|        null|                      null|   null|   null|
+   GALFUV     21.143       0.257        0.01    0  mag 2011Ap&SS.335..161B         Fafl:0       Fexf:0  sdb-v1-224804.47-242207.9       0       0 
+   GALNUV       19.4       0.069        0.01    0  mag 2011Ap&SS.335..161B         Nafl:0       Nexf:0  sdb-v1-224804.47-242207.9       0       0 
+   BAPASS     14.365       0.066        0.01    0  mag 2016yCat.2336....0H         nobs:6      mobs:30  sdb-v1-224804.47-242207.9       0       0 
+   GAPASS     13.409        0.04        0.01    0  mag 2016yCat.2336....0H         nobs:6      mobs:30  sdb-v1-224804.47-242207.9       0       0 
+   VAPASS     12.639       0.026        0.01    0  mag 2016yCat.2336....0H         nobs:6      mobs:30  sdb-v1-224804.47-242207.9       0       0 
+   RAPASS     12.019       0.027        0.01    0  mag 2016yCat.2336....0H         nobs:6      mobs:30  sdb-v1-224804.47-242207.9       0       0 
+   IAPASS     10.441       0.081        0.01    0  mag 2016yCat.2336....0H         nobs:6      mobs:30  sdb-v1-224804.47-242207.9       0       0 
+    2MR1J      8.075       0.023        0.01    0  mag 2003tmc..book.....C         Qflg:A       Cflg:0  sdb-v1-224804.47-242207.9       0       0 
+    2MR1H      7.527       0.055        0.01    0  mag 2003tmc..book.....C         Qflg:A       Cflg:0  sdb-v1-224804.47-242207.9       0       0 
+   2MR1KS      7.206       0.021        0.01    0  mag 2003tmc..book.....C         Qflg:A       Cflg:0  sdb-v1-224804.47-242207.9       0       0 
+  WISE3P4      6.918       0.045       0.024    0  mag 2010AJ....140.1868W         qual:A     Var:0011  sdb-v1-224804.47-242207.9       0       0 
+  WISE4P6      6.787       0.022       0.028    0  mag 2010AJ....140.1868W         qual:A     Var:0011  sdb-v1-224804.47-242207.9       0       0 
+   AKARI9    0.09726      0.0226   0.0014589    0   Jy 2010A&A...514A...1I         ext?:0     N-near:0  sdb-v1-224804.47-242207.9       0       0 
+   WISE12      6.704       0.016       0.045    0  mag 2010AJ....140.1868W         qual:A     Var:0011  sdb-v1-224804.47-242207.9       0       0 
+   WISE22      6.509       0.075       0.057    0  mag 2010AJ....140.1868W         qual:A     Var:0011  sdb-v1-224804.47-242207.9       0       0 
+   PACS70        3.3         1.5         0.0    0  mJy 2014MNRAS.438L..96K    Fomalhaut C ID:LP 876-10                  LP 876-10       0       1 
+   PACS70    6.87118     2.36985    0.206135    0  mJy 2017arXiv170505693M   Elong:0.7829      Blend:0 HPPSC070A_J224804.6-242212       0       1 
+   PACS70 0.00521212  0.00143031 0.000134796    0   Jy             HSA_GMK     1342231937     Phot:PSF                  LP 876-10       0       1 
+   PACS70  0.0046494 0.000833363 0.000226458    0   Jy         2018.DEBRIS chisq:0.821822     Phot:PSF    2MASS J22480446-2422075       0       0 
+  PACS100        7.8         1.9         0.0    0  mJy 2014MNRAS.438L..96K    Fomalhaut C ID:LP 876-10                  LP 876-10       0       1 
+  PACS100  0.0101594  0.00301652 0.000256118    0   Jy             HSA_GMK     1342211142     Phot:PSF                  LP 876-10       0       1 
+  PACS100 0.00782595   0.0017289 0.000374857    0   Jy         2018.DEBRIS chisq:0.894642     Phot:PSF    2MASS J22480446-2422075       0       0 
+  PACS160       15.5         2.8         0.0    0  mJy 2014MNRAS.438L..96K    Fomalhaut C ID:LP 876-10                  LP 876-10       0       1 
+  PACS160  0.0207738  0.00405512  0.00085842    0   Jy             HSA_GMK     1342231937     Phot:PSF                  LP 876-10       0       1 
+  PACS160   0.019283  0.00547535  0.00079682    0   Jy             HSA_GMK     1342211142     Phot:PSF                  LP 876-10       0       1 
+  PACS160    25.7605     14.9262    0.772814    0  mJy 2017arXiv170505693M   Elong:0.8072      Blend:0 HPPSC160A_J224804.7-242212       0       1 
+  PACS160  0.0201003  0.00307521  0.00107977    0   Jy         2018.DEBRIS chisq:0.894642     Phot:PSF    2MASS J22480446-2422075       0       0 
+ SPIRE250       25.9         0.0         0.0    1  mJy 2014MNRAS.438L..96K    Fomalhaut C ID:LP 876-10                  LP 876-10       0       1 
+ SPIRE250  0.0157075  0.00277723       0.007    0   Jy         2018.DEBRIS  chisq:1.34966       Cov:62    2MASS J22480446-2422075       0       0 
+ SPIRE350 0.00710717  0.00374472       0.007    0   Jy         2018.DEBRIS  chisq:1.34966      Cov:122    2MASS J22480446-2422075       0       0 
+ SPIRE350       18.9         0.0         0.0    1  mJy 2014MNRAS.438L..96K    Fomalhaut C ID:LP 876-10                  LP 876-10       0       1 
+ SPIRE500  0.0016268  0.00347831       0.007    0   Jy         2018.DEBRIS  chisq:1.34966       Cov:81    2MASS J22480446-2422075       0       0 
+ SPIRE500       20.4         0.0         0.0    1  mJy 2014MNRAS.438L..96K    Fomalhaut C ID:LP 876-10                  LP 876-10       0       1 

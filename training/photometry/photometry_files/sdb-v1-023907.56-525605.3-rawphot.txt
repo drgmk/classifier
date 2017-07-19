@@ -1,0 +1,39 @@
+\ photometry/spectra for sdb-v1-023907.56-525605.3
+\
+\main_id='HD 16743'
+\raj2000=39.7815115
+\dej2000=-52.9348069
+\sp_type='F0/2III/IV'
+\sp_bibcode='1975MSS...C01....0H'
+\plx_value=17.239999771118164
+\plx_err=0.23999999463558197
+\plx_bibcode='2016yCat.1337....0G'
+\id='sdb-v1-023907.56-525605.3'
+\irsstare0='cassis/irsstare/cassis_yaaar_spcfw_15018240t.fits'
+|    Band|    Phot|       Err|       Sys| Lim|Unit|            bibcode|       Note1|     Note2|                  SourceID|private|exclude|
+|    char|  double|    double|    double|long|char|               char|        char|      char|                      char|   long|   long|
+|        |        |          |          |    |    |                   |            |          |                          |       |       |
+|    null|    null|      null|      null|null|null|               null|        null|      null|                      null|   null|   null|
+   GALNUV    12.36      0.004       0.01    0  mag 2011Ap&SS.335..161B       Nafl:0     Nexf:3  sdb-v1-023907.56-525605.3       0       0 
+  STROMC1    0.595      0.006      0.005    0  mag 2015A&A...580A..23P   Vmag:6.778 beta:2.721            TYC 8484-1443-1       0       0 
+       BT    7.196      0.015      0.006    0  mag 2000A&A...355L..27H     Prox:999  HIP:12361  sdb-v1-023907.56-525605.3       0       0 
+  STROMM1    0.166      0.006      0.005    0  mag 2015A&A...580A..23P   Vmag:6.778 beta:2.721            TYC 8484-1443-1       0       0 
+    BS_YS    0.231      0.002      0.005    0  mag 2015A&A...580A..23P   Vmag:6.778 beta:2.721            TYC 8484-1443-1       0       0 
+       VT    6.809       0.01      0.006    0  mag 2000A&A...355L..27H     Prox:999  HIP:12361  sdb-v1-023907.56-525605.3       0       0 
+       HP   6.8668 0.00803057      0.005    0  mag 1997HIP...C......0E    VarType:C      Mult:                  HIP 12361       0       0 
+    2MR1J    6.114      0.024       0.01    0  mag 2003tmc..book.....C       Qflg:A     Cflg:0  sdb-v1-023907.56-525605.3       0       0 
+    2MR1H    5.971      0.024       0.01    0  mag 2003tmc..book.....C       Qflg:A     Cflg:0  sdb-v1-023907.56-525605.3       0       0 
+   2MR1KS    5.915      0.026       0.01    0  mag 2003tmc..book.....C       Qflg:A     Cflg:0  sdb-v1-023907.56-525605.3       0       0 
+  WISE3P4    5.955      0.134      0.024    0  mag 2010AJ....140.1868W       qual:B   Var:4100  sdb-v1-023907.56-525605.3       0       0 
+  WISE4P6    5.799      0.051      0.028    0  mag 2010AJ....140.1868W       qual:A   Var:4100  sdb-v1-023907.56-525605.3       0       0 
+   AKARI9   0.2672    0.00768   0.004008    0   Jy 2010A&A...514A...1I       ext?:0   N-near:0  sdb-v1-023907.56-525605.3       0       0 
+   WISE12    5.904      0.014      0.045    0  mag 2010AJ....140.1868W       qual:A   Var:4100  sdb-v1-023907.56-525605.3       0       0 
+   WISE22    5.406      0.031      0.057    0  mag 2010AJ....140.1868W       qual:A   Var:4100  sdb-v1-023907.56-525605.3       0       0 
+   MIPS24  51390.0      95.65     1027.8    0  uJy       2013.SEIP.dr4     Brt:0.96      Ext:0  sdb-v1-023907.56-525605.3       0       0 
+   MIPS70    368.8       26.5     25.816    0  mJy 2014ApJS..211...25C Name:HD16743   r_F70:23                   HD 16743       0       0 
+   MIPS70    368.8       26.5     14.752    0  mJy 2011ApJS..193....4M AOR:15002624    Notes:5                   HD 16743       0       1 
+  PACS100  333.112    8.15073    16.6556    0  mJy 2017arXiv170505693M Elong:0.8296    Blend:0 HPPSC100A_J023907.7-525605       0       0 
+  PACS100 0.302226 0.00402807 0.00761913    0   Jy             HSA_GMK   1342261271   Phot:PSF                   HD 16743       0       1 
+  PACS160   222.72    21.3587    6.68161    0  mJy 2017arXiv170505693M Elong:0.0000    Blend:0 HPPSC160A_J023907.7-525605       0       0 
+  PACS160 0.201459  0.0078025 0.00832475    0   Jy             HSA_GMK   1342261271   Phot:PSF                   HD 16743       0       1 
+ SPIRE250     93.4       10.6      6.538    0  mJy       2017.HSPSC_v1        Ext:0 Low FWHM:0  HSPSC250A_J0239.12-5256.1       0       0 

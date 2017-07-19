@@ -1,0 +1,45 @@
+\ photometry/spectra for sdb-v1-214521.91-124700.1
+\
+\main_id='HD 206893'
+\raj2000=326.3412715
+\dej2000=-12.7833529
+\sp_type='F5V'
+\sp_bibcode='2006AJ....132..161G'
+\plx_value=24.59000015258789
+\plx_err=0.25999999046325684
+\plx_bibcode='2016yCat.1337....0G'
+\id='sdb-v1-214521.91-124700.1'
+\irsstare0='cassis/irsstare/cassis_yaaar_spcfw_10893056t.fits'
+|   Band|    Phot|       Err|      Sys| Lim|Unit|            bibcode|        Note1|      Note2|                  SourceID|private|exclude|
+|   char|  double|    double|   double|long|char|               char|         char|       char|                      char|   long|   long|
+|       |        |          |         |    |    |                   |             |           |                          |       |       |
+|   null|    null|      null|     null|null|null|               null|         null|       null|                      null|   null|   null|
+  GALFUV   15.958       0.02      0.01    0  mag 2011Ap&SS.335..161B        Fafl:0      Fexf:0  sdb-v1-214521.91-124700.1       0       0 
+  GALNUV   11.842      0.002      0.01    0  mag 2011Ap&SS.335..161B      Nafl:138      Nexf:0  sdb-v1-214521.91-124700.1       0       0 
+ STROMC1    0.431      0.004     0.005    0  mag 2015A&A...580A..23P    Vmag:6.692       beta:            TYC 5796-1161-1       0       0 
+      BT    7.192      0.016     0.006    0  mag 2000A&A...355L..27H      Prox:999  HIP:107412  sdb-v1-214521.91-124700.1       0       0 
+ STROMM1    0.158       0.01     0.005    0  mag 2015A&A...580A..23P    Vmag:6.692       beta:            TYC 5796-1161-1       0       0 
+   BS_YS    0.287      0.004     0.005    0  mag 2015A&A...580A..23P    Vmag:6.692       beta:            TYC 5796-1161-1       0       0 
+      VT    6.726      0.011     0.006    0  mag 2000A&A...355L..27H      Prox:999  HIP:107412  sdb-v1-214521.91-124700.1       0       0 
+      HP   6.7861  0.0070859     0.005    0  mag 1997HIP...C......0E     VarType:C       Mult:                 HIP 107412       0       0 
+   2MR1J    5.869      0.023      0.01    0  mag 2003tmc..book.....C        Qflg:A      Cflg:0  sdb-v1-214521.91-124700.1       0       0 
+   2MR1H    5.687      0.034      0.01    0  mag 2003tmc..book.....C        Qflg:A      Cflg:0  sdb-v1-214521.91-124700.1       0       0 
+  2MR1KS    5.593      0.021      0.01    0  mag 2003tmc..book.....C        Qflg:A      Cflg:0  sdb-v1-214521.91-124700.1       0       0 
+ WISE3P4    5.573      0.176     0.024    0  mag 2010AJ....140.1868W        qual:B    Var:0200  sdb-v1-214521.91-124700.1       0       0 
+ WISE4P6    5.452      0.052     0.028    0  mag 2010AJ....140.1868W        qual:A    Var:0200  sdb-v1-214521.91-124700.1       0       0 
+  IRAS12    0.249    0.04731       0.0    0   Jy 1990IRASF.C......0M        Qual:3      Conf:0           IRAS F21426-1300       0       0 
+  WISE12    5.629      0.015     0.045    0  mag 2010AJ....140.1868W        qual:A    Var:0200  sdb-v1-214521.91-124700.1       0       0 
+  WISE22    5.481      0.043     0.057    0  mag 2010AJ....140.1868W        qual:A    Var:0200  sdb-v1-214521.91-124700.1       0       0 
+  IRAS25    0.194    0.04656       0.0    1   Jy 1990IRASF.C......0M        Qual:1      Conf:0           IRAS F21426-1300       0       0 
+  MIPS24  45050.0      73.05     901.0    0  uJy       2013.SEIP.dr4      Brt:1.06       Ext:0  sdb-v1-214521.91-124700.1       0       0 
+  IRAS60    0.228    0.03876       0.0    0   Jy 1990IRASF.C......0M        Qual:3      Conf:0           IRAS F21426-1300       0       0 
+  PACS70 0.213626 0.00164665 0.0055248    0   Jy             HSA_GMK    1342270782    Phot:PSF                  HD 206893       0       1 
+  PACS70  257.361    1.71709   7.72083    0  mJy 2017arXiv170505693M  Elong:0.8671     Blend:0 HPPSC070A_J214521.9-124659       0       0 
+  MIPS70    265.7       20.0    18.599    0  mJy 2014ApJS..211...25C Name:HD206893    r_F70:23                  HD 206893       0       0 
+  MIPS70    265.7       20.0    10.628    0  mJy 2011ApJS..193....4M  AOR:10893312      Notes:                  HD 206893       0       1 
+ IRAS100    0.491    0.11293       0.0    1   Jy 1990IRASF.C......0M        Qual:1      Conf:0           IRAS F21426-1300       0       0 
+ PACS160 0.187656  0.0053302 0.0077544    0   Jy             HSA_GMK    1342270782    Phot:PSF                  HD 206893       0       1 
+ PACS160  219.128    11.1856   6.57383    0  mJy 2017arXiv170505693M  Elong:0.8452     Blend:0 HPPSC160A_J214521.9-124659       0       0 
+  WAV450     45.0        0.0       0.0    1  mJy 2017arXiv170601218H         No:26 Assoc:Field                  HD 206893       0       0 
+  WAV850      3.8        1.5       0.0    0  mJy 2006ApJ...653.1480W   Instr:SCUBA       Name:                  HD 206893       0       0 
+  WAV850      4.5        1.1       0.0    0  mJy 2017arXiv170601218H         No:26 Assoc:Field                  HD 206893       0       0 

@@ -1,0 +1,42 @@
+\ photometry/spectra for sdb-v1-232020.58+052252.7
+\
+\main_id='* 7 Psc'
+\raj2000=350.085763
+\dej2000=5.381306
+\sp_type='K1IV'
+\sp_bibcode='1999MSS...C05....0H'
+\plx_value=7.54
+\plx_err=0.4000000059604645
+\plx_bibcode='2007A&A...474..653V'
+\id='sdb-v1-232020.58+052252.7'
+|   Band|  Phot|       Err|     Sys| Lim|Unit|            bibcode|   Note1|     Note2|                 SourceID|private|exclude|
+|   char|double|    double|  double|long|char|               char|    char|      char|                     char|   long|   long|
+|       |      |          |        |    |    |                   |        |          |                         |       |       |
+|   null|  null|      null|    null|null|null|               null|    null|      null|                     null|   null|   null|
+  GALFUV 19.863      0.205     0.01    0  mag 2011Ap&SS.335..161B   Fafl:0     Fexf:0 sdb-v1-232020.58+052252.7       0       0 
+  GALNUV 14.467      0.011     0.01    0  mag 2011Ap&SS.335..161B   Nafl:2     Nexf:0 sdb-v1-232020.58+052252.7       0       0 
+   UJ_BJ  1.125      0.009    0.028    0  mag 2006yCat.2168....0M    Comp:    n_U_B:>                 HD 220009       0       0 
+      BT  6.606      0.015    0.006    0  mag 2000A&A...355L..27H Prox:999 HIP:115227 sdb-v1-232020.58+052252.7       0       0 
+   BJ_VJ  1.203      0.004     0.02    0  mag 2006yCat.2168....0M    Comp:    n_B_V:>                 HD 220009       0       0 
+      VT  5.202      0.009    0.006    0  mag 2000A&A...355L..27H Prox:999 HIP:115227 sdb-v1-232020.58+052252.7       0       0 
+      HP  5.217 0.00705762    0.005    0  mag 1997HIP...C......0E VarType:      Mult:                HIP 115227       0       0 
+      VJ  5.047      0.008     0.02    0  mag 2006yCat.2168....0M    Comp:   n_Vmag:>                 HD 220009       0       0 
+  JDENIS  2.848      0.001     0.01    0  mag 2004A&A...413.1037K    Var:0      Note:                 HD 220009       0       0 
+     2MJ  2.891       0.25     0.01    0  mag 2003tmc..book.....C   Qflg:D     Cflg:0 sdb-v1-232020.58+052252.7       0       0 
+     2MH   2.12       0.19     0.01    0  mag 2003tmc..book.....C   Qflg:C     Cflg:0 sdb-v1-232020.58+052252.7       0       0 
+ KSDENIS  1.971      0.029     0.01    0  mag 2004A&A...413.1037K    Var:0      Note:                 HD 220009       0       0 
+    2MKS  1.993      0.234     0.01    0  mag 2003tmc..book.....C   Qflg:D     Cflg:0 sdb-v1-232020.58+052252.7       0       0 
+ WISE3P4 -0.186        0.0    0.024    1  mag 2010AJ....140.1868W   qual:U   Var:nn10 sdb-v1-232020.58+052252.7       0       1 
+ WISE4P6  0.476        0.0    0.028    1  mag 2010AJ....140.1868W   qual:U   Var:nn10 sdb-v1-232020.58+052252.7       0       1 
+  AKARI9  9.334     0.0163  0.14001    0   Jy 2010A&A...514A...1I   ext?:0   N-near:0 sdb-v1-232020.58+052252.7       0       0 
+  IRAS12   7.24     0.5068      0.0    0   Jy 1988IRASP.C......0J   Qual:3     Conf:0           IRAS 23177+0506       0       1 
+  IRAS12   7.36     0.5152      0.0    0   Jy 1990IRASF.C......0M   Qual:3     Conf:0          IRAS F23177+0506       0       0 
+  WISE12  2.106      0.015    0.045    0  mag 2010AJ....140.1868W   qual:A   Var:nn10 sdb-v1-232020.58+052252.7       0       0 
+ AKARI18  2.129     0.0556 0.031935    0   Jy 2010A&A...514A...1I   ext?:0   N-near:0 sdb-v1-232020.58+052252.7       0       0 
+  WISE22  1.939      0.018    0.057    0  mag 2010AJ....140.1868W   qual:A   Var:nn10 sdb-v1-232020.58+052252.7       0       0 
+  IRAS25   1.58     0.1422      0.0    0   Jy 1990IRASF.C......0M   Qual:2     Conf:0          IRAS F23177+0506       0       0 
+  IRAS25   1.68      0.168      0.0    0   Jy 1988IRASP.C......0J   Qual:3     Conf:0           IRAS 23177+0506       0       1 
+  IRAS60    0.4        0.0      0.0    1   Jy 1988IRASP.C......0J   Qual:1     Conf:0           IRAS 23177+0506       0       1 
+  IRAS60  0.254    0.04826      0.0    0   Jy 1990IRASF.C......0M   Qual:3     Conf:0          IRAS F23177+0506       0       0 
+ IRAS100    1.0        0.0      0.0    1   Jy 1988IRASP.C......0J   Qual:1     Conf:0           IRAS 23177+0506       0       1 
+ IRAS100  0.639     0.1917      0.0    1   Jy 1990IRASF.C......0M   Qual:1     Conf:0          IRAS F23177+0506       0       0 

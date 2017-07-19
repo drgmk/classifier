@@ -1,0 +1,72 @@
+\ photometry/spectra for sdb-v1-123204.23-161145.6
+\
+\main_id='* eta Crv'
+\raj2000=188.017611
+\dej2000=-16.196007
+\sp_type='F2V'
+\sp_bibcode='2006AJ....132..161G'
+\plx_value=54.7
+\plx_err=0.17000000178813934
+\plx_bibcode='2007A&A...474..653V'
+\id='sdb-v1-123204.23-161145.6'
+|    Band|      Phot|       Err|       Sys| Lim|Unit|            bibcode|         Note1|            Note2|                  SourceID|private|exclude|
+|    char|    double|    double|    double|long|char|               char|          char|             char|                      char|   long|   long|
+|        |          |          |          |    |    |                   |              |                 |                          |       |       |
+|    null|      null|      null|      null|null|null|               null|          null|             null|                      null|   null|   null|
+    UJ_BJ      0.016      0.013      0.028    0  mag 2006yCat.2168....0M          Comp:           n_U_B:>                  HD 109085       0       0 
+  STROMC1      0.544      0.012      0.005    0  mag 2015A&A...580A..23P     Vmag:4.298        beta:2.702            TYC 6103-2394-1       0       0 
+       BT      4.728      0.014      0.006    0  mag 2000A&A...355L..27H       Prox:999         HIP:61174  sdb-v1-123204.23-161145.6       0       0 
+  STROMM1      0.164      0.008      0.005    0  mag 2015A&A...580A..23P     Vmag:4.298        beta:2.702            TYC 6103-2394-1       0       0 
+    BJ_VJ       0.37        0.0       0.02    0  mag 1990A&AS...83..357B          Std?:          Vmag:4.3                   GJ 471.2       0       0 
+    BJ_VJ      0.378      0.007       0.02    0  mag 2006yCat.2168....0M          Comp:           n_B_V:>                  HD 109085       0       0 
+    BS_YS      0.245      0.003      0.005    0  mag 2015A&A...580A..23P     Vmag:4.298        beta:2.702            TYC 6103-2394-1       0       0 
+       VT      4.338      0.009      0.006    0  mag 2000A&A...355L..27H       Prox:999         HIP:61174  sdb-v1-123204.23-161145.6       0       0 
+       HP     4.3853 0.00502494      0.005    0  mag 1997HIP...C......0E       VarType:             Mult:                  HIP 61174       0       0 
+       VJ        4.3      0.013       0.02    0  mag 2006yCat.2168....0M          Comp:          n_Vmag:>                  HD 109085       0       0 
+       VJ        4.3        0.0       0.02    0  mag 1990A&AS...83..357B          Std?:          Vmag:4.3                   GJ 471.2       0       0 
+    VJ_RC       0.23        0.0       0.02    0  mag 1990A&AS...83..357B          Std?:          Vmag:4.3                   GJ 471.2       0       0 
+    VJ_IC       0.44        0.0       0.02    0  mag 1990A&AS...83..357B          Std?:          Vmag:4.3                   GJ 471.2       0       0 
+      2MJ      3.609       0.25       0.01    0  mag 2003tmc..book.....C         Qflg:D            Cflg:0  sdb-v1-123204.23-161145.6       0       0 
+      2MH      3.372       0.24       0.01    0  mag 2003tmc..book.....C         Qflg:D            Cflg:0  sdb-v1-123204.23-161145.6       0       0 
+     2MKS      3.372      0.302       0.01    0  mag 2003tmc..book.....C         Qflg:D            Cflg:0  sdb-v1-123204.23-161145.6       0       0 
+  WISE3P4      2.685        0.0      0.024    1  mag 2010AJ....140.1868W         qual:U          Var:n011  sdb-v1-123204.23-161145.6       0       1 
+  WISE4P6      2.912      0.342      0.028    0  mag 2010AJ....140.1868W         qual:B          Var:n011  sdb-v1-123204.23-161145.6       0       1 
+   AKARI9      2.631      0.015   0.039465    0   Jy 2010A&A...514A...1I         ext?:0          N-near:0  sdb-v1-123204.23-161145.6       0       0 
+   IRAS12       2.18     0.1526        0.0    0   Jy 1988IRASP.C......0J         Qual:3            Conf:0            IRAS 12294-1555       0       1 
+   IRAS12       2.24     0.1344        0.0    0   Jy 1990IRASF.C......0M         Qual:3            Conf:0           IRAS F12294-1555       0       0 
+   WISE12      3.308      0.016      0.045    0  mag 2010AJ....140.1868W         qual:A          Var:n011  sdb-v1-123204.23-161145.6       0       0 
+  AKARI18     0.8368    0.00638   0.012552    0   Jy 2010A&A...514A...1I         ext?:0          N-near:0  sdb-v1-123204.23-161145.6       0       0 
+   WISE22      2.752      0.023      0.057    0  mag 2010AJ....140.1868W         qual:A          Var:n011  sdb-v1-123204.23-161145.6       0       0 
+   IRAS25      0.773    0.08503        0.0    0   Jy 1988IRASP.C......0J         Qual:3            Conf:0            IRAS 12294-1555       0       1 
+   IRAS25       0.77     0.0616        0.0    0   Jy 1990IRASF.C......0M         Qual:3            Conf:0           IRAS F12294-1555       0       0 
+   IRAS60      0.544        0.0        0.0    1   Jy 1988IRASP.C......0J         Qual:1            Conf:0            IRAS 12294-1555       0       1 
+   IRAS60      0.308    0.04312        0.0    0   Jy 1990IRASF.C......0M         Qual:3            Conf:0           IRAS F12294-1555       0       0 
+   PACS70  0.0979397 0.00138027 0.00253292    0   Jy             HSA_GMK     1342222622          Phot:PSF                  * eta Crv       0       1 
+   PACS70      230.0       13.0        0.0    0  mJy 2014ApJ...784..148D        eta Crv      ID:HD 109085                  HD 109085       0       1 
+   PACS70    0.25751 0.00379994  0.0145493    0   Jy         2018.DEBRIS  chisq:14.2302           Phot:Ap    2MASS J12320424-1611455       0       0 
+   MIPS70      198.2        6.8      7.928    0  mJy 2006ApJ...652.1674B      Flags:def Altname:HD 109085                  HD 109085       0       1 
+   MIPS70      259.1       4.09     12.955    0  mJy 2013ApJ...768...25G           Xs:Y          AgeFlg:1                  HD 109085       0       1 
+   MIPS70      259.1       4.09     18.137    0  mJy 2014ApJS..211...25C    Name:etaCrv           r_F70:9                  HD 109085       0       0 
+  IRAS100      0.803    0.24893        0.0    1   Jy 1990IRASF.C......0M         Qual:1            Conf:0           IRAS F12294-1555       0       0 
+  IRAS100        1.0        0.0        0.0    1   Jy 1988IRASP.C......0J         Qual:1            Conf:0            IRAS 12294-1555       0       1 
+  PACS100   0.106579 0.00176951 0.00268686    0   Jy             HSA_GMK     1342234385          Phot:PSF                  * eta Crv       0       1 
+  PACS100      252.0       16.0        0.0    0  mJy 2014ApJ...784..148D        eta Crv      ID:HD 109085                  HD 109085       0       1 
+  PACS100   0.320901 0.00421727  0.0182914    0   Jy         2018.DEBRIS   chisq:20.016           Phot:Ap    2MASS J12320424-1611455       0       0 
+  PACS160    221.341    10.5589    6.64022    0  mJy 2017arXiv170505693M   Elong:0.7894           Blend:0 HPPSC160A_J123203.8-161146       0       1 
+  PACS160   0.167729   0.003898 0.00693095    0   Jy             HSA_GMK     1342234385          Phot:PSF                  * eta Crv       0       1 
+  PACS160   0.239831  0.0151169   0.015589    0   Jy         2018.DEBRIS   chisq:20.016           Phot:Ap    2MASS J12320424-1611455       0       0 
+  PACS160      231.0       13.0        0.0    0  mJy 2014ApJ...784..148D        eta Crv      ID:HD 109085                  HD 109085       0       1 
+  PACS160    0.15954 0.00359104 0.00659255    0   Jy             HSA_GMK     1342222622          Phot:PSF                  * eta Crv       0       1 
+ SPIRE250      100.0       10.0        0.0    0  mJy 2014ApJ...784..148D        eta Crv      ID:HD 109085                  HD 109085       0       1 
+ SPIRE250   0.101879 0.00345973 0.00713153    0   Jy         2018.DEBRIS chisq:0.963924            Cov:66    2MASS J12320424-1611455       0       0 
+ SPIRE350      100.0        0.0        0.0    1  mJy 2014ApJ...784..148D        eta Crv      ID:HD 109085                  HD 109085       0       1 
+ SPIRE350   0.043635 0.00487837      0.007    0   Jy         2018.DEBRIS chisq:0.963924           Cov:157    2MASS J12320424-1611455       0       0 
+   WAV450       58.2        9.8        0.0    0  mJy 2005ApJ...620..492W    Instr:SCUBA    Name:eta Corvi                  HD 109085       0       0 
+   WAV450       54.1       12.1        0.0    0  mJy 2017arXiv170601218H           No:5       Assoc:Field                  HD 109085       0       0 
+ SPIRE500 0.00847999   0.005618      0.007    0   Jy         2018.DEBRIS chisq:0.963924           Cov:105    2MASS J12320424-1611455       0       0 
+ SPIRE500       70.0        0.0        0.0    1  mJy 2014ApJ...784..148D        eta Crv      ID:HD 109085                  HD 109085       0       1 
+   WAV850       14.3        1.8        0.0    0  mJy 2005ApJ...620..492W    Instr:SCUBA    Name:eta Corvi                  HD 109085       0       0 
+   WAV850       15.5        1.4        0.0    0  mJy 2014ApJ...784..148D   Instr:SCUBA2    Name:eta Corvi                  HD 109085       0       0 
+   WAV850       15.4        1.1        0.0    0  mJy 2017arXiv170601218H           No:5       Assoc:Field                  HD 109085       0       0 
+   WAV880       10.1        0.4        0.0    0  mJy 2017MNRAS.465.2595M     Instr:ALMA      Name:eta Crv                  HD 109085       0       0 
+  WAV9000      0.036        0.0        0.0    1  mJy 2017arXiv170309388M     Instr:ATCA      Name:eta Crv                  HD 109085       0       0 

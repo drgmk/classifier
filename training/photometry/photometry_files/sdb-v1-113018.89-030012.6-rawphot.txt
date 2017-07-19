@@ -1,0 +1,44 @@
+\ photometry/spectra for sdb-v1-113018.89-030012.6
+\
+\main_id='* e Leo'
+\raj2000=172.578721
+\dej2000=-3.003497
+\sp_type='K3/4III'
+\sp_bibcode='1999MSS...C05....0H'
+\plx_value=5.4
+\plx_err=0.3100000023841858
+\plx_bibcode='2007A&A...474..653V'
+\id='sdb-v1-113018.89-030012.6'
+|   Band|  Phot|    Err|     Sys| Lim|Unit|            bibcode|     Note1|    Note2|                 SourceID|private|exclude|
+|   char|double| double|  double|long|char|               char|      char|     char|                     char|   long|   long|
+|       |      |       |        |    |    |                   |          |         |                         |       |       |
+|   null|  null|   null|    null|null|null|               null|      null|     null|                     null|   null|   null|
+  GALFUV 19.146   0.126     0.01    0  mag 2011Ap&SS.335..161B     Fafl:0    Fexf:0 sdb-v1-113018.89-030012.6       0       0 
+  GALNUV  15.16   0.013     0.01    0  mag 2011Ap&SS.335..161B     Nafl:2    Nexf:0 sdb-v1-113018.89-030012.6       0       0 
+   UJ_BJ  1.803   0.024    0.028    0  mag 2006yCat.2168....0M      Comp:   n_U_B:>                  HD 99998       0       0 
+ STROMC1  0.361    0.01    0.005    0  mag 2015A&A...580A..23P Vmag:4.744     beta:           TYC 4933-1387-1       0       0 
+      BT   6.77   0.015    0.006    0  mag 2000A&A...355L..27H   Prox:999 HIP:56127 sdb-v1-113018.89-030012.6       0       0 
+  BAPASS  6.345   0.005     0.01    0  mag 2016yCat.2336....0H     nobs:2    mobs:5 sdb-v1-113018.89-030012.6       0       1 
+ STROMM1  0.769   0.012    0.005    0  mag 2015A&A...580A..23P Vmag:4.744     beta:           TYC 4933-1387-1       0       0 
+   BJ_VJ  1.531   0.007     0.02    0  mag 2006yCat.2168....0M      Comp:   n_B_V:>                  HD 99998       0       0 
+   BS_YS  0.952   0.008    0.005    0  mag 2015A&A...580A..23P Vmag:4.744     beta:           TYC 4933-1387-1       0       0 
+      VT  4.929   0.009    0.006    0  mag 2000A&A...355L..27H   Prox:999 HIP:56127 sdb-v1-113018.89-030012.6       0       0 
+      HP 4.8877  0.0082    0.005    0  mag 1997HIP...C......0E  VarType:M     Mult:                 HIP 56127       0       0 
+  VAPASS  5.885   0.204     0.01    0  mag 2016yCat.2336....0H     nobs:2    mobs:5 sdb-v1-113018.89-030012.6       0       1 
+      VJ  4.765   0.008     0.02    0  mag 2006yCat.2168....0M      Comp:  n_Vmag:>                  HD 99998       0       0 
+  IAPASS  4.557     0.0     0.01    0  mag 2016yCat.2336....0H     nobs:2    mobs:5 sdb-v1-113018.89-030012.6       0       1 
+  JDENIS  2.124   0.081     0.01    0  mag 2004A&A...413.1037K      Var:0     Note:                  HD 99998       0       0 
+     2MJ   2.16   0.266     0.01    0  mag 2003tmc..book.....C     Qflg:D    Cflg:0 sdb-v1-113018.89-030012.6       0       0 
+     2MH   1.39   0.244     0.01    0  mag 2003tmc..book.....C     Qflg:D    Cflg:0 sdb-v1-113018.89-030012.6       0       0 
+ KSDENIS  1.099   0.019     0.01    0  mag 2004A&A...413.1037K      Var:0     Note:                  HD 99998       0       0 
+    2MKS  1.247   0.264     0.01    0  mag 2003tmc..book.....C     Qflg:D    Cflg:0 sdb-v1-113018.89-030012.6       0       0 
+ WISE3P4 -1.371     0.0    0.024    1  mag 2010AJ....140.1868W     qual:U  Var:nnnn sdb-v1-113018.89-030012.6       0       1 
+ WISE4P6 -0.306     0.0    0.028    1  mag 2010AJ....140.1868W     qual:U  Var:nnnn sdb-v1-113018.89-030012.6       0       1 
+  AKARI9  21.79   0.218  0.32685    0   Jy 2010A&A...514A...1I     ext?:0  N-near:0 sdb-v1-113018.89-030012.6       0       0 
+  IRAS12   15.2   0.912      0.0    0   Jy 1988IRASP.C......0J     Qual:3    Conf:0           IRAS 11277-0243       0       0 
+  WISE12  1.178   0.047    0.045    0  mag 2010AJ....140.1868W     qual:A  Var:nnnn sdb-v1-113018.89-030012.6       0       1 
+ AKARI18  4.709  0.0504 0.070635    0   Jy 2010A&A...514A...1I     ext?:0  N-near:0 sdb-v1-113018.89-030012.6       0       0 
+  WISE22  1.037   0.013    0.057    0  mag 2010AJ....140.1868W     qual:A  Var:nnnn sdb-v1-113018.89-030012.6       0       1 
+  IRAS25   3.81  0.3048      0.0    0   Jy 1988IRASP.C......0J     Qual:3    Conf:0           IRAS 11277-0243       0       0 
+  IRAS60  0.607 0.05463      0.0    0   Jy 1988IRASP.C......0J     Qual:3    Conf:0           IRAS 11277-0243       0       0 
+ IRAS100    1.0     0.0      0.0    1   Jy 1988IRASP.C......0J     Qual:1    Conf:0           IRAS 11277-0243       0       0 

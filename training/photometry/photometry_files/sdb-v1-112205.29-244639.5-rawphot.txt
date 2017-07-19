@@ -1,0 +1,61 @@
+\ photometry/spectra for sdb-v1-112205.29-244639.5
+\
+\main_id='HD 98800'
+\raj2000=170.522041
+\dej2000=-24.77771
+\sp_type='K5V(e)'
+\sp_bibcode='1993ApJ...419L..89F'
+\plx_value=22.27
+\plx_err=2.309999942779541
+\plx_bibcode='2007A&A...474..653V'
+\id='sdb-v1-112205.29-244639.5'
+|    Band|   Phot|      Err|     Sys| Lim|Unit|            bibcode|       Note1|          Note2|                  SourceID|private|exclude|
+|    char| double|   double|  double|long|char|               char|        char|           char|                      char|   long|   long|
+|        |       |         |        |    |    |                   |            |               |                          |       |       |
+|    null|   null|     null|    null|null|null|               null|        null|           null|                      null|   null|   null|
+   GALFUV  18.625     0.111     0.01    0  mag 2011Ap&SS.335..161B       Fafl:0          Fexf:0  sdb-v1-112205.29-244639.5       0       0 
+   GALNUV  16.445     0.013     0.01    0  mag 2011Ap&SS.335..161B       Nafl:5          Nexf:0  sdb-v1-112205.29-244639.5       0       0 
+    UJ_BJ    1.07       0.0    0.028    0  mag 2006yCat.2168....0M       Comp:D          n_U_B:                   HD 98800       0       1 
+       BT  10.642     0.037    0.006    0  mag 2000A&A...355L..27H     Prox:999       HIP:55505  sdb-v1-112205.29-244639.5       0       0 
+   BAPASS  10.196     0.101     0.01    0  mag 2016yCat.2336....0H       nobs:5         mobs:25  sdb-v1-112205.29-244639.5       0       0 
+   GAPASS  10.236      0.18     0.01    0  mag 2016yCat.2336....0H       nobs:5         mobs:25  sdb-v1-112205.29-244639.5       0       0 
+    BJ_VJ   1.265       0.0     0.02    0  mag 2006yCat.2168....0M       Comp:D          n_B_V:                   HD 98800       0       1 
+       VT   9.239     0.017    0.006    0  mag 2000A&A...355L..27H     Prox:999       HIP:55505  sdb-v1-112205.29-244639.5       0       0 
+       HP  9.0217 0.0261725    0.005    0  mag 1997HIP...C......0E    VarType:U          Mult:C                  HIP 55505       0       1 
+       VJ    9.08       0.0     0.02    0  mag 2006yCat.2168....0M       Comp:D         n_Vmag:                   HD 98800       0       1 
+   IDENIS   8.561      0.03     0.01    0  mag 2005yCat.2263....0T      Ipsf:72          Iflg:4  sdb-v1-112205.29-244639.5       0       1 
+    2MR1J   6.397      0.02     0.01    0  mag 2003tmc..book.....C       Qflg:A          Cflg:0  sdb-v1-112205.29-244639.5       0       0 
+    2MR1H   5.759     0.027     0.01    0  mag 2003tmc..book.....C       Qflg:A          Cflg:0  sdb-v1-112205.29-244639.5       0       0 
+   2MR1KS   5.587     0.021     0.01    0  mag 2003tmc..book.....C       Qflg:A          Cflg:0  sdb-v1-112205.29-244639.5       0       0 
+  WISE3P4   5.496      0.18    0.024    0  mag 2010AJ....140.1868W       qual:B        Var:0311  sdb-v1-112205.29-244639.5       0       0 
+  WISE4P6   5.344     0.062    0.028    0  mag 2010AJ....140.1868W       qual:A        Var:0311  sdb-v1-112205.29-244639.5       0       0 
+   AKARI9   1.083    0.0277 0.016245    0   Jy 2010A&A...514A...1I       ext?:0        N-near:0  sdb-v1-112205.29-244639.5       0       0 
+   IRAS12    1.98    0.1188      0.0    0   Jy 1990IRASF.C......0M       Qual:3          Conf:0           IRAS F11196-2430       0       0 
+   IRAS12    1.98    0.1386      0.0    0   Jy 1988IRASP.C......0J       Qual:3          Conf:0            IRAS 11195-2430       0       1 
+   WISE12    3.11     0.013    0.045    0  mag 2010AJ....140.1868W       qual:A        Var:0311  sdb-v1-112205.29-244639.5       0       0 
+  AKARI18   6.153     0.325 0.092295    0   Jy 2010A&A...514A...1I       ext?:0        N-near:0  sdb-v1-112205.29-244639.5       0       0 
+   WISE22   0.202     0.011    0.057    0  mag 2010AJ....140.1868W       qual:A        Var:0311  sdb-v1-112205.29-244639.5       0       0 
+   IRAS25    9.44    0.7552      0.0    0   Jy 1990IRASF.C......0M       Qual:2          Conf:0           IRAS F11196-2430       0       0 
+   IRAS25    9.28    0.7424      0.0    0   Jy 1988IRASP.C......0J       Qual:3          Conf:0            IRAS 11195-2430       0       1 
+   IRAS60    7.28    0.8736      0.0    0   Jy 1988IRASP.C......0J       Qual:3          Conf:0            IRAS 11195-2430       0       1 
+   IRAS60    7.89     0.789      0.0    0   Jy 1990IRASF.C......0M       Qual:3          Conf:0           IRAS F11196-2430       0       0 
+   MIPS70  6260.0    1250.0    438.2    0  mJy 2014ApJS..211...25C Name:HD98800        r_F70:19                   HD 98800       0       0 
+  IRAS100    4.46    0.4906      0.0    0   Jy 1988IRASP.C......0J       Qual:3          Conf:0            IRAS 11195-2430       0       1 
+  IRAS100    4.57    0.3199      0.0    0   Jy 1990IRASF.C......0M       Qual:2          Conf:0           IRAS F11196-2430       0       0 
+  PACS100 4618.97   9.03643  230.949    0  mJy 2017arXiv170505693M Elong:0.0000         Blend:0 HPPSC100A_J112205.2-244640       0       0 
+  PACS160 2459.13   23.5198  73.7738    0  mJy 2017arXiv170505693M Elong:0.0000         Blend:0 HPPSC160A_J112205.2-244640       0       0 
+ SPIRE250  1174.8      17.2   82.236    0  mJy       2017.HSPSC_v1        Ext:0      Low FWHM:1  HSPSC250A_J1122.08-2446.7       0       0 
+ SPIRE350   628.3      15.0   43.981    0  mJy       2017.HSPSC_v1        Ext:0      Low FWHM:0  HSPSC350A_J1122.08-2446.7       0       0 
+   WAV450   242.0      15.0      0.0    0  mJy 2017arXiv170601218H         No:2 Assoc:TW Hydrae                   HD 98800       0       0 
+   WAV450  3600.0       0.0      0.0    1  mJy 1996MNRAS.279..915S  Instr:UKT14           Name:                   HD 98800       0       0 
+ SPIRE500   309.7      15.6   21.679    0  mJy       2017.HSPSC_v1        Ext:0      Low FWHM:0  HSPSC500A_J1122.08-2446.6       0       0 
+   WAV800   282.0      10.0      0.0    0  mJy 1995Ap&SS.224..389W    Instr:CSO Name:SAO 179815                   HD 98800       0       0 
+   WAV800   111.0      12.0      0.0    0  mJy 1996MNRAS.279..915S  Instr:UKT14           Name:                   HD 98800       0       0 
+   WAV850    93.6       1.5      0.0    0  mJy 2017arXiv170601218H         No:2 Assoc:TW Hydrae                   HD 98800       0       0 
+   WAV870    33.6       8.4      0.0    0  mJy 2010A&A...518A..40N Instr:LABOCA           Name:                   HD 98800       0       0 
+  WAV1100    63.0       6.0      0.0    0  mJy 1996MNRAS.279..915S  Instr:UKT14           Name:                   HD 98800       0       0 
+  WAV1300    30.7       8.2      0.0    0  mJy 1995Ap&SS.224..389W    Instr:CSO Name:SAO 179815                   HD 98800       0       0 
+  WAV1300    11.0       3.0      0.0    0  mJy 1996MNRAS.279..915S  Instr:UKT14           Name:                   HD 98800       0       0 
+  WAV1300    54.4      3.61      0.0    0  mJy 1995Ap&SS.224..389W   Instr:IRAM Name:SAO 179815                   HD 98800       0       0 
+  WAV1350    36.8       4.2      0.0    0  mJy 2001MNRAS.327..133S  Instr:SCUBA   Name:HD 98800                   HD 98800       0       0 
+  WAV2000    24.8       3.4      0.0    0  mJy 2001MNRAS.327..133S  Instr:SCUBA   Name:HD 98800                   HD 98800       0       0 

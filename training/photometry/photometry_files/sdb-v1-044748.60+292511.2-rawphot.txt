@@ -1,0 +1,31 @@
+\ photometry/spectra for sdb-v1-044748.60+292511.2
+\
+\main_id='V* DS Tau'
+\raj2000=71.952482
+\dej2000=29.419766
+\sp_type='K4Ve'
+\sp_bibcode='1949ApJ...110..424J'
+\plx_value=None
+\plx_err=None
+\plx_bibcode=None
+\id='sdb-v1-044748.60+292511.2'
+\irsstare1='cassis/irsstare/cassis_yaaar_spcfw_3549184t.fits'
+|   Band|   Phot|    Err|      Sys| Lim|Unit|            bibcode|       Note1|   Note2|                  SourceID|private|exclude|
+|   char| double| double|   double|long|char|               char|        char|    char|                      char|   long|   long|
+|       |       |       |         |    |    |                   |            |        |                          |       |       |
+|   null|   null|   null|     null|null|null|               null|        null|    null|                      null|   null|   null|
+   2MR2J   9.465   0.018      0.01    0  mag 2003tmc..book.....C       Qflg:A   Cflg:0  sdb-v1-044748.60+292511.2       0       0 
+   2MR1H   8.597   0.033      0.01    0  mag 2003tmc..book.....C       Qflg:A   Cflg:0  sdb-v1-044748.60+292511.2       0       0 
+  2MR1KS   8.036   0.029      0.01    0  mag 2003tmc..book.....C       Qflg:A   Cflg:0  sdb-v1-044748.60+292511.2       0       0 
+ WISE3P4    7.35   0.029     0.024    0  mag 2010AJ....140.1868W       qual:A Var:1022  sdb-v1-044748.60+292511.2       0       0 
+ WISE4P6    6.84   0.021     0.028    0  mag 2010AJ....140.1868W       qual:A Var:1022  sdb-v1-044748.60+292511.2       0       0 
+  AKARI9  0.3177  0.0245 0.0047655    0   Jy 2010A&A...514A...1I       ext?:0 N-near:0  sdb-v1-044748.60+292511.2       0       0 
+  IRAS12    0.28   0.028       0.0    0   Jy 1990IRASF.C......0M       Qual:3   Conf:0           IRAS F04446+2919       0       0 
+  WISE12   5.204   0.014     0.045    0  mag 2010AJ....140.1868W       qual:A Var:1022  sdb-v1-044748.60+292511.2       0       0 
+ AKARI18  0.2406  0.0105  0.003609    0   Jy 2010A&A...514A...1I       ext?:0 N-near:0  sdb-v1-044748.60+292511.2       0       0 
+  WISE22   3.642   0.025     0.057    0  mag 2010AJ....140.1868W       qual:A Var:1022  sdb-v1-044748.60+292511.2       0       0 
+  IRAS25   0.283 0.03679       0.0    0   Jy 1990IRASF.C......0M       Qual:3   Conf:0           IRAS F04446+2919       0       0 
+  IRAS60   0.283 0.06509       0.0    0   Jy 1990IRASF.C......0M       Qual:2   Conf:0           IRAS F04446+2919       0       0 
+ IRAS100    2.14  0.4494       0.0    1   Jy 1990IRASF.C......0M       Qual:1   Conf:0           IRAS F04446+2919       0       0 
+ PACS100 259.911 9.10492   12.9956    0  mJy 2017arXiv170505693M Elong:0.9482  Blend:0 HPPSC100A_J044748.5+292511       0       0 
+ PACS160 239.353 20.9416    7.1806    0  mJy 2017arXiv170505693M Elong:0.8667  Blend:0 HPPSC160A_J044748.5+292512       0       0 

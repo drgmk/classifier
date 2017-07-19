@@ -1,0 +1,43 @@
+\ photometry/spectra for sdb-v1-045404.21-352416.3
+\
+\main_id='HD 31392'
+\raj2000=73.517541
+\dej2000=-35.404519
+\sp_type='G9V'
+\sp_bibcode='2006AJ....132..161G'
+\plx_value=38.810001373291016
+\plx_err=0.30000001192092896
+\plx_bibcode='2016yCat.1337....0G'
+\id='sdb-v1-045404.21-352416.3'
+\irsstare0='cassis/irsstare/cassis_yaaar_spcfw_5398272t.fits'
+|   Band|     Phot|       Err|       Sys| Lim|Unit|            bibcode|       Note1|    Note2|                  SourceID|private|exclude|
+|   char|   double|    double|    double|long|char|               char|        char|     char|                      char|   long|   long|
+|       |         |          |          |    |    |                   |            |         |                          |       |       |
+|   null|     null|      null|      null|null|null|               null|        null|     null|                      null|   null|   null|
+  GALFUV    20.423      0.181       0.01    0  mag 2011Ap&SS.335..161B       Fafl:0    Fexf:0  sdb-v1-045404.21-352416.3       0       0 
+  GALNUV    13.994      0.006       0.01    0  mag 2011Ap&SS.335..161B       Nafl:2    Nexf:0  sdb-v1-045404.21-352416.3       0       0 
+ STROMC1     0.329      0.002      0.005    0  mag 2015A&A...580A..23P   Vmag:7.592     beta:             TYC 7052-853-1       0       0 
+      BT     8.595      0.017      0.006    0  mag 2000A&A...355L..27H     Prox:999 HIP:22787  sdb-v1-045404.21-352416.3       0       0 
+ STROMM1     0.324      0.008      0.005    0  mag 2015A&A...580A..23P   Vmag:7.592     beta:             TYC 7052-853-1       0       0 
+   BS_YS     0.473      0.008      0.005    0  mag 2015A&A...580A..23P   Vmag:7.592     beta:             TYC 7052-853-1       0       0 
+      VT     7.697      0.011      0.006    0  mag 2000A&A...355L..27H     Prox:999 HIP:22787  sdb-v1-045404.21-352416.3       0       0 
+      HP    7.7427  0.0150652      0.005    0  mag 1997HIP...C......0E     VarType:     Mult:                  HIP 22787       0       0 
+  IDENIS     8.804       0.03       0.01    0  mag 2005yCat.2263....0T      Ipsf:53 Iflg:1004  sdb-v1-045404.21-352416.3       0       1 
+   2MR1J     6.249       0.03       0.01    0  mag 2003tmc..book.....C       Qflg:A    Cflg:0  sdb-v1-045404.21-352416.3       0       0 
+   2MR1H     5.887      0.042       0.01    0  mag 2003tmc..book.....C       Qflg:A    Cflg:0  sdb-v1-045404.21-352416.3       0       0 
+  2MR1KS      5.77      0.021       0.01    0  mag 2003tmc..book.....C       Qflg:A    Cflg:0  sdb-v1-045404.21-352416.3       0       0 
+ WISE3P4     5.791      0.124      0.024    0  mag 2010AJ....140.1868W       qual:B  Var:0200  sdb-v1-045404.21-352416.3       0       0 
+ WISE4P6     5.683      0.049      0.028    0  mag 2010AJ....140.1868W       qual:A  Var:0200  sdb-v1-045404.21-352416.3       0       0 
+  AKARI9    0.3382    0.00468   0.005073    0   Jy 2010A&A...514A...1I       ext?:0  N-near:0  sdb-v1-045404.21-352416.3       0       0 
+  IRAS12     0.187    0.02805        0.0    0   Jy 1990IRASF.C......0M       Qual:3    Conf:0           IRAS F04522-3529       0       0 
+  WISE12      5.77      0.015      0.045    0  mag 2010AJ....140.1868W       qual:A  Var:0200  sdb-v1-045404.21-352416.3       0       0 
+  WISE22     5.681      0.039      0.057    0  mag 2010AJ....140.1868W       qual:A  Var:0200  sdb-v1-045404.21-352416.3       0       0 
+  IRAS25     0.105     0.0252        0.0    1   Jy 1990IRASF.C......0M       Qual:1    Conf:0           IRAS F04522-3529       0       0 
+  IRAS60     0.137    0.03014        0.0    1   Jy 1990IRASF.C......0M       Qual:1    Conf:0           IRAS F04522-3529       0       0 
+  MIPS70      81.6        8.4      3.264    0  mJy 2008ApJS..179..423C NameHD 31392   Flag70:                   HD 31392       0       1 
+  MIPS70      81.6        8.4      5.712    0  mJy 2014ApJS..211...25C Name:HD31392   r_F70:3                   HD 31392       0       0 
+ IRAS100     0.369    0.08118        0.0    1   Jy 1990IRASF.C......0M       Qual:1    Conf:0           IRAS F04522-3529       0       0 
+ PACS100 0.0534905 0.00571877  0.0013485    0   Jy             HSA_GMK   1342270959  Phot:PSF                   HD 31392       0       1 
+ PACS100   70.3369     9.7603    3.51684    0  mJy 2017arXiv170505693M Elong:0.0000   Blend:0 HPPSC100A_J045404.3-352415       0       0 
+ PACS160 0.0376732  0.0199769 0.00155675    0   Jy             HSA_GMK   1342270959  Phot:PSF                   HD 31392       0       0 
+  WAV870       9.1        0.0        0.0    1  mJy 2010A&A...518A..40N Instr:LABOCA     Name:                   HD 31392       0       0 

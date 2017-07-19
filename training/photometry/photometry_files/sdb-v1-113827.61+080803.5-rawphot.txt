@@ -1,0 +1,41 @@
+\ photometry/spectra for sdb-v1-113827.61+080803.5
+\
+\main_id='* ome Vir'
+\raj2000=174.61503
+\dej2000=8.134296
+\sp_type='M4III'
+\sp_bibcode='1986ApJ...311..843S'
+\plx_value=6.56
+\plx_err=0.36000001430511475
+\plx_bibcode='2007A&A...474..653V'
+\id='sdb-v1-113827.61+080803.5'
+|   Band|  Phot|      Err|    Sys| Lim|Unit|            bibcode|    Note1|    Note2|                 SourceID|private|exclude|
+|   char|double|   double| double|long|char|               char|     char|     char|                     char|   long|   long|
+|       |      |         |       |    |    |                   |         |         |                         |       |       |
+|   null|  null|     null|   null|null|null|               null|     null|     null|                     null|   null|   null|
+  GALFUV 18.137     0.071    0.01    0  mag 2011Ap&SS.335..161B    Fafl:0    Fexf:0 sdb-v1-113827.61+080803.5       0       0 
+  GALNUV 15.182     0.012    0.01    0  mag 2011Ap&SS.335..161B   Nafl:17    Nexf:0 sdb-v1-113827.61+080803.5       0       0 
+   UJ_BJ  1.573     0.031   0.028    0  mag 2006yCat.2168....0M     Comp:   n_U_B:>                 HD 101153       0       0 
+      BT  7.247     0.015   0.006    0  mag 2000A&A...355L..27H  Prox:999 HIP:56779 sdb-v1-113827.61+080803.5       0       0 
+   BJ_VJ  1.576     0.015    0.02    0  mag 2006yCat.2168....0M     Comp:   n_B_V:>                 HD 101153       0       0 
+      VT  5.487     0.009   0.006    0  mag 2000A&A...355L..27H  Prox:999 HIP:56779 sdb-v1-113827.61+080803.5       0       0 
+      HP 5.2234 0.0512851   0.005    0  mag 1997HIP...C......0E VarType:U     Mult:                 HIP 56779       0       1 
+      VJ  5.361     0.043    0.02    0  mag 2006yCat.2168....0M     Comp:  n_Vmag:>                 HD 101153       0       0 
+     2MJ  0.965     0.218    0.01    0  mag 2003tmc..book.....C    Qflg:D    Cflg:0 sdb-v1-113827.61+080803.5       0       0 
+     2MH  0.034     0.236    0.01    0  mag 2003tmc..book.....C    Qflg:D    Cflg:0 sdb-v1-113827.61+080803.5       0       0 
+ KSDENIS -0.268     0.097    0.01    0  mag 2004A&A...413.1037K     Var:0     Note:                 HD 101153       0       0 
+    2MKS -0.212     0.276    0.01    0  mag 2003tmc..book.....C    Qflg:D    Cflg:0 sdb-v1-113827.61+080803.5       0       0 
+ WISE3P4 -1.556       0.0   0.024    1  mag 2010AJ....140.1868W    qual:U  Var:nnnn sdb-v1-113827.61+080803.5       0       1 
+ WISE4P6  -0.98       0.0   0.028    1  mag 2010AJ....140.1868W    qual:U  Var:nnnn sdb-v1-113827.61+080803.5       0       1 
+  AKARI9  89.06      1.08  1.3359    0   Jy 2010A&A...514A...1I    ext?:0  N-near:0 sdb-v1-113827.61+080803.5       0       0 
+  IRAS12   63.7     3.822     0.0    0   Jy 1990IRASF.C......0M    Qual:3    Conf:0          IRAS F11358+0824       0       0 
+  IRAS12   62.3     3.115     0.0    0   Jy 1988IRASP.C......0J    Qual:3    Conf:0           IRAS 11358+0824       0       1 
+  WISE12 -0.234     0.389   0.045    0  mag 2010AJ....140.1868W    qual:C  Var:nnnn sdb-v1-113827.61+080803.5       0       1 
+ AKARI18  20.49     0.173 0.30735    0   Jy 2010A&A...514A...1I    ext?:0  N-near:0 sdb-v1-113827.61+080803.5       0       0 
+  WISE22 -0.462     0.016   0.057    0  mag 2010AJ....140.1868W    qual:A  Var:nnnn sdb-v1-113827.61+080803.5       0       1 
+  IRAS25   15.7     0.942     0.0    0   Jy 1990IRASF.C......0M    Qual:3    Conf:0          IRAS F11358+0824       0       0 
+  IRAS25   15.6     1.248     0.0    0   Jy 1988IRASP.C......0J    Qual:3    Conf:0           IRAS 11358+0824       0       1 
+  IRAS60   2.64    0.1584     0.0    0   Jy 1990IRASF.C......0M    Qual:3    Conf:0          IRAS F11358+0824       0       0 
+  IRAS60   2.77    0.3324     0.0    0   Jy 1988IRASP.C......0J    Qual:3    Conf:0           IRAS 11358+0824       0       1 
+ IRAS100    1.2       0.0     0.0    1   Jy 1988IRASP.C......0J    Qual:1    Conf:0           IRAS 11358+0824       0       1 
+ IRAS100  0.755    0.1812     0.0    0   Jy 1990IRASF.C......0M    Qual:2    Conf:0          IRAS F11358+0824       0       0 

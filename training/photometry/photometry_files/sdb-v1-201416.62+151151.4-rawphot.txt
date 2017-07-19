@@ -1,0 +1,53 @@
+\ photometry/spectra for sdb-v1-201416.62+151151.4
+\
+\main_id='* rho Aql'
+\raj2000=303.569245
+\dej2000=15.197609
+\sp_type='A1Va'
+\sp_bibcode='1987ApJS...65..581G'
+\plx_value=21.75
+\plx_err=0.25999999046325684
+\plx_bibcode='2007A&A...474..653V'
+\id='sdb-v1-201416.62+151151.4'
+\irsstare0='cassis/irsstare/cassis_yaaar_spcfw_14143744t.fits'
+|   Band|    Phot|       Err|       Sys| Lim|Unit|            bibcode|        Note1|      Note2|                  SourceID|private|exclude|
+|   char|  double|    double|    double|long|char|               char|         char|       char|                      char|   long|   long|
+|       |        |          |          |    |    |                   |             |           |                          |       |       |
+|   null|    null|      null|      null|null|null|               null|         null|       null|                      null|   null|   null|
+   UJ_BJ    0.039      0.022      0.028    0  mag 2006yCat.2168....0M         Comp:      n_U_B:                  HD 192425       0       0 
+ STROMC1    1.029      0.018      0.005    0  mag 2015A&A...580A..23P     Vmag:4.92  beta:2.916            TYC 1618-2331-1       0       0 
+      BT    5.028      0.014      0.006    0  mag 2000A&A...355L..27H      Prox:999   HIP:99742  sdb-v1-201416.62+151151.4       0       0 
+ STROMM1    0.184      0.004      0.005    0  mag 2015A&A...580A..23P     Vmag:4.92  beta:2.916            TYC 1618-2331-1       0       0 
+   BJ_VJ    0.075      0.012       0.02    0  mag 2006yCat.2168....0M         Comp:      n_B_V:                  HD 192425       0       0 
+   BS_YS     0.03      0.006      0.005    0  mag 2015A&A...580A..23P     Vmag:4.92  beta:2.916            TYC 1618-2331-1       0       0 
+      VT    4.954      0.009      0.006    0  mag 2000A&A...355L..27H      Prox:999   HIP:99742  sdb-v1-201416.62+151151.4       0       0 
+      HP   4.9747 0.00503587      0.005    0  mag 1997HIP...C......0E     VarType:C       Mult:                  HIP 99742       0       0 
+      VJ    4.948      0.003       0.02    0  mag 2006yCat.2168....0M         Comp:     n_Vmag:                  HD 192425       0       0 
+     2MJ    4.865       0.27       0.01    0  mag 2003tmc..book.....C        Qflg:D      Cflg:d  sdb-v1-201416.62+151151.4       0       1 
+   2MR1H    4.801      0.034       0.01    0  mag 2003tmc..book.....C        Qflg:E      Cflg:0  sdb-v1-201416.62+151151.4       0       1 
+  2MR1KS    4.767      0.017       0.01    0  mag 2003tmc..book.....C        Qflg:A      Cflg:0  sdb-v1-201416.62+151151.4       0       0 
+ WISE3P4     4.76      0.224      0.024    0  mag 2010AJ....140.1868W        qual:B    Var:0000  sdb-v1-201416.62+151151.4       0       0 
+ WISE4P6      4.5      0.112      0.028    0  mag 2010AJ....140.1868W        qual:B    Var:0000  sdb-v1-201416.62+151151.4       0       0 
+  AKARI9   0.6981     0.0244  0.0104715    0   Jy 2010A&A...514A...1I        ext?:0    N-near:0  sdb-v1-201416.62+151151.4       0       0 
+  IRAS12    0.453    0.03624        0.0    0   Jy 1990IRASF.C......0M        Qual:3      Conf:0           IRAS F20119+1502       0       0 
+  IRAS12    0.497    0.03479        0.0    0   Jy 1988IRASP.C......0J        Qual:3      Conf:0            IRAS 20119+1502       0       1 
+  WISE12    4.765      0.015      0.045    0  mag 2010AJ....140.1868W        qual:A    Var:0000  sdb-v1-201416.62+151151.4       0       0 
+ AKARI18    0.182     0.0246    0.00273    0   Jy 2010A&A...514A...1I        ext?:0    N-near:0  sdb-v1-201416.62+151151.4       0       0 
+  WISE22    4.321      0.026      0.057    0  mag 2010AJ....140.1868W        qual:A    Var:0000  sdb-v1-201416.62+151151.4       0       0 
+  IRAS25    0.235     0.0329        0.0    0   Jy 1988IRASP.C......0J        Qual:3      Conf:0            IRAS 20119+1502       0       1 
+  IRAS25    0.258    0.03354        0.0    0   Jy 1990IRASF.C......0M        Qual:3      Conf:0           IRAS F20119+1502       0       0 
+  MIPS24 136400.0      149.6     2728.0    0  uJy       2013.SEIP.dr4      Brt:0.85       Ext:0  sdb-v1-201416.62+151151.4       0       0 
+  IRAS60      0.4        0.0        0.0    1   Jy 1988IRASP.C......0J        Qual:1      Conf:0            IRAS 20119+1502       0       1 
+  IRAS60    0.312    0.08112        0.0    1   Jy 1990IRASF.C......0M        Qual:1      Conf:0           IRAS F20119+1502       0       0 
+  MIPS70   164.91      11.09    11.5437    0  mJy 2014ApJS..211...25C Name:HD192425    r_F70:24                  HD 192425       0       0 
+  MIPS70   164.91      11.09     6.5964    0  mJy 2009ApJ...699.1067M     Tdust:185   T-PR:11.9                  HD 192425       0       1 
+ IRAS100     1.13        0.0        0.0    1   Jy 1988IRASP.C......0J        Qual:1      Conf:0            IRAS 20119+1502       0       1 
+ IRAS100     1.13     0.2712        0.0    1   Jy 1990IRASF.C......0M        Qual:1      Conf:0           IRAS F20119+1502       0       0 
+ PACS100  177.327    6.14736    8.86634    0  mJy 2017arXiv170505693M  Elong:0.6145     Blend:0 HPPSC100A_J201416.7+151152       0       0 
+ PACS100 0.223841 0.00643952 0.00671523    0   Jy             HSA_GMK    1342253511     Phot:Ap                  * rho Aql       0       1 
+ PACS160  0.15613 0.00940639  0.0078065    0   Jy             HSA_GMK    1342253511     Phot:Ap                  * rho Aql       0       1 
+ PACS160  174.077    17.0443    5.22232    0  mJy 2017arXiv170505693M  Elong:0.6911     Blend:0 HPPSC160A_J201416.7+151152       0       0 
+  WAV450     51.0        0.0        0.0    1  mJy 2017arXiv170601218H         No:41 Assoc:Field                  HD 192425       0       0 
+  WAV850      4.2        0.0        0.0    1  mJy 2017arXiv170601218H         No:41 Assoc:Field                  HD 192425       0       0 
+  WAV870     33.3        0.0        0.0    1  mJy 2003AJ....125.3334H    Instr:SMTO       Name:                  HD 192425       0       0 
+ WAV1300     7.95        0.0        0.0    1  mJy 2003AJ....125.3334H    Instr:SMTO       Name:                  HD 192425       0       0 

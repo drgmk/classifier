@@ -1,0 +1,66 @@
+\ photometry/spectra for sdb-v1-110150.48+562256.7
+\
+\main_id='* bet UMa'
+\raj2000=165.460319
+\dej2000=56.382426
+\sp_type='A1IVps'
+\sp_bibcode='2010MNRAS.403.1089P'
+\plx_value=40.9
+\plx_err=0.1599999964237213
+\plx_bibcode='2007A&A...474..653V'
+\id='sdb-v1-110150.48+562256.7'
+\irsstare0='cassis/irsstare/cassis_yaaar_spcfw_4930304t.fits'
+|    Band|     Phot|       Err|       Sys| Lim|Unit|            bibcode|        Note1|           Note2|                  SourceID|private|exclude|
+|    char|   double|    double|    double|long|char|               char|         char|            char|                      char|   long|   long|
+|        |         |          |          |    |    |                   |             |                |                          |       |       |
+|    null|     null|      null|      null|null|null|               null|         null|            null|                      null|   null|   null|
+    UJ_BJ     0.003      0.009      0.028    0  mag 2006yCat.2168....0M         Comp:          n_U_B:>                   HD 95418       0       0 
+  STROMC1     1.091      0.008      0.005    0  mag 2015A&A...580A..23P     Vmag:2.37       beta:2.882            TYC 3827-1079-1       0       0 
+  STROMM1      0.15      0.013      0.005    0  mag 2015A&A...580A..23P     Vmag:2.37       beta:2.882            TYC 3827-1079-1       0       0 
+    BJ_VJ     -0.02      0.006       0.02    0  mag 2006yCat.2168....0M         Comp:          n_B_V:>                   HD 95418       0       0 
+    BS_YS    -0.005      0.004      0.005    0  mag 2015A&A...580A..23P     Vmag:2.37       beta:2.882            TYC 3827-1079-1       0       0 
+       HP    2.3499 0.00401995      0.005    0  mag 1997HIP...C......0E      VarType:            Mult:                  HIP 53910       0       0 
+       VJ     2.366      0.009       0.02    0  mag 2006yCat.2168....0M         Comp:         n_Vmag:>                   HD 95418       0       0 
+      2MJ     2.269      0.244       0.01    0  mag 2003tmc..book.....C        Qflg:D           Cflg:0  sdb-v1-110150.48+562256.7       0       0 
+      2MH     2.359      0.164       0.01    0  mag 2003tmc..book.....C        Qflg:C           Cflg:0  sdb-v1-110150.48+562256.7       0       0 
+     2MKS     2.285      0.244       0.01    0  mag 2003tmc..book.....C        Qflg:D           Cflg:0  sdb-v1-110150.48+562256.7       0       0 
+  WISE3P4     1.156        0.0      0.024    1  mag 2010AJ....140.1868W        qual:U         Var:nn30  sdb-v1-110150.48+562256.7       0       1 
+  IRAC4P5 1.986e+07      455.1   397200.0    0  uJy       2013.SEIP.dr4      Brt:1.02            Ext:0  sdb-v1-110150.48+562256.7       0       0 
+  WISE4P6     0.845        0.0      0.028    1  mag 2010AJ....140.1868W        qual:U         Var:nn30  sdb-v1-110150.48+562256.7       0       1 
+   AKARI9       6.3     0.0269     0.0945    0   Jy 2010A&A...514A...1I        ext?:0         N-near:0  sdb-v1-110150.48+562256.7       0       0 
+   IRAS12       4.8      0.144        0.0    0   Jy 1988IRASP.C......0J        Qual:3           Conf:0            IRAS 10588+5639       0       1 
+   IRAS12      4.84     0.1936        0.0    0   Jy 1990IRASF.C......0M        Qual:3           Conf:0           IRAS F10588+5639       0       0 
+   WISE12     2.461      0.009      0.045    0  mag 2010AJ....140.1868W        qual:A         Var:nn30  sdb-v1-110150.48+562256.7       0       0 
+  AKARI18     1.546     0.0209    0.02319    0   Jy 2010A&A...514A...1I        ext?:0         N-near:0  sdb-v1-110150.48+562256.7       0       0 
+   WISE22     2.138      0.023      0.057    0  mag 2010AJ....140.1868W        qual:A         Var:nn30  sdb-v1-110150.48+562256.7       0       0 
+   IRAS25      1.39     0.0834        0.0    0   Jy 1988IRASP.C......0J        Qual:3           Conf:0            IRAS 10588+5639       0       1 
+   IRAS25       1.4       0.07        0.0    0   Jy 1990IRASF.C......0M        Qual:3           Conf:0           IRAS F10588+5639       0       0 
+   MIPS24 1.077e+06      48.94    21540.0    0  uJy       2013.SEIP.dr4      Brt:1.01         Ext:1.01  sdb-v1-110150.48+562256.7       0       0 
+   IRAS60     0.627    0.09405        0.0    0   Jy 1988IRASP.C......0J        Qual:3           Conf:0            IRAS 10588+5639       0       1 
+   IRAS60     0.563    0.04504        0.0    0   Jy 1990IRASF.C......0M        Qual:3           Conf:0           IRAS F10588+5639       0       0 
+   PACS70     393.0       19.0        0.0    0  mJy 2013MNRAS.428.1263B      beta UMa      ID:HD 95418                   HD 95418       0       1 
+   PACS70   431.466    2.97939     12.944    0  mJy 2017arXiv170505693M  Elong:0.8036          Blend:0 HPPSC070A_J110150.6+562257       0       1 
+   PACS70  0.358243 0.00175221  0.0092649    0   Jy             HSA_GMK    1342220802         Phot:PSF                  * bet UMa       0       1 
+   PACS70   0.43505  0.0031605  0.0245803    0   Jy         2018.DEBRIS chisq:6.84964          Phot:Ap    2MASS J11015046+5622566       0       0 
+   MIPS70     456.7       9.59     22.835    0  mJy 2013ApJ...768...25G          Xs:Y         AgeFlg:2                   HD 95418       0       1 
+   MIPS70     456.7       9.59     31.969    0  mJy 2014ApJS..211...25C   Name:betUMa          r_F70:9                   HD 95418       0       0 
+   MIPS70    421.13      84.23    16.8452    0  mJy 2006ApJ...653..675S       Age:300         xs70:YES                   HD 95418       0       1 
+  IRAS100     0.334    0.07348        0.0    1   Jy 1990IRASF.C......0M        Qual:1           Conf:0           IRAS F10588+5639       0       0 
+  IRAS100       1.0        0.0        0.0    1   Jy 1988IRASP.C......0J        Qual:1           Conf:0            IRAS 10588+5639       0       1 
+  PACS100     189.0       45.0        0.0    0  mJy 2013MNRAS.428.1263B      beta UMa      ID:HD 95418                   HD 95418       0       1 
+  PACS100   212.902    6.83796    10.6451    0  mJy 2017arXiv170505693M  Elong:0.8227          Blend:0 HPPSC100A_J110150.6+562256       0       1 
+  PACS100  0.211886 0.00479049  0.0120775    0   Jy         2018.DEBRIS chisq:1.56499          Phot:Ap    2MASS J11015046+5622566       0       0 
+  PACS100  0.197151 0.00179863 0.00497019    0   Jy             HSA_GMK    1342197015         Phot:PSF                  * bet UMa       0       1 
+  PACS160  0.075518 0.00491078 0.00405675    0   Jy         2018.DEBRIS chisq:1.56499         Phot:PSF    2MASS J11015046+5622566       0       0 
+  PACS160 0.0738609 0.00343285  0.0030521    0   Jy             HSA_GMK    1342197015         Phot:PSF                  * bet UMa       0       1 
+  PACS160 0.0828666 0.00470331 0.00342424    0   Jy             HSA_GMK    1342220802         Phot:PSF                  * bet UMa       0       1 
+  PACS160   74.7845    17.3899    2.24353    0  mJy 2017arXiv170505693M  Elong:0.8413          Blend:0 HPPSC160A_J110150.5+562257       0       1 
+  PACS160      58.3       17.0        0.0    0  mJy 2013MNRAS.428.1263B      beta UMa      ID:HD 95418                   HD 95418       0       1 
+ SPIRE250 0.0170239 0.00279998      0.007    0   Jy         2018.DEBRIS chisq:1.47308           Cov:70    2MASS J11015046+5622566       0       0 
+ SPIRE250      18.3        4.0        0.0    0  mJy 2013MNRAS.428.1263B      beta UMa      ID:HD 95418                   HD 95418       0       1 
+ SPIRE350      14.1        4.3        0.0    0  mJy 2013MNRAS.428.1263B      beta UMa      ID:HD 95418                   HD 95418       0       1 
+ SPIRE350 0.0154224 0.00368759      0.007    0   Jy         2018.DEBRIS chisq:1.47308           Cov:89    2MASS J11015046+5622566       0       0 
+   WAV450      60.0        0.0        0.0    1  mJy 2017arXiv170601218H         No:31 Assoc:Ursa Major                   HD 95418       0       0 
+ SPIRE500 0.0100144 0.00339206      0.007    0   Jy         2018.DEBRIS chisq:1.47308          Cov:134    2MASS J11015046+5622566       0       0 
+ SPIRE500       9.1        4.7        0.0    0  mJy 2013MNRAS.428.1263B      beta UMa      ID:HD 95418                   HD 95418       0       1 
+   WAV850       4.8        0.0        0.0    1  mJy 2017arXiv170601218H         No:31 Assoc:Ursa Major                   HD 95418       0       0 

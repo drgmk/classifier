@@ -1,0 +1,22 @@
+\ photometry/spectra for sdb-v1-043835.48+261041.5
+\
+\main_id='NAME HV Tau C'
+\raj2000=69.647833
+\dej2000=26.178194
+\sp_type='K6'
+\sp_bibcode='2004ApJ...616..998W'
+\plx_value=None
+\plx_err=None
+\plx_bibcode=None
+\id='sdb-v1-043835.48+261041.5'
+|   Band|   Phot|    Err|    Sys| Lim|Unit|            bibcode|       Note1|   Note2|                  SourceID|private|exclude|
+|   char| double| double| double|long|char|               char|        char|    char|                      char|   long|   long|
+|       |       |       |       |    |    |                   |            |        |                          |       |       |
+|   null|   null|   null|   null|null|null|               null|        null|    null|                      null|   null|   null|
+ WISE3P4  11.081   0.209   0.024    0  mag 2010AJ....140.1868W       qual:B Var:nnnn  sdb-v1-043835.48+261041.5       0       1 
+ WISE4P6  10.429   0.135   0.028    0  mag 2010AJ....140.1868W       qual:B Var:nnnn  sdb-v1-043835.48+261041.5       0       1 
+  WISE12   7.488    0.04   0.045    0  mag 2010AJ....140.1868W       qual:A Var:nnnn  sdb-v1-043835.48+261041.5       0       0 
+  WISE22   3.601   0.038   0.057    0  mag 2010AJ....140.1868W       qual:A Var:nnnn  sdb-v1-043835.48+261041.5       0       0 
+  PACS70 1572.62 17.4915 47.1786    0  mJy 2017arXiv170505693M Elong:0.8862  Blend:0 HPPSC070A_J043835.6+261042       0       0 
+ PACS100 1674.73 30.5473 83.7367    0  mJy 2017arXiv170505693M Elong:1.0167  Blend:0 HPPSC100A_J043835.5+261042       0       0 
+ PACS160 1558.94 95.4981 46.7681    0  mJy 2017arXiv170505693M Elong:0.7820  Blend:0 HPPSC160A_J043835.4+261042       0       0 

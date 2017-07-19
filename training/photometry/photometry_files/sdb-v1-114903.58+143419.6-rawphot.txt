@@ -1,0 +1,65 @@
+\ photometry/spectra for sdb-v1-114903.58+143419.6
+\
+\main_id='* bet Leo'
+\raj2000=177.264935
+\dej2000=14.572111
+\sp_type='A3Va'
+\sp_bibcode='2009ApJ...694.1085V'
+\plx_value=90.91
+\plx_err=0.5199999809265137
+\plx_bibcode='2007A&A...474..653V'
+\id='sdb-v1-114903.58+143419.6'
+\irsstare0='cassis/irsstare/cassis_yaaar_spcfw_4929793t.fits'
+\irsstare1='cassis/irsstare/cassis_yaaar_spcfw_4929792t.fits'
+|    Band|      Phot|       Err|       Sys| Lim|Unit|            bibcode|         Note1|        Note2|                  SourceID|private|exclude|
+|    char|    double|    double|    double|long|char|               char|          char|         char|                      char|   long|   long|
+|        |          |          |          |    |    |                   |              |             |                          |       |       |
+|    null|      null|      null|      null|null|null|               null|          null|         null|                      null|   null|   null|
+    UJ_BJ      0.076      0.021      0.028    0  mag 2006yCat.2168....0M          Comp:       n_U_B:>                  HD 102647       0       0 
+  STROMC1      0.974      0.005      0.005    0  mag 2015A&A...580A..23P      Vmag:2.12    beta:2.899              TYC 870-988-1       0       0 
+  STROMM1      0.208      0.007      0.005    0  mag 2015A&A...580A..23P      Vmag:2.12    beta:2.899              TYC 870-988-1       0       0 
+    BJ_VJ      0.091       0.01       0.02    0  mag 2006yCat.2168....0M          Comp:       n_B_V:>                  HD 102647       0       0 
+    BS_YS      0.042      0.004      0.005    0  mag 2015A&A...580A..23P      Vmag:2.12    beta:2.899              TYC 870-988-1       0       0 
+       HP     2.1605 0.00503587      0.005    0  mag 1997HIP...C......0E       VarType:         Mult:                  HIP 57632       0       0 
+       VJ      2.135      0.012       0.02    0  mag 2006yCat.2168....0M          Comp:      n_Vmag:>                  HD 102647       0       0 
+   JDENIS      2.042      0.081       0.01    0  mag 2004A&A...413.1037K          Var:0         Note:                  HD 102647       0       0 
+      2MJ      1.854      0.274       0.01    0  mag 2003tmc..book.....C         Qflg:D        Cflg:0  sdb-v1-114903.58+143419.6       0       0 
+      2MH      1.925      0.194       0.01    0  mag 2003tmc..book.....C         Qflg:C        Cflg:0  sdb-v1-114903.58+143419.6       0       0 
+  KSDENIS      1.888      0.009       0.01    0  mag 2004A&A...413.1037K          Var:0         Note:                  HD 102647       0       0 
+     2MKS      1.883      0.192       0.01    0  mag 2003tmc..book.....C         Qflg:C        Cflg:0  sdb-v1-114903.58+143419.6       0       0 
+  WISE3P4      0.461        0.0      0.024    1  mag 2010AJ....140.1868W         qual:U      Var:nn10  sdb-v1-114903.58+143419.6       0       1 
+  WISE4P6      0.129        0.0      0.028    1  mag 2010AJ....140.1868W         qual:U      Var:nn10  sdb-v1-114903.58+143419.6       0       1 
+   AKARI9      9.609     0.0424   0.144135    0   Jy 2010A&A...514A...1I         ext?:0      N-near:0  sdb-v1-114903.58+143419.6       0       0 
+   IRAS12       6.97     0.3485        0.0    0   Jy 1988IRASP.C......0J         Qual:3        Conf:0            IRAS 11464+1451       0       1 
+   IRAS12       7.07     0.4242        0.0    0   Jy 1990IRASF.C......0M         Qual:3        Conf:0           IRAS F11465+1450       0       0 
+   WISE12      2.056      0.016      0.045    0  mag 2010AJ....140.1868W         qual:A      Var:nn10  sdb-v1-114903.58+143419.6       0       0 
+  AKARI18      2.297     0.0601   0.034455    0   Jy 2010A&A...514A...1I         ext?:0      N-near:0  sdb-v1-114903.58+143419.6       0       0 
+   WISE22      1.698      0.017      0.057    0  mag 2010AJ....140.1868W         qual:A      Var:nn10  sdb-v1-114903.58+143419.6       0       0 
+   IRAS25       2.32     0.1856        0.0    0   Jy 1990IRASF.C......0M         Qual:2        Conf:0           IRAS F11465+1450       0       0 
+   IRAS25       2.11     0.2321        0.0    0   Jy 1988IRASP.C......0J         Qual:3        Conf:0            IRAS 11464+1451       0       1 
+   IRAS60       1.03     0.1648        0.0    0   Jy 1990IRASF.C......0M         Qual:3        Conf:0           IRAS F11465+1450       0       0 
+   IRAS60       1.18     0.1298        0.0    0   Jy 1988IRASP.C......0J         Qual:3        Conf:0            IRAS 11464+1451       0       1 
+   PACS70   0.787114 0.00594161  0.0444719    0   Jy         2018.DEBRIS   chisq:34.588       Phot:Ap    2MASS J11490366+1434197       0       0 
+   PACS70   0.554681 0.00192276  0.0143452    0   Jy             HSA_GMK     1342221863      Phot:PSF                  * bet Leo       0       1 
+   PACS70    693.907    1.58859    20.8172    0  mJy 2017arXiv170505693M   Elong:0.8745       Blend:0 HPPSC070A_J114903.1+143417       0       1 
+   MIPS70     676.47      45.54    27.0588    0  mJy 2006ApJ...653..675S         Age:50      xs70:YES                  HD 102647       0       1 
+   MIPS70      743.0       4.66      37.15    0  mJy 2013ApJ...768...25G           Xs:Y      AgeFlg:2                  HD 102647       0       1 
+   MIPS70      743.0       4.66      52.01    0  mJy 2014ApJS..211...25C    Name:betLeo       r_F70:9                  HD 102647       0       0 
+  IRAS100        1.0        0.0        0.0    1   Jy 1988IRASP.C......0J         Qual:1        Conf:0            IRAS 11464+1451       0       1 
+  IRAS100       1.12      0.336        0.0    1   Jy 1990IRASF.C......0M         Qual:1        Conf:0           IRAS F11465+1450       0       0 
+  PACS100   0.450022 0.00629059  0.0256513    0   Jy         2018.DEBRIS  chisq:13.6718       Phot:Ap    2MASS J11490366+1434197       0       0 
+  PACS100      480.0       30.0        0.0    0  mJy 2011MNRAS.417.1715C       beta Leo  ID:HD 102647                  HD 102647       0       1 
+  PACS160   0.166405 0.00298115 0.00687625    0   Jy             HSA_GMK     1342221863      Phot:PSF                  * bet Leo       0       1 
+  PACS160    0.18053 0.00832448  0.0117345    0   Jy         2018.DEBRIS   chisq:34.588       Phot:Ap    2MASS J11490366+1434197       0       0 
+  PACS160      215.0       32.0        0.0    0  mJy 2011MNRAS.417.1715C       beta Leo  ID:HD 102647                  HD 102647       0       1 
+  PACS160    193.031    12.2587    5.79094    0  mJy 2017arXiv170505693M   Elong:0.8155       Blend:0 HPPSC160A_J114903.1+143418       0       1 
+ SPIRE250       51.0       12.0        0.0    0  mJy 2011MNRAS.417.1715C       beta Leo  ID:HD 102647                  HD 102647       0       1 
+ SPIRE250  0.0461856 0.00287609      0.007    0   Jy         2018.DEBRIS chisq:0.721056        Cov:71    2MASS J11490366+1434197       0       0 
+ SPIRE250       51.9        5.3      3.633    0  mJy       2017.HSPSC_v1          Ext:0    Low FWHM:0  HSPSC250A_J1149.05+1434.2       0       1 
+ SPIRE350  0.0102658 0.00389444      0.007    0   Jy         2018.DEBRIS chisq:0.721056       Cov:164    2MASS J11490366+1434197       0       0 
+ SPIRE350       39.0        0.0        0.0    1  mJy 2011MNRAS.417.1715C       beta Leo  ID:HD 102647                  HD 102647       0       1 
+   WAV450       45.0        0.0        0.0    1  mJy 2017arXiv170601218H          No:32 Assoc:IC 2391                  HD 102647       0       0 
+ SPIRE500 -0.0101759  0.0036695      0.007    0   Jy         2018.DEBRIS chisq:0.721056        Cov:78    2MASS J11490366+1434197       0       0 
+ SPIRE500       15.0        0.0        0.0    1  mJy 2011MNRAS.417.1715C       beta Leo  ID:HD 102647                  HD 102647       0       1 
+   WAV850        4.5        0.0        0.0    1  mJy 2017arXiv170601218H          No:32 Assoc:IC 2391                  HD 102647       0       0 
+   WAV870      20.91        0.0        0.0    1  mJy 2003AJ....125.3334H     Instr:SMTO         Name:                  HD 102647       0       0 

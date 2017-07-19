@@ -1,0 +1,46 @@
+\ photometry/spectra for sdb-v1-044649.53-261808.8
+\
+\main_id='HD 30447'
+\raj2000=71.7063691
+\dej2000=-26.3024589
+\sp_type='F3V'
+\sp_bibcode='1982MSS...C03....0H'
+\plx_value=12.449999809265137
+\plx_err=0.25
+\plx_bibcode='2016yCat.1337....0G'
+\id='sdb-v1-044649.53-261808.8'
+\irsstare0='cassis/irsstare/cassis_yaaar_spcfw_10887424t.fits'
+|   Band|   Phot|      Err|     Sys| Lim|Unit|            bibcode|       Note1|    Note2|                 SourceID|private|exclude|
+|   char| double|   double|  double|long|char|               char|        char|     char|                     char|   long|   long|
+|       |       |         |        |    |    |                   |            |         |                         |       |       |
+|   null|   null|     null|    null|null|null|               null|        null|     null|                     null|   null|   null|
+  GALFUV  16.114     0.023     0.01    0  mag 2011Ap&SS.335..161B       Fafl:0    Fexf:0 sdb-v1-044649.53-261808.8       0       0 
+  GALNUV  13.061     0.004     0.01    0  mag 2011Ap&SS.335..161B     Nafl:128    Nexf:0 sdb-v1-044649.53-261808.8       0       0 
+ STROMC1   0.486     0.001    0.005    0  mag 2015A&A...580A..23P   Vmag:7.859 beta:2.69           TYC 6468-1650-1       0       0 
+      BT   8.324     0.015    0.006    0  mag 2000A&A...355L..27H     Prox:999 HIP:22226 sdb-v1-044649.53-261808.8       0       0 
+  BAPASS   8.196     0.033     0.01    0  mag 2016yCat.2336....0H       nobs:5   mobs:22 sdb-v1-044649.53-261808.8       0       0 
+  GAPASS   7.938     0.049     0.01    0  mag 2016yCat.2336....0H       nobs:5   mobs:22 sdb-v1-044649.53-261808.8       0       0 
+ STROMM1   0.144     0.001    0.005    0  mag 2015A&A...580A..23P   Vmag:7.859 beta:2.69           TYC 6468-1650-1       0       0 
+   BS_YS   0.266     0.002    0.005    0  mag 2015A&A...580A..23P   Vmag:7.859 beta:2.69           TYC 6468-1650-1       0       0 
+      VT   7.909      0.01    0.006    0  mag 2000A&A...355L..27H     Prox:999 HIP:22226 sdb-v1-044649.53-261808.8       0       0 
+      HP  7.9525 0.0120337    0.005    0  mag 1997HIP...C......0E     VarType:     Mult:                 HIP 22226       0       0 
+  VAPASS   7.881     0.057     0.01    0  mag 2016yCat.2336....0H       nobs:5   mobs:22 sdb-v1-044649.53-261808.8       0       0 
+  RAPASS   7.785     0.006     0.01    0  mag 2016yCat.2336....0H       nobs:5   mobs:22 sdb-v1-044649.53-261808.8       0       0 
+  IAPASS   7.784     0.008     0.01    0  mag 2016yCat.2336....0H       nobs:5   mobs:22 sdb-v1-044649.53-261808.8       0       0 
+  IDENIS   8.656      0.03     0.01    0  mag 2005yCat.2263....0T      Ipsf:68    Iflg:4 sdb-v1-044649.53-261808.8       0       1 
+   2MR1J   7.099     0.018     0.01    0  mag 2003tmc..book.....C       Qflg:A    Cflg:0 sdb-v1-044649.53-261808.8       0       0 
+   2MR1H   6.951     0.031     0.01    0  mag 2003tmc..book.....C       Qflg:A    Cflg:0 sdb-v1-044649.53-261808.8       0       0 
+  2MR1KS   6.894     0.021     0.01    0  mag 2003tmc..book.....C       Qflg:A    Cflg:0 sdb-v1-044649.53-261808.8       0       0 
+ WISE3P4   6.872     0.063    0.024    0  mag 2010AJ....140.1868W       qual:A  Var:1100 sdb-v1-044649.53-261808.8       0       0 
+ WISE4P6   6.867     0.021    0.028    0  mag 2010AJ....140.1868W       qual:A  Var:1100 sdb-v1-044649.53-261808.8       0       0 
+  AKARI9  0.1248   0.00426 0.001872    0   Jy 2010A&A...514A...1I       ext?:0  N-near:0 sdb-v1-044649.53-261808.8       0       0 
+  IRAS12  0.0916  0.016488      0.0    1   Jy 1990IRASF.C......0M       Qual:1    Conf:0          IRAS F04447-2623       0       0 
+  WISE12   6.867     0.016    0.045    0  mag 2010AJ....140.1868W       qual:A  Var:1100 sdb-v1-044649.53-261808.8       0       0 
+  WISE22     6.0     0.049    0.057    0  mag 2010AJ....140.1868W       qual:A  Var:1100 sdb-v1-044649.53-261808.8       0       0 
+  IRAS25  0.0663  0.011934      0.0    1   Jy 1990IRASF.C......0M       Qual:1    Conf:0          IRAS F04447-2623       0       0 
+  MIPS24 30250.0     90.43    605.0    0  uJy       2013.SEIP.dr4     Brt:1.01     Ext:0 sdb-v1-044649.53-261808.8       0       0 
+  IRAS60   0.274   0.03014      0.0    0   Jy 1990IRASF.C......0M       Qual:3    Conf:0          IRAS F04447-2623       0       0 
+  MIPS70   289.8      21.1   11.592    0  mJy 2011ApJS..193....4M AOR:10887680    Notes:                  HD 30447       0       1 
+  MIPS70   289.8      21.1   20.286    0  mJy 2014ApJS..211...25C Name:HD30447  r_F70:23                  HD 30447       0       0 
+ IRAS100   0.478   0.08126      0.0    1   Jy 1990IRASF.C......0M       Qual:1    Conf:0          IRAS F04447-2623       0       0 
+  WAV870     6.9       5.0      0.0    0  mJy 2010A&A...518A..40N Instr:LABOCA     Name:                  HD 30447       0       0 

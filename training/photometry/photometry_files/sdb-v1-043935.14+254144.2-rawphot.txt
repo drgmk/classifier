@@ -1,0 +1,35 @@
+\ photometry/spectra for sdb-v1-043935.14+254144.2
+\
+\main_id='HPPSC070A_J043935.2+254144'
+\raj2000=69.8964
+\dej2000=25.695600509643555
+\sp_type=None
+\sp_bibcode=None
+\plx_value=None
+\plx_err=None
+\plx_bibcode=None
+\id='sdb-v1-043935.14+254144.2'
+|   Band|   Phot|    Err|      Sys| Lim|Unit|            bibcode|       Note1|   Note2|                  SourceID|private|exclude|
+|   char| double| double|   double|long|char|               char|        char|    char|                      char|   long|   long|
+|       |       |       |         |    |    |                   |            |        |                          |       |       |
+|   null|   null|   null|     null|null|null|               null|        null|    null|                      null|   null|   null|
+     2MJ  16.905     0.0      0.01    0  mag 2003tmc..book.....C       Qflg:U   Cflg:0  sdb-v1-043935.14+254144.2       0       1 
+   2MR2H  13.752   0.061      0.01    0  mag 2003tmc..book.....C       Qflg:A   Cflg:0  sdb-v1-043935.14+254144.2       0       0 
+  2MR2KS  10.837   0.022      0.01    0  mag 2003tmc..book.....C       Qflg:A   Cflg:0  sdb-v1-043935.14+254144.2       0       0 
+ WISE3P4   7.959   0.025     0.024    0  mag 2010AJ....140.1868W       qual:A Var:3624  sdb-v1-043935.14+254144.2       0       0 
+ WISE4P6   5.555   0.048     0.028    0  mag 2010AJ....140.1868W       qual:A Var:3624  sdb-v1-043935.14+254144.2       0       0 
+  AKARI9  0.9127  0.0637 0.0136905    0   Jy 2010A&A...514A...1I       ext?:0 N-near:0  sdb-v1-043935.14+254144.2       0       0 
+  IRAS12    1.16  0.0812       0.0    0   Jy 1990IRASF.C......0M       Qual:3   Conf:0           IRAS F04365+2535       0       0 
+  IRAS12    1.19  0.1428       0.0    0   Jy 1988IRASP.C......0J       Qual:3   Conf:0            IRAS 04365+2535       0       1 
+  WISE12   3.437   0.014     0.045    0  mag 2010AJ....140.1868W       qual:A Var:3624  sdb-v1-043935.14+254144.2       0       0 
+ AKARI18   3.908   0.362   0.05862    0   Jy 2010A&A...514A...1I       ext?:0 N-near:0  sdb-v1-043935.14+254144.2       0       0 
+  WISE22   0.154   0.009     0.057    0  mag 2010AJ....140.1868W       qual:A Var:3624  sdb-v1-043935.14+254144.2       0       0 
+  IRAS25    8.62  0.5172       0.0    0   Jy 1988IRASP.C......0J       Qual:3   Conf:0            IRAS 04365+2535       0       1 
+  IRAS25    8.68   0.434       0.0    0   Jy 1990IRASF.C......0M       Qual:3   Conf:0           IRAS F04365+2535       0       0 
+  IRAS60    34.4    1.72       0.0    0   Jy 1990IRASF.C......0M       Qual:2   Conf:0           IRAS F04365+2535       0       0 
+  IRAS60    36.0    4.32       0.0    0   Jy 1988IRASP.C......0J       Qual:3   Conf:0            IRAS 04365+2535       0       1 
+  PACS70 42274.9 12.9657   1268.25    0  mJy 2017arXiv170505693M Elong:0.8845  Blend:0 HPPSC070A_J043935.2+254144       0       0 
+ IRAS100    39.2    5.88       0.0    0   Jy 1988IRASP.C......0J       Qual:3   Conf:0            IRAS 04365+2535       0       1 
+ IRAS100   106.0    26.5       0.0    1   Jy 1990IRASF.C......0M       Qual:1   Conf:0           IRAS F04365+2535       0       0 
+ PACS100 42432.6 52.0434   2121.63    0  mJy 2017arXiv170505693M Elong:0.0000  Blend:0 HPPSC100A_J043935.3+254144       0       0 
+ PACS160 40272.2   983.8   1208.17    0  mJy 2017arXiv170505693M Elong:0.8184  Blend:0 HPPSC160A_J043935.2+254145       0       0 

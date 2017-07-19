@@ -1,0 +1,41 @@
+\ photometry/spectra for sdb-v1-043920.92+254502.0
+\
+\main_id='HPPSC100A_J043921.0+254501'
+\raj2000=69.837159
+\dej2000=25.750568
+\sp_type=None
+\sp_bibcode=None
+\plx_value=None
+\plx_err=None
+\plx_bibcode=None
+\id='sdb-v1-043920.92+254502.0'
+|   Band|    Phot|    Err|      Sys| Lim|Unit|            bibcode|       Note1|   Note2|                  SourceID|private|exclude|
+|   char|  double| double|   double|long|char|               char|        char|    char|                      char|   long|   long|
+|       |        |       |         |    |    |                   |            |        |                          |       |       |
+|   null|    null|   null|     null|null|null|               null|        null|    null|                      null|   null|   null|
+  BAPASS   17.389     0.0      0.01    0  mag 2016yCat.2336....0H       nobs:2   mobs:8  sdb-v1-043920.92+254502.0       0       1 
+  GAPASS   16.452   0.319      0.01    0  mag 2016yCat.2336....0H       nobs:2   mobs:8  sdb-v1-043920.92+254502.0       0       0 
+  VAPASS   15.724     0.0      0.01    0  mag 2016yCat.2336....0H       nobs:2   mobs:8  sdb-v1-043920.92+254502.0       0       1 
+  RAPASS   14.602   0.328      0.01    0  mag 2016yCat.2336....0H       nobs:2   mobs:8  sdb-v1-043920.92+254502.0       0       0 
+  IAPASS   13.121   0.351      0.01    0  mag 2016yCat.2336....0H       nobs:2   mobs:8  sdb-v1-043920.92+254502.0       0       0 
+   2MR2J   10.196   0.025      0.01    0  mag 2003tmc..book.....C       Qflg:A   Cflg:0  sdb-v1-043920.92+254502.0       0       0 
+   2MR2H    8.893   0.026      0.01    0  mag 2003tmc..book.....C       Qflg:A   Cflg:0  sdb-v1-043920.92+254502.0       0       0 
+  2MR1KS     8.06   0.027      0.01    0  mag 2003tmc..book.....C       Qflg:A   Cflg:0  sdb-v1-043920.92+254502.0       0       0 
+ WISE3P4     7.16   0.041     0.024    0  mag 2010AJ....140.1868W       qual:A Var:3311  sdb-v1-043920.92+254502.0       0       0 
+ IRAC4P5 397500.0   83.14    7950.0    0  uJy       2013.SEIP.dr4     Brt:1.02    Ext:0  sdb-v1-043920.92+254502.0       0       0 
+ WISE4P6    6.533   0.024     0.028    0  mag 2010AJ....140.1868W       qual:A Var:3311  sdb-v1-043920.92+254502.0       0       0 
+ IRAC5P8 347000.0   164.7    6940.0    0  uJy       2013.SEIP.dr4     Brt:1.02    Ext:0  sdb-v1-043920.92+254502.0       0       0 
+  AKARI9   0.3874  0.0528  0.005811    0   Jy 2010A&A...514A...1I       ext?:0 N-near:0  sdb-v1-043920.92+254502.0       0       0 
+  IRAS12    0.555 0.08325       0.0    0   Jy 1988IRASP.C......0J       Qual:3   Conf:0            IRAS 04362+2539       0       1 
+  IRAS12     0.52  0.0416       0.0    0   Jy 1990IRASF.C......0M       Qual:3   Conf:0           IRAS F04362+2539       0       0 
+  WISE12    4.908   0.013     0.045    0  mag 2010AJ....140.1868W       qual:A Var:3311  sdb-v1-043920.92+254502.0       0       0 
+ AKARI18   0.4711 0.00963 0.0070665    0   Jy 2010A&A...514A...1I       ext?:0 N-near:0  sdb-v1-043920.92+254502.0       0       0 
+  WISE22    3.048   0.022     0.057    0  mag 2010AJ....140.1868W       qual:A Var:3311  sdb-v1-043920.92+254502.0       0       0 
+  IRAS25    0.722 0.06498       0.0    0   Jy 1988IRASP.C......0J       Qual:3   Conf:0            IRAS 04362+2539       0       1 
+  IRAS25    0.685  0.0548       0.0    0   Jy 1990IRASF.C......0M       Qual:3   Conf:0           IRAS F04362+2539       0       0 
+  MIPS24 531700.0   379.8   10634.0    0  uJy       2013.SEIP.dr4     Brt:1.01 Ext:1.01  sdb-v1-043920.92+254502.0       0       0 
+  IRAS60    0.493 0.12325       0.0    1   Jy 1990IRASF.C......0M       Qual:1   Conf:0           IRAS F04362+2539       0       0 
+  IRAS60      0.4     0.0       0.0    1   Jy 1988IRASP.C......0J       Qual:1   Conf:0            IRAS 04362+2539       0       1 
+ IRAS100     2.01     0.0       0.0    1   Jy 1988IRASP.C......0J       Qual:1   Conf:0            IRAS 04362+2539       0       1 
+ IRAS100     25.2   6.048       0.0    1   Jy 1990IRASF.C......0M       Qual:1   Conf:0           IRAS F04362+2539       0       0 
+ PACS100  142.568 25.8517   7.12838    0  mJy 2017arXiv170505693M Elong:0.8282  Blend:0 HPPSC100A_J043921.0+254501       0       0 

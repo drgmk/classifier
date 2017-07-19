@@ -1,0 +1,56 @@
+\ photometry/spectra for sdb-v1-003921.81+211501.7
+\
+\main_id='* 54 Psc'
+\raj2000=9.84086
+\dej2000=21.250473
+\sp_type='K0V'
+\sp_bibcode='2009ApJ...694.1085V'
+\plx_value=90.42
+\plx_err=0.3199999928474426
+\plx_bibcode='2007A&A...474..653V'
+\id='sdb-v1-003921.81+211501.7'
+\irsstare0='cassis/irsstare/cassis_yaaar_spcfw_22308864t.fits'
+|   Band|      Phot|       Err|        Sys| Lim|Unit|            bibcode|         Note1|     Note2|                  SourceID|private|exclude|
+|   char|    double|    double|     double|long|char|               char|          char|      char|                      char|   long|   long|
+|       |          |          |           |    |    |                   |              |          |                          |       |       |
+|   null|      null|      null|       null|null|null|               null|          null|      null|                      null|   null|   null|
+  GALFUV     19.645      0.166        0.01    0  mag 2011Ap&SS.335..161B         Fafl:0     Fexf:0  sdb-v1-003921.81+211501.7       0       0 
+  GALNUV     13.365      0.005        0.01    0  mag 2011Ap&SS.335..161B         Nafl:0     Nexf:0  sdb-v1-003921.81+211501.7       0       0 
+   UJ_BJ      0.568      0.009       0.028    0  mag 2006yCat.2168....0M          Comp:    n_U_B:>                    HD 3651       0       0 
+ STROMC1      0.338      0.011       0.005    0  mag 2015A&A...580A..23P     Vmag:5.852 beta:2.564            TYC 1193-2072-1       0       0 
+      BT      6.961      0.015       0.006    0  mag 2000A&A...355L..27H       Prox:999   HIP:3093  sdb-v1-003921.81+211501.7       0       0 
+ STROMM1      0.382      0.009       0.005    0  mag 2015A&A...580A..23P     Vmag:5.852 beta:2.564            TYC 1193-2072-1       0       0 
+   BJ_VJ       0.85      0.009        0.02    0  mag 2006yCat.2168....0M          Comp:    n_B_V:>                    HD 3651       0       0 
+   BS_YS      0.507      0.003       0.005    0  mag 2015A&A...580A..23P     Vmag:5.852 beta:2.564            TYC 1193-2072-1       0       0 
+      VT      5.973       0.01       0.006    0  mag 2000A&A...355L..27H       Prox:999   HIP:3093  sdb-v1-003921.81+211501.7       0       0 
+      HP       6.03 0.00707107       0.005    0  mag 1997HIP...C......0E       VarType:      Mult:                   HIP 3093       0       0 
+      VJ      5.878       0.02        0.02    0  mag 2006yCat.2168....0M          Comp:   n_Vmag:>                    HD 3651       0       0 
+     2MJ      4.549      0.206        0.01    0  mag 2003tmc..book.....C         Qflg:C     Cflg:0  sdb-v1-003921.81+211501.7       0       0 
+     2MH      4.064       0.24        0.01    0  mag 2003tmc..book.....C         Qflg:D     Cflg:0  sdb-v1-003921.81+211501.7       0       0 
+  2MR1KS      3.999      0.036        0.01    0  mag 2003tmc..book.....C         Qflg:E     Cflg:0  sdb-v1-003921.81+211501.7       0       1 
+ WISE3P4      3.786      0.365       0.024    0  mag 2010AJ....140.1868W         qual:C   Var:0000  sdb-v1-003921.81+211501.7       0       1 
+ WISE4P6      3.577      0.254       0.028    0  mag 2010AJ....140.1868W         qual:B   Var:0000  sdb-v1-003921.81+211501.7       0       0 
+  AKARI9      1.511     0.0162    0.022665    0   Jy 2010A&A...514A...1I         ext?:0   N-near:0  sdb-v1-003921.81+211501.7       0       0 
+  IRAS12       1.03     0.0824         0.0    0   Jy 1990IRASF.C......0M         Qual:3     Conf:0           IRAS F00367+2058       0       0 
+  IRAS12       1.08     0.0864         0.0    0   Jy 1988IRASP.C......0J         Qual:3     Conf:0            IRAS 00367+2058       0       1 
+  WISE12      3.898      0.014       0.045    0  mag 2010AJ....140.1868W         qual:A   Var:0000  sdb-v1-003921.81+211501.7       0       0 
+ AKARI18     0.3489     0.0119   0.0052335    0   Jy 2010A&A...514A...1I         ext?:0   N-near:0  sdb-v1-003921.81+211501.7       0       0 
+  WISE22      3.901      0.023       0.057    0  mag 2010AJ....140.1868W         qual:A   Var:0000  sdb-v1-003921.81+211501.7       0       0 
+  IRAS25      0.257    0.03598         0.0    0   Jy 1990IRASF.C......0M         Qual:3     Conf:0           IRAS F00367+2058       0       0 
+  IRAS25      0.391        0.0         0.0    1   Jy 1988IRASP.C......0J         Qual:1     Conf:0            IRAS 00367+2058       0       1 
+  IRAS60        0.4        0.0         0.0    1   Jy 1988IRASP.C......0J         Qual:1     Conf:0            IRAS 00367+2058       0       1 
+  IRAS60      0.121    0.03872         0.0    1   Jy 1990IRASF.C......0M         Qual:1     Conf:0           IRAS F00367+2058       0       0 
+  PACS70     21.759    1.38972    0.652769    0  mJy 2017arXiv170505693M   Elong:0.6671    Blend:0 HPPSC070A_J003921.4+211457       0       1 
+  PACS70   0.022747 0.00204971 0.000588285    0   Jy             HSA_GMK     1342213242   Phot:PSF                   * 54 Psc       0       1 
+  PACS70  0.0221425 0.00194747  0.00107849    0   Jy         2018.DEBRIS chisq:0.802306   Phot:PSF    2MASS J00392187+2115024       0       0 
+  MIPS70       11.8       4.61        0.59    0  mJy 2013ApJ...768...25G           Xs:N   AgeFlg:3                   HIP 3093       0       0 
+  MIPS70       15.7        5.6       0.628    0  mJy 2009ApJ...705.1226B    Star:54 Psc      Note:                    HD 3651       0       1 
+  MIPS70       16.0        6.0        0.64    0  mJy 2008ApJ...674.1086T      Vmag:5.88     Kmag:4                    HD 3651       0       1 
+ IRAS100       1.05        0.0         0.0    1   Jy 1988IRASP.C......0J         Qual:1     Conf:0            IRAS 00367+2058       0       1 
+ IRAS100      0.632     0.1896         0.0    1   Jy 1990IRASF.C......0M         Qual:1     Conf:0           IRAS F00367+2058       0       0 
+ PACS100    8.48532    5.55002    0.424266    0  mJy 2017arXiv170505693M   Elong:0.6521    Blend:0 HPPSC100A_J003921.4+211457       0       1 
+ PACS100 0.00603216  0.0013549 0.000152071    0   Jy             HSA_GMK     1342213244   Phot:PSF                   * 54 Psc       0       1 
+ PACS100 0.00628237 0.00131355  0.00030092    0   Jy         2018.DEBRIS  chisq:1.12597   Phot:PSF    2MASS J00392187+2115024       0       0 
+ PACS160 0.00176835 0.00247199 7.30725e-05    0   Jy             HSA_GMK     1342213244   Phot:PSF                   * 54 Psc       0       1 
+ PACS160 0.00372062 0.00421314 0.000153745    0   Jy             HSA_GMK     1342213242   Phot:PSF                   * 54 Psc       0       1 
+ PACS160 0.00372934 0.00421297 0.000200337    0   Jy         2018.DEBRIS chisq:0.802306   Phot:PSF    2MASS J00392187+2115024       0       0 

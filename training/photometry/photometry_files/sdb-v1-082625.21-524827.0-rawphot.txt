@@ -1,0 +1,43 @@
+\ photometry/spectra for sdb-v1-082625.21-524827.0
+\
+\main_id='HD 71722'
+\raj2000=126.6050229
+\dej2000=-52.8074972
+\sp_type='A0V'
+\sp_bibcode='1978MSS...C02....0H'
+\plx_value=14.930000305175781
+\plx_err=0.3100000023841858
+\plx_bibcode='2016yCat.1337....0G'
+\id='sdb-v1-082625.21-524827.0'
+\irsstare0='cassis/irsstare/cassis_yaaar_spcfw_14140672t.fits'
+|   Band|     Phot|       Err|       Sys| Lim|Unit|            bibcode|       Note1|     Note2|                 SourceID|private|exclude|
+|   char|   double|    double|    double|long|char|               char|        char|      char|                     char|   long|   long|
+|       |         |          |          |    |    |                   |            |          |                         |       |       |
+|   null|     null|      null|      null|null|null|               null|        null|      null|                     null|   null|   null|
+ STROMC1     1.029      0.006      0.005    0  mag 2015A&A...580A..23P   Vmag:6.056 beta:2.917           TYC 8567-2364-1       0       0 
+      BT     6.117      0.014      0.006    0  mag 2000A&A...355L..27H     Prox:999  HIP:41373 sdb-v1-082625.21-524827.0       0       0 
+  BAPASS     6.367        0.0       0.01    0  mag 2016yCat.2336....0H       nobs:3    mobs:10 sdb-v1-082625.21-524827.0       0       1 
+  GAPASS     6.803        0.0       0.01    0  mag 2016yCat.2336....0H       nobs:3    mobs:10 sdb-v1-082625.21-524827.0       0       1 
+ STROMM1     0.167        0.0      0.005    0  mag 2015A&A...580A..23P   Vmag:6.056 beta:2.917           TYC 8567-2364-1       0       0 
+   BJ_VJ      0.06        0.0       0.02    0  mag 2006yCat.2168....0M        Comp:    n_B_V:>                  HD 71722       0       0 
+   BS_YS     0.034        0.0      0.005    0  mag 2015A&A...580A..23P   Vmag:6.056 beta:2.917           TYC 8567-2364-1       0       0 
+      VT     6.049      0.009      0.006    0  mag 2000A&A...355L..27H     Prox:999  HIP:41373 sdb-v1-082625.21-524827.0       0       0 
+      HP    6.0803 0.00503587      0.005    0  mag 1997HIP...C......0E     VarType:      Mult:                 HIP 41373       0       0 
+  VAPASS     6.324        0.0       0.01    0  mag 2016yCat.2336....0H       nobs:3    mobs:10 sdb-v1-082625.21-524827.0       0       1 
+      VJ      6.05        0.0       0.02    0  mag 2006yCat.2168....0M        Comp:   n_Vmag:>                  HD 71722       0       0 
+  RAPASS     6.315        0.0       0.01    0  mag 2016yCat.2336....0H       nobs:3    mobs:10 sdb-v1-082625.21-524827.0       0       1 
+  IAPASS      6.26        0.0       0.01    0  mag 2016yCat.2336....0H       nobs:3    mobs:10 sdb-v1-082625.21-524827.0       0       1 
+  IDENIS     8.862       0.03       0.01    0  mag 2005yCat.2263....0T      Ipsf:38     Iflg:0 sdb-v1-082625.21-524827.0       0       1 
+   2MR1J     5.936      0.021       0.01    0  mag 2003tmc..book.....C       Qflg:A     Cflg:0 sdb-v1-082625.21-524827.0       0       0 
+   2MR1H     5.905       0.02       0.01    0  mag 2003tmc..book.....C       Qflg:A     Cflg:0 sdb-v1-082625.21-524827.0       0       0 
+  2MR1KS     5.886      0.023       0.01    0  mag 2003tmc..book.....C       Qflg:A     Cflg:0 sdb-v1-082625.21-524827.0       0       0 
+ WISE3P4     5.831      0.121      0.024    0  mag 2010AJ....140.1868W       qual:B   Var:0300 sdb-v1-082625.21-524827.0       0       0 
+ WISE4P6     5.775      0.047      0.028    0  mag 2010AJ....140.1868W       qual:A   Var:0300 sdb-v1-082625.21-524827.0       0       0 
+  AKARI9     0.256    0.00798    0.00384    0   Jy 2010A&A...514A...1I       ext?:0   N-near:0 sdb-v1-082625.21-524827.0       0       0 
+  WISE12     5.874      0.016      0.045    0  mag 2010AJ....140.1868W       qual:A   Var:0300 sdb-v1-082625.21-524827.0       0       0 
+  WISE22     5.249      0.032      0.057    0  mag 2010AJ....140.1868W       qual:A   Var:0300 sdb-v1-082625.21-524827.0       0       0 
+  MIPS24   60490.0      94.44     1209.8    0  uJy       2013.SEIP.dr4     Brt:0.96      Ext:0 sdb-v1-082625.21-524827.0       0       0 
+  MIPS70    155.13       3.62     6.2052    0  mJy 2009ApJ...699.1067M      Dbl:6.2      a:1.9                  HD 71722       0       1 
+  MIPS70    155.13       3.62    10.8591    0  mJy 2014ApJS..211...25C Name:HD71722   r_F70:24                  HD 71722       0       0 
+ PACS100  0.114153  0.0056007 0.00342459    0   Jy             HSA_GMK   1342243384    Phot:Ap                  HD 71722       0       0 
+ PACS160 0.0433383 0.00790845 0.00179084    0   Jy             HSA_GMK   1342243384   Phot:PSF                  HD 71722       0       0 

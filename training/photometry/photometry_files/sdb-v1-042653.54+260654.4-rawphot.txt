@@ -1,0 +1,23 @@
+\ photometry/spectra for sdb-v1-042653.54+260654.4
+\
+\main_id='HPPSC070A_J042653.5+260655'
+\raj2000=66.723104
+\dej2000=26.115122
+\sp_type=None
+\sp_bibcode=None
+\plx_value=None
+\plx_err=None
+\plx_bibcode=None
+\id='sdb-v1-042653.54+260654.4'
+|   Band|    Phot|    Err|    Sys| Lim|Unit|            bibcode|       Note1|   Note2|                  SourceID|private|exclude|
+|   char|  double| double| double|long|char|               char|        char|    char|                      char|   long|   long|
+|       |        |       |       |    |    |                   |            |        |                          |       |       |
+|   null|    null|   null|   null|null|null|               null|        null|    null|                      null|   null|   null|
+   2MR2J    9.917   0.022    0.01    0  mag 2003tmc..book.....C       Qflg:A   Cflg:0  sdb-v1-042653.54+260654.4       0       0 
+   2MR1H    8.325   0.024    0.01    0  mag 2003tmc..book.....C       Qflg:A   Cflg:0  sdb-v1-042653.54+260654.4       0       0 
+  2MR1KS    7.442    0.02    0.01    0  mag 2003tmc..book.....C       Qflg:A   Cflg:0  sdb-v1-042653.54+260654.4       0       0 
+ IRAC4P5 992600.0   118.7 19852.0    0  uJy       2013.SEIP.dr4     Brt:0.95    Ext:0  sdb-v1-042653.54+260654.4       0       0 
+  AKARI9    1.306   0.027 0.01959    0   Jy 2010A&A...514A...1I       ext?:0 N-near:0  sdb-v1-042653.54+260654.4       0       0 
+ AKARI18     1.71   0.102 0.02565    0   Jy 2010A&A...514A...1I       ext?:0 N-near:0  sdb-v1-042653.54+260654.4       0       0 
+  PACS70  1558.99 53.5004 46.7698    0  mJy 2017arXiv170505693M Elong:0.0000  Blend:0 HPPSC070A_J042653.5+260655       0       0 
+ PACS160  918.052 86.8374 27.5416    0  mJy 2017arXiv170505693M Elong:0.6905  Blend:0 HPPSC160A_J042653.5+260656       0       0 

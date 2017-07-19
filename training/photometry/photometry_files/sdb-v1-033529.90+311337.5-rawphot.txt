@@ -1,0 +1,41 @@
+\ photometry/spectra for sdb-v1-033529.90+311337.5
+\
+\main_id='HD 22179'
+\raj2000=53.8745875
+\dej2000=31.2270667
+\sp_type='G5IV'
+\sp_bibcode='2007AJ....133.2524W'
+\plx_value=14.510000228881836
+\plx_err=0.33000001311302185
+\plx_bibcode='2016yCat.1337....0G'
+\id='sdb-v1-033529.90+311337.5'
+\irsstare0='cassis/irsstare/cassis_yaaar_spcfw_5262592t.fits'
+|   Band|    Phot|    Err|    Sys| Lim|Unit|            bibcode|       Note1|      Note2|                  SourceID|private|exclude|
+|   char|  double| double| double|long|char|               char|        char|       char|                      char|   long|   long|
+|       |        |       |       |    |    |                   |            |           |                          |       |       |
+|   null|    null|   null|   null|null|null|               null|        null|       null|                      null|   null|   null|
+      BT    9.668   0.025   0.006    0  mag 2000A&A...355L..27H     Prox:999        HIP:  sdb-v1-033529.90+311337.5       0       0 
+  BAPASS    9.535   0.055    0.01    0  mag 2016yCat.2336....0H       nobs:5     mobs:15  sdb-v1-033529.90+311337.5       0       0 
+  GAPASS    9.208     0.0    0.01    0  mag 2016yCat.2336....0H       nobs:5     mobs:15  sdb-v1-033529.90+311337.5       0       1 
+      VT    9.001   0.018   0.006    0  mag 2000A&A...355L..27H     Prox:999        HIP:  sdb-v1-033529.90+311337.5       0       0 
+  VAPASS    8.883   0.021    0.01    0  mag 2016yCat.2336....0H       nobs:5     mobs:15  sdb-v1-033529.90+311337.5       0       0 
+  RAPASS    8.727     0.0    0.01    0  mag 2016yCat.2336....0H       nobs:5     mobs:15  sdb-v1-033529.90+311337.5       0       1 
+  IAPASS    8.555   0.024    0.01    0  mag 2016yCat.2336....0H       nobs:5     mobs:15  sdb-v1-033529.90+311337.5       0       0 
+   2MR1J    7.791   0.018    0.01    0  mag 2003tmc..book.....C       Qflg:A      Cflg:0  sdb-v1-033529.90+311337.5       0       0 
+   2MR1H    7.489   0.021    0.01    0  mag 2003tmc..book.....C       Qflg:A      Cflg:0  sdb-v1-033529.90+311337.5       0       0 
+  2MR1KS    7.425   0.023    0.01    0  mag 2003tmc..book.....C       Qflg:A      Cflg:0  sdb-v1-033529.90+311337.5       0       0 
+ WISE3P4     7.33   0.035   0.024    0  mag 2010AJ....140.1868W       qual:A    Var:1100  sdb-v1-033529.90+311337.5       0       0 
+ IRAC3P6 267200.0   45.59  5344.0    0  uJy       2013.SEIP.dr4     Brt:1.02       Ext:0  sdb-v1-033529.90+311337.5       0       0 
+ IRAC4P5 168400.0   39.35  3368.0    0  uJy       2013.SEIP.dr4     Brt:1.02       Ext:0  sdb-v1-033529.90+311337.5       0       0 
+ WISE4P6    7.368   0.021   0.028    0  mag 2010AJ....140.1868W       qual:A    Var:1100  sdb-v1-033529.90+311337.5       0       0 
+ IRAC5P8 128800.0   76.49  2576.0    0  uJy       2013.SEIP.dr4     Brt:0.95       Ext:0  sdb-v1-033529.90+311337.5       0       0 
+   IRAC8  43160.0   117.1   863.2    0  uJy       2013.SEIP.dr4     Brt:0.98       Ext:0  sdb-v1-033529.90+311337.5       0       0 
+  WISE12    7.362   0.018   0.045    0  mag 2010AJ....140.1868W       qual:A    Var:1100  sdb-v1-033529.90+311337.5       0       0 
+  WISE22    6.903   0.099   0.057    0  mag 2010AJ....140.1868W       qual:A    Var:1100  sdb-v1-033529.90+311337.5       0       0 
+  MIPS24  11190.0   86.04   223.8    0  uJy       2013.SEIP.dr4        Brt:0       Ext:0  sdb-v1-033529.90+311337.5       0       0 
+  MIPS70     35.9    10.3   1.436    0  mJy 2008ApJS..179..423C NameHD 22179     Flag70:                   HD 22179       0       1 
+  MIPS70     35.9    10.3   2.513    0  mJy 2014ApJS..211...25C Name:HD22179     r_F70:3                   HD 22179       0       0 
+ PACS100  56.5608 24.0161 2.82804    0  mJy 2017arXiv170505693M Elong:0.0000     Blend:0 HPPSC100A_J033529.9+311337       0       0 
+  WAV450     81.0     0.0     0.0    1  mJy 2017arXiv170601218H        No:63 Assoc:Field                   HD 22179       0       0 
+  WAV850      3.9     0.0     0.0    1  mJy 2017arXiv170601218H        No:63 Assoc:Field                   HD 22179       0       0 
+ WAV1200      3.3     0.0     0.0    1  mJy 2009A&A...497..409R   Instr:IRAM       Name:                   HD 22179       0       0 

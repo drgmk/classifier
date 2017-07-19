@@ -1,0 +1,67 @@
+\ photometry/spectra for sdb-v1-141623.02+460517.9
+\
+\main_id='* lam Boo'
+\raj2000=214.09591
+\dej2000=46.088306
+\sp_type='A0Va_lB'
+\sp_bibcode='1987ApJS...65..581G'
+\plx_value=32.94
+\plx_err=0.1599999964237213
+\plx_bibcode='2007A&A...474..653V'
+\id='sdb-v1-141623.02+460517.9'
+|    Band|      Phot|       Err|       Sys| Lim|Unit|            bibcode|        Note1|       Note2|                  SourceID|private|exclude|
+|    char|    double|    double|    double|long|char|               char|         char|        char|                      char|   long|   long|
+|        |          |          |          |    |    |                   |             |            |                          |       |       |
+|    null|      null|      null|      null|null|null|               null|         null|        null|                      null|   null|   null|
+    UJ_BJ      0.062      0.015      0.028    0  mag 2006yCat.2168....0M         Comp:       n_U_B:                  HD 125162       0       0 
+  STROMC1      1.012      0.011      0.005    0  mag 2015A&A...580A..23P     Vmag:4.19   beta:2.896            TYC 3472-1264-1       0       0 
+       BT      4.274      0.014      0.006    0  mag 2000A&A...355L..27H      Prox:999    HIP:69732  sdb-v1-141623.02+460517.9       0       0 
+  STROMM1      0.176       0.01      0.005    0  mag 2015A&A...580A..23P     Vmag:4.19   beta:2.896            TYC 3472-1264-1       0       0 
+    BJ_VJ       0.08        0.0       0.02    0  mag 2006yCat.2168....0M         Comp:       n_B_V:                  HD 125162       0       0 
+    BS_YS       0.05      0.005      0.005    0  mag 2015A&A...580A..23P     Vmag:4.19   beta:2.896            TYC 3472-1264-1       0       0 
+       VT      4.181      0.009      0.006    0  mag 2000A&A...355L..27H      Prox:999    HIP:69732  sdb-v1-141623.02+460517.9       0       0 
+       HP     4.2074 0.00502494      0.005    0  mag 1997HIP...C......0E      VarType:        Mult:                  HIP 69732       0       0 
+       VJ      4.178      0.004       0.02    0  mag 2006yCat.2168....0M         Comp:      n_Vmag:                  HD 125162       0       0 
+      2MJ      3.983      0.304       0.01    0  mag 2003tmc..book.....C        Qflg:D       Cflg:0  sdb-v1-141623.02+460517.9       0       0 
+      2MH       4.03      0.254       0.01    0  mag 2003tmc..book.....C        Qflg:D       Cflg:0  sdb-v1-141623.02+460517.9       0       0 
+   2MR1KS       3.91      0.036       0.01    0  mag 2003tmc..book.....C        Qflg:E       Cflg:0  sdb-v1-141623.02+460517.9       0       1 
+  WISE3P4      3.922      0.509      0.024    0  mag 2010AJ....140.1868W        qual:C     Var:nnn0  sdb-v1-141623.02+460517.9       0       1 
+  WISE4P6      3.758      0.203      0.028    0  mag 2010AJ....140.1868W        qual:B     Var:nnn0  sdb-v1-141623.02+460517.9       0       1 
+   AKARI9      1.513    0.00739   0.022695    0   Jy 2010A&A...514A...1I        ext?:0     N-near:0  sdb-v1-141623.02+460517.9       0       0 
+   IRAS12       1.15      0.069        0.0    0   Jy 1988IRASP.C......0J        Qual:3       Conf:0            IRAS 14144+4619       0       1 
+   IRAS12       1.13     0.0565        0.0    0   Jy 1990IRASF.C......0M        Qual:3       Conf:0           IRAS F14144+4619       0       0 
+   WISE12      4.118      0.045      0.045    0  mag 2010AJ....140.1868W        qual:A     Var:nnn0  sdb-v1-141623.02+460517.9       0       1 
+  AKARI18     0.4157     0.0156  0.0062355    0   Jy 2010A&A...514A...1I        ext?:0     N-near:0  sdb-v1-141623.02+460517.9       0       0 
+   WISE22      3.611      0.028      0.057    0  mag 2010AJ....140.1868W        qual:A     Var:nnn0  sdb-v1-141623.02+460517.9       0       0 
+   IRAS25      0.356     0.0356        0.0    0   Jy 1988IRASP.C......0J        Qual:3       Conf:0            IRAS 14144+4619       0       1 
+   IRAS25      0.373    0.02611        0.0    0   Jy 1990IRASF.C......0M        Qual:3       Conf:0           IRAS F14144+4619       0       0 
+   IRAS60      0.472    0.04248        0.0    0   Jy 1988IRASP.C......0J        Qual:2       Conf:0            IRAS 14144+4619       0       1 
+   IRAS60      0.375    0.03375        0.0    0   Jy 1990IRASF.C......0M        Qual:3       Conf:0           IRAS F14144+4619       0       0 
+   PACS70      345.0       17.0        0.0    0  mJy 2013MNRAS.428.1263B    lambda Boo ID:HD 125162                  HD 125162       0       1 
+   PACS70    334.734    3.17176     10.042    0  mJy 2017arXiv170505693M  Elong:0.8959      Blend:0 HPPSC070A_J141622.8+460519       0       1 
+   PACS70    0.27149  0.0013627 0.00702129    0   Jy             HSA_GMK    1342221869     Phot:PSF                  * lam Boo       0       1 
+   PACS70   0.379275 0.00633496   0.021429    0   Jy         2018.DEBRIS   chisq:17.98      Phot:Ap    2MASS J14162308+4605177       0       0 
+   MIPS70      378.3       6.66     18.915    0  mJy 2013ApJ...768...25G          Xs:Y     AgeFlg:2                  HD 125162       0       1 
+   MIPS70      378.3       6.66     26.481    0  mJy 2014ApJS..211...25C   Name:lamBoo      r_F70:9                  HD 125162       0       0 
+   MIPS70     364.67       3.88    14.5868    0  mJy 2006ApJ...653..675S       Age:313     xs70:YES                  HD 125162       0       1 
+  IRAS100        1.0        0.0        0.0    1   Jy 1988IRASP.C......0J        Qual:1       Conf:0            IRAS 14144+4619       0       1 
+  IRAS100      0.733    0.17592        0.0    1   Jy 1990IRASF.C......0M        Qual:1       Conf:0           IRAS F14144+4619       0       0 
+  PACS100   0.215423 0.00174767 0.00543084    0   Jy             HSA_GMK    1342210928     Phot:PSF                  * lam Boo       0       1 
+  PACS100     243.39    6.25322    12.1695    0  mJy 2017arXiv170505693M  Elong:0.9182      Blend:0 HPPSC100A_J141622.8+460519       0       1 
+  PACS100   0.304315 0.00666821   0.017346    0   Jy         2018.DEBRIS chisq:8.83684      Phot:Ap    2MASS J14162308+4605177       0       0 
+  PACS100      272.0       15.0        0.0    0  mJy 2013MNRAS.428.1263B    lambda Boo ID:HD 125162                  HD 125162       0       1 
+  PACS160      142.0       12.0        0.0    0  mJy 2013MNRAS.428.1263B    lambda Boo ID:HD 125162                  HD 125162       0       1 
+  PACS160   0.145246  0.0134595 0.00944099    0   Jy         2018.DEBRIS   chisq:17.98      Phot:Ap    2MASS J14162308+4605177       0       0 
+  PACS160    0.13285 0.00358137 0.00548965    0   Jy             HSA_GMK    1342221869     Phot:PSF                  * lam Boo       0       1 
+  PACS160    166.176    17.8578    4.98527    0  mJy 2017arXiv170505693M  Elong:0.0000      Blend:0 HPPSC160A_J141622.8+460519       0       1 
+  PACS160    0.15552 0.00318888 0.00642645    0   Jy             HSA_GMK    1342210928     Phot:PSF                  * lam Boo       0       1 
+ SPIRE250  0.0497005 0.00285964      0.007    0   Jy         2018.DEBRIS chisq:1.11561       Cov:66    2MASS J14162308+4605177       0       0 
+ SPIRE250       48.4        9.3      3.388    0  mJy       2017.HSPSC_v1         Ext:0   Low FWHM:0  HSPSC250A_J1416.38+4605.3       0       1 
+ SPIRE250       50.7        5.1        0.0    0  mJy 2013MNRAS.428.1263B    lambda Boo ID:HD 125162                  HD 125162       0       1 
+ SPIRE350   0.018166 0.00384814      0.007    0   Jy         2018.DEBRIS chisq:1.11561       Cov:92    2MASS J14162308+4605177       0       0 
+ SPIRE350       21.3        5.3        0.0    0  mJy 2013MNRAS.428.1263B    lambda Boo ID:HD 125162                  HD 125162       0       1 
+ SPIRE350       21.4        7.1      1.498    0  mJy       2017.HSPSC_v1         Ext:0   Low FWHM:0  HSPSC350A_J1416.37+4605.3       0       1 
+   WAV450       18.0        0.0        0.0    1  mJy 2017arXiv170601218H         No:40  Assoc:Field                  HD 125162       0       0 
+ SPIRE500 0.00545017 0.00364107      0.007    0   Jy         2018.DEBRIS chisq:1.11561       Cov:89    2MASS J14162308+4605177       0       0 
+ SPIRE500        4.2        4.9        0.0    0  mJy 2013MNRAS.428.1263B    lambda Boo ID:HD 125162                  HD 125162       0       1 
+   WAV850        3.9        0.8        0.0    0  mJy 2017arXiv170601218H         No:40  Assoc:Field                  HD 125162       0       0 

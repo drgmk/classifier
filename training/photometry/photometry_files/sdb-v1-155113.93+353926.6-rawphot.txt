@@ -1,0 +1,49 @@
+\ photometry/spectra for sdb-v1-155113.93+353926.6
+\
+\main_id='* kap CrB'
+\raj2000=237.808049
+\dej2000=35.657382
+\sp_type='K0III-IV'
+\sp_bibcode='2003AJ....126.2048G'
+\plx_value=32.79
+\plx_err=0.20999999344348907
+\plx_bibcode='2007A&A...474..653V'
+\id='sdb-v1-155113.93+353926.6'
+|   Band|    Phot|       Err|       Sys| Lim|Unit|            bibcode|       Note1|       Note2|                  SourceID|private|exclude|
+|   char|  double|    double|    double|long|char|               char|        char|        char|                      char|   long|   long|
+|       |        |          |          |    |    |                   |            |            |                          |       |       |
+|   null|    null|      null|      null|null|null|               null|        null|        null|                      null|   null|   null|
+  GALFUV   19.609      0.194       0.01    0  mag 2011Ap&SS.335..161B       Fafl:0       Fexf:0  sdb-v1-155113.93+353926.6       0       0 
+  GALNUV   13.295      0.006       0.01    0  mag 2011Ap&SS.335..161B       Nafl:0       Nexf:0  sdb-v1-155113.93+353926.6       0       0 
+   UJ_BJ    0.873      0.005      0.028    0  mag 2006yCat.2168....0M        Comp:       n_U_B:                  HD 142091       0       0 
+ STROMC1    0.443       0.01      0.005    0  mag 2015A&A...580A..23P   Vmag:4.799        beta:            TYC 2578-1609-1       0       0 
+      BT    6.075      0.014      0.006    0  mag 2000A&A...355L..27H     Prox:999    HIP:77655  sdb-v1-155113.93+353926.6       0       0 
+ STROMM1     0.42      0.012      0.005    0  mag 2015A&A...580A..23P   Vmag:4.799        beta:            TYC 2578-1609-1       0       0 
+   BJ_VJ    0.996      0.005       0.02    0  mag 2006yCat.2168....0M        Comp:       n_B_V:                  HD 142091       0       0 
+   BS_YS    0.615      0.008      0.005    0  mag 2015A&A...580A..23P   Vmag:4.799        beta:            TYC 2578-1609-1       0       0 
+      VT    4.908      0.009      0.006    0  mag 2000A&A...355L..27H     Prox:999    HIP:77655  sdb-v1-155113.93+353926.6       0       0 
+      HP    4.959 0.00501597      0.005    0  mag 1997HIP...C......0E     VarType:        Mult:                  HIP 77655       0       0 
+      VJ    4.812      0.009       0.02    0  mag 2006yCat.2168....0M        Comp:      n_Vmag:                  HD 142091       0       0 
+     2MJ    3.035      0.184       0.01    0  mag 2003tmc..book.....C       Qflg:C       Cflg:0  sdb-v1-155113.93+353926.6       0       0 
+     2MH    2.575       0.18       0.01    0  mag 2003tmc..book.....C       Qflg:C       Cflg:0  sdb-v1-155113.93+353926.6       0       0 
+    2MKS    2.423      0.242       0.01    0  mag 2003tmc..book.....C       Qflg:D       Cflg:0  sdb-v1-155113.93+353926.6       0       0 
+ WISE3P4    1.598        0.0      0.024    1  mag 2010AJ....140.1868W       qual:U     Var:nn30  sdb-v1-155113.93+353926.6       0       1 
+ WISE4P6     1.38        0.0      0.028    1  mag 2010AJ....140.1868W       qual:U     Var:nn30  sdb-v1-155113.93+353926.6       0       1 
+  AKARI9    5.798     0.0296    0.08697    0   Jy 2010A&A...514A...1I       ext?:0     N-near:0  sdb-v1-155113.93+353926.6       0       0 
+  IRAS12     4.45      0.178        0.0    0   Jy 1988IRASP.C......0J       Qual:3       Conf:0            IRAS 15493+3548       0       1 
+  IRAS12     4.45      0.178        0.0    0   Jy 1990IRASF.C......0M       Qual:3       Conf:0           IRAS F15493+3548       0       0 
+  WISE12    2.525      0.007      0.045    0  mag 2010AJ....140.1868W       qual:A     Var:nn30  sdb-v1-155113.93+353926.6       0       0 
+ AKARI18    1.396    0.00251    0.02094    0   Jy 2010A&A...514A...1I       ext?:0     N-near:0  sdb-v1-155113.93+353926.6       0       0 
+  WISE22    2.398      0.017      0.057    0  mag 2010AJ....140.1868W       qual:A     Var:nn30  sdb-v1-155113.93+353926.6       0       0 
+  IRAS25     1.02     0.0408        0.0    0   Jy 1990IRASF.C......0M       Qual:3       Conf:0           IRAS F15493+3548       0       0 
+  IRAS25     1.04     0.0728        0.0    0   Jy 1988IRASP.C......0J       Qual:3       Conf:0            IRAS 15493+3548       0       1 
+  MIPS24    800.1        8.0        0.0    0  mJy 2013MNRAS.431.3025B    kappa CrB ID:HD 142091                  HD 142091       0       0 
+  IRAS60    0.548     0.0548        0.0    0   Jy 1988IRASP.C......0J       Qual:3       Conf:0            IRAS 15493+3548       0       1 
+  IRAS60    0.411    0.03288        0.0    0   Jy 1990IRASF.C......0M       Qual:3       Conf:0           IRAS F15493+3548       0       0 
+  MIPS70    426.2       23.0        0.0    0  mJy 2013MNRAS.431.3025B    kappa CrB ID:HD 142091                  HD 142091       0       0 
+ IRAS100    0.648    0.14256        0.0    1   Jy 1990IRASF.C......0M       Qual:1       Conf:0           IRAS F15493+3548       0       0 
+ IRAS100      1.0        0.0        0.0    1   Jy 1988IRASP.C......0J       Qual:1       Conf:0            IRAS 15493+3548       0       1 
+ PACS100  312.255    4.44653    15.6127    0  mJy 2017arXiv170505693M Elong:0.7165      Blend:0 HPPSC100A_J155113.9+353922       0       0 
+ PACS100 0.274621 0.00112908 0.00692322    0   Jy             HSA_GMK   1342234353     Phot:PSF                  * kap CrB       0       1 
+ PACS160  214.174    13.0128    6.42522    0  mJy 2017arXiv170505693M Elong:0.7392      Blend:0 HPPSC160A_J155113.9+353921       0       0 
+ PACS160 0.198004 0.00327608   0.008182    0   Jy             HSA_GMK   1342234353     Phot:PSF                  * kap CrB       0       1 

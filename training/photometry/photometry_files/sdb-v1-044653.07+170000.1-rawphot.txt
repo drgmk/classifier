@@ -1,0 +1,42 @@
+\ photometry/spectra for sdb-v1-044653.07+170000.1
+\
+\main_id='V* DQ Tau'
+\raj2000=71.72113
+\dej2000=17.000032
+\sp_type='M1Ve'
+\sp_bibcode='1977ApJ...214..747H'
+\plx_value=None
+\plx_err=None
+\plx_bibcode=None
+\id='sdb-v1-044653.07+170000.1'
+\irsstare0='cassis/irsstare/cassis_yaaar_spcfw_26354688t.fits'
+\irsstare1='cassis/irsstare/cassis_yaaar_spcfw_26354176t.fits'
+\irsstare2='cassis/irsstare/cassis_yaaar_spcfw_26353664t.fits'
+\irsstare3='cassis/irsstare/cassis_yaaar_spcfw_26353152t.fits'
+\irsstare5='cassis/irsstare/cassis_yaaar_spcfw_19484928t.fits'
+\irsstare6='cassis/irsstare/cassis_yaaar_spcfw_19484672t.fits'
+\irsstare7='cassis/irsstare/cassis_yaaar_spcfw_19484416t.fits'
+\irsstare8='cassis/irsstare/cassis_yaaar_spcfw_19484160t.fits'
+\irsstare9='cassis/irsstare/cassis_yaaar_spcfw_15117056t.fits'
+\irsstare10='cassis/irsstare/cassis_yaaar_spcfw_15116800t.fits'
+|   Band|   Phot|    Err|     Sys| Lim|Unit|            bibcode|       Note1|   Note2|                  SourceID|private|exclude|
+|   char| double| double|  double|long|char|               char|        char|    char|                      char|   long|   long|
+|       |       |       |        |    |    |                   |            |        |                          |       |       |
+|   null|   null|   null|    null|null|null|               null|        null|    null|                      null|   null|   null|
+  BAPASS  14.785   0.522     0.01    0  mag 2016yCat.2336....0H      nobs:10  mobs:48  sdb-v1-044653.07+170000.1       0       0 
+  GAPASS  14.103   0.408     0.01    0  mag 2016yCat.2336....0H      nobs:10  mobs:48  sdb-v1-044653.07+170000.1       0       0 
+  VAPASS  13.327   0.326     0.01    0  mag 2016yCat.2336....0H      nobs:10  mobs:48  sdb-v1-044653.07+170000.1       0       0 
+  RAPASS   12.59   0.277     0.01    0  mag 2016yCat.2336....0H      nobs:10  mobs:48  sdb-v1-044653.07+170000.1       0       0 
+  IAPASS  11.728   0.164     0.01    0  mag 2016yCat.2336....0H      nobs:10  mobs:48  sdb-v1-044653.07+170000.1       0       0 
+   2MR2J   9.511   0.021     0.01    0  mag 2003tmc..book.....C       Qflg:A   Cflg:0  sdb-v1-044653.07+170000.1       0       0 
+   2MR1H   8.544    0.02     0.01    0  mag 2003tmc..book.....C       Qflg:A   Cflg:0  sdb-v1-044653.07+170000.1       0       0 
+  2MR1KS   7.981   0.021     0.01    0  mag 2003tmc..book.....C       Qflg:A   Cflg:0  sdb-v1-044653.07+170000.1       0       0 
+ WISE3P4   7.085    0.04    0.024    0  mag 2010AJ....140.1868W       qual:A Var:3511  sdb-v1-044653.07+170000.1       0       0 
+ WISE4P6   6.423   0.024    0.028    0  mag 2010AJ....140.1868W       qual:A Var:3511  sdb-v1-044653.07+170000.1       0       0 
+  AKARI9  0.5162  0.0126 0.007743    0   Jy 2010A&A...514A...1I       ext?:0 N-near:0  sdb-v1-044653.07+170000.1       0       0 
+  WISE12   4.337   0.013    0.045    0  mag 2010AJ....140.1868W       qual:A Var:3511  sdb-v1-044653.07+170000.1       0       0 
+ AKARI18  0.8934   0.052 0.013401    0   Jy 2010A&A...514A...1I       ext?:0 N-near:0  sdb-v1-044653.07+170000.1       0       0 
+  WISE22   2.252   0.018    0.057    0  mag 2010AJ....140.1868W       qual:A Var:3511  sdb-v1-044653.07+170000.1       0       0 
+  PACS70 1382.99 3.15813  41.4896    0  mJy 2017arXiv170505693M Elong:0.0000  Blend:0 HPPSC070A_J044653.0+170000       0       0 
+ PACS100 1289.97 8.29377  64.4985    0  mJy 2017arXiv170505693M Elong:0.0000  Blend:0 HPPSC100A_J044653.0+170000       0       0 
+ PACS160 980.174  19.128  29.4052    0  mJy 2017arXiv170505693M Elong:0.8593  Blend:0 HPPSC160A_J044653.0+170000       0       0 

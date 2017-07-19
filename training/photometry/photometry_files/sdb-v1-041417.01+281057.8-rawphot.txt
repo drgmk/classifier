@@ -1,0 +1,45 @@
+\ photometry/spectra for sdb-v1-041417.01+281057.8
+\
+\main_id='V* CW Tau'
+\raj2000=63.570878
+\dej2000=28.182714
+\sp_type='K0Ve'
+\sp_bibcode='1977ApJ...214..747H'
+\plx_value=None
+\plx_err=None
+\plx_bibcode=None
+\id='sdb-v1-041417.01+281057.8'
+\irsstare1='cassis/irsstare/cassis_yaaar_spcfw_25340416t.fits'
+\irsstare2='cassis/irsstare/cassis_yaaar_spcfw_19486976t.fits'
+\irsstare3='cassis/irsstare/cassis_yaaar_spcfw_19486720t.fits'
+\irsstare4='cassis/irsstare/cassis_yaaar_spcfw_19486464t.fits'
+\irsstare5='cassis/irsstare/cassis_yaaar_spcfw_19486208t.fits'
+\irsstare6='cassis/irsstare/cassis_yaaar_spcfw_15114752t.fits'
+\irsstare7='cassis/irsstare/cassis_yaaar_spcfw_15114496t.fits'
+\irsstare8='cassis/irsstare/cassis_yaaar_spcfw_15114240t.fits'
+\irsstare9='cassis/irsstare/cassis_yaaar_spcfw_15109888t.fits'
+|   Band|   Phot|    Err|     Sys| Lim|Unit|            bibcode|       Note1|   Note2|                  SourceID|private|exclude|
+|   char| double| double|  double|long|char|               char|        char|    char|                      char|   long|   long|
+|       |       |       |        |    |    |                   |            |        |                          |       |       |
+|   null|   null|   null|    null|null|null|               null|        null|    null|                      null|   null|   null|
+  BAPASS  14.122    0.81     0.01    0  mag 2016yCat.2336....0H       nobs:7  mobs:32  sdb-v1-041417.01+281057.8       0       0 
+  GAPASS  13.428   0.747     0.01    0  mag 2016yCat.2336....0H       nobs:7  mobs:32  sdb-v1-041417.01+281057.8       0       0 
+  VAPASS  12.718   0.706     0.01    0  mag 2016yCat.2336....0H       nobs:7  mobs:32  sdb-v1-041417.01+281057.8       0       0 
+  RAPASS   12.02   0.596     0.01    0  mag 2016yCat.2336....0H       nobs:7  mobs:32  sdb-v1-041417.01+281057.8       0       0 
+  IAPASS  11.358   0.566     0.01    0  mag 2016yCat.2336....0H       nobs:7  mobs:32  sdb-v1-041417.01+281057.8       0       0 
+   2MR2J   9.557   0.022     0.01    0  mag 2003tmc..book.....C       Qflg:A   Cflg:0  sdb-v1-041417.01+281057.8       0       0 
+   2MR1H   8.243   0.027     0.01    0  mag 2003tmc..book.....C       Qflg:A   Cflg:0  sdb-v1-041417.01+281057.8       0       0 
+  2MR1KS   7.127   0.023     0.01    0  mag 2003tmc..book.....C       Qflg:A   Cflg:0  sdb-v1-041417.01+281057.8       0       0 
+ WISE3P4   5.798   0.134    0.024    0  mag 2010AJ....140.1868W       qual:B Var:5832  sdb-v1-041417.01+281057.8       0       0 
+ WISE4P6   4.968   0.101    0.028    0  mag 2010AJ....140.1868W       qual:A Var:5832  sdb-v1-041417.01+281057.8       0       0 
+  AKARI9   1.238  0.0461  0.01857    0   Jy 2010A&A...514A...1I       ext?:0 N-near:0  sdb-v1-041417.01+281057.8       0       0 
+  IRAS12    2.26  0.1582      0.0    0   Jy 1988IRASP.C......0J       Qual:3   Conf:0            IRAS 04112+2803       0       0 
+  WISE12   3.512   0.014    0.045    0  mag 2010AJ....140.1868W       qual:A Var:5832  sdb-v1-041417.01+281057.8       0       0 
+ AKARI18   1.411  0.0607 0.021165    0   Jy 2010A&A...514A...1I       ext?:0 N-near:0  sdb-v1-041417.01+281057.8       0       0 
+  WISE22   1.687   0.019    0.057    0  mag 2010AJ....140.1868W       qual:A Var:5832  sdb-v1-041417.01+281057.8       0       0 
+  IRAS25     3.6   0.288      0.0    0   Jy 1988IRASP.C......0J       Qual:3   Conf:0            IRAS 04112+2803       0       0 
+  IRAS60    2.96  0.4144      0.0    0   Jy 1988IRASP.C......0J       Qual:2   Conf:0            IRAS 04112+2803       0       0 
+  PACS70 1909.04 8.67311  57.2713    0  mJy 2017arXiv170505693M Elong:1.0237  Blend:0 HPPSC070A_J041417.0+281058       0       0 
+ IRAS100    15.8     0.0      0.0    1   Jy 1988IRASP.C......0J       Qual:1   Conf:0            IRAS 04112+2803       0       0 
+ PACS100 1983.67 29.3763  99.1837    0  mJy 2017arXiv170505693M Elong:0.0000  Blend:0 HPPSC100A_J041417.1+281058       0       0 
+ PACS160 1899.81  54.752  56.9943    0  mJy 2017arXiv170505693M Elong:0.0000  Blend:0 HPPSC160A_J041417.1+281058       0       0 

@@ -1,0 +1,40 @@
+\ photometry/spectra for sdb-v1-085735.20+153452.6
+\
+\main_id='* omi02 Cnc'
+\raj2000=134.396667
+\dej2000=15.581282
+\sp_type='F0IV'
+\sp_bibcode=None
+\plx_value=21.68
+\plx_err=0.33000001311302185
+\plx_bibcode='2007A&A...474..653V'
+\id='sdb-v1-085735.20+153452.6'
+\irsstare0='cassis/irsstare/cassis_yaaar_spcfw_21797376t.fits'
+|   Band|    Phot|       Err|      Sys| Lim|Unit|            bibcode|       Note1|      Note2|                  SourceID|private|exclude|
+|   char|  double|    double|   double|long|char|               char|        char|       char|                      char|   long|   long|
+|       |        |          |         |    |    |                   |            |           |                          |       |       |
+|   null|    null|      null|     null|null|null|               null|        null|       null|                      null|   null|   null|
+ STROMC1    0.857      0.002     0.005    0  mag 2015A&A...580A..23P     Vmag:5.6  beta:2.838            TYC 1394-2121-1       0       0 
+      BT    5.942      0.015     0.006    0  mag 2000A&A...355L..27H     Prox:999   HIP:44001  sdb-v1-085735.20+153452.6       0       0 
+ STROMM1    0.212      0.004     0.005    0  mag 2015A&A...580A..23P     Vmag:5.6  beta:2.838            TYC 1394-2121-1       0       0 
+   BJ_VJ    0.204        0.0      0.02    0  mag 2006yCat.2168....0M        Comp:      n_B_V:                   HD 76582       0       0 
+   BS_YS    0.117      0.004     0.005    0  mag 2015A&A...580A..23P     Vmag:5.6  beta:2.838            TYC 1394-2121-1       0       0 
+      VT    5.705       0.01     0.006    0  mag 2000A&A...355L..27H     Prox:999   HIP:44001  sdb-v1-085735.20+153452.6       0       0 
+      HP   5.7504 0.00504876     0.005    0  mag 1997HIP...C......0E    VarType:C       Mult:                  HIP 44001       0       0 
+      VJ     5.67        0.0      0.02    0  mag 2006yCat.2168....0M        Comp:     n_Vmag:                   HD 76582       0       0 
+  JDENIS    5.254      0.047      0.01    0  mag 2004A&A...413.1037K        Var:0       Note:                   HD 76582       0       0 
+   2MR1J    5.271      0.023      0.01    0  mag 2003tmc..book.....C       Qflg:E      Cflg:0  sdb-v1-085735.20+153452.6       0       1 
+   2MR1H    5.208      0.018      0.01    0  mag 2003tmc..book.....C       Qflg:A      Cflg:0  sdb-v1-085735.20+153452.6       0       0 
+ KSDENIS    5.195      0.002      0.01    0  mag 2004A&A...413.1037K        Var:0       Note:                   HD 76582       0       0 
+  2MR1KS    5.156      0.024      0.01    0  mag 2003tmc..book.....C       Qflg:A      Cflg:0  sdb-v1-085735.20+153452.6       0       0 
+ WISE3P4    5.158      0.194     0.024    0  mag 2010AJ....140.1868W       qual:B    Var:nnn1  sdb-v1-085735.20+153452.6       0       1 
+ WISE4P6    4.978      0.084     0.028    0  mag 2010AJ....140.1868W       qual:A    Var:nnn1  sdb-v1-085735.20+153452.6       0       1 
+  AKARI9   0.4694     0.0137  0.007041    0   Jy 2010A&A...514A...1I       ext?:0    N-near:0  sdb-v1-085735.20+153452.6       0       0 
+  WISE12    5.195      0.015     0.045    0  mag 2010AJ....140.1868W       qual:A    Var:nnn1  sdb-v1-085735.20+153452.6       0       1 
+  WISE22    4.886      0.028     0.057    0  mag 2010AJ....140.1868W       qual:A    Var:nnn1  sdb-v1-085735.20+153452.6       0       0 
+ PACS100 0.435191 0.00527945 0.0109712    0   Jy             HSA_GMK   1342270993    Phot:PSF                * omi02 Cnc       0       1 
+ PACS100  489.906    9.19751   24.4953    0  mJy 2017arXiv170505693M Elong:0.6185     Blend:0 HPPSC100A_J085735.2+153453       0       0 
+ PACS160  414.111     24.874   12.4233    0  mJy 2017arXiv170505693M Elong:0.6531     Blend:0 HPPSC160A_J085735.3+153453       0       0 
+ PACS160 0.361771  0.0159795 0.0149492    0   Jy             HSA_GMK   1342270993    Phot:PSF                * omi02 Cnc       0       1 
+  WAV450     89.0       17.0       0.0    0  mJy 2017arXiv170601218H        No:76 Assoc:Field                   HD 76582       0       0 
+  WAV850      5.7        1.0       0.0    0  mJy 2017arXiv170601218H        No:76 Assoc:Field                   HD 76582       0       0 

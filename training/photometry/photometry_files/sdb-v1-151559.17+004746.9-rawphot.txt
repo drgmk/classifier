@@ -1,0 +1,42 @@
+\ photometry/spectra for sdb-v1-151559.17+004746.9
+\
+\main_id='HD 135599'
+\raj2000=228.996529
+\dej2000=0.79636
+\sp_type='K0V'
+\sp_bibcode='1999MSS...C05....0H'
+\plx_value=62.97999954223633
+\plx_err=0.3799999952316284
+\plx_bibcode='2016yCat.1337....0G'
+\id='sdb-v1-151559.17+004746.9'
+\irsstare0='cassis/irsstare/cassis_yaaar_spcfw_16004352t.fits'
+|   Band|   Phot|      Err|     Sys| Lim|Unit|            bibcode|        Note1|      Note2|                 SourceID|private|exclude|
+|   char| double|   double|  double|long|char|               char|         char|       char|                     char|   long|   long|
+|       |       |         |        |    |    |                   |             |           |                         |       |       |
+|   null|   null|     null|    null|null|null|               null|         null|       null|                     null|   null|   null|
+      BT    7.97     0.017    0.006    0  mag 2000A&A...355L..27H      Prox:999   HIP:74702 sdb-v1-151559.17+004746.9       0       0 
+ STROMM1    0.35     0.012    0.005    0  mag 2015A&A...580A..23P         Vmag:       beta:             TYC 336-981-1       0       0 
+      VT   7.024     0.011    0.006    0  mag 2000A&A...355L..27H      Prox:999   HIP:74702 sdb-v1-151559.17+004746.9       0       0 
+      HP   7.063 0.0100717    0.005    0  mag 1997HIP...C......0E      VarType:       Mult:                 HIP 74702       0       0 
+  IDENIS    8.55      0.04     0.01    0  mag 2005yCat.2263....0T       Ipsf:40    Iflg:804 sdb-v1-151559.17+004746.9       0       1 
+   2MR1J   5.484     0.018     0.01    0  mag 2003tmc..book.....C        Qflg:E      Cflg:0 sdb-v1-151559.17+004746.9       0       1 
+   2MR1H   5.115     0.027     0.01    0  mag 2003tmc..book.....C        Qflg:A      Cflg:0 sdb-v1-151559.17+004746.9       0       0 
+  2MR1KS   4.958     0.017     0.01    0  mag 2003tmc..book.....C        Qflg:A      Cflg:d sdb-v1-151559.17+004746.9       0       1 
+ WISE3P4    4.92     0.173    0.024    0  mag 2010AJ....140.1868W        qual:B    Var:0200 sdb-v1-151559.17+004746.9       0       0 
+ WISE4P6   4.805     0.064    0.028    0  mag 2010AJ....140.1868W        qual:A    Var:0200 sdb-v1-151559.17+004746.9       0       0 
+  AKARI9  0.6046    0.0143 0.009069    0   Jy 2010A&A...514A...1I        ext?:0    N-near:0 sdb-v1-151559.17+004746.9       0       0 
+  IRAS12   0.392   0.03136      0.0    0   Jy 1988IRASP.C......0J        Qual:3      Conf:0           IRAS 15134+0058       0       1 
+  IRAS12   0.381   0.02667      0.0    0   Jy 1990IRASF.C......0M        Qual:3      Conf:0          IRAS F15134+0058       0       0 
+  WISE12   4.953     0.014    0.045    0  mag 2010AJ....140.1868W        qual:A    Var:0200 sdb-v1-151559.17+004746.9       0       0 
+  WISE22   4.824     0.028    0.057    0  mag 2010AJ....140.1868W        qual:A    Var:0200 sdb-v1-151559.17+004746.9       0       0 
+  IRAS25   0.161   0.03703      0.0    1   Jy 1990IRASF.C......0M        Qual:1      Conf:0          IRAS F15134+0058       0       0 
+  IRAS25    0.25       0.0      0.0    1   Jy 1988IRASP.C......0J        Qual:1      Conf:0           IRAS 15134+0058       0       1 
+  MIPS24 84160.0     114.9   1683.2    0  uJy       2013.SEIP.dr4      Brt:1.11       Ext:0 sdb-v1-151559.17+004746.9       0       0 
+  IRAS60   0.162   0.03726      0.0    1   Jy 1990IRASF.C......0M        Qual:1      Conf:0          IRAS F15134+0058       0       0 
+  IRAS60     0.4       0.0      0.0    1   Jy 1988IRASP.C......0J        Qual:1      Conf:0           IRAS 15134+0058       0       1 
+  MIPS70   106.0      10.0     7.42    0  mJy 2014ApJS..211...25C Name:HD135599    r_F70:27                 HD 135599       0       0 
+  MIPS70   106.0      10.0     1.06    0  mJy 2009ApJ...698.1068P         Name:    new_xs:Y                 HD 135599       0       1 
+ IRAS100     1.0       0.0      0.0    1   Jy 1988IRASP.C......0J        Qual:1      Conf:0           IRAS 15134+0058       0       1 
+ IRAS100   0.433   0.09093      0.0    1   Jy 1990IRASF.C......0M        Qual:1      Conf:0          IRAS F15134+0058       0       0 
+  WAV450    72.0       0.0      0.0    1  mJy 2017arXiv170601218H         No:48 Assoc:Field                 HD 135599       0       0 
+  WAV850     3.6       0.0      0.0    1  mJy 2017arXiv170601218H         No:48 Assoc:Field                 HD 135599       0       0 

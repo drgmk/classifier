@@ -1,0 +1,29 @@
+\ photometry/spectra for sdb-v1-112117.24-344645.5
+\
+\main_id='CD-34 7390'
+\raj2000=170.321833
+\dej2000=-34.779306
+\sp_type='M1Ve+M1Ve'
+\sp_bibcode='2006A&A...460..695T'
+\plx_value=None
+\plx_err=None
+\plx_bibcode=None
+\id='sdb-v1-112117.24-344645.5'
+|   Band|   Phot|   Err|   Sys| Lim|Unit|            bibcode|      Note1|          Note2|                 SourceID|private|exclude|
+|   char| double|double|double|long|char|               char|       char|           char|                     char|   long|   long|
+|       |       |      |      |    |    |                   |           |               |                         |       |       |
+|   null|   null|  null|  null|null|null|               null|       null|           null|                     null|   null|   null|
+  GALFUV  19.792  0.179   0.01    0  mag 2011Ap&SS.335..161B      Fafl:0          Fexf:2 sdb-v1-112117.24-344645.5       0       0 
+  GALNUV  17.745  0.045   0.01    0  mag 2011Ap&SS.335..161B      Nafl:0          Nexf:2 sdb-v1-112117.24-344645.5       0       0 
+  IDENIS   9.653   0.02   0.01    0  mag 2005yCat.2263....0T     Ipsf:90          Iflg:0 sdb-v1-112117.24-344645.5       0       1 
+   2MR1J   8.431  0.043   0.01    0  mag 2003tmc..book.....C      Qflg:A          Cflg:0 sdb-v1-112117.24-344645.5       0       0 
+   2MR1H   7.727  0.067   0.01    0  mag 2003tmc..book.....C      Qflg:A          Cflg:0 sdb-v1-112117.24-344645.5       0       0 
+  2MR1KS   7.491  0.038   0.01    0  mag 2003tmc..book.....C      Qflg:A          Cflg:0 sdb-v1-112117.24-344645.5       0       0 
+ WISE3P4   7.585  0.086  0.024    0  mag 2010AJ....140.1868W      qual:A        Var:nnnn sdb-v1-112117.24-344645.5       0       0 
+ WISE4P6   7.507  0.031  0.028    0  mag 2010AJ....140.1868W      qual:A        Var:nnnn sdb-v1-112117.24-344645.5       0       0 
+  WISE12   7.386  0.028  0.045    0  mag 2010AJ....140.1868W      qual:A        Var:nnnn sdb-v1-112117.24-344645.5       0       0 
+  WISE22   6.906  0.144  0.057    0  mag 2010AJ....140.1868W      qual:B        Var:nnnn sdb-v1-112117.24-344645.5       0       0 
+  MIPS24 11800.0  61.65  236.0    0  uJy       2013.SEIP.dr4       Brt:0           Ext:0 sdb-v1-112117.24-344645.5       0       0 
+  MIPS70    27.6    5.9  1.104    0  mJy 2005ApJ...631.1170L Star:TWA 13    epoch:177.68                    TWA 13       0       0 
+  WAV450    42.0    0.0    0.0    1  mJy 2017arXiv170601218H       No:82 Assoc:TW Hydrae                CD-34 7390       0       0 
+  WAV850     3.0    0.0    0.0    1  mJy 2017arXiv170601218H       No:82 Assoc:TW Hydrae                CD-34 7390       0       0 

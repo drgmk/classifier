@@ -1,0 +1,78 @@
+\ photometry/spectra for sdb-v1-033255.85-092729.7
+\
+\main_id='* eps Eri'
+\raj2000=53.232691
+\dej2000=-9.458258
+\sp_type='K2Vk:'
+\sp_bibcode='2006AJ....132..161G'
+\plx_value=310.94
+\plx_err=0.1599999964237213
+\plx_bibcode='2007A&A...474..653V'
+\id='sdb-v1-033255.85-092729.7'
+\irsstare1='cassis/irsstare/cassis_yaaar_spcfw_4884480t.fits'
+|    Band|    Phot|       Err|       Sys| Lim|Unit|            bibcode|        Note1|        Note2|                  SourceID|private|exclude|
+|    char|  double|    double|    double|long|char|               char|         char|         char|                      char|   long|   long|
+|        |        |          |          |    |    |                   |             |             |                          |       |       |
+|    null|    null|      null|      null|null|null|               null|         null|         null|                      null|   null|   null|
+    UJ_BJ    0.583      0.013      0.028    0  mag 2006yCat.2168....0M         Comp:       n_U_B:>                   HD 22049       0       0 
+  STROMC1    0.268      0.009      0.005    0  mag 2015A&A...580A..23P    Vmag:3.721         beta:            TYC 5296-1533-1       0       0 
+       BT    4.846      0.014      0.006    0  mag 2000A&A...355L..27H      Prox:999     HIP:16537  sdb-v1-033255.85-092729.7       0       0 
+  STROMM1    0.422      0.013      0.005    0  mag 2015A&A...580A..23P    Vmag:3.721         beta:            TYC 5296-1533-1       0       0 
+    BJ_VJ     0.88        0.0       0.02    0  mag 1990A&AS...83..357B         Std?:     Vmag:3.73                     GJ 144       0       0 
+    BJ_VJ    0.882      0.007       0.02    0  mag 2006yCat.2168....0M         Comp:       n_B_V:>                   HD 22049       0       0 
+    BS_YS    0.509      0.009      0.005    0  mag 2015A&A...580A..23P    Vmag:3.721         beta:            TYC 5296-1533-1       0       0 
+       VT    3.814      0.009      0.006    0  mag 2000A&A...355L..27H      Prox:999     HIP:16537  sdb-v1-033255.85-092729.7       0       0 
+       HP   3.8652 0.00713863      0.005    0  mag 1997HIP...C......0E     VarType:M         Mult:                  HIP 16537       0       0 
+       VJ    3.726       0.01       0.02    0  mag 2006yCat.2168....0M         Comp:      n_Vmag:>                   HD 22049       0       0 
+       VJ     3.73        0.0       0.02    0  mag 1990A&AS...83..357B         Std?:     Vmag:3.73                     GJ 144       0       0 
+    VJ_RC    0.505        0.0       0.02    0  mag 1990A&AS...83..357B         Std?:     Vmag:3.73                     GJ 144       0       0 
+    VJ_IC    0.945        0.0       0.02    0  mag 1990A&AS...83..357B         Std?:     Vmag:3.73                     GJ 144       0       0 
+      2MJ    2.228      0.298       0.01    0  mag 2003tmc..book.....C        Qflg:D        Cflg:0  sdb-v1-033255.85-092729.7       0       0 
+      2MH     1.88      0.276       0.01    0  mag 2003tmc..book.....C        Qflg:D        Cflg:0  sdb-v1-033255.85-092729.7       0       0 
+     2MKS    1.776      0.286       0.01    0  mag 2003tmc..book.....C        Qflg:D        Cflg:0  sdb-v1-033255.85-092729.7       0       0 
+  WISE3P4   -0.792        0.0      0.024    1  mag 2010AJ....140.1868W        qual:U      Var:nn40  sdb-v1-033255.85-092729.7       0       1 
+  IRAC3P6  64320.0     1140.0        0.0    0  mJy 2009ApJ...690.1522B       eps Eri   ID:HD 22049                   HD 22049       0       0 
+  IRAC4P5  39800.0      700.0        0.0    0  mJy 2009ApJ...690.1522B       eps Eri   ID:HD 22049                   HD 22049       0       0 
+  WISE4P6   -0.146        0.0      0.028    1  mag 2010AJ....140.1868W        qual:U      Var:nn40  sdb-v1-033255.85-092729.7       0       1 
+  IRAC5P8  26110.0      470.0        0.0    0  mJy 2009ApJ...690.1522B       eps Eri   ID:HD 22049                   HD 22049       0       0 
+    IRAC8  14910.0      260.0        0.0    0  mJy 2009ApJ...690.1522B       eps Eri   ID:HD 22049                   HD 22049       0       0 
+   AKARI9    12.86     0.0456     0.1929    0   Jy 2010A&A...514A...1I        ext?:0      N-near:0  sdb-v1-033255.85-092729.7       0       0 
+   IRAS12     9.52     0.3808        0.0    0   Jy 1988IRASP.C......0J        Qual:3        Conf:0            IRAS 03305-0937       0       1 
+   IRAS12     9.67     0.4835        0.0    0   Jy 1990IRASF.C......0M        Qual:3        Conf:0           IRAS F03305-0937       0       0 
+   WISE12    1.748      0.025      0.045    0  mag 2010AJ....140.1868W        qual:A      Var:nn40  sdb-v1-033255.85-092729.7       0       0 
+  AKARI18    2.953     0.0287   0.044295    0   Jy 2010A&A...514A...1I        ext?:0      N-near:0  sdb-v1-033255.85-092729.7       0       0 
+   WISE22    1.406      0.014      0.057    0  mag 2010AJ....140.1868W        qual:A      Var:nn40  sdb-v1-033255.85-092729.7       0       0 
+   IRAS25     2.65      0.159        0.0    0   Jy 1988IRASP.C......0J        Qual:3        Conf:0            IRAS 03305-0937       0       1 
+   IRAS25     2.67     0.1335        0.0    0   Jy 1990IRASF.C......0M        Qual:3        Conf:0           IRAS F03305-0937       0       0 
+   MIPS24   2042.0       40.0        0.0    0  mJy 2009ApJ...690.1522B       eps Eri   ID:HD 22049                   HD 22049       0       0 
+   IRAS60     1.66     0.1328        0.0    0   Jy 1988IRASP.C......0J        Qual:3        Conf:0            IRAS 03305-0937       0       1 
+   IRAS60     1.63     0.0815        0.0    0   Jy 1990IRASF.C......0M        Qual:3        Conf:0           IRAS F03305-0937       0       0 
+   PACS70  1.48931 0.00664753   0.084146    0   Jy         2018.DEBRIS   chisq:88.41       Phot:Ap    2MASS J03325591-0927298       0       0 
+   PACS70   1744.0       50.0        0.0    0  mJy 2014ApJ...791L..11G       eps Eri   ID:HD 22049                   HD 22049       0       1 
+   PACS70  1.44418 0.00710888  0.0433254    0   Jy             HSA_GMK    1342216123       Phot:Ap                  * eps Eri       0       1 
+   PACS70  627.826    2.81631    18.8348    0  mJy 2017arXiv170505693M  Elong:0.0000       Blend:0 HPPSC070A_J033255.0-092730       0       1 
+   MIPS70   1688.0       10.0      67.52    0  mJy 2009ApJ...705.1226B  Star:eps Eri      Note:d,e                   HD 22049       0       0 
+   MIPS70   1688.0      207.0        0.0    0  mJy 2009ApJ...690.1522B       eps Eri   ID:HD 22049                   HD 22049       0       1 
+  IRAS100     2.01     0.2211        0.0    0   Jy 1990IRASF.C......0M        Qual:2        Conf:0           IRAS F03305-0937       0       0 
+  IRAS100     1.89     0.1701        0.0    0   Jy 1988IRASP.C......0J        Qual:3        Conf:0            IRAS 03305-0937       0       1 
+  PACS160   1239.0       70.0        0.0    0  mJy 2014ApJ...791L..11G       eps Eri   ID:HD 22049                   HD 22049       0       1 
+  PACS160  307.053    25.4186    9.21158    0  mJy 2017arXiv170505693M  Elong:0.8215       Blend:0 HPPSC160A_J033255.0-092730       0       1 
+  PACS160  1.03771  0.0226303  0.0518855    0   Jy             HSA_GMK    1342216123       Phot:Ap                  * eps Eri       0       1 
+  PACS160  1.05239  0.0222639  0.0684053    0   Jy         2018.DEBRIS   chisq:88.41       Phot:Ap    2MASS J03325591-0927298       0       0 
+ SPIRE250 0.579345   0.513911  0.0148171    0   Jy         2018.DEBRIS chisq:5.82393       Cov:173    2MASS J03325591-0927298       0       0 
+ SPIRE250    526.0       30.0        0.0    0  mJy 2014ApJ...791L..11G       eps Eri   ID:HD 22049                   HD 22049       0       1 
+   WAV350    366.0       50.0        0.0    0  mJy 2009ApJ...690.1522B     Instr:CSO Name:HD 22049                   HD 22049       0       0 
+ SPIRE350 0.300146   0.394053  0.0126264    0   Jy         2018.DEBRIS chisq:5.82393       Cov:291    2MASS J03325591-0927298       0       0 
+ SPIRE350    268.0       20.0        0.0    0  mJy 2014ApJ...791L..11G       eps Eri   ID:HD 22049                   HD 22049       0       1 
+   WAV450    181.0       15.0        0.0    0  mJy 2017arXiv170601218H        No:999   Assoc:Field                   HD 22049       0       0 
+   WAV450    225.0       10.0        0.0    0  mJy 2004MNRAS.348.1282S   Instr:SCUBA  Name:eps Eri                   HD 22049       0       0 
+   WAV450    250.0       20.0        0.0    0  mJy 2005ApJ...619L.187G   Instr:SCUBA  Name:eps Eri                   HD 22049       0       0 
+ SPIRE500 0.116862 0.00391409 0.00818034    0   Jy         2018.DEBRIS chisq:5.82393       Cov:371    2MASS J03325591-0927298       0       0 
+ SPIRE500    164.0       10.0        0.0    0  mJy 2014ApJ...791L..11G       eps Eri   ID:HD 22049                   HD 22049       0       1 
+   WAV850     28.1        2.1        0.0    0  mJy 2017arXiv170601218H        No:999   Assoc:Field                   HD 22049       0       0 
+   WAV850     37.0        3.0        0.0    0  mJy 2005ApJ...619L.187G   Instr:SCUBA  Name:eps Eri                   HD 22049       0       0 
+   WAV850     40.0        1.5        0.0    0  mJy 2004MNRAS.348.1282S   Instr:SCUBA  Name:eps Eri                   HD 22049       0       0 
+  WAV1100     27.7        1.3        0.0    0  mJy 2016MNRAS.462.2285C     Instr:LMT  Name:eps Eri                   HD 22049       0       0 
+  WAV1200     17.3        3.5        0.0    0  mJy 2015A&A...576A..72L    Instr:IRAM  Name:eps Eri                   HD 22049       0       0 
+  WAV1300     24.2        3.4        0.0    0  mJy 1991A&A...252..220C   Instr:MPIfR  Name:eps Eri                   HD 22049       0       0 
+  WAV1300     12.7        3.9        0.0    0  mJy 1995Ap&SS.224..389W    Instr:IRAM  Name:eps Eri                   HD 22049       0       0 
