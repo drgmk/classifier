@@ -375,6 +375,8 @@ class Colours(object):
             ok = np.where(name == np.array(bands))[0]
             if len(ok) > 0:
                 filt = sdf.filter.Filter.get(name)
+                if self.in_values[i] < 0:
+                    continue
                 flux_jy = (self.in_values[i]*self.in_units[i]).to('Jy').value
                 wave = np.linspace(25,150,50)
                 _,cc = filt.synthphot(
