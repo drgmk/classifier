@@ -240,13 +240,17 @@ class Colours(object):
                 self.colours[name] = 0.0
                 self.filled[name] = True
                 
-            # else interpolate based on median Teff from what we have
+            # else interpolate based on median Teff from what we have,
+            # setting zero colour if interpolation is not possible
             else:
                 f = interpolator('Teff',name)
                 med_temp = self.med_temp()
-                self.colours[name] = f( med_temp ).tolist() # a float
                 self.filled[name] = True
-        
+                if np.isfinite(med_temp):
+                    self.colours[name] = f( med_temp ).tolist() # a float
+                else:
+                    self.colours[name] = 0.0
+
         
     def sorted_colours(self):
         """Return colours sorted by mean wavelength."""
@@ -261,7 +265,11 @@ class Colours(object):
         cols = []
         for i in srt:
             cols.append(self.colours[names[i]])
-            
+
+        if not np.all(np.isfinite(cols)):
+            print("Not all colours finite ({})".format(cols))
+            return None
+
         if len(cols) != len(self.wanted):
             print("Didn't get all wanted colours")
             return None
@@ -283,7 +291,6 @@ class Colours(object):
             if f is not None and not self.filled[key]:
                 temp.append( f(self.colours[key]) )
 
-#         print(temp)
         if len(temp) > 0:
             med_t = np.nanmedian(temp)
         else:
