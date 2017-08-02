@@ -15,7 +15,8 @@ setup(
                         ],
     entry_points = {
         'console_scripts': [
-            'classify-phot=classifier.classifier:predict_phot_shell'
+            'classify-phot=classifier.photometry:predict_phot_shell',
+            'classify-irs=classifier.spectra:predict_irs_shell'
                             ]
         },
     zip_safe=False

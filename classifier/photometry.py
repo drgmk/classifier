@@ -19,6 +19,7 @@ import sdf.spectrum
 import sdf.db
 import sdf.photometry
 
+from . import utils
 from . import config as cfg
 
 # routines related to photometry
@@ -42,7 +43,7 @@ def download_photometry(sdbid):
     dir = cfg.training_dir+'photometry/photometry_files/'
     try:
         p = sdf.photometry.Photometry.read_sdb_file(
-                '~/a-extra/sdb/masters/sdbid/public/'+fname
+                '/Users/grant/a-extra/sdb/masters/'+sdbid+'/public/'+fname
                                                     )
     except FileNotFoundError:
         try:
@@ -120,6 +121,21 @@ def interpolator(colour_name,out_column='Teff'):
 class Colours(object):
     """Class to sort out colours for given photometry.
     
+    The goal is to return a list of colours for a given target, which 
+    can then be used for the machine learning. Where the desired colours
+    don't exist they are either inferred from something close, or 
+    interpolated based on an estimated effective temperature. Where very
+    little information exists the colours default to zero, meaning that
+    an object is by default assumed to be a star, and that a 
+    classification is always possible.
+    
+    There are various quirks of this approach.
+
+    - Stars bright enough to be detected at far-IR wavelengths are so
+      bright that no useful WISE W1/2 photometry exists. Therefore very
+      few stars with 'complete' photometry that can be derived without
+      interpolation exist.
+
     Parameters
     ----------
     phot : sdf.photometry.Photometry
@@ -382,7 +398,7 @@ class Colours(object):
             ok = np.where(name == np.array(bands))[0]
             if len(ok) > 0:
                 filt = sdf.filter.Filter.get(name)
-                if self.in_values[i] < 0:
+                if self.in_values[i] <= 0:
                     continue
                 flux_jy = (self.in_values[i]*self.in_units[i]).to('Jy').value
                 wave = np.linspace(25,150,50)
@@ -470,7 +486,7 @@ def get_data(files):
         
     label_names = np.unique(label_names)
     n_labels = len(label_names)
-    print(label_names,n_labels)
+    print('Classes: {}'.format(label_names))
     l_dict = dict(zip(label_names,range(n_labels)))
     
     for file in files:
@@ -585,8 +601,8 @@ def predict_phot(phot_file):
     
     Parameters
     ----------
-    p : sdf.Photometry object
-        Photometry object to be classified.
+    phot_file : string
+        Path to photometry file to be classified.
     '''
 
     pickle_dir = os.path.dirname(os.path.abspath(__file__))
@@ -595,13 +611,13 @@ def predict_phot(phot_file):
     c = Colours(phot=p)
 
     if c.skipped():
-        with open(pickle_dir+'/phot-nn-partial-classifier.pkl','rb') as f:
-            labels = pickle.load(f)
-            clf = pickle.load(f)
+        labels, clf = utils.get_clf(
+                    pickle_dir+'/phot-nn-partial-classifier.pkl'
+                                    )
     else:
-        with open(pickle_dir+'/phot-nn-full-classifier.pkl','rb') as f:
-            labels = pickle.load(f)
-            clf = pickle.load(f)
+        labels, clf = utils.get_clf(
+                    pickle_dir+'/phot-nn-full-classifier.pkl'
+                                    )
 
     data = np.array(c.sorted_colours()).reshape(1, -1)
     pred = clf.predict(data)[0]
@@ -613,9 +629,9 @@ def predict_phot_shell():
     '''Shell script to run photometry classification.'''
 
     # inputs
-    parser = argparse.ArgumentParser(description='Classifier')
+    parser = argparse.ArgumentParser(description='Photometry classifier')
     parser.add_argument('--file','-f',nargs='+',action='append',
-                        help='Classify file or files')
+                        help='Classify rawphot file or files')
     args = parser.parse_args()
 
     if args.file is not None:

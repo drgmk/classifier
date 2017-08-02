@@ -4,6 +4,8 @@
 
 Create a widget that allows selection of some buttons to classify IRS
 spectra.
+
+A fair amount of by-hand fiddling below depending on what is being done.
 '''
 
 import glob
@@ -25,37 +27,18 @@ from astroquery.simbad import Simbad
 
 import sdf.spectrum
 import sdf.utils
-
+import classifier.spectra
+import classifier.config as cfg
 
 def fit_func(par,x):
     '''Function to fit a spectrum.'''
     return par[0] / x**2 + par[1] * x**par[2] + \
             par[3] * sdf.utils.bnu_wav_micron(x,par[4])
 
+
 def err_func(par,x,y):
     '''Difference between model and data.'''
     return fit_func(par,x) - y
-
-def spec2arr(f,norm=True):
-    if 'fits' in f:
-        sp = sdf.spectrum.ObsSpectrum.read_cassis(f,module_split=True)
-        if len(sp) < 4:
-            return
-        arr = np.array([])
-        for s in sp:
-            if norm:
-                arr = np.append(arr,s.fnujy/np.mean(s.fnujy))
-            else:
-                arr = np.append(arr,s.fnujy)
-        if len(arr) != 382:
-            return
-    elif 'tbl' in f:
-        t = Table.read(f,format='ascii.ipac')
-        if len(t) != 366:
-            return
-        arr = t['flux_density']
-
-    return arr
 
 
 def classify_one(file,labels,labels_init):
@@ -155,24 +138,24 @@ def classify_one(file,labels,labels_init):
 
 # start of the script fo real
 
-# all the spectra
-#files = glob.glob('/Users/grant/a-extra/sdb/spectra/cassis/irsstare/*fits')
-#files = glob.glob('spectra/training/*fits',recursive=True)
-
 # a dict to put classifications in
 data = {}
 class_file = 'irs_labels_cassis.txt'
 with open('irs_labels_cassis.txt','r') as f:
     data = json.load(f)
 
-files = list( data.keys() )
+# decide which files we want to look at
+files = glob.glob(cfg.spectra + 'training/*fits',recursive=True)
+files = [os.path.basename(f) for f in files]
+#files = list( data.keys() )
+print('{} files'.format(len(files)))
 
 # the labels to use
 label_names = np.array(['Class I','Class II','Transition',
-                        'Kuiper','Exo-Zodi','Star',
+                        'Kuiper','Star','Be Star',
                         'Am Sil Em','Cryst Sil Em',
                         'Am Sil Abs','Ice Abs','Gas Abs',
-                        'PAH Em','Be Em','Gas Em','[NeV]',
+                        'PAH Em','Gas Em','[NeV]',
                         'O-type','B-type','A-type','F-type','G-type',
                         'K-type','M-type','Brown Dwarf',
                         'SL/LL offset'])
@@ -192,39 +175,25 @@ print('Read {} spectra'.format(len(data)))
 for l in label_counts.keys():
     print(l,label_counts[l])
 
-# restore the nural net
-with open('irs-nn-classifier.pkl','rb') as f:
-    _ = pickle.load(f)
-    clf = pickle.load(f)
-
-# no labels set by default
-#labels_init = np.zeros(len(label_names),dtype=bool)
 
 for file in files:
 
-    file = 'spectra/irsstare/' + file
+    file = cfg.spectra + 'irsstare/' + file
     file_name = os.path.basename(file)
 
-    # store labeled files in here
-    store = 'spectra/training/'
-    if not os.path.exists(store+file_name):
-        shutil.copy(file,store)
-    
-    # skip if the spectrum isn't full-length, and remove from dict
-    if 'fits' in file:
-        s = sdf.spectrum.ObsSpectrum.read_cassis(file,module_split=True)
-        if len(s) < 4:
-            print('skipping {}'.format(file_name))
-            data.pop(file_name)
-            continue
-    elif 'tbl' in file:
-        t = Table.read(file,format='ascii.ipac')
-        if len(np.unique(t['order'])) < 4:
-            print('skipping {}'.format(file_name))
-            data.pop(file_name)
-            continue
+    # store files in here
+#    store = 'spectra/training/'
+#    if not os.path.exists(store+file_name):
+#        shutil.copy(file,store)
 
-    s_learn = spec2arr(file)
+    # look for spectra that have specific predictions
+    pred = classifier.spectra.predict_spectra_class(file)
+    print('Pred : {}'.format(pred))
+#    if pred == 'star':
+#        continue
+
+    # read in, skip according to rules in read_spec
+    s_learn = classifier.spectra.read_spec(file)
     if s_learn is None:
         print('skipping {}'.format(file_name))
         continue
@@ -235,21 +204,25 @@ for file in files:
     if file_name in data.keys():
         
         # store labeled files in here
-        store = 'spectra/training/'
+        store = cfg.spectra + 'training/'
         if not os.path.exists(store+file_name):
             shutil.copy(file,store)
 
         # skip ones we did already
-        if len(data[file_name]) > 0 and 0:
+        if len(data[file_name]) > 0:
             print('Already did {}, with {}'.format(file_name,
                                                    data[file_name]))
-            continue
+#            continue
 
         # or only do ones we want to re-do
-        if 'B-type' in data[file_name] and 'Be Em' in data[file_name]:
-            pass
-        else:
+        if 'Cryst Sil Em' not in data[file_name]:
             continue
+#        skip = 0
+#        for label in data[file_name]:
+#            if 'type' in label:
+#                skip = 1
+#        if skip:
+#            continue
 
         # fill initial labels from file
         for i,label in enumerate(label_names):
@@ -286,16 +259,14 @@ for file in files:
             labels_init[np.where(label_names == 'Brown Dwarf')] = True
 
         if 'Be*' in res['OTYPE'][0].decode():
-            labels_init[np.where(label_names == 'Be Em')] = True
+            labels_init[np.where(label_names == 'Be Star')] = True
             labels_init[np.where(label_names == 'Gas Em')] = True
 
     print('Initial: {}'.format(np.array(labels_init,dtype=int)))
-    labels_pred = np.array( clf.predict(s_learn.reshape(1,-1))[0], dtype=bool)
-    print('Model  : {}'.format(np.array(labels_pred,dtype=int)))
 
     # do the classification and put it in the dict
     out = classify_one(file,label_names,labels_init)
-    if out is None:
+    if out is None or np.sum(out) == 0:
         print('Skipping {}'.format(file_name))
         continue
 
