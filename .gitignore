@@ -4,3 +4,4 @@ __pycache__
 *.pyc
 classifier.egg-info/
 **/.ipynb_checkpoints
+eem_colours.txt
