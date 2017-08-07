@@ -1,0 +1,26 @@
+\ photometry/spectra for sdb-v1-043541.84+223411.6
+\
+\main_id='J043541.8+223411'
+\raj2000=68.924324
+\dej2000=22.569894
+\sp_type=None
+\sp_bibcode=None
+\plx_value=None
+\plx_err=None
+\plx_bibcode=None
+\id='sdb-v1-043541.84+223411.6'
+|   Band|  Phot|   Err|   Sys| Lim|Unit|            bibcode|   Note1|   Note2|                 SourceID|private|exclude|
+|   char|double|double|double|long|char|               char|    char|    char|                     char|   long|   long|
+|       |      |      |      |    |    |                   |        |        |                         |       |       |
+|   null|  null|  null|  null|null|null|               null|    null|    null|                     null|   null|   null|
+   2MR2J 12.946  0.022   0.01    0  mag 2003tmc..book.....C   Qflg:A   Cflg:0 sdb-v1-043541.84+223411.6       0       0 
+   2MR2H 12.367  0.021   0.01    0  mag 2003tmc..book.....C   Qflg:A   Cflg:0 sdb-v1-043541.84+223411.6       0       0 
+  2MR2KS 11.985  0.022   0.01    0  mag 2003tmc..book.....C   Qflg:A   Cflg:0 sdb-v1-043541.84+223411.6       0       0 
+ WISE3P4 11.785  0.023  0.024    0  mag 2010AJ....140.1868W   qual:A Var:00nn sdb-v1-043541.84+223411.6       0       0 
+ IRAC3P6 6353.0  11.41 127.06    0  uJy       2013.SEIP.dr4 Brt:0.95    Ext:0 sdb-v1-043541.84+223411.6       0       0 
+ IRAC4P5 4481.0  9.528  89.62    0  uJy       2013.SEIP.dr4    Brt:0    Ext:0 sdb-v1-043541.84+223411.6       0       0 
+ WISE4P6 11.501  0.023  0.028    0  mag 2010AJ....140.1868W   qual:A Var:00nn sdb-v1-043541.84+223411.6       0       0 
+ IRAC5P8 3095.0  18.28   61.9    0  uJy       2013.SEIP.dr4    Brt:0    Ext:0 sdb-v1-043541.84+223411.6       0       0 
+   IRAC8 1782.0  15.36  35.64    0  uJy       2013.SEIP.dr4    Brt:0    Ext:0 sdb-v1-043541.84+223411.6       0       0 
+  WISE12 11.471  0.296  0.045    0  mag 2010AJ....140.1868W   qual:B Var:00nn sdb-v1-043541.84+223411.6       0       0 
+  WISE22   8.51    0.0  0.057    1  mag 2010AJ....140.1868W   qual:U Var:00nn sdb-v1-043541.84+223411.6       0       0 

@@ -1,0 +1,30 @@
+\ photometry/spectra for sdb-v1-043619.09+254259.0
+\
+\main_id='V* V1115 Tau'
+\raj2000=69.079542
+\dej2000=25.716397
+\sp_type='M0:V'
+\sp_bibcode=None
+\plx_value=None
+\plx_err=None
+\plx_bibcode=None
+\id='sdb-v1-043619.09+254259.0'
+|   Band|  Phot|   Err|   Sys| Lim|Unit|            bibcode|   Note1|   Note2|                 SourceID|private|exclude|
+|   char|double|double|double|long|char|               char|    char|    char|                     char|   long|   long|
+|       |      |      |      |    |    |                   |        |        |                         |       |       |
+|   null|  null|  null|  null|null|null|               null|    null|    null|                     null|   null|   null|
+      BT 13.158  0.425  0.006    0  mag 2000A&A...355L..27H Prox:999     HIP: sdb-v1-043619.09+254259.0       0       0 
+  BAPASS 12.971  0.032   0.01    0  mag 2016yCat.2336....0H   nobs:2  mobs:10 sdb-v1-043619.09+254259.0       0       0 
+  GAPASS 12.314  0.026   0.01    0  mag 2016yCat.2336....0H   nobs:2  mobs:10 sdb-v1-043619.09+254259.0       0       0 
+      VT 11.657   0.18  0.006    0  mag 2000A&A...355L..27H Prox:999     HIP: sdb-v1-043619.09+254259.0       0       0 
+  VAPASS 11.761  0.043   0.01    0  mag 2016yCat.2336....0H   nobs:2  mobs:10 sdb-v1-043619.09+254259.0       0       0 
+  RAPASS 11.277  0.038   0.01    0  mag 2016yCat.2336....0H   nobs:2  mobs:10 sdb-v1-043619.09+254259.0       0       0 
+  IAPASS 10.782  0.004   0.01    0  mag 2016yCat.2336....0H   nobs:2  mobs:10 sdb-v1-043619.09+254259.0       0       0 
+   2MR2J  9.336  0.019   0.01    0  mag 2003tmc..book.....C   Qflg:A   Cflg:0 sdb-v1-043619.09+254259.0       0       0 
+   2MR2H  8.713  0.028   0.01    0  mag 2003tmc..book.....C   Qflg:A   Cflg:0 sdb-v1-043619.09+254259.0       0       0 
+  2MR2KS   8.58  0.026   0.01    0  mag 2003tmc..book.....C   Qflg:A   Cflg:0 sdb-v1-043619.09+254259.0       0       0 
+ WISE3P4  8.469  0.023  0.024    0  mag 2010AJ....140.1868W   qual:A Var:111n sdb-v1-043619.09+254259.0       0       0 
+ WISE4P6  8.487  0.021  0.028    0  mag 2010AJ....140.1868W   qual:A Var:111n sdb-v1-043619.09+254259.0       0       0 
+  WISE12   8.41  0.028  0.045    0  mag 2010AJ....140.1868W   qual:A Var:111n sdb-v1-043619.09+254259.0       0       0 
+  WISE22  8.686  0.431  0.057    0  mag 2010AJ....140.1868W   qual:C Var:111n sdb-v1-043619.09+254259.0       0       0 
+  MIPS24 3415.0  235.5   68.3    0  uJy       2013.SEIP.dr4    Brt:0    Ext:0 sdb-v1-043619.09+254259.0       0       0 

@@ -1,0 +1,29 @@
+\ photometry/spectra for sdb-v1-053513.43-055758.2
+\
+\main_id='ISOY J053513.43-055758.1'
+\raj2000=83.80596917
+\dej2000=-5.96615389
+\sp_type=None
+\sp_bibcode=None
+\plx_value=None
+\plx_err=None
+\plx_bibcode=None
+\id='sdb-v1-053513.43-055758.2'
+\irsstare0='cassis/irsstare/cassis_yaaar_spcfw_20847616t.fits'
+|   Band|    Phot|    Err|      Sys| Lim|Unit|            bibcode|       Note1|   Note2|                  SourceID|private|exclude|
+|   char|  double| double|   double|long|char|               char|        char|    char|                      char|   long|   long|
+|       |        |       |         |    |    |                   |            |        |                          |       |       |
+|   null|    null|   null|     null|null|null|               null|        null|    null|                      null|   null|   null|
+ WISE3P4     14.0   0.031     0.024    0  mag 2010AJ....140.1868W       qual:A Var:0011  sdb-v1-053513.43-055758.2       0       0 
+ IRAC3P6   1255.0   3.562      25.1    0  uJy       2013.SEIP.dr4        Brt:0    Ext:0  sdb-v1-053513.43-055758.2       0       0 
+ IRAC4P5   3501.0   5.012     70.02    0  uJy       2013.SEIP.dr4     Brt:1.02    Ext:0  sdb-v1-053513.43-055758.2       0       0 
+ WISE4P6   10.894   0.021     0.028    0  mag 2010AJ....140.1868W       qual:A Var:0011  sdb-v1-053513.43-055758.2       0       0 
+ IRAC5P8   4750.0   21.29      95.0    0  uJy       2013.SEIP.dr4     Brt:0.95    Ext:0  sdb-v1-053513.43-055758.2       0       0 
+   IRAC8   4293.0   21.44     85.86    0  uJy       2013.SEIP.dr4        Brt:0    Ext:0  sdb-v1-053513.43-055758.2       0       0 
+  WISE12    6.685   0.033     0.045    0  mag 2010AJ....140.1868W       qual:A Var:0011  sdb-v1-053513.43-055758.2       0       0 
+ AKARI18   0.4005  0.0273 0.0060075    0   Jy 2010A&A...514A...1I       ext?:0 N-near:0  sdb-v1-053513.43-055758.2       0       0 
+  WISE22    1.841   0.016     0.057    0  mag 2010AJ....140.1868W       qual:A Var:0011  sdb-v1-053513.43-055758.2       0       0 
+  MIPS24 705300.0   227.5   14106.0    0  uJy       2013.SEIP.dr4     Brt:1.11 Ext:1.11  sdb-v1-053513.43-055758.2       0       0 
+  PACS70  21979.5 129.081   659.386    0  mJy 2017arXiv170505693M Elong:0.8662  Blend:0 HPPSC070A_J053513.5-055759       0       0 
+ PACS100  32550.6 149.596   1627.53    0  mJy 2017arXiv170505693M Elong:0.9440  Blend:0 HPPSC100A_J053513.5-055759       0       0 
+ PACS160  37300.9 577.604   1119.03    0  mJy 2017arXiv170505693M Elong:0.8672  Blend:0 HPPSC160A_J053513.4-055758       0       0 

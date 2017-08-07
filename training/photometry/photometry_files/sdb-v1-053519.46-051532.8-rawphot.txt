@@ -1,0 +1,19 @@
+\ photometry/spectra for sdb-v1-053519.46-051532.8
+\
+\main_id='[MGM2012] 2187'
+\raj2000=83.8310775
+\dej2000=-5.25910528
+\sp_type=None
+\sp_bibcode=None
+\plx_value=None
+\plx_err=None
+\plx_bibcode=None
+\id='sdb-v1-053519.46-051532.8'
+\irsstare1='cassis/irsstare/cassis_yaaar_spcfw_20830464t.fits'
+|   Band|    Phot|    Err|    Sys| Lim|Unit|            bibcode|       Note1|  Note2|                  SourceID|private|exclude|
+|   char|  double| double| double|long|char|               char|        char|   char|                      char|   long|   long|
+|       |        |       |       |    |    |                   |            |       |                          |       |       |
+|   null|    null|   null|   null|null|null|               null|        null|   null|                      null|   null|   null|
+  PACS70  42364.9 40295.9 1270.95    0  mJy 2017arXiv170505693M Elong:1.1818 Blend:0 HPPSC070A_J053519.5-051534       0       0 
+ PACS100  80708.6 3533.24 4035.43    0  mJy 2017arXiv170505693M Elong:0.7508 Blend:0 HPPSC100A_J053519.6-051534       0       0 
+ PACS160 154187.0 5116.69 4625.62    0  mJy 2017arXiv170505693M Elong:0.7473 Blend:0 HPPSC160A_J053519.5-051534       0       0 

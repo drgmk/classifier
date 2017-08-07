@@ -1,0 +1,24 @@
+\ photometry/spectra for sdb-v1-041353.23+281123.3
+\
+\main_id='HPPSC100A_J041353.4+281124'
+\raj2000=63.4718
+\dej2000=28.189800262451172
+\sp_type=None
+\sp_bibcode=None
+\plx_value=None
+\plx_err=None
+\plx_bibcode=None
+\id='sdb-v1-041353.23+281123.3'
+|   Band|   Phot|    Err|      Sys| Lim|Unit|            bibcode|       Note1|   Note2|                  SourceID|private|exclude|
+|   char| double| double|   double|long|char|               char|        char|    char|                      char|   long|   long|
+|       |       |       |         |    |    |                   |            |        |                          |       |       |
+|   null|   null|   null|     null|null|null|               null|        null|    null|                      null|   null|   null|
+   2MR2J  13.639   0.024      0.01    0  mag 2003tmc..book.....C       Qflg:A   Cflg:0  sdb-v1-041353.23+281123.3       0       0 
+   2MR2H  11.521   0.024      0.01    0  mag 2003tmc..book.....C       Qflg:A   Cflg:0  sdb-v1-041353.23+281123.3       0       0 
+  2MR2KS   10.37   0.019      0.01    0  mag 2003tmc..book.....C       Qflg:A   Cflg:0  sdb-v1-041353.23+281123.3       0       0 
+ WISE3P4   9.455   0.024     0.024    0  mag 2010AJ....140.1868W       qual:A Var:010n  sdb-v1-041353.23+281123.3       0       0 
+ WISE4P6   8.311   0.021     0.028    0  mag 2010AJ....140.1868W       qual:A Var:010n  sdb-v1-041353.23+281123.3       0       0 
+  AKARI9  0.2195  0.0233 0.0032925    0   Jy 2010A&A...514A...1I       ext?:0 N-near:1  sdb-v1-041353.23+281123.3       0       0 
+  WISE12   5.439   0.014     0.045    0  mag 2010AJ....140.1868W       qual:A Var:010n  sdb-v1-041353.23+281123.3       0       0 
+  WISE22   2.598   0.018     0.057    0  mag 2010AJ....140.1868W       qual:A Var:010n  sdb-v1-041353.23+281123.3       0       0 
+ PACS100 431.428 94.5561   21.5714    0  mJy 2017arXiv170505693M Elong:0.8504  Blend:0 HPPSC100A_J041353.4+281124       0       0 

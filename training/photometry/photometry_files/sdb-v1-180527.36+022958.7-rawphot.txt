@@ -1,0 +1,38 @@
+\ photometry/spectra for sdb-v1-180527.36+022958.7
+\
+\main_id='* 70 Oph A'
+\raj2000=271.364008
+\dej2000=2.499647
+\sp_type='K0V'
+\sp_bibcode='1967AJ.....72.1334C'
+\plx_value=None
+\plx_err=None
+\plx_bibcode=None
+\id='sdb-v1-180527.36+022958.7'
+|   Band|     Phot|       Err|       Sys| Lim|Unit|            bibcode|         Note1|    Note2|                  SourceID|private|exclude|
+|   char|   double|    double|    double|long|char|               char|          char|     char|                      char|   long|   long|
+|       |         |          |          |    |    |                   |              |         |                          |       |       |
+|   null|     null|      null|      null|null|null|               null|          null|     null|                      null|   null|   null|
+ STROMC1     0.262       0.01      0.005    0  mag 2015A&A...580A..23P     Vmag:4.016     beta:             TYC 434-5213-1       0       0 
+      BT      5.18      0.014      0.006    0  mag 2000A&A...355L..27H        Prox:16 HIP:88601  sdb-v1-180527.36+022958.7       0       0 
+ STROMM1      0.39      0.012      0.005    0  mag 2015A&A...580A..23P     Vmag:4.016     beta:             TYC 434-5213-1       0       0 
+   BS_YS     0.508      0.008      0.005    0  mag 2015A&A...580A..23P     Vmag:4.016     beta:             TYC 434-5213-1       0       0 
+      VT     4.217      0.009      0.006    0  mag 2000A&A...355L..27H        Prox:16 HIP:88601  sdb-v1-180527.36+022958.7       0       0 
+     2MJ     2.343      0.296       0.01    0  mag 2003tmc..book.....C         Qflg:D    Cflg:0  sdb-v1-180527.36+022958.7       0       0 
+     2MH     1.876      0.244       0.01    0  mag 2003tmc..book.....C         Qflg:D    Cflg:0  sdb-v1-180527.36+022958.7       0       0 
+    2MKS     1.791      0.304       0.01    0  mag 2003tmc..book.....C         Qflg:D    Cflg:d  sdb-v1-180527.36+022958.7       0       1 
+ WISE3P4    -0.181        0.0      0.024    1  mag 2010AJ....140.1868W         qual:U  Var:nnnn  sdb-v1-180527.36+022958.7       0       1 
+ WISE4P6     0.168        0.0      0.028    1  mag 2010AJ....140.1868W         qual:U  Var:nnnn  sdb-v1-180527.36+022958.7       0       1 
+  IRAS12      7.37     0.2948        0.0    0   Jy 1988IRASP.C......0J         Qual:3    Conf:0            IRAS 18029+0229       0       1 
+  IRAS12      7.64      0.382        0.0    0   Jy 1990IRASF.C......0M         Qual:3    Conf:0           IRAS F18029+0229       0       0 
+  WISE12     1.828      0.016      0.045    0  mag 2010AJ....140.1868W         qual:A  Var:nnnn  sdb-v1-180527.36+022958.7       0       1 
+  WISE22     1.849      0.018      0.057    0  mag 2010AJ....140.1868W         qual:A  Var:nnnn  sdb-v1-180527.36+022958.7       0       1 
+  IRAS25       1.8      0.108        0.0    0   Jy 1990IRASF.C......0M         Qual:3    Conf:0           IRAS F18029+0229       0       0 
+  IRAS25       1.8      0.144        0.0    0   Jy 1988IRASP.C......0J         Qual:3    Conf:0            IRAS 18029+0229       0       1 
+  IRAS60     0.449    0.11225        0.0    1   Jy 1990IRASF.C......0M         Qual:1    Conf:0           IRAS F18029+0229       0       0 
+  IRAS60       0.4        0.0        0.0    1   Jy 1988IRASP.C......0J         Qual:1    Conf:0            IRAS 18029+0229       0       1 
+ IRAS100      1.35        0.0        0.0    1   Jy 1988IRASP.C......0J         Qual:1    Conf:0            IRAS 18029+0229       0       1 
+ IRAS100      1.72       0.43        0.0    1   Jy 1990IRASF.C......0M         Qual:1    Conf:0           IRAS F18029+0229       0       0 
+ PACS100 0.0427613 0.00330225 0.00204823    0   Jy         2018.DEBRIS chisq:0.940957  Phot:PSF          CCDM J18055+0230A       0       0 
+ PACS100    66.974    5.85663     3.3487    0  mJy 2017arXiv170505693M   Elong:0.6280   Blend:0 HPPSC100A_J180527.5+022947       0       1 
+ PACS160  0.026823 0.00419784 0.00144091    0   Jy         2018.DEBRIS chisq:0.940957  Phot:PSF          CCDM J18055+0230A       0       0 

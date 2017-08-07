@@ -1,0 +1,19 @@
+\ photometry/spectra for sdb-v1-054245.20-011614.2
+\
+\main_id='HOPS 403'
+\raj2000=85.68833
+\dej2000=-1.270611
+\sp_type=None
+\sp_bibcode=None
+\plx_value=None
+\plx_err=None
+\plx_bibcode=None
+\id='sdb-v1-054245.20-011614.2'
+|   Band|   Phot|    Err|    Sys| Lim|Unit|            bibcode|       Note1|  Note2|                  SourceID|private|exclude|
+|   char| double| double| double|long|char|               char|        char|   char|                      char|   long|   long|
+|       |       |       |       |    |    |                   |            |       |                          |       |       |
+|   null|   null|   null|   null|null|null|               null|        null|   null|                      null|   null|   null|
+  MIPS24  5130.0   159.3   102.6    0  uJy       2013.SEIP.dr4        Brt:0   Ext:0  sdb-v1-054245.20-011614.2       0       0 
+  PACS70 3374.67 177.703  101.24    0  mJy 2017arXiv170505693M Elong:1.1172 Blend:0 HPPSC070A_J054245.2-011614       0       0 
+ PACS100 10842.2 40.1898 542.109    0  mJy 2017arXiv170505693M Elong:0.9585 Blend:0 HPPSC100A_J054245.1-011612       0       0 
+ PACS160 16802.3 187.509 504.069    0  mJy 2017arXiv170505693M Elong:0.8638 Blend:0 HPPSC160A_J054245.2-011615       0       0 

@@ -1,0 +1,18 @@
+\ photometry/spectra for sdb-v1-054129.40-022117.1
+\
+\main_id='[STS2013] 82005'
+\raj2000=85.37249755859375
+\dej2000=-2.354749917984009
+\sp_type=None
+\sp_bibcode=None
+\plx_value=None
+\plx_err=None
+\plx_bibcode=None
+\id='sdb-v1-054129.40-022117.1'
+|   Band|   Phot|    Err|    Sys| Lim|Unit|            bibcode|       Note1|  Note2|                  SourceID|private|exclude|
+|   char| double| double| double|long|char|               char|        char|   char|                      char|   long|   long|
+|       |       |       |       |    |    |                   |            |       |                          |       |       |
+|   null|   null|   null|   null|null|null|               null|        null|   null|                      null|   null|   null|
+  PACS70 485.774 770.688 14.5732    0  mJy 2017arXiv170505693M Elong:1.1512 Blend:0 HPPSC070A_J054129.4-022116       0       0 
+ PACS100 3279.38 290.557 163.969    0  mJy 2017arXiv170505693M Elong:0.9525 Blend:0 HPPSC100A_J054129.4-022115       0       0 
+ PACS160 10342.8 469.025 310.284    0  mJy 2017arXiv170505693M Elong:0.8136 Blend:0 HPPSC160A_J054129.3-022117       0       0 

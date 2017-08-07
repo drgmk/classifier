@@ -1,0 +1,33 @@
+\ photometry/spectra for sdb-v1-041831.58+281658.5
+\
+\main_id='HPPSC100A_J041831.7+281659'
+\raj2000=64.63157
+\dej2000=28.282907
+\sp_type=None
+\sp_bibcode=None
+\plx_value=None
+\plx_err=None
+\plx_bibcode=None
+\id='sdb-v1-041831.58+281658.5'
+|   Band|    Phot|   Err|    Sys| Lim|Unit|            bibcode|       Note1|   Note2|                  SourceID|private|exclude|
+|   char|  double|double| double|long|char|               char|        char|    char|                      char|   long|   long|
+|       |        |      |       |    |    |                   |            |        |                          |       |       |
+|   null|    null|  null|   null|null|null|               null|        null|    null|                      null|   null|   null|
+  BAPASS   16.919   0.22    0.01    0  mag 2016yCat.2336....0H       nobs:4  mobs:18  sdb-v1-041831.58+281658.5       0       0 
+  GAPASS   15.982   0.12    0.01    0  mag 2016yCat.2336....0H       nobs:4  mobs:18  sdb-v1-041831.58+281658.5       0       0 
+  VAPASS   15.336  0.052    0.01    0  mag 2016yCat.2336....0H       nobs:4  mobs:18  sdb-v1-041831.58+281658.5       0       0 
+  RAPASS   14.617  0.107    0.01    0  mag 2016yCat.2336....0H       nobs:4  mobs:18  sdb-v1-041831.58+281658.5       0       0 
+  IAPASS   13.041  0.062    0.01    0  mag 2016yCat.2336....0H       nobs:4  mobs:18  sdb-v1-041831.58+281658.5       0       0 
+   2MR2J   10.517  0.021    0.01    0  mag 2003tmc..book.....C       Qflg:A   Cflg:0  sdb-v1-041831.58+281658.5       0       0 
+   2MR2H    9.774  0.022    0.01    0  mag 2003tmc..book.....C       Qflg:A   Cflg:0  sdb-v1-041831.58+281658.5       0       0 
+  2MR2KS    9.362  0.017    0.01    0  mag 2003tmc..book.....C       Qflg:A   Cflg:0  sdb-v1-041831.58+281658.5       0       0 
+ WISE3P4    8.686  0.022   0.024    0  mag 2010AJ....140.1868W       qual:A Var:0001  sdb-v1-041831.58+281658.5       0       0 
+ IRAC3P6  88020.0  32.71  1760.4    0  uJy       2013.SEIP.dr4     Brt:1.02    Ext:0  sdb-v1-041831.58+281658.5       0       0 
+ IRAC4P5 120500.0  39.96  2410.0    0  uJy       2013.SEIP.dr4     Brt:0.95    Ext:0  sdb-v1-041831.58+281658.5       0       0 
+ WISE4P6    7.499  0.019   0.028    0  mag 2010AJ....140.1868W       qual:A Var:0001  sdb-v1-041831.58+281658.5       0       0 
+  AKARI9    0.916 0.0247 0.01374    0   Jy 2010A&A...514A...1I       ext?:0 N-near:1  sdb-v1-041831.58+281658.5       0       0 
+  WISE12    3.887  0.013   0.045    0  mag 2010AJ....140.1868W       qual:A Var:0001  sdb-v1-041831.58+281658.5       0       0 
+ AKARI18    1.244 0.0495 0.01866    0   Jy 2010A&A...514A...1I       ext?:0 N-near:1  sdb-v1-041831.58+281658.5       0       0 
+  WISE22    1.925  0.019   0.057    0  mag 2010AJ....140.1868W       qual:A Var:0001  sdb-v1-041831.58+281658.5       0       0 
+  MIPS24 903200.0  301.1 18064.0    0  uJy       2013.SEIP.dr4     Brt:0.96 Ext:0.96  sdb-v1-041831.58+281658.5       0       0 
+ PACS100  144.763 107.48 7.23816    0  mJy 2017arXiv170505693M Elong:0.8184  Blend:0 HPPSC100A_J041831.7+281659       0       0 

@@ -1,0 +1,29 @@
+\ photometry/spectra for sdb-v1-041935.46+282721.7
+\
+\main_id='V* FR Tau'
+\raj2000=64.897754
+\dej2000=28.456022
+\sp_type=None
+\sp_bibcode=None
+\plx_value=None
+\plx_err=None
+\plx_bibcode=None
+\id='sdb-v1-041935.46+282721.7'
+|   Band|   Phot|    Err|      Sys| Lim|Unit|            bibcode|       Note1|   Note2|                  SourceID|private|exclude|
+|   char| double| double|   double|long|char|               char|        char|    char|                      char|   long|   long|
+|       |       |       |         |    |    |                   |            |        |                          |       |       |
+|   null|   null|   null|     null|null|null|               null|        null|    null|                      null|   null|   null|
+   2MR2J  10.954   0.021      0.01    0  mag 2003tmc..book.....C       Qflg:A   Cflg:0  sdb-v1-041935.46+282721.7       0       0 
+   2MR2H  10.374   0.022      0.01    0  mag 2003tmc..book.....C       Qflg:A   Cflg:0  sdb-v1-041935.46+282721.7       0       0 
+  2MR2KS   9.971   0.018      0.01    0  mag 2003tmc..book.....C       Qflg:A   Cflg:0  sdb-v1-041935.46+282721.7       0       0 
+ WISE3P4   9.491   0.025     0.024    0  mag 2010AJ....140.1868W       qual:A Var:3300  sdb-v1-041935.46+282721.7       0       0 
+ IRAC3P6 48150.0   24.22     963.0    0  uJy       2013.SEIP.dr4     Brt:0.95    Ext:0  sdb-v1-041935.46+282721.7       0       0 
+ IRAC4P5 50180.0   25.82    1003.6    0  uJy       2013.SEIP.dr4     Brt:1.02    Ext:0  sdb-v1-041935.46+282721.7       0       0 
+ WISE4P6   8.744    0.02     0.028    0  mag 2010AJ....140.1868W       qual:A Var:3300  sdb-v1-041935.46+282721.7       0       0 
+ IRAC5P8 57500.0   84.71    1150.0    0  uJy       2013.SEIP.dr4     Brt:0.98    Ext:0  sdb-v1-041935.46+282721.7       0       0 
+   IRAC8 52650.0   88.39    1053.0    0  uJy       2013.SEIP.dr4     Brt:0.95    Ext:0  sdb-v1-041935.46+282721.7       0       0 
+  AKARI9  0.1021  0.0335 0.0015315    0   Jy 2010A&A...514A...1I       ext?:0 N-near:0  sdb-v1-041935.46+282721.7       0       0 
+  WISE12   6.371   0.015     0.045    0  mag 2010AJ....140.1868W       qual:A Var:3300  sdb-v1-041935.46+282721.7       0       0 
+  WISE22   4.816   0.038     0.057    0  mag 2010AJ....140.1868W       qual:A Var:3300  sdb-v1-041935.46+282721.7       0       0 
+  MIPS24 87480.0   92.79    1749.6    0  uJy       2013.SEIP.dr4     Brt:0.96    Ext:0  sdb-v1-041935.46+282721.7       0       0 
+  PACS70 55.5238 4.35873   1.66571    0  mJy 2017arXiv170505693M Elong:0.0000  Blend:0 HPPSC070A_J041935.5+282722       0       0 

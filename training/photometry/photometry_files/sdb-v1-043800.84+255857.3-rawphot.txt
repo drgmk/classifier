@@ -1,0 +1,26 @@
+\ photometry/spectra for sdb-v1-043800.84+255857.3
+\
+\main_id='2MASS J04380083+2558572'
+\raj2000=69.503518
+\dej2000=25.982582
+\sp_type='M7e'
+\sp_bibcode='2004ApJ...617.1216L'
+\plx_value=None
+\plx_err=None
+\plx_bibcode=None
+\id='sdb-v1-043800.84+255857.3'
+|   Band|   Phot|   Err|   Sys| Lim|Unit|            bibcode|   Note1|   Note2|                 SourceID|private|exclude|
+|   char| double|double|double|long|char|               char|    char|    char|                     char|   long|   long|
+|       |       |      |      |    |    |                   |        |        |                         |       |       |
+|   null|   null|  null|  null|null|null|               null|    null|    null|                     null|   null|   null|
+   2MR2J   11.54  0.022   0.01    0  mag 2003tmc..book.....C   Qflg:A   Cflg:0 sdb-v1-043800.84+255857.3       0       0 
+   2MR2H  10.622  0.018   0.01    0  mag 2003tmc..book.....C   Qflg:A   Cflg:0 sdb-v1-043800.84+255857.3       0       0 
+  2MR2KS  10.097  0.023   0.01    0  mag 2003tmc..book.....C   Qflg:A   Cflg:0 sdb-v1-043800.84+255857.3       0       0 
+ WISE3P4   9.778  0.023  0.024    0  mag 2010AJ....140.1868W   qual:A Var:000n sdb-v1-043800.84+255857.3       0       0 
+ IRAC3P6 40840.0   25.6  816.8    0  uJy       2013.SEIP.dr4 Brt:1.02    Ext:0 sdb-v1-043800.84+255857.3       0       0 
+ IRAC4P5 29850.0   43.3  597.0    0  uJy       2013.SEIP.dr4 Brt:1.05    Ext:0 sdb-v1-043800.84+255857.3       0       0 
+ WISE4P6   9.405  0.021  0.028    0  mag 2010AJ....140.1868W   qual:A Var:000n sdb-v1-043800.84+255857.3       0       0 
+ IRAC5P8 21230.0  45.03  424.6    0  uJy       2013.SEIP.dr4 Brt:1.02    Ext:0 sdb-v1-043800.84+255857.3       0       0 
+  WISE12   9.237  0.039  0.045    0  mag 2010AJ....140.1868W   qual:A Var:000n sdb-v1-043800.84+255857.3       0       0 
+  WISE22   8.393    0.0  0.057    1  mag 2010AJ....140.1868W   qual:U Var:000n sdb-v1-043800.84+255857.3       0       0 
+  MIPS24  1662.0  184.7  33.24    0  uJy       2013.SEIP.dr4    Brt:0    Ext:0 sdb-v1-043800.84+255857.3       0       0 

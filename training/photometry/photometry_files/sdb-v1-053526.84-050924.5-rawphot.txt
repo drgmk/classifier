@@ -1,0 +1,19 @@
+\ photometry/spectra for sdb-v1-053526.84-050924.5
+\
+\main_id='V* V2455 Ori'
+\raj2000=83.861833
+\dej2000=-5.156806
+\sp_type=None
+\sp_bibcode=None
+\plx_value=None
+\plx_err=None
+\plx_bibcode=None
+\id='sdb-v1-053526.84-050924.5'
+\irsstare1='cassis/irsstare/cassis_yaaar_spcfw_20862208t.fits'
+|  Band|  Phot|   Err|   Sys| Lim|Unit|            bibcode| Note1| Note2|                 SourceID|private|exclude|
+|  char|double|double|double|long|char|               char|  char|  char|                     char|   long|   long|
+|      |      |      |      |    |    |                   |      |      |                         |       |       |
+|  null|  null|  null|  null|null|null|               null|  null|  null|                     null|   null|   null|
+  2MR2J 15.573   0.08   0.01    0  mag 2003tmc..book.....C Qflg:A Cflg:c sdb-v1-053526.84-050924.5       0       1 
+  2MR2H 13.447  0.079   0.01    0  mag 2003tmc..book.....C Qflg:A Cflg:0 sdb-v1-053526.84-050924.5       0       0 
+ 2MR2KS 11.155  0.046   0.01    0  mag 2003tmc..book.....C Qflg:E Cflg:0 sdb-v1-053526.84-050924.5       0       1 

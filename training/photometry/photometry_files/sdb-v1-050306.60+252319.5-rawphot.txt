@@ -1,0 +1,35 @@
+\ photometry/spectra for sdb-v1-050306.60+252319.5
+\
+\main_id='V* V836 Tau'
+\raj2000=75.777499
+\dej2000=25.388761
+\sp_type='K7/M0Ve'
+\sp_bibcode='1983ApJ...269..229M'
+\plx_value=None
+\plx_err=None
+\plx_bibcode=None
+\id='sdb-v1-050306.60+252319.5'
+\irsstare2='cassis/irsstare/cassis_yaaar_spcfw_3544320t.fits'
+|    Band|    Phot|    Err|      Sys| Lim|Unit|            bibcode|       Note1|     Note2|                  SourceID|private|exclude|
+|    char|  double| double|   double|long|char|               char|        char|      char|                      char|   long|   long|
+|        |        |       |         |    |    |                   |            |          |                          |       |       |
+|    null|    null|   null|     null|null|null|               null|        null|      null|                      null|   null|   null|
+   BAPASS   15.002   0.202      0.01    0  mag 2016yCat.2336....0H       nobs:3    mobs:15  sdb-v1-050306.60+252319.5       0       0 
+   GAPASS   14.242   0.217      0.01    0  mag 2016yCat.2336....0H       nobs:3    mobs:15  sdb-v1-050306.60+252319.5       0       0 
+   VAPASS   13.488    0.16      0.01    0  mag 2016yCat.2336....0H       nobs:3    mobs:15  sdb-v1-050306.60+252319.5       0       0 
+   RAPASS    12.82   0.183      0.01    0  mag 2016yCat.2336....0H       nobs:3    mobs:15  sdb-v1-050306.60+252319.5       0       0 
+   IAPASS   12.382   0.638      0.01    0  mag 2016yCat.2336....0H       nobs:3    mobs:15  sdb-v1-050306.60+252319.5       0       0 
+    2MR2J    9.913   0.023      0.01    0  mag 2003tmc..book.....C       Qflg:A     Cflg:0  sdb-v1-050306.60+252319.5       0       0 
+    2MR2H    9.077   0.029      0.01    0  mag 2003tmc..book.....C       Qflg:A     Cflg:0  sdb-v1-050306.60+252319.5       0       0 
+   2MR2KS    8.595   0.019      0.01    0  mag 2003tmc..book.....C       Qflg:A     Cflg:0  sdb-v1-050306.60+252319.5       0       0 
+  WISE3P4    8.191   0.023     0.024    0  mag 2010AJ....140.1868W       qual:A   Var:7911  sdb-v1-050306.60+252319.5       0       0 
+  WISE4P6    7.725    0.02     0.028    0  mag 2010AJ....140.1868W       qual:A   Var:7911  sdb-v1-050306.60+252319.5       0       0 
+   AKARI9   0.1581  0.0432 0.0023715    0   Jy 2010A&A...514A...1I       ext?:0   N-near:0  sdb-v1-050306.60+252319.5       0       0 
+   WISE12    5.924   0.016     0.045    0  mag 2010AJ....140.1868W       qual:A   Var:7911  sdb-v1-050306.60+252319.5       0       0 
+   WISE22    3.855   0.024     0.057    0  mag 2010AJ....140.1868W       qual:A   Var:7911  sdb-v1-050306.60+252319.5       0       0 
+   MIPS24 206700.0   129.2    4134.0    0  uJy       2013.SEIP.dr4     Brt:1.01   Ext:1.01  sdb-v1-050306.60+252319.5       0       0 
+   PACS70  282.396 16.7071   8.47188    0  mJy 2017arXiv170505693M Elong:0.8510    Blend:0 HPPSC070A_J050306.6+252320       0       0 
+  PACS100  331.562 8.80082   16.5781    0  mJy 2017arXiv170505693M Elong:0.9606    Blend:0 HPPSC100A_J050306.5+252319       0       0 
+  PACS160  434.218 46.6102   13.0265    0  mJy 2017arXiv170505693M Elong:0.0000    Blend:0 HPPSC160A_J050306.7+252320       0       0 
+ SPIRE250    307.9    40.9    21.553    0  mJy       2017.HSPSC_v1        Ext:0 Low FWHM:0  HSPSC250A_J0503.10+2523.3       0       0 
+ SPIRE350    223.5    54.9    15.645    0  mJy       2017.HSPSC_v1        Ext:0 Low FWHM:0  HSPSC350A_J0503.11+2523.3       0       0 

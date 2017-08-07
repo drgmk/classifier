@@ -1,0 +1,26 @@
+\ photometry/spectra for sdb-v1-053618.93-064522.7
+\
+\main_id='NAME HH 1-2 MMS 2'
+\raj2000=84.078875
+\dej2000=-6.756306
+\sp_type=None
+\sp_bibcode=None
+\plx_value=None
+\plx_err=None
+\plx_bibcode=None
+\id='sdb-v1-053618.93-064522.7'
+\irsstare0='cassis/irsstare/cassis_yaaar_spcfw_20867840t.fits'
+|   Band|     Phot|    Err|    Sys| Lim|Unit|            bibcode|       Note1|   Note2|                  SourceID|private|exclude|
+|   char|   double| double| double|long|char|               char|        char|    char|                      char|   long|   long|
+|       |         |       |       |    |    |                   |            |        |                          |       |       |
+|   null|     null|   null|   null|null|null|               null|        null|    null|                      null|   null|   null|
+ WISE3P4    12.109   0.023   0.024    0  mag 2010AJ....140.1868W       qual:A Var:7800  sdb-v1-053618.93-064522.7       0       0 
+ WISE4P6     8.807    0.02   0.028    0  mag 2010AJ....140.1868W       qual:A Var:7800  sdb-v1-053618.93-064522.7       0       0 
+   IRAC8   36020.0   32.54   720.4    0  uJy       2013.SEIP.dr4     Brt:0.95    Ext:0  sdb-v1-053618.93-064522.7       0       0 
+  WISE12     7.455   0.033   0.045    0  mag 2010AJ....140.1868W       qual:A Var:7800  sdb-v1-053618.93-064522.7       0       0 
+ AKARI18     1.336   0.172 0.02004    0   Jy 2010A&A...514A...1I       ext?:0 N-near:1  sdb-v1-053618.93-064522.7       0       0 
+  WISE22     1.233   0.023   0.057    0  mag 2010AJ....140.1868W       qual:A Var:7800  sdb-v1-053618.93-064522.7       0       0 
+  MIPS24 4.356e+06   363.0 87120.0    0  uJy       2013.SEIP.dr4     Brt:1.11 Ext:1.11  sdb-v1-053618.93-064522.7       0       0 
+  PACS70  135565.0 166.327 4066.94    0  mJy 2017arXiv170505693M Elong:1.0437  Blend:0 HPPSC070A_J053618.8-064523       0       0 
+ PACS100  166801.0 213.375 8340.07    0  mJy 2017arXiv170505693M Elong:1.0534  Blend:0 HPPSC100A_J053619.0-064524       0       0 
+ PACS160  117107.0 721.083 3513.22    0  mJy 2017arXiv170505693M Elong:0.0000  Blend:0 HPPSC160A_J053618.8-064524       0       0 

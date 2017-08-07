@@ -1,0 +1,24 @@
+\ photometry/spectra for sdb-v1-042838.93+265135.3
+\
+\main_id='HPPSC070A_J042838.9+265135'
+\raj2000=67.1622
+\dej2000=26.859800338745117
+\sp_type=None
+\sp_bibcode=None
+\plx_value=None
+\plx_err=None
+\plx_bibcode=None
+\id='sdb-v1-042838.93+265135.3'
+|    Band|   Phot|    Err|    Sys| Lim|Unit|            bibcode|       Note1|     Note2|                  SourceID|private|exclude|
+|    char| double| double| double|long|char|               char|        char|      char|                      char|   long|   long|
+|        |       |       |       |    |    |                   |            |          |                          |       |       |
+|    null|   null|   null|   null|null|null|               null|        null|      null|                      null|   null|   null|
+  IRAC5P8   420.7   5.495   8.414    0  uJy       2013.SEIP.dr4        Brt:0      Ext:0  sdb-v1-042838.93+265135.3       0       0 
+    IRAC8   725.9   5.978  14.518    0  uJy       2013.SEIP.dr4        Brt:0      Ext:0  sdb-v1-042838.93+265135.3       0       0 
+   MIPS24 26360.0   52.56   527.2    0  uJy       2013.SEIP.dr4        Brt:0      Ext:0  sdb-v1-042838.93+265135.3       0       0 
+   PACS70 609.102 14.5787  18.273    0  mJy 2017arXiv170505693M Elong:0.8820    Blend:0 HPPSC070A_J042838.9+265135       0       0 
+  PACS100 1647.98   24.35 82.3989    0  mJy 2017arXiv170505693M Elong:0.8735    Blend:0 HPPSC100A_J042839.1+265136       0       0 
+  PACS160 3765.03 48.9784 112.951    0  mJy 2017arXiv170505693M Elong:0.7992    Blend:0 HPPSC160A_J042839.0+265135       0       0 
+ SPIRE250 11356.7   434.1 794.969    0  mJy       2017.HSPSC_v1        Ext:1 Low FWHM:0  HSPSC250A_J0428.65+2651.5       0       0 
+ SPIRE350 23812.4  1181.8 1666.87    0  mJy       2017.HSPSC_v1        Ext:1 Low FWHM:0  HSPSC350A_J0428.65+2651.5       0       0 
+ SPIRE500 27650.7  1251.7 1935.55    0  mJy       2017.HSPSC_v1        Ext:1 Low FWHM:0  HSPSC500A_J0428.65+2651.6       0       0 

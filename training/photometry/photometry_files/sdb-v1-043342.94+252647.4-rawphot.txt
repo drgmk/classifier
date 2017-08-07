@@ -1,0 +1,25 @@
+\ photometry/spectra for sdb-v1-043342.94+252647.4
+\
+\main_id='J043342.9+252647'
+\raj2000=68.4289
+\dej2000=25.446500778198242
+\sp_type=None
+\sp_bibcode=None
+\plx_value=None
+\plx_err=None
+\plx_bibcode=None
+\id='sdb-v1-043342.94+252647.4'
+|   Band|  Phot|   Err|   Sys| Lim|Unit|            bibcode| Note1|   Note2|                 SourceID|private|exclude|
+|   char|double|double|double|long|char|               char|  char|    char|                     char|   long|   long|
+|       |      |      |      |    |    |                   |      |        |                         |       |       |
+|   null|  null|  null|  null|null|null|               null|  null|    null|                     null|   null|   null|
+   2MR2J 14.639  0.035   0.01    0  mag 2003tmc..book.....C Qflg:A   Cflg:0 sdb-v1-043342.94+252647.4       0       0 
+   2MR2H 13.849  0.032   0.01    0  mag 2003tmc..book.....C Qflg:A   Cflg:0 sdb-v1-043342.94+252647.4       0       0 
+  2MR2KS 13.328  0.033   0.01    0  mag 2003tmc..book.....C Qflg:A   Cflg:0 sdb-v1-043342.94+252647.4       0       0 
+ WISE3P4 12.985  0.024  0.024    0  mag 2010AJ....140.1868W qual:A Var:11nn sdb-v1-043342.94+252647.4       0       0 
+ IRAC3P6 2254.0  8.417  45.08    0  uJy       2013.SEIP.dr4  Brt:0    Ext:0 sdb-v1-043342.94+252647.4       0       0 
+ IRAC4P5 1631.0  6.502  32.62    0  uJy       2013.SEIP.dr4  Brt:0    Ext:0 sdb-v1-043342.94+252647.4       0       0 
+ WISE4P6 12.629  0.027  0.028    0  mag 2010AJ....140.1868W qual:A Var:11nn sdb-v1-043342.94+252647.4       0       0 
+   IRAC8  694.1  12.05 13.882    0  uJy       2013.SEIP.dr4  Brt:0    Ext:0 sdb-v1-043342.94+252647.4       0       0 
+  WISE12  11.76    0.0  0.045    1  mag 2010AJ....140.1868W qual:U Var:11nn sdb-v1-043342.94+252647.4       0       0 
+  WISE22  8.718    0.0  0.057    1  mag 2010AJ....140.1868W qual:U Var:11nn sdb-v1-043342.94+252647.4       0       0 

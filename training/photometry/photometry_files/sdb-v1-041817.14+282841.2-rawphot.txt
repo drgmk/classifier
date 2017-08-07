@@ -1,0 +1,27 @@
+\ photometry/spectra for sdb-v1-041817.14+282841.2
+\
+\main_id='HPPSC070A_J041817.1+282842'
+\raj2000=64.5714
+\dej2000=28.478099822998047
+\sp_type=None
+\sp_bibcode=None
+\plx_value=None
+\plx_err=None
+\plx_bibcode=None
+\id='sdb-v1-041817.14+282841.2'
+|   Band|   Phot|   Err|    Sys| Lim|Unit|            bibcode|       Note1|   Note2|                  SourceID|private|exclude|
+|   char| double|double| double|long|char|               char|        char|    char|                      char|   long|   long|
+|       |       |      |       |    |    |                   |            |        |                          |       |       |
+|   null|   null|  null|   null|null|null|               null|        null|    null|                      null|   null|   null|
+   2MR2J  12.954  0.022    0.01    0  mag 2003tmc..book.....C       Qflg:A   Cflg:0  sdb-v1-041817.14+282841.2       0       0 
+   2MR2H  11.659  0.022    0.01    0  mag 2003tmc..book.....C       Qflg:A   Cflg:0  sdb-v1-041817.14+282841.2       0       0 
+  2MR2KS  10.958  0.017    0.01    0  mag 2003tmc..book.....C       Qflg:A   Cflg:0  sdb-v1-041817.14+282841.2       0       0 
+ WISE3P4  10.508  0.024   0.024    0  mag 2010AJ....140.1868W       qual:A Var:1100  sdb-v1-041817.14+282841.2       0       0 
+ IRAC3P6 23180.0  16.85   463.6    0  uJy       2013.SEIP.dr4     Brt:0.98    Ext:0  sdb-v1-041817.14+282841.2       0       0 
+ IRAC4P5 19920.0  16.36   398.4    0  uJy       2013.SEIP.dr4     Brt:1.02    Ext:0  sdb-v1-041817.14+282841.2       0       0 
+ WISE4P6   9.811   0.02   0.028    0  mag 2010AJ....140.1868W       qual:A Var:1100  sdb-v1-041817.14+282841.2       0       0 
+   IRAC8 19890.0  32.26   397.8    0  uJy       2013.SEIP.dr4        Brt:0    Ext:0  sdb-v1-041817.14+282841.2       0       0 
+  WISE12     8.0  0.021   0.045    0  mag 2010AJ....140.1868W       qual:A Var:1100  sdb-v1-041817.14+282841.2       0       0 
+  WISE22    6.11  0.061   0.057    0  mag 2010AJ....140.1868W       qual:A Var:1100  sdb-v1-041817.14+282841.2       0       0 
+  MIPS24 27720.0  81.23   554.4    0  uJy       2013.SEIP.dr4        Brt:0    Ext:0  sdb-v1-041817.14+282841.2       0       0 
+  PACS70 41.4719 12.106 1.24416    0  mJy 2017arXiv170505693M Elong:0.9081  Blend:0 HPPSC070A_J041817.1+282842       0       0 

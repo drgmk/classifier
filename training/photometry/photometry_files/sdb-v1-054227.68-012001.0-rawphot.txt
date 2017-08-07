@@ -1,0 +1,31 @@
+\ photometry/spectra for sdb-v1-054227.68-012001.0
+\
+\main_id='IRAS 05399-0121'
+\raj2000=85.615333
+\dej2000=-1.333611
+\sp_type=None
+\sp_bibcode=None
+\plx_value=None
+\plx_err=None
+\plx_bibcode=None
+\id='sdb-v1-054227.68-012001.0'
+\irsstare0='cassis/irsstare/cassis_yaaar_spcfw_26106624t.fits'
+|   Band|     Phot|    Err|      Sys| Lim|Unit|            bibcode|       Note1|   Note2|                  SourceID|private|exclude|
+|   char|   double| double|   double|long|char|               char|        char|    char|                      char|   long|   long|
+|       |         |       |         |    |    |                   |            |        |                          |       |       |
+|   null|     null|   null|     null|null|null|               null|        null|    null|                      null|   null|   null|
+ WISE3P4    13.032   0.027     0.024    0  mag 2010AJ....140.1868W       qual:A Var:3312  sdb-v1-054227.68-012001.0       0       0 
+ IRAC3P6    1284.0   4.396     25.68    0  uJy       2013.SEIP.dr4        Brt:0    Ext:0  sdb-v1-054227.68-012001.0       0       0 
+ WISE4P6    10.276    0.02     0.028    0  mag 2010AJ....140.1868W       qual:A Var:3312  sdb-v1-054227.68-012001.0       0       0 
+   IRAC8    9796.0   18.08    195.92    0  uJy       2013.SEIP.dr4        Brt:0    Ext:0  sdb-v1-054227.68-012001.0       0       0 
+  IRAS12      0.25     0.0       0.0    1   Jy 1988IRASP.C......0J       Qual:1   Conf:0            IRAS 05399-0121       0       0 
+  WISE12      7.98   0.025     0.045    0  mag 2010AJ....140.1868W       qual:A Var:3312  sdb-v1-054227.68-012001.0       0       0 
+ AKARI18    0.3939 0.00719 0.0059085    0   Jy 2010A&A...514A...1I       ext?:0 N-near:0  sdb-v1-054227.68-012001.0       0       0 
+  WISE22     2.298   0.018     0.057    0  mag 2010AJ....140.1868W       qual:A Var:3312  sdb-v1-054227.68-012001.0       0       0 
+  IRAS25      1.59  0.1749       0.0    0   Jy 1988IRASP.C......0J       Qual:3   Conf:0            IRAS 05399-0121       0       0 
+  MIPS24 1.153e+06   524.3   23060.0    0  uJy       2013.SEIP.dr4      Brt:0.9  Ext:0.9  sdb-v1-054227.68-012001.0       0       0 
+  IRAS60      22.9   2.748       0.0    0   Jy 1988IRASP.C......0J       Qual:3   Conf:0            IRAS 05399-0121       0       0 
+  PACS70   34849.4  424.22   1045.48    0  mJy 2017arXiv170505693M Elong:1.0240  Blend:0 HPPSC070A_J054227.6-012001       0       0 
+ IRAS100      45.9   5.508       0.0    0   Jy 1988IRASP.C......0J       Qual:3   Conf:0            IRAS 05399-0121       0       0 
+ PACS100   45282.4 65.8475   2264.12    0  mJy 2017arXiv170505693M Elong:0.9359  Blend:0 HPPSC100A_J054227.6-012000       0       0 
+ PACS160   49154.1 338.573   1474.62    0  mJy 2017arXiv170505693M Elong:0.0000  Blend:0 HPPSC160A_J054227.7-012001       0       0 

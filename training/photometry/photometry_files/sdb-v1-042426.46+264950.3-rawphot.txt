@@ -1,0 +1,23 @@
+\ photometry/spectra for sdb-v1-042426.46+264950.3
+\
+\main_id='HPPSC070A_J042426.4+264950'
+\raj2000=66.110264
+\dej2000=26.830638
+\sp_type=None
+\sp_bibcode=None
+\plx_value=None
+\plx_err=None
+\plx_bibcode=None
+\id='sdb-v1-042426.46+264950.3'
+|   Band|   Phot|    Err|     Sys| Lim|Unit|            bibcode|       Note1|   Note2|                  SourceID|private|exclude|
+|   char| double| double|  double|long|char|               char|        char|    char|                      char|   long|   long|
+|       |       |       |        |    |    |                   |            |        |                          |       |       |
+|   null|   null|   null|    null|null|null|               null|        null|    null|                      null|   null|   null|
+   2MR2J  12.884   0.021     0.01    0  mag 2003tmc..book.....C       Qflg:A   Cflg:0  sdb-v1-042426.46+264950.3       0       0 
+   2MR2H  12.193   0.028     0.01    0  mag 2003tmc..book.....C       Qflg:A   Cflg:0  sdb-v1-042426.46+264950.3       0       0 
+  2MR2KS  11.764    0.02     0.01    0  mag 2003tmc..book.....C       Qflg:A   Cflg:0  sdb-v1-042426.46+264950.3       0       0 
+ WISE3P4  11.388   0.023    0.024    0  mag 2010AJ....140.1868W       qual:A Var:00nn  sdb-v1-042426.46+264950.3       0       0 
+ WISE4P6  10.891   0.023    0.028    0  mag 2010AJ....140.1868W       qual:A Var:00nn  sdb-v1-042426.46+264950.3       0       0 
+  WISE22   6.995   0.192    0.057    0  mag 2010AJ....140.1868W       qual:B Var:00nn  sdb-v1-042426.46+264950.3       0       0 
+  MIPS24 13960.0   147.4    279.2    0  uJy       2013.SEIP.dr4        Brt:0    Ext:0  sdb-v1-042426.46+264950.3       0       0 
+  PACS70 8.61664 4.86201 0.258499    0  mJy 2017arXiv170505693M Elong:0.8360  Blend:0 HPPSC070A_J042426.4+264950       0       0 

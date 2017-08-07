@@ -1,0 +1,22 @@
+\ photometry/spectra for sdb-v1-041942.53+271336.1
+\
+\main_id='HPPSC070A_J041942.4+271337'
+\raj2000=64.9272
+\dej2000=27.226699829101562
+\sp_type=None
+\sp_bibcode=None
+\plx_value=None
+\plx_err=None
+\plx_bibcode=None
+\id='sdb-v1-041942.53+271336.1'
+|   Band|    Phot|    Err|    Sys| Lim|Unit|            bibcode|       Note1|   Note2|                  SourceID|private|exclude|
+|   char|  double| double| double|long|char|               char|        char|    char|                      char|   long|   long|
+|       |        |       |       |    |    |                   |            |        |                          |       |       |
+|   null|    null|   null|   null|null|null|               null|        null|    null|                      null|   null|   null|
+  IRAS12     0.25     0.0     0.0    1   Jy 1988IRASP.C......0J       Qual:1   Conf:0            IRAS 04166+2706       0       0 
+  IRAS25    0.572 0.06864     0.0    0   Jy 1988IRASP.C......0J       Qual:3   Conf:0            IRAS 04166+2706       0       0 
+  MIPS24 480700.0   200.3  9614.0    0  uJy       2013.SEIP.dr4     Brt:0.96 Ext:0.96  sdb-v1-041942.53+271336.1       0       0 
+  IRAS60     5.01   0.501     0.0    0   Jy 1988IRASP.C......0J       Qual:3   Conf:0            IRAS 04166+2706       0       0 
+  PACS70  8384.54 23.9567 251.536    0  mJy 2017arXiv170505693M Elong:0.0000  Blend:0 HPPSC070A_J041942.4+271337       0       0 
+ IRAS100     17.5     0.0     0.0    1   Jy 1988IRASP.C......0J       Qual:1   Conf:0            IRAS 04166+2706       0       0 
+ PACS160  14458.6 96.1012 433.758    0  mJy 2017arXiv170505693M Elong:0.0000  Blend:0 HPPSC160A_J041942.4+271338       0       0 

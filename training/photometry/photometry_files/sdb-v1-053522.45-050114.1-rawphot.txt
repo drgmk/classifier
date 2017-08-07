@@ -1,0 +1,20 @@
+\ photometry/spectra for sdb-v1-053522.45-050114.1
+\
+\main_id='[THT2013] OMC3-SMM 6'
+\raj2000=83.84352125
+\dej2000=-5.02058972
+\sp_type=None
+\sp_bibcode=None
+\plx_value=None
+\plx_err=None
+\plx_bibcode=None
+\id='sdb-v1-053522.45-050114.1'
+\irsstare0='cassis/irsstare/cassis_yaaar_spcfw_20834048t.fits'
+|   Band|   Phot|    Err|    Sys| Lim|Unit|            bibcode|       Note1|  Note2|                  SourceID|private|exclude|
+|   char| double| double| double|long|char|               char|        char|   char|                      char|   long|   long|
+|       |       |       |       |    |    |                   |            |       |                          |       |       |
+|   null|   null|   null|   null|null|null|               null|        null|   null|                      null|   null|   null|
+ IRAC4P5  1356.0    5.65   27.12    0  uJy       2013.SEIP.dr4     Brt:0.92   Ext:0  sdb-v1-053522.45-050114.1       0       0 
+ IRAC5P8  1675.0   18.29    33.5    0  uJy       2013.SEIP.dr4     Brt:0.95   Ext:0  sdb-v1-053522.45-050114.1       0       0 
+  PACS70 31993.5 95650.0 959.804    0  mJy 2017arXiv170505693M Elong:1.0949 Blend:0 HPPSC070A_J053522.4-050114       0       0 
+ PACS100 63730.2  4741.8 3186.51    0  mJy 2017arXiv170505693M Elong:0.9380 Blend:0 HPPSC100A_J053522.5-050114       0       0 

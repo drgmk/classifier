@@ -1,0 +1,27 @@
+\ photometry/spectra for sdb-v1-043336.80+260949.1
+\
+\main_id='HPPSC100A_J043336.9+260950'
+\raj2000=68.403326
+\dej2000=26.163645
+\sp_type=None
+\sp_bibcode=None
+\plx_value=None
+\plx_err=None
+\plx_bibcode=None
+\id='sdb-v1-043336.80+260949.1'
+|   Band|    Phot|    Err|      Sys| Lim|Unit|            bibcode|       Note1|   Note2|                  SourceID|private|exclude|
+|   char|  double| double|   double|long|char|               char|        char|    char|                      char|   long|   long|
+|       |        |       |         |    |    |                   |            |        |                          |       |       |
+|   null|    null|   null|     null|null|null|               null|        null|    null|                      null|   null|   null|
+   2MR2J   10.323   0.021      0.01    0  mag 2003tmc..book.....C       Qflg:A   Cflg:0  sdb-v1-043336.80+260949.1       0       0 
+   2MR2H    9.293   0.023      0.01    0  mag 2003tmc..book.....C       Qflg:A   Cflg:0  sdb-v1-043336.80+260949.1       0       0 
+  2MR2KS    8.642   0.018      0.01    0  mag 2003tmc..book.....C       Qflg:A   Cflg:0  sdb-v1-043336.80+260949.1       0       0 
+ WISE3P4    7.976   0.022     0.024    0  mag 2010AJ....140.1868W       qual:A Var:8700  sdb-v1-043336.80+260949.1       0       0 
+ IRAC3P6 229900.0   53.08    4598.0    0  uJy       2013.SEIP.dr4     Brt:1.02    Ext:0  sdb-v1-043336.80+260949.1       0       0 
+ WISE4P6    7.344   0.021     0.028    0  mag 2010AJ....140.1868W       qual:A Var:8700  sdb-v1-043336.80+260949.1       0       0 
+  AKARI9   0.3057  0.0151 0.0045855    0   Jy 2010A&A...514A...1I       ext?:0 N-near:0  sdb-v1-043336.80+260949.1       0       0 
+  WISE12    5.274   0.015     0.045    0  mag 2010AJ....140.1868W       qual:A Var:8700  sdb-v1-043336.80+260949.1       0       0 
+ AKARI18   0.3099  0.0125 0.0046485    0   Jy 2010A&A...514A...1I       ext?:0 N-near:0  sdb-v1-043336.80+260949.1       0       0 
+  WISE22    3.711   0.026     0.057    0  mag 2010AJ....140.1868W       qual:A Var:8700  sdb-v1-043336.80+260949.1       0       0 
+  MIPS24 248300.0   248.3    4966.0    0  uJy       2013.SEIP.dr4     Brt:1.01    Ext:0  sdb-v1-043336.80+260949.1       0       0 
+ PACS100  93.5094 31.6678   4.67547    0  mJy 2017arXiv170505693M Elong:0.8494  Blend:0 HPPSC100A_J043336.9+260950       0       0 

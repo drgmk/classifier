@@ -1,0 +1,23 @@
+\ photometry/spectra for sdb-v1-053509.01-055827.5
+\
+\main_id='ISOY J053509.02-055827.4'
+\raj2000=83.78755958
+\dej2000=-5.97431278
+\sp_type=None
+\sp_bibcode=None
+\plx_value=None
+\plx_err=None
+\plx_bibcode=None
+\id='sdb-v1-053509.01-055827.5'
+\irsstare1='cassis/irsstare/cassis_yaaar_spcfw_20848128t.fits'
+|   Band|   Phot|    Err|    Sys| Lim|Unit|            bibcode|       Note1|   Note2|                  SourceID|private|exclude|
+|   char| double| double| double|long|char|               char|        char|    char|                      char|   long|   long|
+|       |       |       |       |    |    |                   |            |        |                          |       |       |
+|   null|   null|   null|   null|null|null|               null|        null|    null|                      null|   null|   null|
+ WISE3P4  12.628   0.028   0.024    0  mag 2010AJ....140.1868W       qual:A Var:6500  sdb-v1-053509.01-055827.5       0       0 
+ WISE4P6  10.093   0.019   0.028    0  mag 2010AJ....140.1868W       qual:A Var:6500  sdb-v1-053509.01-055827.5       0       0 
+  WISE12   8.998   0.052   0.045    0  mag 2010AJ....140.1868W       qual:A Var:6500  sdb-v1-053509.01-055827.5       0       0 
+  WISE22   4.246   0.039   0.057    0  mag 2010AJ....140.1868W       qual:A Var:6500  sdb-v1-053509.01-055827.5       0       0 
+  PACS70 5290.38 136.331 158.711    0  mJy 2017arXiv170505693M Elong:0.8908  Blend:0 HPPSC070A_J053509.1-055829       0       0 
+ PACS100 10422.5 84.9105 521.123    0  mJy 2017arXiv170505693M Elong:1.0626  Blend:0 HPPSC100A_J053509.1-055828       0       0 
+ PACS160 20040.7 426.003  601.22    0  mJy 2017arXiv170505693M Elong:0.0000  Blend:0 HPPSC160A_J053509.0-055828       0       0 

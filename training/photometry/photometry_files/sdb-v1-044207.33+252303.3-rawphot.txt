@@ -1,0 +1,29 @@
+\ photometry/spectra for sdb-v1-044207.33+252303.3
+\
+\main_id='IRAS 04390+2517'
+\raj2000=70.530543
+\dej2000=25.384258
+\sp_type=None
+\sp_bibcode=None
+\plx_value=None
+\plx_err=None
+\plx_bibcode=None
+\id='sdb-v1-044207.33+252303.3'
+|   Band|    Phot|    Err|   Sys| Lim|Unit|            bibcode|   Note1|   Note2|                 SourceID|private|exclude|
+|   char|  double| double|double|long|char|               char|    char|    char|                     char|   long|   long|
+|       |        |       |      |    |    |                   |        |        |                         |       |       |
+|   null|    null|   null|  null|null|null|               null|    null|    null|                     null|   null|   null|
+   2MR2J     9.58   0.023   0.01    0  mag 2003tmc..book.....C   Qflg:A   Cflg:s sdb-v1-044207.33+252303.3       0       1 
+   2MR1H    8.401   0.024   0.01    0  mag 2003tmc..book.....C   Qflg:A   Cflg:s sdb-v1-044207.33+252303.3       0       1 
+  2MR1KS    7.945   0.023   0.01    0  mag 2003tmc..book.....C   Qflg:A   Cflg:s sdb-v1-044207.33+252303.3       0       1 
+ WISE3P4    6.914   0.019  0.024    0  mag 2010AJ....140.1868W   qual:A Var:nnnn sdb-v1-044207.33+252303.3       0       1 
+ IRAC4P5 118600.0   38.96 2372.0    0  uJy       2013.SEIP.dr4 Brt:1.02    Ext:0 sdb-v1-044207.33+252303.3       0       0 
+ WISE4P6    5.378    0.01  0.028    0  mag 2010AJ....140.1868W   qual:A Var:nnnn sdb-v1-044207.33+252303.3       0       1 
+ IRAC5P8 117000.0   91.43 2340.0    0  uJy       2013.SEIP.dr4 Brt:0.95    Ext:0 sdb-v1-044207.33+252303.3       0       0 
+   IRAC8  67380.0    41.7 1347.6    0  uJy       2013.SEIP.dr4 Brt:1.02    Ext:0 sdb-v1-044207.33+252303.3       0       0 
+  IRAS12    0.628 0.05024    0.0    0   Jy 1988IRASP.C......0J   Qual:3   Conf:8           IRAS 04390+2517       0       0 
+  WISE12    2.626   0.006  0.045    0  mag 2010AJ....140.1868W   qual:A Var:nnnn sdb-v1-044207.33+252303.3       0       0 
+  WISE22    3.046   0.009  0.057    0  mag 2010AJ....140.1868W   qual:A Var:nnnn sdb-v1-044207.33+252303.3       0       0 
+  IRAS25    0.753 0.08283    0.0    0   Jy 1988IRASP.C......0J   Qual:3   Conf:8           IRAS 04390+2517       0       0 
+  IRAS60     1.55   0.155    0.0    0   Jy 1988IRASP.C......0J   Qual:3   Conf:8           IRAS 04390+2517       0       0 
+ IRAS100      7.7   1.386    0.0    0   Jy 1988IRASP.C......0J   Qual:3   Conf:8           IRAS 04390+2517       0       0 

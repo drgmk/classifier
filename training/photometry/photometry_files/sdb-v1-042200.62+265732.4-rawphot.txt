@@ -1,0 +1,27 @@
+\ photometry/spectra for sdb-v1-042200.62+265732.4
+\
+\main_id='IRAS 04189+2650'
+\raj2000=65.5026
+\dej2000=26.958999633789062
+\sp_type=None
+\sp_bibcode=None
+\plx_value=None
+\plx_err=None
+\plx_bibcode=None
+\id='sdb-v1-042200.62+265732.4'
+|   Band|    Phot|   Err|   Sys| Lim|Unit|            bibcode|   Note1|   Note2|                 SourceID|private|exclude|
+|   char|  double|double|double|long|char|               char|    char|    char|                     char|   long|   long|
+|       |        |      |      |    |    |                   |        |        |                         |       |       |
+|   null|    null|  null|  null|null|null|               null|    null|    null|                     null|   null|   null|
+   2MR2J   15.082  0.082   0.01    0  mag 2003tmc..book.....C   Qflg:A   Cflg:0 sdb-v1-042200.62+265732.4       0       0 
+   2MR2H   13.351  0.053   0.01    0  mag 2003tmc..book.....C   Qflg:A   Cflg:0 sdb-v1-042200.62+265732.4       0       0 
+  2MR2KS   11.753  0.029   0.01    0  mag 2003tmc..book.....C   Qflg:A   Cflg:0 sdb-v1-042200.62+265732.4       0       0 
+ WISE3P4   10.084  0.023  0.024    0  mag 2010AJ....140.1868W   qual:A Var:66nn sdb-v1-042200.62+265732.4       0       0 
+ WISE4P6    8.168  0.021  0.028    0  mag 2010AJ....140.1868W   qual:A Var:66nn sdb-v1-042200.62+265732.4       0       0 
+ IRAC5P8 154600.0  100.2 3092.0    0  uJy       2013.SEIP.dr4 Brt:1.02    Ext:0 sdb-v1-042200.62+265732.4       0       0 
+  IRAS12     1.46 0.1022    0.0    0   Jy 1988IRASP.C......0J   Qual:3   Conf:8           IRAS 04189+2650       0       0 
+  WISE12    4.792  0.014  0.045    0  mag 2010AJ....140.1868W   qual:A Var:66nn sdb-v1-042200.62+265732.4       0       0 
+  WISE22    1.827  0.011  0.057    0  mag 2010AJ....140.1868W   qual:A Var:66nn sdb-v1-042200.62+265732.4       0       0 
+  IRAS25     3.83 0.2681    0.0    0   Jy 1988IRASP.C......0J   Qual:3   Conf:8           IRAS 04189+2650       0       0 
+  IRAS60     7.04  0.704    0.0    0   Jy 1988IRASP.C......0J   Qual:3   Conf:8           IRAS 04189+2650       0       0 
+ IRAS100     11.0    0.0    0.0    1   Jy 1988IRASP.C......0J   Qual:1   Conf:8           IRAS 04189+2650       0       0 

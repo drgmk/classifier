@@ -1,0 +1,27 @@
+\ photometry/spectra for sdb-v1-053520.15-051315.6
+\
+\main_id='V* V2364 Ori'
+\raj2000=83.833958
+\dej2000=-5.2210001945495605
+\sp_type='K5-M0e'
+\sp_bibcode='1997AJ....113.1733H'
+\plx_value=None
+\plx_err=None
+\plx_bibcode=None
+\id='sdb-v1-053520.15-051315.6'
+\irsstare0='cassis/irsstare/cassis_yaaar_spcfw_26099456t.fits'
+|   Band|     Phot|     Err|    Sys| Lim|Unit|            bibcode|       Note1|      Note2|                  SourceID|private|exclude|
+|   char|   double|  double| double|long|char|               char|        char|       char|                      char|   long|   long|
+|       |         |        |       |    |    |                   |            |           |                          |       |       |
+|   null|     null|    null|   null|null|null|               null|        null|       null|                      null|   null|   null|
+  IDENIS    13.447     0.03    0.01    0  mag 2005yCat.2263....0T      Ipsf:98   Iflg:1800  sdb-v1-053520.15-051315.6       0       1 
+   2MR2J     9.653    0.024    0.01    0  mag 2003tmc..book.....C       Qflg:A      Cflg:0  sdb-v1-053520.15-051315.6       0       0 
+   2MR1H      7.72    0.061    0.01    0  mag 2003tmc..book.....C       Qflg:A      Cflg:0  sdb-v1-053520.15-051315.6       0       0 
+  2MR1KS     6.425    0.026    0.01    0  mag 2003tmc..book.....C       Qflg:A      Cflg:0  sdb-v1-053520.15-051315.6       0       0 
+ WISE3P4     4.466    0.163   0.024    0  mag 2010AJ....140.1868W       qual:B    Var:32nn  sdb-v1-053520.15-051315.6       0       1 
+ IRAC3P6 2.379e+06     94.6 47580.0    0  uJy       2013.SEIP.dr4     Brt:1.02       Ext:0  sdb-v1-053520.15-051315.6       0       0 
+ WISE4P6     3.546    0.147   0.028    0  mag 2010AJ....140.1868W       qual:B    Var:32nn  sdb-v1-053520.15-051315.6       0       1 
+  WISE12     2.939      0.0   0.045    1  mag 2010AJ....140.1868W       qual:U    Var:32nn  sdb-v1-053520.15-051315.6       0       0 
+  PACS70   57815.4 108506.0 1734.46    0  mJy 2017arXiv170505693M Elong:1.1455     Blend:0 HPPSC070A_J053520.1-051316       0       0 
+ PACS100   67688.5  4006.85 3384.42    0  mJy 2017arXiv170505693M Elong:0.7597     Blend:0 HPPSC100A_J053520.2-051315       0       0 
+ PACS160  129471.0  8456.88 6473.55    0  mJy 2017arXiv170505693M Elong:0.0000 FWHMx:38.28 HPESL160A_J053520.2-051314       0       0 

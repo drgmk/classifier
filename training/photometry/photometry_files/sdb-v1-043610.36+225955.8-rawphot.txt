@@ -1,0 +1,18 @@
+\ photometry/spectra for sdb-v1-043610.36+225955.8
+\
+\main_id='J043610.3+225956'
+\raj2000=69.04316
+\dej2000=22.998826
+\sp_type=None
+\sp_bibcode=None
+\plx_value=None
+\plx_err=None
+\plx_bibcode=None
+\id='sdb-v1-043610.36+225955.8'
+|  Band|  Phot|   Err|   Sys| Lim|Unit|            bibcode| Note1| Note2|                 SourceID|private|exclude|
+|  char|double|double|double|long|char|               char|  char|  char|                     char|   long|   long|
+|      |      |      |      |    |    |                   |      |      |                         |       |       |
+|  null|  null|  null|  null|null|null|               null|  null|  null|                     null|   null|   null|
+  2MR2J 13.754  0.025   0.01    0  mag 2003tmc..book.....C Qflg:A Cflg:0 sdb-v1-043610.36+225955.8       0       0 
+  2MR2H 12.762  0.022   0.01    0  mag 2003tmc..book.....C Qflg:A Cflg:0 sdb-v1-043610.36+225955.8       0       0 
+ 2MR2KS 12.169  0.019   0.01    0  mag 2003tmc..book.....C Qflg:A Cflg:0 sdb-v1-043610.36+225955.8       0       0 

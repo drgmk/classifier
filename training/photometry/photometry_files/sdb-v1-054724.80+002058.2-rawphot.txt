@@ -1,0 +1,18 @@
+\ photometry/spectra for sdb-v1-054724.80+002058.2
+\
+\main_id='HOPS 359'
+\raj2000=86.85333
+\dej2000=0.34950000047683716
+\sp_type=None
+\sp_bibcode=None
+\plx_value=None
+\plx_err=None
+\plx_bibcode=None
+\id='sdb-v1-054724.80+002058.2'
+|   Band|   Phot|    Err|    Sys| Lim|Unit|            bibcode|       Note1|  Note2|                  SourceID|private|exclude|
+|   char| double| double| double|long|char|               char|        char|   char|                      char|   long|   long|
+|       |       |       |       |    |    |                   |            |       |                          |       |       |
+|   null|   null|   null|   null|null|null|               null|        null|   null|                      null|   null|   null|
+  PACS70 21243.8 1027.86 637.313    0  mJy 2017arXiv170505693M Elong:1.0738 Blend:0 HPPSC070A_J054724.8+002059       0       0 
+ PACS100 42524.9 171.608 2126.25    0  mJy 2017arXiv170505693M Elong:0.9545 Blend:0 HPPSC100A_J054724.7+002100       0       0 
+ PACS160 57283.8 518.261 1718.51    0  mJy 2017arXiv170505693M Elong:0.0000 Blend:0 HPPSC160A_J054724.8+002059       0       0 

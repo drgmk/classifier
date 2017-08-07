@@ -1,0 +1,18 @@
+\ photometry/spectra for sdb-v1-054700.90+002620.8
+\
+\main_id='HOPS 341'
+\raj2000=86.75375
+\dej2000=0.439111
+\sp_type=None
+\sp_bibcode=None
+\plx_value=None
+\plx_err=None
+\plx_bibcode=None
+\id='sdb-v1-054700.90+002620.8'
+|   Band|   Phot|    Err|   Sys| Lim|Unit|            bibcode|       Note1|  Note2|                  SourceID|private|exclude|
+|   char| double| double|double|long|char|               char|        char|   char|                      char|   long|   long|
+|       |       |       |      |    |    |                   |            |       |                          |       |       |
+|   null|   null|   null|  null|null|null|               null|        null|   null|                      null|   null|   null|
+ IRAC3P6  1412.0    4.52  28.24    0  uJy       2013.SEIP.dr4        Brt:0   Ext:0  sdb-v1-054700.90+002620.8       0       0 
+   IRAC8  3532.0   16.76  70.64    0  uJy       2013.SEIP.dr4        Brt:0   Ext:0  sdb-v1-054700.90+002620.8       0       0 
+ PACS100 13029.6 51.5762 651.48    0  mJy 2017arXiv170505693M Elong:0.6339 Blend:0 HPPSC100A_J054701.0+002623       0       0 

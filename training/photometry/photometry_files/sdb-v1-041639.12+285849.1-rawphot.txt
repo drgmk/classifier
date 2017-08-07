@@ -1,0 +1,27 @@
+\ photometry/spectra for sdb-v1-041639.12+285849.1
+\
+\main_id='J04163911+2858491'
+\raj2000=64.162984
+\dej2000=28.980317
+\sp_type=None
+\sp_bibcode=None
+\plx_value=None
+\plx_err=None
+\plx_bibcode=None
+\id='sdb-v1-041639.12+285849.1'
+|   Band|   Phot|   Err|   Sys| Lim|Unit|            bibcode|   Note1|   Note2|                 SourceID|private|exclude|
+|   char| double|double|double|long|char|               char|    char|    char|                     char|   long|   long|
+|       |       |      |      |    |    |                   |        |        |                         |       |       |
+|   null|   null|  null|  null|null|null|               null|    null|    null|                     null|   null|   null|
+   2MR2J  12.717  0.021   0.01    0  mag 2003tmc..book.....C   Qflg:A   Cflg:0 sdb-v1-041639.12+285849.1       0       0 
+   2MR2H  11.836  0.022   0.01    0  mag 2003tmc..book.....C   Qflg:A   Cflg:0 sdb-v1-041639.12+285849.1       0       0 
+  2MR2KS  11.279  0.018   0.01    0  mag 2003tmc..book.....C   Qflg:A   Cflg:0 sdb-v1-041639.12+285849.1       0       0 
+ WISE3P4  10.582  0.023  0.024    0  mag 2010AJ....140.1868W   qual:A Var:6600 sdb-v1-041639.12+285849.1       0       0 
+ IRAC3P6 17760.0  17.61  355.2    0  uJy       2013.SEIP.dr4 Brt:1.02    Ext:0 sdb-v1-041639.12+285849.1       0       0 
+ IRAC4P5 15970.0  17.43  319.4    0  uJy       2013.SEIP.dr4 Brt:0.95    Ext:0 sdb-v1-041639.12+285849.1       0       0 
+ WISE4P6  10.021  0.021  0.028    0  mag 2010AJ....140.1868W   qual:A Var:6600 sdb-v1-041639.12+285849.1       0       0 
+ IRAC5P8 13520.0  37.37  270.4    0  uJy       2013.SEIP.dr4 Brt:0.98    Ext:0 sdb-v1-041639.12+285849.1       0       0 
+   IRAC8 11630.0  23.72  232.6    0  uJy       2013.SEIP.dr4    Brt:0    Ext:0 sdb-v1-041639.12+285849.1       0       0 
+  WISE12   8.884  0.029  0.045    0  mag 2010AJ....140.1868W   qual:A Var:6600 sdb-v1-041639.12+285849.1       0       0 
+  WISE22   7.292   0.14  0.057    0  mag 2010AJ....140.1868W   qual:B Var:6600 sdb-v1-041639.12+285849.1       0       0 
+  MIPS24  9502.0  156.5 190.04    0  uJy       2013.SEIP.dr4    Brt:0    Ext:0 sdb-v1-041639.12+285849.1       0       0 

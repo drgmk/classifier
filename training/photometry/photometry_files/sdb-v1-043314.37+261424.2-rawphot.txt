@@ -1,0 +1,19 @@
+\ photometry/spectra for sdb-v1-043314.37+261424.2
+\
+\main_id='IRAS S04301+2608'
+\raj2000=68.309891
+\dej2000=26.240056
+\sp_type='M0'
+\sp_bibcode='2011ApJS..195....3F'
+\plx_value=None
+\plx_err=None
+\plx_bibcode=None
+\id='sdb-v1-043314.37+261424.2'
+|   Band|   Phot|    Err|    Sys| Lim|Unit|            bibcode|       Note1|  Note2|                  SourceID|private|exclude|
+|   char| double| double| double|long|char|               char|        char|   char|                      char|   long|   long|
+|       |       |       |       |    |    |                   |            |       |                          |       |       |
+|   null|   null|   null|   null|null|null|               null|        null|   null|                      null|   null|   null|
+   2MR2J  14.637   0.034    0.01    0  mag 2003tmc..book.....C       Qflg:A  Cflg:0  sdb-v1-043314.37+261424.2       0       0 
+   2MR2H  13.227   0.027    0.01    0  mag 2003tmc..book.....C       Qflg:A  Cflg:0  sdb-v1-043314.37+261424.2       0       0 
+  2MR2KS  12.496   0.026    0.01    0  mag 2003tmc..book.....C       Qflg:A  Cflg:0  sdb-v1-043314.37+261424.2       0       0 
+ PACS160 270.446 42.8176 8.11339    0  mJy 2017arXiv170505693M Elong:0.7086 Blend:0 HPPSC160A_J043314.4+261427       0       0 

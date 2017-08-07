@@ -1,0 +1,26 @@
+\ photometry/spectra for sdb-v1-044642.61+245903.4
+\
+\main_id='2MASS J04464260+2459034'
+\raj2000=71.677528
+\dej2000=24.984271
+\sp_type='M4'
+\sp_bibcode=None
+\plx_value=None
+\plx_err=None
+\plx_bibcode=None
+\id='sdb-v1-044642.61+245903.4'
+|   Band|   Phot|   Err|   Sys| Lim|Unit|            bibcode|   Note1|   Note2|                 SourceID|private|exclude|
+|   char| double|double|double|long|char|               char|    char|    char|                     char|   long|   long|
+|       |       |      |      |    |    |                   |        |        |                         |       |       |
+|   null|   null|  null|  null|null|null|               null|    null|    null|                     null|   null|   null|
+   2MR2J  11.261  0.021   0.01    0  mag 2003tmc..book.....C   Qflg:A   Cflg:0 sdb-v1-044642.61+245903.4       0       0 
+   2MR2H  10.667   0.02   0.01    0  mag 2003tmc..book.....C   Qflg:A   Cflg:0 sdb-v1-044642.61+245903.4       0       0 
+  2MR2KS  10.338  0.018   0.01    0  mag 2003tmc..book.....C   Qflg:A   Cflg:0 sdb-v1-044642.61+245903.4       0       0 
+ WISE3P4  10.169  0.023  0.024    0  mag 2010AJ....140.1868W   qual:A Var:110n sdb-v1-044642.61+245903.4       0       0 
+ IRAC3P6 27710.0  19.85  554.2    0  uJy       2013.SEIP.dr4 Brt:0.98    Ext:0 sdb-v1-044642.61+245903.4       0       0 
+ IRAC4P5 19340.0  18.23  386.8    0  uJy       2013.SEIP.dr4 Brt:0.98    Ext:0 sdb-v1-044642.61+245903.4       0       0 
+ WISE4P6   9.924   0.02  0.028    0  mag 2010AJ....140.1868W   qual:A Var:110n sdb-v1-044642.61+245903.4       0       0 
+ IRAC5P8 13210.0  33.59  264.2    0  uJy       2013.SEIP.dr4 Brt:0.98    Ext:0 sdb-v1-044642.61+245903.4       0       0 
+   IRAC8  7355.0  17.46  147.1    0  uJy       2013.SEIP.dr4    Brt:0    Ext:0 sdb-v1-044642.61+245903.4       0       0 
+  WISE12   9.697  0.054  0.045    0  mag 2010AJ....140.1868W   qual:A Var:110n sdb-v1-044642.61+245903.4       0       0 
+  WISE22   8.376    0.0  0.057    1  mag 2010AJ....140.1868W   qual:U Var:110n sdb-v1-044642.61+245903.4       0       0 

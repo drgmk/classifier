@@ -1,0 +1,30 @@
+\ photometry/spectra for sdb-v1-041426.32+280601.6
+\
+\main_id='HPPSC100A_J041426.4+280602'
+\raj2000=63.609651
+\dej2000=28.100441
+\sp_type=None
+\sp_bibcode=None
+\plx_value=None
+\plx_err=None
+\plx_bibcode=None
+\id='sdb-v1-041426.32+280601.6'
+|   Band|   Phot|    Err|    Sys| Lim|Unit|            bibcode|       Note1|   Note2|                  SourceID|private|exclude|
+|   char| double| double| double|long|char|               char|        char|    char|                      char|   long|   long|
+|       |       |       |       |    |    |                   |            |        |                          |       |       |
+|   null|   null|   null|   null|null|null|               null|        null|    null|                      null|   null|   null|
+   2MR2J  12.475   0.029    0.01    0  mag 2003tmc..book.....C       Qflg:A   Cflg:c  sdb-v1-041426.32+280601.6       0       1 
+   2MR2H   9.878   0.033    0.01    0  mag 2003tmc..book.....C       Qflg:A   Cflg:c  sdb-v1-041426.32+280601.6       0       1 
+  2MR1KS   7.777   0.031    0.01    0  mag 2003tmc..book.....C       Qflg:A   Cflg:c  sdb-v1-041426.32+280601.6       0       1 
+ WISE3P4   6.178   0.099   0.024    0  mag 2010AJ....140.1868W       qual:A Var:nnnn  sdb-v1-041426.32+280601.6       0       0 
+ WISE4P6   4.898   0.089   0.028    0  mag 2010AJ....140.1868W       qual:A Var:nnnn  sdb-v1-041426.32+280601.6       0       0 
+  AKARI9    2.19  0.0118 0.03285    0   Jy 2010A&A...514A...1I       ext?:0 N-near:0  sdb-v1-041426.32+280601.6       0       0 
+  IRAS12    2.03  0.2436     0.0    0   Jy 1988IRASP.C......0J       Qual:3   Conf:0            IRAS 04113+2758       0       0 
+  WISE12   2.938   0.011   0.045    0  mag 2010AJ....140.1868W       qual:A Var:nnnn  sdb-v1-041426.32+280601.6       0       0 
+ AKARI18   4.642   0.276 0.06963    0   Jy 2010A&A...514A...1I       ext?:0 N-near:0  sdb-v1-041426.32+280601.6       0       0 
+  WISE22   0.541   0.007   0.057    0  mag 2010AJ....140.1868W       qual:A Var:nnnn  sdb-v1-041426.32+280601.6       0       0 
+  IRAS25    5.16     0.0     0.0    1   Jy 1988IRASP.C......0J       Qual:1   Conf:0            IRAS 04113+2758       0       0 
+  IRAS60    12.8   1.408     0.0    0   Jy 1988IRASP.C......0J       Qual:3   Conf:0            IRAS 04113+2758       0       0 
+ IRAS100    15.8   2.212     0.0    0   Jy 1988IRASP.C......0J       Qual:3   Conf:0            IRAS 04113+2758       0       0 
+ PACS100 11304.7 27.8518 565.235    0  mJy 2017arXiv170505693M Elong:0.8184  Blend:0 HPPSC100A_J041426.4+280602       0       0 
+ PACS160 10944.9 59.5575 328.346    0  mJy 2017arXiv170505693M Elong:0.0000  Blend:0 HPPSC160A_J041426.4+280602       0       0 

@@ -1,0 +1,30 @@
+\ photometry/spectra for sdb-v1-210653.85+384458.0
+\
+\main_id='* 61 Cyg A'
+\raj2000=316.72437
+\dej2000=38.74944
+\sp_type='K5Ve'
+\sp_bibcode='2015A&A...577A.128A'
+\plx_value=286.82
+\plx_err=6.78000020980835
+\plx_bibcode='2007A&A...474..653V'
+\id='sdb-v1-210653.85+384458.0'
+|   Band|     Phot|       Err|        Sys| Lim|Unit|            bibcode|        Note1|     Note2|                 SourceID|private|exclude|
+|   char|   double|    double|     double|long|char|               char|         char|      char|                     char|   long|   long|
+|       |         |          |           |    |    |                   |             |          |                         |       |       |
+|   null|     null|      null|       null|null|null|               null|         null|      null|                     null|   null|   null|
+   UJ_BJ     1.113      0.016       0.028    0  mag 2006yCat.2168....0M        Comp:1    n_U_B:>                 HD 201091       0       1 
+ STROMC1     0.167       0.07       0.005    0  mag 2015A&A...580A..23P    Vmag:5.207 beta:2.519           TYC 3168-2800-1       0       0 
+ STROMM1     0.668      0.031       0.005    0  mag 2015A&A...580A..23P    Vmag:5.207 beta:2.519           TYC 3168-2800-1       0       0 
+   BJ_VJ     1.164      0.019        0.02    0  mag 2006yCat.2168....0M        Comp:1    n_B_V:>                 HD 201091       0       1 
+   BJ_VJ      1.26        0.0        0.02    0  mag 2006yCat.2168....0M        Comp:D     n_B_V:                 HD 201091       0       1 
+   BS_YS     0.672      0.027       0.005    0  mag 2015A&A...580A..23P    Vmag:5.207 beta:2.519           TYC 3168-2800-1       0       0 
+      HP    5.3685   0.216554       0.005    0  mag 1997HIP...C......0E     VarType:U      Mult:                HIP 104214       0       1 
+      VJ      5.23      0.022        0.02    0  mag 2006yCat.2168....0M        Comp:1   n_Vmag:>                 HD 201091       0       1 
+      VJ      4.84        0.0        0.02    0  mag 2006yCat.2168....0M        Comp:D    n_Vmag:                 HD 201091       0       1 
+  AKARI9     7.003     0.0874    0.105045    0   Jy 2010A&A...514A...1I        ext?:0   N-near:1 sdb-v1-210653.85+384458.0       0       0 
+ AKARI18     1.669     0.0208    0.025035    0   Jy 2010A&A...514A...1I        ext?:0   N-near:1 sdb-v1-210653.85+384458.0       0       0 
+ PACS100 0.0487475 0.00187821  0.00233497    0   Jy         2018.DEBRIS chisq:1.06923   Phot:PSF   2MASS J21065341+3844529       0       0 
+ PACS100 0.0483489 0.00137906  0.00121888    0   Jy             HSA_GMK    1342195781   Phot:PSF                * 61 Cyg A       0       1 
+ PACS160 0.0129955 0.00430275 0.000698107    0   Jy         2018.DEBRIS chisq:1.06923   Phot:PSF   2MASS J21065341+3844529       0       0 
+ PACS160 0.0146873 0.00376816 0.000606915    0   Jy             HSA_GMK    1342195781   Phot:PSF                * 61 Cyg A       0       1 

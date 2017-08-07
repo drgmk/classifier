@@ -1,0 +1,29 @@
+\ photometry/spectra for sdb-v1-040428.49+215604.5
+\
+\main_id='2MASS J04042848+2156046'
+\raj2000=61.1187052
+\dej2000=21.9345929
+\sp_type='F8'
+\sp_bibcode='2012A&A...538L...3R'
+\plx_value=8.609999656677246
+\plx_err=0.25
+\plx_bibcode='2016yCat.1337....0G'
+\id='sdb-v1-040428.49+215604.5'
+|   Band|  Phot|   Err|   Sys| Lim|Unit|            bibcode|   Note1|   Note2|                 SourceID|private|exclude|
+|   char|double|double|double|long|char|               char|    char|    char|                     char|   long|   long|
+|       |      |      |      |    |    |                   |        |        |                         |       |       |
+|   null|  null|  null|  null|null|null|               null|    null|    null|                     null|   null|   null|
+  GALFUV 19.428  0.107   0.01    0  mag 2011Ap&SS.335..161B   Fafl:0   Fexf:0 sdb-v1-040428.49+215604.5       0       0 
+  GALNUV 13.978  0.006   0.01    0  mag 2011Ap&SS.335..161B   Nafl:2   Nexf:0 sdb-v1-040428.49+215604.5       0       0 
+      BT 10.142  0.035  0.006    0  mag 2000A&A...355L..27H Prox:999     HIP: sdb-v1-040428.49+215604.5       0       0 
+  BAPASS 10.071  0.029   0.01    0  mag 2016yCat.2336....0H   nobs:8  mobs:35 sdb-v1-040428.49+215604.5       0       0 
+  GAPASS 10.411  0.098   0.01    0  mag 2016yCat.2336....0H   nobs:8  mobs:35 sdb-v1-040428.49+215604.5       0       0 
+      VT  9.538   0.03  0.006    0  mag 2000A&A...355L..27H Prox:999     HIP: sdb-v1-040428.49+215604.5       0       0 
+  IAPASS 11.657  1.216   0.01    0  mag 2016yCat.2336....0H   nobs:8  mobs:35 sdb-v1-040428.49+215604.5       0       0 
+   2MR1J  8.419  0.024   0.01    0  mag 2003tmc..book.....C   Qflg:A   Cflg:0 sdb-v1-040428.49+215604.5       0       0 
+   2MR1H  8.261  0.038   0.01    0  mag 2003tmc..book.....C   Qflg:A   Cflg:0 sdb-v1-040428.49+215604.5       0       0 
+  2MR1KS  8.159  0.029   0.01    0  mag 2003tmc..book.....C   Qflg:A   Cflg:0 sdb-v1-040428.49+215604.5       0       0 
+ WISE3P4  8.138  0.022  0.024    0  mag 2010AJ....140.1868W   qual:A Var:001n sdb-v1-040428.49+215604.5       0       0 
+ WISE4P6  8.154  0.019  0.028    0  mag 2010AJ....140.1868W   qual:A Var:001n sdb-v1-040428.49+215604.5       0       0 
+  WISE12  8.123  0.023  0.045    0  mag 2010AJ....140.1868W   qual:A Var:001n sdb-v1-040428.49+215604.5       0       0 
+  WISE22  7.997  0.232  0.057    0  mag 2010AJ....140.1868W   qual:B Var:001n sdb-v1-040428.49+215604.5       0       0 

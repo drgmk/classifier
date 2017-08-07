@@ -1,0 +1,28 @@
+\ photometry/spectra for sdb-v1-045602.02+302103.7
+\
+\main_id='V* V397 Aur'
+\raj2000=74.008424
+\dej2000=30.351028
+\sp_type='K7e'
+\sp_bibcode='1988AJ.....96..297W'
+\plx_value=None
+\plx_err=None
+\plx_bibcode=None
+\id='sdb-v1-045602.02+302103.7'
+\irsstare1='cassis/irsstare/cassis_yaaar_spcfw_16262400t.fits'
+\irsstare2='cassis/irsstare/cassis_yaaar_spcfw_3544064t.fits'
+|   Band|   Phot|   Err|   Sys| Lim|Unit|            bibcode|   Note1|   Note2|                 SourceID|private|exclude|
+|   char| double|double|double|long|char|               char|    char|    char|                     char|   long|   long|
+|       |       |      |      |    |    |                   |        |        |                         |       |       |
+|   null|   null|  null|  null|null|null|               null|    null|    null|                     null|   null|   null|
+  GALFUV  20.663  0.249   0.01    0  mag 2011Ap&SS.335..161B   Fafl:0   Fexf:2 sdb-v1-045602.02+302103.7       0       0 
+  GALNUV   18.98  0.064   0.01    0  mag 2011Ap&SS.335..161B   Nafl:0   Nexf:2 sdb-v1-045602.02+302103.7       0       0 
+   2MR1J   8.958   0.02   0.01    0  mag 2003tmc..book.....C   Qflg:A   Cflg:0 sdb-v1-045602.02+302103.7       0       0 
+   2MR1H   8.317  0.016   0.01    0  mag 2003tmc..book.....C   Qflg:A   Cflg:0 sdb-v1-045602.02+302103.7       0       0 
+  2MR2KS   8.129  0.019   0.01    0  mag 2003tmc..book.....C   Qflg:A   Cflg:0 sdb-v1-045602.02+302103.7       0       0 
+ WISE3P4   7.891   0.02  0.024    0  mag 2010AJ....140.1868W   qual:A Var:3400 sdb-v1-045602.02+302103.7       0       0 
+ WISE4P6   7.857  0.017  0.028    0  mag 2010AJ....140.1868W   qual:A Var:3400 sdb-v1-045602.02+302103.7       0       0 
+ IRAC5P8 70670.0  46.46 1413.4    0  uJy       2013.SEIP.dr4 Brt:1.02    Ext:0 sdb-v1-045602.02+302103.7       0       0 
+   IRAC8 40240.0  35.16  804.8    0  uJy       2013.SEIP.dr4 Brt:0.95    Ext:0 sdb-v1-045602.02+302103.7       0       0 
+  WISE12   7.854   0.02  0.045    0  mag 2010AJ....140.1868W   qual:A Var:3400 sdb-v1-045602.02+302103.7       0       0 
+  WISE22   6.743  0.069  0.057    0  mag 2010AJ....140.1868W   qual:A Var:3400 sdb-v1-045602.02+302103.7       0       0 

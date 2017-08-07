@@ -1,0 +1,22 @@
+\ photometry/spectra for sdb-v1-054126.35-021821.1
+\
+\main_id='[MSJ2009] L1630MIPS-6'
+\raj2000=85.359792
+\dej2000=-2.305861
+\sp_type=None
+\sp_bibcode=None
+\plx_value=None
+\plx_err=None
+\plx_bibcode=None
+\id='sdb-v1-054126.35-021821.1'
+|   Band|   Phot|    Err|    Sys| Lim|Unit|            bibcode|       Note1|      Note2|                  SourceID|private|exclude|
+|   char| double| double| double|long|char|               char|        char|       char|                      char|   long|   long|
+|       |       |       |       |    |    |                   |            |           |                          |       |       |
+|   null|   null|   null|   null|null|null|               null|        null|       null|                      null|   null|   null|
+ WISE3P4  16.748     0.0   0.024    1  mag 2010AJ....140.1868W       qual:U    Var:n1nn  sdb-v1-054126.35-021821.1       0       0 
+ WISE4P6  13.106   0.044   0.028    0  mag 2010AJ....140.1868W       qual:A    Var:n1nn  sdb-v1-054126.35-021821.1       0       0 
+  WISE12  10.156     0.0   0.045    1  mag 2010AJ....140.1868W       qual:U    Var:n1nn  sdb-v1-054126.35-021821.1       0       0 
+  WISE22   6.368     0.0   0.057    1  mag 2010AJ....140.1868W       qual:U    Var:n1nn  sdb-v1-054126.35-021821.1       0       0 
+  PACS70 6437.33 11249.4  193.12    0  mJy 2017arXiv170505693M Elong:1.0922     Blend:0 HPPSC070A_J054126.3-021820       0       0 
+ PACS100 15878.5 1221.67 793.926    0  mJy 2017arXiv170505693M Elong:0.9599     Blend:0 HPPSC100A_J054126.3-021819       0       0 
+ PACS160 47618.1 3000.97 2380.91    0  mJy 2017arXiv170505693M Elong:0.5118 FWHMx:29.67 HPESL160A_J054126.2-021819       0       0 

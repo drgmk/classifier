@@ -1,0 +1,30 @@
+\ photometry/spectra for sdb-v1-053528.19-050341.2
+\
+\main_id='HOPS 85'
+\raj2000=83.867458
+\dej2000=-5.061444
+\sp_type=None
+\sp_bibcode=None
+\plx_value=None
+\plx_err=None
+\plx_bibcode=None
+\id='sdb-v1-053528.19-050341.2'
+\irsstare1='cassis/irsstare/cassis_yaaar_spcfw_20850176t.fits'
+|   Band|    Phot|     Err|    Sys| Lim|Unit|            bibcode|       Note1|      Note2|                  SourceID|private|exclude|
+|   char|  double|  double| double|long|char|               char|        char|       char|                      char|   long|   long|
+|       |        |        |       |    |    |                   |            |           |                          |       |       |
+|   null|    null|    null|   null|null|null|               null|        null|       null|                      null|   null|   null|
+     2MJ   17.479      0.0    0.01    0  mag 2003tmc..book.....C       Qflg:U      Cflg:0  sdb-v1-053528.19-050341.2       0       1 
+     2MH   15.279      0.0    0.01    0  mag 2003tmc..book.....C       Qflg:U      Cflg:0  sdb-v1-053528.19-050341.2       0       1 
+  2MR2KS   12.503    0.024    0.01    0  mag 2003tmc..book.....C       Qflg:A      Cflg:0  sdb-v1-053528.19-050341.2       0       0 
+ WISE3P4    7.997    0.023   0.024    0  mag 2010AJ....140.1868W       qual:A    Var:nnnn  sdb-v1-053528.19-050341.2       0       1 
+ WISE4P6     5.55    0.037   0.028    0  mag 2010AJ....140.1868W       qual:A    Var:nnnn  sdb-v1-053528.19-050341.2       0       1 
+  WISE12    3.823    0.017   0.045    0  mag 2010AJ....140.1868W       qual:A    Var:nnnn  sdb-v1-053528.19-050341.2       0       1 
+  WISE22    0.127    0.022   0.057    0  mag 2010AJ....140.1868W       qual:A    Var:nnnn  sdb-v1-053528.19-050341.2       0       1 
+  PACS70  27750.2  48352.4 832.507    0  mJy 2017arXiv170505693M Elong:0.0000     Blend:0 HPPSC070A_J053528.2-050342       0       0 
+ PACS100  33545.3  5417.72 1677.26    0  mJy 2017arXiv170505693M Elong:0.8422     Blend:0 HPPSC100A_J053528.1-050341       0       0 
+ PACS160 102041.0  6987.25 5102.05    0  mJy 2017arXiv170505693M Elong:0.0000 FWHMx:26.05 HPESL160A_J053528.0-050340       0       1 
+ PACS160 103723.0  6698.43 5186.15    0  mJy 2017arXiv170505693M Elong:0.0000 FWHMx:40.43 HPESL160A_J053528.0-050340       0       1 
+ PACS160 101349.0  11079.9 5067.45    0  mJy 2017arXiv170505693M Elong:0.0000 FWHMx:28.72 HPESL160A_J053528.0-050340       0       1 
+ PACS160 108727.0  7242.17 5436.35    0  mJy 2017arXiv170505693M Elong:0.0000 FWHMx:31.41 HPESL160A_J053528.0-050340       0       1 
+ PACS160  97809.3 220387.0 4890.47    0  mJy 2017arXiv170505693M Elong:0.0000 FWHMx:50.34 HPESL160A_J053528.2-050341       0       0 

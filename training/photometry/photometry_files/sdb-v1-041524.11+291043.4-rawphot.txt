@@ -1,0 +1,26 @@
+\ photometry/spectra for sdb-v1-041524.11+291043.4
+\
+\main_id='J04152409+2910434'
+\raj2000=63.850443
+\dej2000=29.178713
+\sp_type=None
+\sp_bibcode=None
+\plx_value=None
+\plx_err=None
+\plx_bibcode=None
+\id='sdb-v1-041524.11+291043.4'
+|   Band|  Phot|   Err|   Sys| Lim|Unit|            bibcode|   Note1|   Note2|                 SourceID|private|exclude|
+|   char|double|double|double|long|char|               char|    char|    char|                     char|   long|   long|
+|       |      |      |      |    |    |                   |        |        |                         |       |       |
+|   null|  null|  null|  null|null|null|               null|    null|    null|                     null|   null|   null|
+   2MR2J 13.683  0.024   0.01    0  mag 2003tmc..book.....C   Qflg:A   Cflg:0 sdb-v1-041524.11+291043.4       0       0 
+   2MR2H 12.882  0.027   0.01    0  mag 2003tmc..book.....C   Qflg:A   Cflg:0 sdb-v1-041524.11+291043.4       0       0 
+  2MR2KS 12.357  0.027   0.01    0  mag 2003tmc..book.....C   Qflg:A   Cflg:0 sdb-v1-041524.11+291043.4       0       0 
+ WISE3P4 12.074  0.023  0.024    0  mag 2010AJ....140.1868W   qual:A Var:00nn sdb-v1-041524.11+291043.4       0       0 
+ IRAC3P6 5084.0   9.57 101.68    0  uJy       2013.SEIP.dr4 Brt:0.98    Ext:0 sdb-v1-041524.11+291043.4       0       0 
+ IRAC4P5 3610.0  8.244   72.2    0  uJy       2013.SEIP.dr4 Brt:0.98    Ext:0 sdb-v1-041524.11+291043.4       0       0 
+ WISE4P6 11.746  0.023  0.028    0  mag 2010AJ....140.1868W   qual:A Var:00nn sdb-v1-041524.11+291043.4       0       0 
+ IRAC5P8 2542.0  16.43  50.84    0  uJy       2013.SEIP.dr4 Brt:0.95    Ext:0 sdb-v1-041524.11+291043.4       0       0 
+   IRAC8 1521.0  14.19  30.42    0  uJy       2013.SEIP.dr4    Brt:0    Ext:0 sdb-v1-041524.11+291043.4       0       0 
+  WISE12 11.612  0.243  0.045    0  mag 2010AJ....140.1868W   qual:B Var:00nn sdb-v1-041524.11+291043.4       0       0 
+  WISE22  8.882    0.0  0.057    1  mag 2010AJ....140.1868W   qual:U Var:00nn sdb-v1-041524.11+291043.4       0       0 

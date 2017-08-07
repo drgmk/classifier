@@ -1,0 +1,20 @@
+\ photometry/spectra for sdb-v1-043553.42+225408.3
+\
+\main_id='J043553.4+225408'
+\raj2000=68.9726
+\dej2000=22.902299880981445
+\sp_type=None
+\sp_bibcode=None
+\plx_value=None
+\plx_err=None
+\plx_bibcode=None
+\id='sdb-v1-043553.42+225408.3'
+|   Band|   Phot|   Err|   Sys| Lim|Unit|            bibcode|   Note1| Note2|                 SourceID|private|exclude|
+|   char| double|double|double|long|char|               char|    char|  char|                     char|   long|   long|
+|       |       |      |      |    |    |                   |        |      |                         |       |       |
+|   null|   null|  null|  null|null|null|               null|    null|  null|                     null|   null|   null|
+   2MR2J  10.041  0.023   0.01    0  mag 2003tmc..book.....C   Qflg:A Cflg:0 sdb-v1-043553.42+225408.3       0       0 
+   2MR2H   9.154  0.022   0.01    0  mag 2003tmc..book.....C   Qflg:A Cflg:0 sdb-v1-043553.42+225408.3       0       0 
+  2MR2KS   8.797  0.021   0.01    0  mag 2003tmc..book.....C   Qflg:A Cflg:0 sdb-v1-043553.42+225408.3       0       0 
+ IRAC5P8 46790.0  54.94  935.8    0  uJy       2013.SEIP.dr4 Brt:0.95  Ext:0 sdb-v1-043553.42+225408.3       0       0 
+   IRAC8 27060.0  27.53  541.2    0  uJy       2013.SEIP.dr4 Brt:0.98  Ext:0 sdb-v1-043553.42+225408.3       0       0 

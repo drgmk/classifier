@@ -1,0 +1,23 @@
+\ photometry/spectra for sdb-v1-043858.60+233635.2
+\
+\main_id='J0438586+2336352'
+\raj2000=69.744177
+\dej2000=23.609764
+\sp_type=None
+\sp_bibcode=None
+\plx_value=None
+\plx_err=None
+\plx_bibcode=None
+\id='sdb-v1-043858.60+233635.2'
+|   Band|   Phot|   Err|   Sys| Lim|Unit|            bibcode| Note1|   Note2|                 SourceID|private|exclude|
+|   char| double|double|double|long|char|               char|  char|    char|                     char|   long|   long|
+|       |       |      |      |    |    |                   |      |        |                         |       |       |
+|   null|   null|  null|  null|null|null|               null|  null|    null|                     null|   null|   null|
+   2MR2J  11.975  0.023   0.01    0  mag 2003tmc..book.....C Qflg:A   Cflg:0 sdb-v1-043858.60+233635.2       0       0 
+   2MR2H  11.362  0.023   0.01    0  mag 2003tmc..book.....C Qflg:A   Cflg:0 sdb-v1-043858.60+233635.2       0       0 
+  2MR2KS  11.033  0.018   0.01    0  mag 2003tmc..book.....C Qflg:A   Cflg:0 sdb-v1-043858.60+233635.2       0       0 
+ WISE3P4    10.7  0.024  0.024    0  mag 2010AJ....140.1868W qual:A Var:0011 sdb-v1-043858.60+233635.2       0       0 
+ WISE4P6  10.197  0.021  0.028    0  mag 2010AJ....140.1868W qual:A Var:0011 sdb-v1-043858.60+233635.2       0       0 
+  WISE12   8.338  0.026  0.045    0  mag 2010AJ....140.1868W qual:A Var:0011 sdb-v1-043858.60+233635.2       0       0 
+  WISE22   6.519  0.069  0.057    0  mag 2010AJ....140.1868W qual:A Var:0011 sdb-v1-043858.60+233635.2       0       0 
+  MIPS24 19830.0  120.3  396.6    0  uJy       2013.SEIP.dr4  Brt:0    Ext:0 sdb-v1-043858.60+233635.2       0       0 

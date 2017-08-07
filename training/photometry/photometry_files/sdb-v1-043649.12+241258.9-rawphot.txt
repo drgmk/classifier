@@ -1,0 +1,32 @@
+\ photometry/spectra for sdb-v1-043649.12+241258.9
+\
+\main_id='HD 283759'
+\raj2000=69.2046767
+\dej2000=24.2163536
+\sp_type='F5'
+\sp_bibcode='1995A&AS..110..367N'
+\plx_value=6.630000114440918
+\plx_err=0.2800000011920929
+\plx_bibcode='2016yCat.1337....0G'
+\id='sdb-v1-043649.12+241258.9'
+|   Band|   Phot|   Err|   Sys| Lim|Unit|            bibcode|   Note1|   Note2|                 SourceID|private|exclude|
+|   char| double|double|double|long|char|               char|    char|    char|                     char|   long|   long|
+|       |       |      |      |    |    |                   |        |        |                         |       |       |
+|   null|   null|  null|  null|null|null|               null|    null|    null|                     null|   null|   null|
+   UJ_BJ   0.307   0.01  0.028    0  mag 2006yCat.2168....0M    Comp:   n_U_B:                 HD 283759       0       0 
+      BT  11.238  0.069  0.006    0  mag 2000A&A...355L..27H Prox:999     HIP: sdb-v1-043649.12+241258.9       0       0 
+  BAPASS  11.065  0.052   0.01    0  mag 2016yCat.2336....0H   nobs:4  mobs:14 sdb-v1-043649.12+241258.9       0       0 
+  GAPASS  10.658  0.033   0.01    0  mag 2016yCat.2336....0H   nobs:4  mobs:14 sdb-v1-043649.12+241258.9       0       0 
+   BJ_VJ   0.766  0.005   0.02    0  mag 2006yCat.2168....0M    Comp:   n_B_V:                 HD 283759       0       0 
+      VT    10.5  0.053  0.006    0  mag 2000A&A...355L..27H Prox:999     HIP: sdb-v1-043649.12+241258.9       0       0 
+  VAPASS   10.32  0.039   0.01    0  mag 2016yCat.2336....0H   nobs:4  mobs:14 sdb-v1-043649.12+241258.9       0       0 
+      VJ  10.315  0.033   0.02    0  mag 2006yCat.2168....0M    Comp:  n_Vmag:                 HD 283759       0       0 
+  RAPASS  10.107  0.014   0.01    0  mag 2016yCat.2336....0H   nobs:4  mobs:14 sdb-v1-043649.12+241258.9       0       0 
+   2MR1J   8.701  0.023   0.01    0  mag 2003tmc..book.....C   Qflg:A   Cflg:0 sdb-v1-043649.12+241258.9       0       0 
+   2MR1H   8.436  0.018   0.01    0  mag 2003tmc..book.....C   Qflg:A   Cflg:0 sdb-v1-043649.12+241258.9       0       0 
+  2MR2KS   8.335  0.019   0.01    0  mag 2003tmc..book.....C   Qflg:A   Cflg:0 sdb-v1-043649.12+241258.9       0       0 
+ WISE3P4    8.24  0.022  0.024    0  mag 2010AJ....140.1868W   qual:A Var:nnnn sdb-v1-043649.12+241258.9       0       0 
+ WISE4P6   8.232  0.017  0.028    0  mag 2010AJ....140.1868W   qual:A Var:nnnn sdb-v1-043649.12+241258.9       0       0 
+  WISE12   8.104  0.019  0.045    0  mag 2010AJ....140.1868W   qual:A Var:nnnn sdb-v1-043649.12+241258.9       0       0 
+  WISE22   6.634  0.074  0.057    0  mag 2010AJ....140.1868W   qual:A Var:nnnn sdb-v1-043649.12+241258.9       0       0 
+  MIPS24 14360.0  195.4  287.2    0  uJy       2013.SEIP.dr4    Brt:0    Ext:0 sdb-v1-043649.12+241258.9       0       0 

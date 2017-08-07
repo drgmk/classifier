@@ -1,0 +1,26 @@
+\ photometry/spectra for sdb-v1-041514.74+280009.4
+\
+\main_id='J041514.7+280009'
+\raj2000=63.8114
+\dej2000=28.002599716186523
+\sp_type=None
+\sp_bibcode=None
+\plx_value=None
+\plx_err=None
+\plx_bibcode=None
+\id='sdb-v1-041514.74+280009.4'
+|   Band|  Phot|   Err|   Sys| Lim|Unit|            bibcode| Note1|   Note2|                 SourceID|private|exclude|
+|   char|double|double|double|long|char|               char|  char|    char|                     char|   long|   long|
+|       |      |      |      |    |    |                   |      |        |                         |       |       |
+|   null|  null|  null|  null|null|null|               null|  null|    null|                     null|   null|   null|
+   2MR2J 15.101   0.04   0.01    0  mag 2003tmc..book.....C Qflg:A   Cflg:0 sdb-v1-041514.74+280009.4       0       0 
+   2MR2H 14.247  0.038   0.01    0  mag 2003tmc..book.....C Qflg:A   Cflg:0 sdb-v1-041514.74+280009.4       0       0 
+  2MR2KS 13.772  0.035   0.01    0  mag 2003tmc..book.....C Qflg:A   Cflg:0 sdb-v1-041514.74+280009.4       0       0 
+ WISE3P4 13.465  0.026  0.024    0  mag 2010AJ....140.1868W qual:A Var:01nn sdb-v1-041514.74+280009.4       0       0 
+ IRAC3P6 1468.0  4.847  29.36    0  uJy       2013.SEIP.dr4  Brt:0    Ext:0 sdb-v1-041514.74+280009.4       0       0 
+ IRAC4P5 1074.0  5.212  21.48    0  uJy       2013.SEIP.dr4  Brt:0    Ext:0 sdb-v1-041514.74+280009.4       0       0 
+ WISE4P6 13.118  0.031  0.028    0  mag 2010AJ....140.1868W qual:A Var:01nn sdb-v1-041514.74+280009.4       0       0 
+ IRAC5P8  674.1  9.959 13.482    0  uJy       2013.SEIP.dr4  Brt:0    Ext:0 sdb-v1-041514.74+280009.4       0       0 
+   IRAC8  467.1  12.93  9.342    0  uJy       2013.SEIP.dr4  Brt:0    Ext:0 sdb-v1-041514.74+280009.4       0       0 
+  WISE12  11.99    0.0  0.045    1  mag 2010AJ....140.1868W qual:U Var:01nn sdb-v1-041514.74+280009.4       0       0 
+  WISE22  8.959    0.0  0.057    1  mag 2010AJ....140.1868W qual:U Var:01nn sdb-v1-041514.74+280009.4       0       0 

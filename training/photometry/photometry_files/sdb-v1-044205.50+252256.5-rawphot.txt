@@ -1,0 +1,30 @@
+\ photometry/spectra for sdb-v1-044205.50+252256.5
+\
+\main_id='J044205.4+252256'
+\raj2000=70.52291
+\dej2000=25.382355
+\sp_type=None
+\sp_bibcode=None
+\plx_value=None
+\plx_err=None
+\plx_bibcode=None
+\id='sdb-v1-044205.50+252256.5'
+|   Band|    Phot|   Err|   Sys| Lim|Unit|            bibcode|   Note1|   Note2|                 SourceID|private|exclude|
+|   char|  double|double|double|long|char|               char|    char|    char|                     char|   long|   long|
+|       |        |      |      |    |    |                   |        |        |                         |       |       |
+|   null|    null|  null|  null|null|null|               null|    null|    null|                     null|   null|   null|
+  BAPASS   16.735    0.0   0.01    0  mag 2016yCat.2336....0H   nobs:2   mobs:8 sdb-v1-044205.50+252256.5       0       1 
+  GAPASS   15.821  0.022   0.01    0  mag 2016yCat.2336....0H   nobs:2   mobs:8 sdb-v1-044205.50+252256.5       0       0 
+  VAPASS    14.88    0.0   0.01    0  mag 2016yCat.2336....0H   nobs:2   mobs:8 sdb-v1-044205.50+252256.5       0       1 
+  RAPASS   13.989  0.081   0.01    0  mag 2016yCat.2336....0H   nobs:2   mobs:8 sdb-v1-044205.50+252256.5       0       0 
+  IAPASS   12.686  0.023   0.01    0  mag 2016yCat.2336....0H   nobs:2   mobs:8 sdb-v1-044205.50+252256.5       0       0 
+   2MR2J    9.787  0.022   0.01    0  mag 2003tmc..book.....C   Qflg:A   Cflg:0 sdb-v1-044205.50+252256.5       0       0 
+   2MR1H    8.663  0.034   0.01    0  mag 2003tmc..book.....C   Qflg:A   Cflg:0 sdb-v1-044205.50+252256.5       0       0 
+  2MR1KS    8.227   0.02   0.01    0  mag 2003tmc..book.....C   Qflg:A   Cflg:0 sdb-v1-044205.50+252256.5       0       0 
+ WISE3P4    7.978  0.024  0.024    0  mag 2010AJ....140.1868W   qual:A Var:1200 sdb-v1-044205.50+252256.5       0       0 
+ IRAC4P5 131800.0  41.06 2636.0    0  uJy       2013.SEIP.dr4 Brt:0.95    Ext:0 sdb-v1-044205.50+252256.5       0       0 
+ WISE4P6    7.776  0.021  0.028    0  mag 2010AJ....140.1868W   qual:A Var:1200 sdb-v1-044205.50+252256.5       0       0 
+ IRAC5P8  93210.0  81.67 1864.2    0  uJy       2013.SEIP.dr4 Brt:0.98    Ext:0 sdb-v1-044205.50+252256.5       0       0 
+   IRAC8  55110.0  37.77 1102.2    0  uJy       2013.SEIP.dr4 Brt:1.02    Ext:0 sdb-v1-044205.50+252256.5       0       0 
+  WISE12    7.426  0.018  0.045    0  mag 2010AJ....140.1868W   qual:A Var:1200 sdb-v1-044205.50+252256.5       0       0 
+  WISE22    6.218  0.057  0.057    0  mag 2010AJ....140.1868W   qual:A Var:1200 sdb-v1-044205.50+252256.5       0       0 

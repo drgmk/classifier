@@ -1,0 +1,27 @@
+\ photometry/spectra for sdb-v1-042224.05+264625.9
+\
+\main_id='2MASS J04222404+2646258'
+\raj2000=65.600196
+\dej2000=26.773869
+\sp_type=None
+\sp_bibcode=None
+\plx_value=None
+\plx_err=None
+\plx_bibcode=None
+\id='sdb-v1-042224.05+264625.9'
+|   Band|   Phot|   Err|   Sys| Lim|Unit|            bibcode|   Note1|   Note2|                 SourceID|private|exclude|
+|   char| double|double|double|long|char|               char|    char|    char|                     char|   long|   long|
+|       |       |      |      |    |    |                   |        |        |                         |       |       |
+|   null|   null|  null|  null|null|null|               null|    null|    null|                     null|   null|   null|
+   2MR2J  11.088   0.02   0.01    0  mag 2003tmc..book.....C   Qflg:A   Cflg:0 sdb-v1-042224.05+264625.9       0       0 
+   2MR2H  10.191  0.027   0.01    0  mag 2003tmc..book.....C   Qflg:A   Cflg:0 sdb-v1-042224.05+264625.9       0       0 
+  2MR2KS   9.771  0.017   0.01    0  mag 2003tmc..book.....C   Qflg:A   Cflg:0 sdb-v1-042224.05+264625.9       0       0 
+ WISE3P4   9.627  0.023  0.024    0  mag 2010AJ....140.1868W   qual:A Var:11nn sdb-v1-042224.05+264625.9       0       0 
+ IRAC3P6 40320.0  35.73  806.4    0  uJy       2013.SEIP.dr4 Brt:1.02    Ext:0 sdb-v1-042224.05+264625.9       0       0 
+ IRAC4P5 31460.0  30.25  629.2    0  uJy       2013.SEIP.dr4 Brt:1.02    Ext:0 sdb-v1-042224.05+264625.9       0       0 
+ WISE4P6   9.353  0.019  0.028    0  mag 2010AJ....140.1868W   qual:A Var:11nn sdb-v1-042224.05+264625.9       0       0 
+ IRAC5P8 21760.0  38.05  435.2    0  uJy       2013.SEIP.dr4 Brt:1.02    Ext:0 sdb-v1-042224.05+264625.9       0       0 
+   IRAC8 12340.0  28.56  246.8    0  uJy       2013.SEIP.dr4 Brt:0.95    Ext:0 sdb-v1-042224.05+264625.9       0       0 
+  WISE12   9.155  0.047  0.045    0  mag 2010AJ....140.1868W   qual:A Var:11nn sdb-v1-042224.05+264625.9       0       0 
+  WISE22   7.955    0.0  0.057    1  mag 2010AJ....140.1868W   qual:U Var:11nn sdb-v1-042224.05+264625.9       0       0 
+  MIPS24  1688.0  121.4  33.76    0  uJy       2013.SEIP.dr4    Brt:0    Ext:0 sdb-v1-042224.05+264625.9       0       0 
