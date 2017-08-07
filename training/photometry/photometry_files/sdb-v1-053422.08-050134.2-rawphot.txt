@@ -1,0 +1,26 @@
+\ photometry/spectra for sdb-v1-053422.08-050134.2
+\
+\main_id='2MASS J05342207-0501342'
+\raj2000=83.591991
+\dej2000=-5.026162
+\sp_type='M5.5'
+\sp_bibcode='2013ApJ...769..149K'
+\plx_value=None
+\plx_err=None
+\plx_bibcode=None
+\id='sdb-v1-053422.08-050134.2'
+\irsstare0='cassis/irsstare/cassis_yaaar_spcfw_18776320t.fits'
+|   Band|  Phot|   Err|   Sys| Lim|Unit|            bibcode|  Note1|   Note2|                 SourceID|private|exclude|
+|   char|double|double|double|long|char|               char|   char|    char|                     char|   long|   long|
+|       |      |      |      |    |    |                   |       |        |                         |       |       |
+|   null|  null|  null|  null|null|null|               null|   null|    null|                     null|   null|   null|
+  IDENIS 15.134   0.05   0.01    0  mag 2005yCat.2263....0T Ipsf:96   Iflg:0 sdb-v1-053422.08-050134.2       0       0 
+   2MR2J 13.129  0.031   0.01    0  mag 2003tmc..book.....C  Qflg:A   Cflg:0 sdb-v1-053422.08-050134.2       0       0 
+   2MR2H 12.618  0.045   0.01    0  mag 2003tmc..book.....C  Qflg:A   Cflg:0 sdb-v1-053422.08-050134.2       0       0 
+  2MR2KS  12.25  0.034   0.01    0  mag 2003tmc..book.....C  Qflg:A   Cflg:0 sdb-v1-053422.08-050134.2       0       0 
+ WISE3P4 11.879  0.023  0.024    0  mag 2010AJ....140.1868W  qual:A Var:0011 sdb-v1-053422.08-050134.2       0       0 
+ IRAC4P5 3924.0  8.152  78.48    0  uJy       2013.SEIP.dr4   Brt:0    Ext:0 sdb-v1-053422.08-050134.2       0       0 
+ WISE4P6 11.515  0.022  0.028    0  mag 2010AJ....140.1868W  qual:A Var:0011 sdb-v1-053422.08-050134.2       0       0 
+ IRAC5P8 3311.0  101.3  66.22    0  uJy       2013.SEIP.dr4   Brt:0    Ext:0 sdb-v1-053422.08-050134.2       0       0 
+  WISE12   8.89  0.046  0.045    0  mag 2010AJ....140.1868W  qual:A Var:0011 sdb-v1-053422.08-050134.2       0       0 
+  WISE22  6.216  0.098  0.057    0  mag 2010AJ....140.1868W  qual:A Var:0011 sdb-v1-053422.08-050134.2       0       0 

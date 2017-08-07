@@ -1,0 +1,30 @@
+\ photometry/spectra for sdb-v1-053640.76-061108.3
+\
+\main_id='V* V2703 Ori'
+\raj2000=84.169822
+\dej2000=-6.185638
+\sp_type='K2.1'
+\sp_bibcode='2012ApJ...752...59H'
+\plx_value=None
+\plx_err=None
+\plx_bibcode=None
+\id='sdb-v1-053640.76-061108.3'
+\irsstare0='cassis/irsstare/cassis_yaaar_spcfw_18804992t.fits'
+|   Band|   Phot|    Err|    Sys| Lim|Unit|            bibcode|       Note1|   Note2|                  SourceID|private|exclude|
+|   char| double| double| double|long|char|               char|        char|    char|                      char|   long|   long|
+|       |       |       |       |    |    |                   |            |        |                          |       |       |
+|   null|   null|   null|   null|null|null|               null|        null|    null|                      null|   null|   null|
+  IDENIS  16.953     1.0    0.01    0  mag 2005yCat.2263....0T      Ipsf:97   Iflg:0  sdb-v1-053640.76-061108.3       0       0 
+   2MR2J  15.006   0.044    0.01    0  mag 2003tmc..book.....C       Qflg:A   Cflg:0  sdb-v1-053640.76-061108.3       0       0 
+   2MR2H  13.887   0.037    0.01    0  mag 2003tmc..book.....C       Qflg:A   Cflg:0  sdb-v1-053640.76-061108.3       0       0 
+  2MR2KS  12.825   0.024    0.01    0  mag 2003tmc..book.....C       Qflg:A   Cflg:0  sdb-v1-053640.76-061108.3       0       0 
+ WISE3P4  11.024   0.023   0.024    0  mag 2010AJ....140.1868W       qual:A Var:9911  sdb-v1-053640.76-061108.3       0       0 
+ IRAC3P6 12710.0   7.778   254.2    0  uJy       2013.SEIP.dr4     Brt:0.95    Ext:0  sdb-v1-053640.76-061108.3       0       0 
+ IRAC4P5 11480.0   7.305   229.6    0  uJy       2013.SEIP.dr4     Brt:1.02    Ext:0  sdb-v1-053640.76-061108.3       0       0 
+ WISE4P6  10.088    0.02   0.028    0  mag 2010AJ....140.1868W       qual:A Var:9911  sdb-v1-053640.76-061108.3       0       0 
+ IRAC5P8 15080.0   20.72   301.6    0  uJy       2013.SEIP.dr4     Brt:0.95    Ext:0  sdb-v1-053640.76-061108.3       0       0 
+   IRAC8 16210.0    16.5   324.2    0  uJy       2013.SEIP.dr4     Brt:0.95    Ext:0  sdb-v1-053640.76-061108.3       0       0 
+  WISE12   7.963   0.038   0.045    0  mag 2010AJ....140.1868W       qual:A Var:9911  sdb-v1-053640.76-061108.3       0       0 
+  WISE22   5.381   0.052   0.057    0  mag 2010AJ....140.1868W       qual:A Var:9911  sdb-v1-053640.76-061108.3       0       0 
+  MIPS24 60140.0   137.1  1202.8    0  uJy       2013.SEIP.dr4        Brt:0 Ext:0.96  sdb-v1-053640.76-061108.3       0       0 
+  PACS70 106.663 54.0103 3.19989    0  mJy 2017arXiv170505693M Elong:0.0000  Blend:0 HPPSC070A_J053640.8-061109       0       0 

@@ -1,0 +1,55 @@
+\ photometry/spectra for sdb-v1-220940.35-043826.6
+\
+\main_id='BD-05 5715'
+\raj2000=332.418111
+\dej2000=-4.64073
+\sp_type='M3.5V'
+\sp_bibcode='1974ApJS...28....1J'
+\plx_value=113.25
+\plx_err=0.3199999928474426
+\plx_bibcode='2016yCat.1337....0G'
+\id='sdb-v1-220940.35-043826.6'
+\irsstare0='cassis/irsstare/cassis_yaaar_spcfw_14647552t.fits'
+\irsstare1='cassis/irsstare/cassis_yaaar_spcfw_3873024t.fits'
+|   Band|      Phot|        Err|        Sys| Lim|Unit|            bibcode|       Note1|      Note2|                 SourceID|private|exclude|
+|   char|    double|     double|     double|long|char|               char|        char|       char|                     char|   long|   long|
+|       |          |           |           |    |    |                   |            |           |                         |       |       |
+|   null|      null|       null|       null|null|null|               null|        null|       null|                     null|   null|   null|
+   UJ_BJ       1.12         0.0       0.028    0  mag 2006yCat.2168....0M        Comp:     n_U_B:S                BD-05 5715       0       0 
+   UJ_BJ      1.118       0.033       0.005    0  mag 2010MNRAS.403.1949K     o_Vmag:7        Var:                HIP 109388       0       0 
+      BT     11.924       0.115       0.006    0  mag 2000A&A...355L..27H     Prox:999  HIP:109388 sdb-v1-220940.35-043826.6       0       0 
+  BAPASS      11.84       0.026        0.01    0  mag 2016yCat.2336....0H      nobs:16    mobs:126 sdb-v1-220940.35-043826.6       0       0 
+  GAPASS     11.081       0.025        0.01    0  mag 2016yCat.2336....0H      nobs:16    mobs:126 sdb-v1-220940.35-043826.6       0       0 
+   BJ_VJ      1.507       0.006       0.005    0  mag 2010MNRAS.403.1949K     o_Vmag:7        Var:                HIP 109388       0       0 
+   BJ_VJ      1.504         0.0        0.02    0  mag 1990A&AS...83..357B        Std?:  Vmag:10.39                    GJ 849       0       0 
+   BJ_VJ       1.52         0.0        0.02    0  mag 2006yCat.2168....0M        Comp:     n_B_V:S                BD-05 5715       0       0 
+      VT     10.526       0.054       0.006    0  mag 2000A&A...355L..27H     Prox:999  HIP:109388 sdb-v1-220940.35-043826.6       0       0 
+      HP    10.3672   0.0293784       0.005    0  mag 1997HIP...C......0E    VarType:C       Mult:                HIP 109388       0       0 
+  VAPASS     10.346       0.032        0.01    0  mag 2016yCat.2336....0H      nobs:16    mobs:126 sdb-v1-220940.35-043826.6       0       0 
+      VJ      10.39         0.0        0.02    0  mag 1990A&AS...83..357B        Std?:  Vmag:10.39                    GJ 849       0       0 
+      VJ     10.371       0.008       0.005    0  mag 2010MNRAS.403.1949K     o_Vmag:7        Var:                HIP 109388       0       0 
+      VJ      10.42         0.0        0.02    0  mag 2006yCat.2168....0M        Comp:    n_Vmag:S                BD-05 5715       0       0 
+   VJ_RC      1.094         0.0        0.02    0  mag 1990A&AS...83..357B        Std?:  Vmag:10.39                    GJ 849       0       0 
+   VJ_IC       2.51         0.0        0.02    0  mag 1990A&AS...83..357B        Std?:  Vmag:10.39                    GJ 849       0       0 
+  IAPASS      8.472         0.0        0.01    0  mag 2016yCat.2336....0H      nobs:16    mobs:126 sdb-v1-220940.35-043826.6       0       1 
+   2MR1J       6.51       0.024        0.01    0  mag 2003tmc..book.....C       Qflg:A      Cflg:0 sdb-v1-220940.35-043826.6       0       0 
+   2MR1H      5.899       0.044        0.01    0  mag 2003tmc..book.....C       Qflg:A      Cflg:0 sdb-v1-220940.35-043826.6       0       0 
+  2MR1KS      5.594       0.017        0.01    0  mag 2003tmc..book.....C       Qflg:A      Cflg:0 sdb-v1-220940.35-043826.6       0       0 
+ WISE3P4       5.57       0.116       0.024    0  mag 2010AJ....140.1868W       qual:B    Var:3311 sdb-v1-220940.35-043826.6       0       0 
+ WISE4P6      5.183       0.064       0.028    0  mag 2010AJ....140.1868W       qual:A    Var:3311 sdb-v1-220940.35-043826.6       0       0 
+  AKARI9     0.4456      0.0108    0.006684    0   Jy 2010A&A...514A...1I       ext?:0    N-near:0 sdb-v1-220940.35-043826.6       0       0 
+  IRAS12      0.361     0.03249         0.0    0   Jy 1990IRASF.C......0M       Qual:3      Conf:0          IRAS F22070-0453       0       0 
+  IRAS12      0.342     0.04788         0.0    0   Jy 1988IRASP.C......0J       Qual:3      Conf:0           IRAS 22070-0452       0       1 
+  WISE12      5.307       0.015       0.045    0  mag 2010AJ....140.1868W       qual:A    Var:3311 sdb-v1-220940.35-043826.6       0       0 
+  WISE22      5.177       0.036       0.057    0  mag 2010AJ....140.1868W       qual:A    Var:3311 sdb-v1-220940.35-043826.6       0       0 
+  IRAS25      0.347         0.0         0.0    1   Jy 1988IRASP.C......0J       Qual:1      Conf:0           IRAS 22070-0452       0       1 
+  IRAS25      0.153     0.03825         0.0    1   Jy 1990IRASF.C......0M       Qual:1      Conf:0          IRAS F22070-0453       0       0 
+  IRAS60      0.155      0.0403         0.0    1   Jy 1990IRASF.C......0M       Qual:1      Conf:0          IRAS F22070-0453       0       0 
+  IRAS60        0.4         0.0         0.0    1   Jy 1988IRASP.C......0J       Qual:1      Conf:0           IRAS 22070-0452       0       1 
+  MIPS70        3.8         5.6       0.152    0  mJy 2009ApJ...705.1226B        Star:       Note:                    GJ 849       0       0 
+ IRAS100      0.917     0.22925         0.0    1   Jy 1990IRASF.C......0M       Qual:1      Conf:0          IRAS F22070-0453       0       0 
+ IRAS100       1.34         0.0         0.0    1   Jy 1988IRASP.C......0J       Qual:1      Conf:0           IRAS 22070-0452       0       1 
+ PACS100 0.00310345 0.000878855 7.82382e-05    0   Jy             HSA_GMK   1342246764    Phot:PSF                BD-05 5715       0       0 
+ PACS160 0.00370515  0.00270141 0.000153106    0   Jy             HSA_GMK   1342246764    Phot:PSF                BD-05 5715       0       0 
+ WAV1200       10.0         0.0         0.0    1  mJy 2006A&A...460..733L Instr:MAMBO2 Name:GJ 849                    GJ 849       0       0 
+ WAV1200        2.9         0.0         0.0    1  mJy 2009A&A...506.1455L Instr:MAMBO2 Name:GJ 849                    GJ 849       0       0 

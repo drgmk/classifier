@@ -1,0 +1,35 @@
+\ photometry/spectra for sdb-v1-053640.40-061333.4
+\
+\main_id='Haro 4-205'
+\raj2000=84.168317
+\dej2000=-6.225949
+\sp_type='M0.7'
+\sp_bibcode='2012ApJ...752...59H'
+\plx_value=None
+\plx_err=None
+\plx_bibcode=None
+\id='sdb-v1-053640.40-061333.4'
+\irsstare0='cassis/irsstare/cassis_yaaar_spcfw_18775808t.fits'
+|   Band|   Phot|   Err|    Sys| Lim|Unit|            bibcode|       Note1|   Note2|                  SourceID|private|exclude|
+|   char| double|double| double|long|char|               char|        char|    char|                      char|   long|   long|
+|       |       |      |       |    |    |                   |            |        |                          |       |       |
+|   null|   null|  null|   null|null|null|               null|        null|    null|                      null|   null|   null|
+  BAPASS  16.911  0.102    0.01    0  mag 2016yCat.2336....0H       nobs:4  mobs:18  sdb-v1-053640.40-061333.4       0       0 
+  GAPASS  16.126  0.069    0.01    0  mag 2016yCat.2336....0H       nobs:4  mobs:18  sdb-v1-053640.40-061333.4       0       0 
+  VAPASS  15.395  0.034    0.01    0  mag 2016yCat.2336....0H       nobs:4  mobs:18  sdb-v1-053640.40-061333.4       0       0 
+  RAPASS  14.807  0.082    0.01    0  mag 2016yCat.2336....0H       nobs:4  mobs:18  sdb-v1-053640.40-061333.4       0       0 
+  IAPASS  13.942  0.035    0.01    0  mag 2016yCat.2336....0H       nobs:4  mobs:18  sdb-v1-053640.40-061333.4       0       0 
+  IDENIS  13.554    1.0    0.01    0  mag 2005yCat.2263....0T      Ipsf:99   Iflg:0  sdb-v1-053640.40-061333.4       0       0 
+   2MR2J  12.196  0.026    0.01    0  mag 2003tmc..book.....C       Qflg:A   Cflg:0  sdb-v1-053640.40-061333.4       0       0 
+   2MR2H  11.509  0.032    0.01    0  mag 2003tmc..book.....C       Qflg:A   Cflg:0  sdb-v1-053640.40-061333.4       0       0 
+  2MR2KS   11.28  0.022    0.01    0  mag 2003tmc..book.....C       Qflg:A   Cflg:0  sdb-v1-053640.40-061333.4       0       0 
+ WISE3P4  11.172  0.023   0.024    0  mag 2010AJ....140.1868W       qual:A Var:1100  sdb-v1-053640.40-061333.4       0       0 
+ IRAC3P6  9529.0  6.771  190.58    0  uJy       2013.SEIP.dr4     Brt:1.02    Ext:0  sdb-v1-053640.40-061333.4       0       0 
+ IRAC4P5  6568.0  5.579  131.36    0  uJy       2013.SEIP.dr4     Brt:1.02    Ext:0  sdb-v1-053640.40-061333.4       0       0 
+ WISE4P6  11.054  0.021   0.028    0  mag 2010AJ....140.1868W       qual:A Var:1100  sdb-v1-053640.40-061333.4       0       0 
+ IRAC5P8  4789.0  12.79   95.78    0  uJy       2013.SEIP.dr4     Brt:0.98    Ext:0  sdb-v1-053640.40-061333.4       0       0 
+   IRAC8  4099.0  12.29   81.98    0  uJy       2013.SEIP.dr4     Brt:0.41    Ext:0  sdb-v1-053640.40-061333.4       0       0 
+  WISE12    9.42  0.069   0.045    0  mag 2010AJ....140.1868W       qual:A Var:1100  sdb-v1-053640.40-061333.4       0       0 
+  WISE22   6.354  0.092   0.057    0  mag 2010AJ....140.1868W       qual:A Var:1100  sdb-v1-053640.40-061333.4       0       0 
+  MIPS24 25980.0  134.8   519.6    0  uJy       2013.SEIP.dr4        Brt:0    Ext:0  sdb-v1-053640.40-061333.4       0       0 
+  PACS70 75.4402 80.978 2.26321    0  mJy 2017arXiv170505693M Elong:0.0000  Blend:0 HPPSC070A_J053640.4-061333       0       0 

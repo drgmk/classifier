@@ -1,0 +1,27 @@
+\ photometry/spectra for sdb-v1-054133.36-075956.1
+\
+\main_id='2MASS J05413338-0759562'
+\raj2000=85.389016
+\dej2000=-7.998911
+\sp_type='M1.5'
+\sp_bibcode='2009A&A...504..461F'
+\plx_value=None
+\plx_err=None
+\plx_bibcode=None
+\id='sdb-v1-054133.36-075956.1'
+\irsstare0='cassis/irsstare/cassis_yaaar_spcfw_18820352t.fits'
+|   Band|    Phot|    Err|    Sys| Lim|Unit|            bibcode|       Note1|  Note2|                  SourceID|private|exclude|
+|   char|  double| double| double|long|char|               char|        char|   char|                      char|   long|   long|
+|       |        |       |       |    |    |                   |            |       |                          |       |       |
+|   null|    null|   null|   null|null|null|               null|        null|   null|                      null|   null|   null|
+  IDENIS   16.853    0.08    0.01    0  mag 2005yCat.2263....0T      Ipsf:98  Iflg:0  sdb-v1-054133.36-075956.1       0       0 
+   2MR2J   13.732   0.029    0.01    0  mag 2003tmc..book.....C       Qflg:A  Cflg:0  sdb-v1-054133.36-075956.1       0       0 
+   2MR2H   12.044   0.022    0.01    0  mag 2003tmc..book.....C       Qflg:A  Cflg:0  sdb-v1-054133.36-075956.1       0       0 
+  2MR2KS    11.22   0.023    0.01    0  mag 2003tmc..book.....C       Qflg:A  Cflg:0  sdb-v1-054133.36-075956.1       0       0 
+ IRAC3P6  24560.0   20.51   491.2    0  uJy       2013.SEIP.dr4     Brt:1.02   Ext:0  sdb-v1-054133.36-075956.1       0       0 
+ IRAC4P5  22770.0    14.9   455.4    0  uJy       2013.SEIP.dr4     Brt:1.02   Ext:0  sdb-v1-054133.36-075956.1       0       0 
+ IRAC5P8  23450.0   33.75   469.0    0  uJy       2013.SEIP.dr4     Brt:1.02   Ext:0  sdb-v1-054133.36-075956.1       0       0 
+   IRAC8  23730.0   23.26   474.6    0  uJy       2013.SEIP.dr4        Brt:0   Ext:0  sdb-v1-054133.36-075956.1       0       0 
+  MIPS24 118800.0   188.4  2376.0    0  uJy       2013.SEIP.dr4     Brt:0.96   Ext:0  sdb-v1-054133.36-075956.1       0       0 
+ PACS100  234.851 28.6915 11.7426    0  mJy 2017arXiv170505693M Elong:0.8655 Blend:0 HPPSC100A_J054133.3-075956       0       0 
+ PACS160  246.114 49.1472 7.38343    0  mJy 2017arXiv170505693M Elong:0.8072 Blend:0 HPPSC160A_J054133.2-075954       0       0 

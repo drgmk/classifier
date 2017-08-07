@@ -1,0 +1,28 @@
+\ photometry/spectra for sdb-v1-053536.20-050456.0
+\
+\main_id='V* V2549 Ori'
+\raj2000=83.900819
+\dej2000=-5.08222
+\sp_type=None
+\sp_bibcode=None
+\plx_value=None
+\plx_err=None
+\plx_bibcode=None
+\id='sdb-v1-053536.20-050456.0'
+\irsstare0='cassis/irsstare/cassis_yaaar_spcfw_18826752t.fits'
+|   Band|   Phot|   Err|   Sys| Lim|Unit|            bibcode|   Note1|    Note2|                 SourceID|private|exclude|
+|   char| double|double|double|long|char|               char|    char|     char|                     char|   long|   long|
+|       |       |      |      |    |    |                   |        |         |                         |       |       |
+|   null|   null|  null|  null|null|null|               null|    null|     null|                     null|   null|   null|
+  IDENIS  16.266   0.06   0.01    0  mag 2005yCat.2263....0T  Ipsf:98 Iflg:1800 sdb-v1-053536.20-050456.0       0       1 
+   2MR2J  13.179  0.026   0.01    0  mag 2003tmc..book.....C   Qflg:A    Cflg:0 sdb-v1-053536.20-050456.0       0       0 
+   2MR2H  11.671  0.034   0.01    0  mag 2003tmc..book.....C   Qflg:A    Cflg:0 sdb-v1-053536.20-050456.0       0       0 
+  2MR2KS  10.995  0.024   0.01    0  mag 2003tmc..book.....C   Qflg:A    Cflg:0 sdb-v1-053536.20-050456.0       0       0 
+ WISE3P4  10.461  0.025  0.024    0  mag 2010AJ....140.1868W   qual:A  Var:45nn sdb-v1-053536.20-050456.0       0       0 
+ IRAC3P6 21950.0  9.515  439.0    0  uJy       2013.SEIP.dr4 Brt:1.02     Ext:0 sdb-v1-053536.20-050456.0       0       0 
+ IRAC4P5 18430.0  14.79  368.6    0  uJy       2013.SEIP.dr4 Brt:0.98     Ext:0 sdb-v1-053536.20-050456.0       0       0 
+ WISE4P6   9.886  0.022  0.028    0  mag 2010AJ....140.1868W   qual:A  Var:45nn sdb-v1-053536.20-050456.0       0       0 
+ IRAC5P8 14500.0  40.14  290.0    0  uJy       2013.SEIP.dr4 Brt:0.98     Ext:0 sdb-v1-053536.20-050456.0       0       0 
+   IRAC8 12150.0  128.8  243.0    0  uJy       2013.SEIP.dr4    Brt:0     Ext:0 sdb-v1-053536.20-050456.0       0       0 
+  WISE12   8.081  0.126  0.045    0  mag 2010AJ....140.1868W   qual:B  Var:45nn sdb-v1-053536.20-050456.0       0       1 
+  WISE22    5.34  0.199  0.057    0  mag 2010AJ....140.1868W   qual:B  Var:45nn sdb-v1-053536.20-050456.0       0       1 

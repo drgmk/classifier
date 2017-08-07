@@ -1,0 +1,25 @@
+\ photometry/spectra for sdb-v1-053452.76-052754.6
+\
+\main_id='V* V551 Ori'
+\raj2000=83.7198292
+\dej2000=-5.4651611
+\sp_type='M0.5'
+\sp_bibcode='2013AJ....146...85H'
+\plx_value=None
+\plx_err=None
+\plx_bibcode=None
+\id='sdb-v1-053452.76-052754.6'
+\irsstare0='cassis/irsstare/cassis_yaaar_spcfw_18843648t.fits'
+|   Band|   Phot|   Err|   Sys| Lim|Unit|            bibcode|   Note1|    Note2|                 SourceID|private|exclude|
+|   char| double|double|double|long|char|               char|    char|     char|                     char|   long|   long|
+|       |       |      |      |    |    |                   |        |         |                         |       |       |
+|   null|   null|  null|  null|null|null|               null|    null|     null|                     null|   null|   null|
+  IDENIS   13.48   0.03   0.01    0  mag 2005yCat.2263....0T  Ipsf:94 Iflg:1800 sdb-v1-053452.76-052754.6       0       1 
+   2MR2J  11.191  0.027   0.01    0  mag 2003tmc..book.....C   Qflg:E    Cflg:0 sdb-v1-053452.76-052754.6       0       1 
+   2MR2H  10.394  0.048   0.01    0  mag 2003tmc..book.....C   Qflg:E    Cflg:0 sdb-v1-053452.76-052754.6       0       1 
+  2MR2KS   9.867  0.033   0.01    0  mag 2003tmc..book.....C   Qflg:E    Cflg:0 sdb-v1-053452.76-052754.6       0       1 
+ WISE3P4   9.131  0.026  0.024    0  mag 2010AJ....140.1868W   qual:A  Var:76nn sdb-v1-053452.76-052754.6       0       0 
+ IRAC4P5 43240.0  15.22  864.8    0  uJy       2013.SEIP.dr4 Brt:0.95     Ext:0 sdb-v1-053452.76-052754.6       0       0 
+ WISE4P6   8.734  0.028  0.028    0  mag 2010AJ....140.1868W   qual:A  Var:76nn sdb-v1-053452.76-052754.6       0       0 
+  WISE12   7.792  0.181  0.045    0  mag 2010AJ....140.1868W   qual:B  Var:76nn sdb-v1-053452.76-052754.6       0       1 
+  WISE22   4.469  0.487  0.057    0  mag 2010AJ....140.1868W   qual:C  Var:76nn sdb-v1-053452.76-052754.6       0       1 

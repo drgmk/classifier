@@ -1,0 +1,39 @@
+\ photometry/spectra for sdb-v1-124851.76-682530.6
+\
+\main_id='HD 111232'
+\raj2000=192.2156382
+\dej2000=-68.4251519
+\sp_type='G8VFe-1.0'
+\sp_bibcode='2006AJ....132..161G'
+\plx_value=34.939998626708984
+\plx_err=0.2199999988079071
+\plx_bibcode='2016yCat.1337....0G'
+\id='sdb-v1-124851.76-682530.6'
+\irsstare0='cassis/irsstare/cassis_yaaar_spcfw_22293248t.fits'
+|   Band|      Phot|        Err|        Sys| Lim|Unit|            bibcode|     Note1|    Note2|                 SourceID|private|exclude|
+|   char|    double|     double|     double|long|char|               char|      char|     char|                     char|   long|   long|
+|       |          |           |           |    |    |                   |          |         |                         |       |       |
+|   null|      null|       null|       null|null|null|               null|      null|     null|                     null|   null|   null|
+ STROMC1      0.309       0.052       0.005    0  mag 2015A&A...580A..23P Vmag:7.599     beta:            TYC 9241-249-1       0       0 
+      BT      8.465       0.015       0.006    0  mag 2000A&A...355L..27H   Prox:999 HIP:62534 sdb-v1-124851.76-682530.6       0       0 
+  GAPASS      10.01         0.0        0.01    0  mag 2016yCat.2336....0H     nobs:4   mobs:20 sdb-v1-124851.76-682530.6       0       1 
+ STROMM1      0.197       0.021       0.005    0  mag 2015A&A...580A..23P Vmag:7.599     beta:            TYC 9241-249-1       0       0 
+   BJ_VJ        0.7         0.0        0.02    0  mag 2006yCat.2168....0M      Comp:   n_B_V:>                 HD 111232       0       0 
+   BS_YS      0.437       0.001       0.005    0  mag 2015A&A...580A..23P Vmag:7.599     beta:            TYC 9241-249-1       0       0 
+      VT      7.686       0.011       0.006    0  mag 2000A&A...355L..27H   Prox:999 HIP:62534 sdb-v1-124851.76-682530.6       0       0 
+      HP     7.7312   0.0130553       0.005    0  mag 1997HIP...C......0E   VarType:    Mult:G                 HIP 62534       0       0 
+      VJ       7.59         0.0        0.02    0  mag 2006yCat.2168....0M      Comp:  n_Vmag:>                 HD 111232       0       0 
+   2MR1J      6.328       0.021        0.01    0  mag 2003tmc..book.....C     Qflg:A    Cflg:0 sdb-v1-124851.76-682530.6       0       0 
+   2MR1H      5.975       0.023        0.01    0  mag 2003tmc..book.....C     Qflg:A    Cflg:0 sdb-v1-124851.76-682530.6       0       0 
+  2MR1KS      5.898       0.033        0.01    0  mag 2003tmc..book.....C     Qflg:A    Cflg:0 sdb-v1-124851.76-682530.6       0       0 
+ WISE3P4      5.848       0.098       0.024    0  mag 2010AJ....140.1868W     qual:A  Var:2100 sdb-v1-124851.76-682530.6       0       0 
+ IRAC3P6  1.289e+06       70.77     25780.0    0  uJy       2013.SEIP.dr4   Brt:1.05     Ext:0 sdb-v1-124851.76-682530.6       0       0 
+ IRAC4P5   864600.0       62.82     17292.0    0  uJy       2013.SEIP.dr4   Brt:0.98     Ext:0 sdb-v1-124851.76-682530.6       0       0 
+ WISE4P6      5.797       0.039       0.028    0  mag 2010AJ....140.1868W     qual:A  Var:2100 sdb-v1-124851.76-682530.6       0       0 
+ IRAC5P8   485800.0       104.8      9716.0    0  uJy       2013.SEIP.dr4   Brt:1.05     Ext:0 sdb-v1-124851.76-682530.6       0       0 
+  AKARI9     0.2848     0.00663    0.004272    0   Jy 2010A&A...514A...1I     ext?:0  N-near:0 sdb-v1-124851.76-682530.6       0       0 
+  WISE12      5.867       0.016       0.045    0  mag 2010AJ....140.1868W     qual:A  Var:2100 sdb-v1-124851.76-682530.6       0       0 
+  WISE22      5.847       0.039       0.057    0  mag 2010AJ....140.1868W     qual:A  Var:2100 sdb-v1-124851.76-682530.6       0       0 
+  MIPS70       -0.7         6.8      -0.028    0  mJy 2009ApJ...705.1226B      Star:     Note:                 HD 111232       0       0 
+ PACS100 0.00225348 0.000919145 5.68104e-05    0   Jy             HSA_GMK 1342234419  Phot:PSF                 HD 111232       0       0 
+ PACS160  0.0078895  0.00288147 0.000326012    0   Jy             HSA_GMK 1342234419  Phot:PSF                 HD 111232       0       0 

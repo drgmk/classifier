@@ -1,0 +1,25 @@
+\ photometry/spectra for sdb-v1-054310.74-083355.3
+\
+\main_id='[MGM2012] 262'
+\raj2000=85.79475
+\dej2000=-8.565349
+\sp_type='M'
+\sp_bibcode='2013ApJ...769..149K'
+\plx_value=None
+\plx_err=None
+\plx_bibcode=None
+\id='sdb-v1-054310.74-083355.3'
+\irsstare0='cassis/irsstare/cassis_yaaar_spcfw_18775552t.fits'
+|   Band|   Phot|   Err|   Sys| Lim|Unit|            bibcode|   Note1|   Note2|                 SourceID|private|exclude|
+|   char| double|double|double|long|char|               char|    char|    char|                     char|   long|   long|
+|       |       |      |      |    |    |                   |        |        |                         |       |       |
+|   null|   null|  null|  null|null|null|               null|    null|    null|                     null|   null|   null|
+ WISE3P4  11.794  0.024  0.024    0  mag 2010AJ....140.1868W   qual:A Var:0000 sdb-v1-054310.74-083355.3       0       0 
+ IRAC3P6  6579.0  7.244 131.58    0  uJy       2013.SEIP.dr4 Brt:1.02    Ext:0 sdb-v1-054310.74-083355.3       0       0 
+ IRAC4P5  5472.0  6.684 109.44    0  uJy       2013.SEIP.dr4 Brt:0.92    Ext:0 sdb-v1-054310.74-083355.3       0       0 
+ WISE4P6   11.32  0.021  0.028    0  mag 2010AJ....140.1868W   qual:A Var:0000 sdb-v1-054310.74-083355.3       0       0 
+ IRAC5P8  4904.0  22.36  98.08    0  uJy       2013.SEIP.dr4    Brt:0    Ext:0 sdb-v1-054310.74-083355.3       0       0 
+   IRAC8  3524.0  11.27  70.48    0  uJy       2013.SEIP.dr4    Brt:0    Ext:0 sdb-v1-054310.74-083355.3       0       0 
+  WISE12   9.901  0.059  0.045    0  mag 2010AJ....140.1868W   qual:A Var:0000 sdb-v1-054310.74-083355.3       0       0 
+  WISE22   6.103  0.049  0.057    0  mag 2010AJ....140.1868W   qual:A Var:0000 sdb-v1-054310.74-083355.3       0       0 
+  MIPS24 33950.0  127.8  679.0    0  uJy       2013.SEIP.dr4 Brt:1.11    Ext:0 sdb-v1-054310.74-083355.3       0       0 

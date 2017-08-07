@@ -1,0 +1,41 @@
+\ photometry/spectra for sdb-v1-053835.19-075019.8
+\
+\main_id='Haro 7-1'
+\raj2000=84.646645
+\dej2000=-7.838834
+\sp_type='K4.2'
+\sp_bibcode='2012ApJ...752...59H'
+\plx_value=None
+\plx_err=None
+\plx_bibcode=None
+\id='sdb-v1-053835.19-075019.8'
+\irsstare0='cassis/irsstare/cassis_yaaar_spcfw_18817536t.fits'
+|   Band|    Phot|    Err|    Sys| Lim|Unit|            bibcode|       Note1|   Note2|                  SourceID|private|exclude|
+|   char|  double| double| double|long|char|               char|        char|    char|                      char|   long|   long|
+|       |        |       |       |    |    |                   |            |        |                          |       |       |
+|   null|    null|   null|   null|null|null|               null|        null|    null|                      null|   null|   null|
+  BAPASS   14.505   0.036    0.01    0  mag 2016yCat.2336....0H       nobs:5  mobs:29  sdb-v1-053835.19-075019.8       0       0 
+  GAPASS   13.906   0.044    0.01    0  mag 2016yCat.2336....0H       nobs:5  mobs:29  sdb-v1-053835.19-075019.8       0       0 
+  VAPASS   13.321   0.042    0.01    0  mag 2016yCat.2336....0H       nobs:5  mobs:29  sdb-v1-053835.19-075019.8       0       0 
+  RAPASS   12.803    0.04    0.01    0  mag 2016yCat.2336....0H       nobs:5  mobs:29  sdb-v1-053835.19-075019.8       0       0 
+  IAPASS   12.325   0.034    0.01    0  mag 2016yCat.2336....0H       nobs:5  mobs:29  sdb-v1-053835.19-075019.8       0       0 
+  IDENIS    11.72    0.03    0.01    0  mag 2005yCat.2263....0T      Ipsf:99   Iflg:0  sdb-v1-053835.19-075019.8       0       0 
+   2MR2J   10.695   0.023    0.01    0  mag 2003tmc..book.....C       Qflg:A   Cflg:0  sdb-v1-053835.19-075019.8       0       0 
+   2MR2H    9.967   0.023    0.01    0  mag 2003tmc..book.....C       Qflg:A   Cflg:0  sdb-v1-053835.19-075019.8       0       0 
+  2MR2KS    9.711    0.02    0.01    0  mag 2003tmc..book.....C       Qflg:A   Cflg:0  sdb-v1-053835.19-075019.8       0       0 
+ WISE3P4    9.551   0.023   0.024    0  mag 2010AJ....140.1868W       qual:A Var:1100  sdb-v1-053835.19-075019.8       0       0 
+ IRAC3P6  37380.0   30.86   747.6    0  uJy       2013.SEIP.dr4     Brt:1.02    Ext:0  sdb-v1-053835.19-075019.8       0       0 
+ IRAC4P5  34830.0   26.65   696.6    0  uJy       2013.SEIP.dr4     Brt:0.98    Ext:0  sdb-v1-053835.19-075019.8       0       0 
+ WISE4P6    9.314   0.021   0.028    0  mag 2010AJ....140.1868W       qual:A Var:1100  sdb-v1-053835.19-075019.8       0       0 
+ IRAC5P8  30720.0   53.68   614.4    0  uJy       2013.SEIP.dr4     Brt:0.98    Ext:0  sdb-v1-053835.19-075019.8       0       0 
+   IRAC8  46010.0   31.37   920.2    0  uJy       2013.SEIP.dr4        Brt:0    Ext:0  sdb-v1-053835.19-075019.8       0       0 
+  IRAS12    0.274     0.0     0.0    1   Jy 1988IRASP.C......0J       Qual:1   Conf:0            IRAS 05362-0751       0       0 
+  WISE12     6.43   0.015   0.045    0  mag 2010AJ....140.1868W       qual:A Var:1100  sdb-v1-053835.19-075019.8       0       0 
+  WISE22    4.032   0.023   0.057    0  mag 2010AJ....140.1868W       qual:A Var:1100  sdb-v1-053835.19-075019.8       0       0 
+  IRAS25    0.311 0.03732     0.0    0   Jy 1988IRASP.C......0J       Qual:3   Conf:0            IRAS 05362-0751       0       0 
+  MIPS24 186600.0   210.0  3732.0    0  uJy       2013.SEIP.dr4     Brt:0.96    Ext:0  sdb-v1-053835.19-075019.8       0       0 
+  IRAS60     5.24     0.0     0.0    1   Jy 1988IRASP.C......0J       Qual:1   Conf:0            IRAS 05362-0751       0       0 
+  PACS70  914.066 14.6922  27.422    0  mJy 2017arXiv170505693M Elong:0.0000  Blend:0 HPPSC070A_J053835.1-075019       0       0 
+ IRAS100     50.1     0.0     0.0    1   Jy 1988IRASP.C......0J       Qual:1   Conf:0            IRAS 05362-0751       0       0 
+ PACS100  1198.02  27.025 59.9012    0  mJy 2017arXiv170505693M Elong:0.8642  Blend:0 HPPSC100A_J053835.1-075019       0       0 
+ PACS160  1457.17 63.5197 43.7152    0  mJy 2017arXiv170505693M Elong:0.8131  Blend:0 HPPSC160A_J053835.2-075018       0       0 

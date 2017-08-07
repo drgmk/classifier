@@ -1,0 +1,36 @@
+\ photometry/spectra for sdb-v1-131219.74+173101.7
+\
+\main_id='HD 114762'
+\raj2000=198.082264
+\dej2000=17.517125
+\sp_type='F9VgF8mF4+M6?V'
+\sp_bibcode='2013yCat....1.2023S'
+\plx_value=25.8799991607666
+\plx_err=0.46000000834465027
+\plx_bibcode='2016yCat.1337....0G'
+\id='sdb-v1-131219.74+173101.7'
+\irsstare0='cassis/irsstare/cassis_yaaar_spcfw_22293760t.fits'
+|   Band|      Phot|        Err|        Sys| Lim|Unit|            bibcode|     Note1|     Note2|                 SourceID|private|exclude|
+|   char|    double|     double|     double|long|char|               char|      char|      char|                     char|   long|   long|
+|       |          |           |           |    |    |                   |          |          |                         |       |       |
+|   null|      null|       null|       null|null|null|               null|      null|      null|                     null|   null|   null|
+   UJ_BJ     -0.068        0.01       0.028    0  mag 2006yCat.2168....0M      Comp:    n_U_B:>                 HD 114762       0       0 
+ STROMC1      0.297       0.007       0.005    0  mag 2015A&A...580A..23P Vmag:7.306 beta:2.591            TYC 1454-315-1       0       0 
+      BT      7.924       0.018       0.006    0  mag 2000A&A...355L..27H   Prox:999  HIP:64426 sdb-v1-131219.74+173101.7       0       0 
+ STROMM1      0.128       0.009       0.005    0  mag 2015A&A...580A..23P Vmag:7.306 beta:2.591            TYC 1454-315-1       0       0 
+   BJ_VJ      0.531       0.007        0.02    0  mag 2006yCat.2168....0M      Comp:    n_B_V:>                 HD 114762       0       0 
+   BS_YS      0.363       0.004       0.005    0  mag 2015A&A...580A..23P Vmag:7.306 beta:2.591            TYC 1454-315-1       0       0 
+      VT      7.361       0.013       0.006    0  mag 2000A&A...355L..27H   Prox:999  HIP:64426 sdb-v1-131219.74+173101.7       0       0 
+      HP      7.413  0.00807527       0.005    0  mag 1997HIP...C......0E  VarType:C      Mult:                 HIP 64426       0       0 
+      VJ      7.306       0.013        0.02    0  mag 2006yCat.2168....0M      Comp:   n_Vmag:>                 HD 114762       0       0 
+   2MR1J      6.145       0.026        0.01    0  mag 2003tmc..book.....C     Qflg:A     Cflg:0 sdb-v1-131219.74+173101.7       0       0 
+   2MR1H      5.888       0.017        0.01    0  mag 2003tmc..book.....C     Qflg:A     Cflg:0 sdb-v1-131219.74+173101.7       0       0 
+  2MR1KS      5.813       0.024        0.01    0  mag 2003tmc..book.....C     Qflg:A     Cflg:0 sdb-v1-131219.74+173101.7       0       0 
+ WISE3P4      5.886        0.11       0.024    0  mag 2010AJ....140.1868W     qual:B   Var:3100 sdb-v1-131219.74+173101.7       0       0 
+ WISE4P6      5.724       0.048       0.028    0  mag 2010AJ....140.1868W     qual:A   Var:3100 sdb-v1-131219.74+173101.7       0       0 
+  AKARI9     0.2838     0.00701    0.004257    0   Jy 2010A&A...514A...1I     ext?:0   N-near:0 sdb-v1-131219.74+173101.7       0       0 
+  WISE12      5.841       0.015       0.045    0  mag 2010AJ....140.1868W     qual:A   Var:3100 sdb-v1-131219.74+173101.7       0       0 
+  WISE22       5.79       0.041       0.057    0  mag 2010AJ....140.1868W     qual:A   Var:3100 sdb-v1-131219.74+173101.7       0       0 
+  MIPS70       -1.3         5.6      -0.052    0  mJy 2009ApJ...705.1226B      Star:     Note:c                 HD 114762       0       0 
+ PACS100 0.00213465 0.000776157 5.38146e-05    0   Jy             HSA_GMK 1342223192   Phot:PSF                 HD 114762       0       0 
+ PACS160 0.00283657  0.00263302 0.000117214    0   Jy             HSA_GMK 1342223192   Phot:PSF                 HD 114762       0       0 

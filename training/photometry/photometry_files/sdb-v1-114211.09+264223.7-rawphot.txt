@@ -1,0 +1,40 @@
+\ photometry/spectra for sdb-v1-114211.09+264223.7
+\
+\main_id='Ross 905'
+\raj2000=175.546226
+\dej2000=26.70657
+\sp_type='M2.5V'
+\sp_bibcode='2015A&A...577A.128A'
+\plx_value=102.58000183105469
+\plx_err=0.3100000023841858
+\plx_bibcode='2016yCat.1337....0G'
+\id='sdb-v1-114211.09+264223.7'
+\irsstare0='cassis/irsstare/cassis_yaaar_spcfw_12582144t.fits'
+|   Band|      Phot|        Err|        Sys| Lim|Unit|            bibcode|     Note1|         Note2|                 SourceID|private|exclude|
+|   char|    double|     double|     double|long|char|               char|      char|          char|                     char|   long|   long|
+|       |          |           |           |    |    |                   |          |              |                         |       |       |
+|   null|      null|       null|       null|null|null|               null|      null|          null|                     null|   null|   null|
+  GALNUV     20.643       0.202        0.01    0  mag 2011Ap&SS.335..161B     Nafl:0         Nexf:0 sdb-v1-114211.09+264223.7       0       0 
+      BT     12.522        0.28       0.006    0  mag 2000A&A...355L..27H   Prox:999      HIP:57087 sdb-v1-114211.09+264223.7       0       0 
+  BAPASS     12.179       0.011        0.01    0  mag 2016yCat.2336....0H     nobs:2        mobs:10 sdb-v1-114211.09+264223.7       0       0 
+  GAPASS     11.373        0.02        0.01    0  mag 2016yCat.2336....0H     nobs:2        mobs:10 sdb-v1-114211.09+264223.7       0       0 
+      VT     10.759       0.084       0.006    0  mag 2000A&A...355L..27H   Prox:999      HIP:57087 sdb-v1-114211.09+264223.7       0       0 
+      HP    10.6841   0.0291446       0.005    0  mag 1997HIP...C......0E   VarType:          Mult:                 HIP 57087       0       0 
+  VAPASS     10.613       0.009        0.01    0  mag 2016yCat.2336....0H     nobs:2        mobs:10 sdb-v1-114211.09+264223.7       0       0 
+  RAPASS     10.101        0.01        0.01    0  mag 2016yCat.2336....0H     nobs:2        mobs:10 sdb-v1-114211.09+264223.7       0       0 
+   2MR1J        6.9       0.024        0.01    0  mag 2003tmc..book.....C     Qflg:A         Cflg:0 sdb-v1-114211.09+264223.7       0       0 
+   2MR1H      6.319       0.023        0.01    0  mag 2003tmc..book.....C     Qflg:A         Cflg:0 sdb-v1-114211.09+264223.7       0       0 
+  2MR1KS      6.073       0.016        0.01    0  mag 2003tmc..book.....C     Qflg:A         Cflg:0 sdb-v1-114211.09+264223.7       0       0 
+ WISE3P4      6.017        0.11       0.024    0  mag 2010AJ....140.1868W     qual:B       Var:2200 sdb-v1-114211.09+264223.7       0       0 
+ WISE4P6       5.69       0.048       0.028    0  mag 2010AJ....140.1868W     qual:A       Var:2200 sdb-v1-114211.09+264223.7       0       0 
+  AKARI9     0.2942     0.00691    0.004413    0   Jy 2010A&A...514A...1I     ext?:0       N-near:0 sdb-v1-114211.09+264223.7       0       0 
+  IRAS12       0.22      0.0418         0.0    0   Jy 1990IRASF.C......0M     Qual:3         Conf:0          IRAS F11395+2659       0       0 
+  WISE12       5.76       0.014       0.045    0  mag 2010AJ....140.1868W     qual:A       Var:2200 sdb-v1-114211.09+264223.7       0       0 
+  WISE22       5.58       0.039       0.057    0  mag 2010AJ....140.1868W     qual:A       Var:2200 sdb-v1-114211.09+264223.7       0       0 
+  IRAS25      0.101      0.0303         0.0    1   Jy 1990IRASF.C......0M     Qual:1         Conf:0          IRAS F11395+2659       0       0 
+  IRAS60      0.143      0.0429         0.0    1   Jy 1990IRASF.C......0M     Qual:1         Conf:0          IRAS F11395+2659       0       0 
+  MIPS70        4.8         2.2       0.192    0  mJy 2009ApJ...705.1226B      Star:          Note:                    GJ 436       0       0 
+  MIPS70        4.0         2.2        0.16    0  mJy 2006ApJ...652.1674B     Flags: Altname:GL 436                    GJ 436       0       1 
+ IRAS100      0.324     0.08748         0.0    1   Jy 1990IRASF.C......0M     Qual:1         Conf:0          IRAS F11395+2659       0       0 
+ PACS100 0.00254314 0.000818832 6.41127e-05    0   Jy             HSA_GMK 1342247389       Phot:PSF                  Ross 905       0       0 
+ PACS160 0.00342553  0.00264954 0.000141551    0   Jy             HSA_GMK 1342247389       Phot:PSF                  Ross 905       0       0 

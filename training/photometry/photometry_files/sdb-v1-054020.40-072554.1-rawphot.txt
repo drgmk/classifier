@@ -1,0 +1,32 @@
+\ photometry/spectra for sdb-v1-054020.40-072554.1
+\
+\main_id='Haro 4-476'
+\raj2000=85.085013
+\dej2000=-7.431686
+\sp_type='M1.3'
+\sp_bibcode='2012ApJ...752...59H'
+\plx_value=None
+\plx_err=None
+\plx_bibcode=None
+\id='sdb-v1-054020.40-072554.1'
+\irsstare0='cassis/irsstare/cassis_yaaar_spcfw_18779392t.fits'
+|   Band|   Phot|    Err|    Sys| Lim|Unit|            bibcode|       Note1|      Note2|                  SourceID|private|exclude|
+|   char| double| double| double|long|char|               char|        char|       char|                      char|   long|   long|
+|       |       |       |       |    |    |                   |            |           |                          |       |       |
+|   null|   null|   null|   null|null|null|               null|        null|       null|                      null|   null|   null|
+  IDENIS  14.439    0.03    0.01    0  mag 2005yCat.2263....0T      Ipsf:99      Iflg:0  sdb-v1-054020.40-072554.1       0       0 
+   2MR2J  12.671   0.022    0.01    0  mag 2003tmc..book.....C       Qflg:A      Cflg:0  sdb-v1-054020.40-072554.1       0       0 
+   2MR2H   11.85   0.027    0.01    0  mag 2003tmc..book.....C       Qflg:A      Cflg:0  sdb-v1-054020.40-072554.1       0       0 
+  2MR2KS  11.591   0.026    0.01    0  mag 2003tmc..book.....C       Qflg:A      Cflg:0  sdb-v1-054020.40-072554.1       0       0 
+ WISE3P4  11.432   0.023   0.024    0  mag 2010AJ....140.1868W       qual:A    Var:013n  sdb-v1-054020.40-072554.1       0       0 
+ IRAC3P6  7504.0   9.013  150.08    0  uJy       2013.SEIP.dr4     Brt:0.98       Ext:0  sdb-v1-054020.40-072554.1       0       0 
+ IRAC4P5  4978.0     8.8   99.56    0  uJy       2013.SEIP.dr4     Brt:0.98       Ext:0  sdb-v1-054020.40-072554.1       0       0 
+ WISE4P6  11.368   0.023   0.028    0  mag 2010AJ....140.1868W       qual:A    Var:013n  sdb-v1-054020.40-072554.1       0       0 
+ IRAC5P8  3560.0   20.33    71.2    0  uJy       2013.SEIP.dr4     Brt:1.02       Ext:0  sdb-v1-054020.40-072554.1       0       0 
+   IRAC8  2518.0   14.27   50.36    0  uJy       2013.SEIP.dr4     Brt:0.98       Ext:0  sdb-v1-054020.40-072554.1       0       0 
+  WISE12   9.258    0.06   0.045    0  mag 2010AJ....140.1868W       qual:A    Var:013n  sdb-v1-054020.40-072554.1       0       0 
+  WISE22   5.518   0.044   0.057    0  mag 2010AJ....140.1868W       qual:A    Var:013n  sdb-v1-054020.40-072554.1       0       1 
+  MIPS24 29860.0   111.3   597.2    0  uJy       2013.SEIP.dr4        Brt:0    Ext:0.96  sdb-v1-054020.40-072554.1       0       0 
+  PACS70   95.51 21.1357  2.8653    0  mJy 2017arXiv170505693M Elong:0.0000     Blend:0 HPPSC070A_J054020.4-072554       0       0 
+ PACS100 136.437 20.2155 6.82184    0  mJy 2017arXiv170505693M Elong:0.8435     Blend:0 HPPSC100A_J054020.4-072555       0       0 
+ PACS160 351.293 73.0147 17.5646    0  mJy 2017arXiv170505693M Elong:0.0000 FWHMx:37.35 HPESL160A_J054020.4-072553       0       0 

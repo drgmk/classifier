@@ -1,0 +1,22 @@
+\ photometry/spectra for sdb-v1-054230.81-080905.6
+\
+\main_id='2MASS J05423081-0809055'
+\raj2000=85.628389
+\dej2000=-8.151546
+\sp_type='M2.8'
+\sp_bibcode='2012ApJ...752...59H'
+\plx_value=None
+\plx_err=None
+\plx_bibcode=None
+\id='sdb-v1-054230.81-080905.6'
+\irsstare1='cassis/irsstare/cassis_yaaar_spcfw_18822912t.fits'
+|  Band|   Phot|    Err|    Sys| Lim|Unit|            bibcode|       Note1|   Note2|                  SourceID|private|exclude|
+|  char| double| double| double|long|char|               char|        char|    char|                      char|   long|   long|
+|      |       |       |       |    |    |                   |            |        |                          |       |       |
+|  null|   null|   null|   null|null|null|               null|        null|    null|                      null|   null|   null|
+ IDENIS  15.571    0.06    0.01    0  mag 2005yCat.2263....0T      Ipsf:87   Iflg:0  sdb-v1-054230.81-080905.6       0       1 
+  2MR2J  13.131   0.055    0.01    0  mag 2003tmc..book.....C       Qflg:E   Cflg:c  sdb-v1-054230.81-080905.6       0       1 
+  2MR2H  11.888   0.053    0.01    0  mag 2003tmc..book.....C       Qflg:E   Cflg:0  sdb-v1-054230.81-080905.6       0       1 
+ 2MR2KS  11.289   0.037    0.01    0  mag 2003tmc..book.....C       Qflg:E   Cflg:0  sdb-v1-054230.81-080905.6       0       1 
+ MIPS24 64710.0   160.4  1294.2    0  uJy       2013.SEIP.dr4        Brt:0 Ext:0.85  sdb-v1-054230.81-080905.6       0       0 
+ PACS70 249.042 44.7883 7.47127    0  mJy 2017arXiv170505693M Elong:0.0000  Blend:0 HPPSC070A_J054230.7-080907       0       0 

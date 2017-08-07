@@ -1,0 +1,34 @@
+\ photometry/spectra for sdb-v1-053533.69-044623.8
+\
+\main_id='V* V2528 Ori'
+\raj2000=83.890386
+\dej2000=-4.773273
+\sp_type='M0.5'
+\sp_bibcode='2013ApJ...769..149K'
+\plx_value=None
+\plx_err=None
+\plx_bibcode=None
+\id='sdb-v1-053533.69-044623.8'
+\irsstare0='cassis/irsstare/cassis_yaaar_spcfw_18775040t.fits'
+|   Band|   Phot|   Err|   Sys| Lim|Unit|            bibcode|   Note1|   Note2|                 SourceID|private|exclude|
+|   char| double|double|double|long|char|               char|    char|    char|                     char|   long|   long|
+|       |       |      |      |    |    |                   |        |        |                         |       |       |
+|   null|   null|  null|  null|null|null|               null|    null|    null|                     null|   null|   null|
+  BAPASS  16.447    0.0   0.01    0  mag 2016yCat.2336....0H   nobs:3   mobs:7 sdb-v1-053533.69-044623.8       0       1 
+  GAPASS  16.076    0.0   0.01    0  mag 2016yCat.2336....0H   nobs:3   mobs:7 sdb-v1-053533.69-044623.8       0       1 
+  VAPASS  15.576    0.0   0.01    0  mag 2016yCat.2336....0H   nobs:3   mobs:7 sdb-v1-053533.69-044623.8       0       1 
+  RAPASS  15.134    0.0   0.01    0  mag 2016yCat.2336....0H   nobs:3   mobs:7 sdb-v1-053533.69-044623.8       0       1 
+  IAPASS  14.226   0.03   0.01    0  mag 2016yCat.2336....0H   nobs:3   mobs:7 sdb-v1-053533.69-044623.8       0       0 
+  IDENIS  13.423   0.03   0.01    0  mag 2005yCat.2263....0T  Ipsf:99 Iflg:800 sdb-v1-053533.69-044623.8       0       1 
+   2MR2J   12.08  0.023   0.01    0  mag 2003tmc..book.....C   Qflg:A   Cflg:0 sdb-v1-053533.69-044623.8       0       0 
+   2MR2H  11.193  0.032   0.01    0  mag 2003tmc..book.....C   Qflg:A   Cflg:0 sdb-v1-053533.69-044623.8       0       0 
+  2MR2KS  10.839  0.021   0.01    0  mag 2003tmc..book.....C   Qflg:A   Cflg:0 sdb-v1-053533.69-044623.8       0       0 
+ WISE3P4  10.577  0.024  0.024    0  mag 2010AJ....140.1868W   qual:A Var:22n5 sdb-v1-053533.69-044623.8       0       0 
+ IRAC3P6 19190.0  15.96  383.8    0  uJy       2013.SEIP.dr4 Brt:1.02    Ext:0 sdb-v1-053533.69-044623.8       0       0 
+ IRAC4P5 13400.0  14.27  268.0    0  uJy       2013.SEIP.dr4 Brt:1.02    Ext:0 sdb-v1-053533.69-044623.8       0       0 
+ WISE4P6  10.381  0.021  0.028    0  mag 2010AJ....140.1868W   qual:A Var:22n5 sdb-v1-053533.69-044623.8       0       0 
+ IRAC5P8 10130.0  21.73  202.6    0  uJy       2013.SEIP.dr4 Brt:0.98    Ext:0 sdb-v1-053533.69-044623.8       0       0 
+   IRAC8  9316.0  18.93 186.32    0  uJy       2013.SEIP.dr4    Brt:0    Ext:0 sdb-v1-053533.69-044623.8       0       0 
+  WISE12   8.039  0.043  0.045    0  mag 2010AJ....140.1868W   qual:A Var:22n5 sdb-v1-053533.69-044623.8       0       1 
+  WISE22   5.213  0.074  0.057    0  mag 2010AJ....140.1868W   qual:A Var:22n5 sdb-v1-053533.69-044623.8       0       0 
+  MIPS24 53550.0  152.8 1071.0    0  uJy       2013.SEIP.dr4    Brt:0 Ext:0.96 sdb-v1-053533.69-044623.8       0       0 

@@ -1,0 +1,39 @@
+\ photometry/spectra for sdb-v1-200043.71+224239.1
+\
+\main_id='HD 189733'
+\raj2000=300.182138
+\dej2000=22.710853
+\sp_type='K0V+M4V'
+\sp_bibcode='2014A&A...565L...1P'
+\plx_value=50.400001525878906
+\plx_err=0.2199999988079071
+\plx_bibcode='2016yCat.1337....0G'
+\id='sdb-v1-200043.71+224239.1'
+\irsstare0='cassis/irsstare/cassis_yaaar_spcfw_28476160t.fits'
+\irsstare1='cassis/irsstare/cassis_yaaar_spcfw_28475648t.fits'
+\irsstare2='cassis/irsstare/cassis_yaaar_spcfw_28475392t.fits'
+\irsstare3='cassis/irsstare/cassis_yaaar_spcfw_28474880t.fits'
+|   Band|      Phot|       Err|        Sys| Lim|Unit|            bibcode|     Note1|    Note2|                 SourceID|private|exclude|
+|   char|    double|    double|     double|long|char|               char|      char|     char|                     char|   long|   long|
+|       |          |          |           |    |    |                   |          |         |                         |       |       |
+|   null|      null|      null|       null|null|null|               null|      null|     null|                     null|   null|   null|
+ STROMC1      0.271      0.001       0.005    0  mag 2015A&A...580A..23P Vmag:7.665     beta:            TYC 2141-972-1       0       0 
+      BT      8.847      0.016       0.006    0  mag 2000A&A...355L..27H   Prox:841 HIP:98505 sdb-v1-200043.71+224239.1       0       0 
+  GAPASS      8.223        0.0        0.01    0  mag 2016yCat.2336....0H     nobs:2    mobs:5 sdb-v1-200043.71+224239.1       0       1 
+ STROMM1      0.441      0.001       0.005    0  mag 2015A&A...580A..23P Vmag:7.665     beta:            TYC 2141-972-1       0       0 
+   BS_YS      0.527      0.008       0.005    0  mag 2015A&A...580A..23P Vmag:7.665     beta:            TYC 2141-972-1       0       0 
+      VT      7.779       0.01       0.006    0  mag 2000A&A...355L..27H   Prox:841 HIP:98505 sdb-v1-200043.71+224239.1       0       0 
+      HP     7.8274  0.0140602       0.005    0  mag 1997HIP...C......0E  VarType:M     Mult:                 HIP 98505       0       0 
+  RAPASS      7.428        0.0        0.01    0  mag 2016yCat.2336....0H     nobs:2    mobs:5 sdb-v1-200043.71+224239.1       0       1 
+  IAPASS      7.102        0.0        0.01    0  mag 2016yCat.2336....0H     nobs:2    mobs:5 sdb-v1-200043.71+224239.1       0       1 
+   2MR1J      6.073      0.032        0.01    0  mag 2003tmc..book.....C     Qflg:A    Cflg:0 sdb-v1-200043.71+224239.1       0       0 
+   2MR1H      5.587      0.031        0.01    0  mag 2003tmc..book.....C     Qflg:A    Cflg:0 sdb-v1-200043.71+224239.1       0       0 
+  2MR1KS      5.541      0.021        0.01    0  mag 2003tmc..book.....C     Qflg:A    Cflg:0 sdb-v1-200043.71+224239.1       0       0 
+ WISE3P4      5.289      0.154       0.024    0  mag 2010AJ....140.1868W     qual:B  Var:2420 sdb-v1-200043.71+224239.1       0       0 
+ WISE4P6      5.342       0.05       0.028    0  mag 2010AJ....140.1868W     qual:A  Var:2420 sdb-v1-200043.71+224239.1       0       0 
+  AKARI9      0.387    0.00951    0.005805    0   Jy 2010A&A...514A...1I     ext?:0  N-near:0 sdb-v1-200043.71+224239.1       0       0 
+  WISE12      5.459      0.013       0.045    0  mag 2010AJ....140.1868W     qual:A  Var:2420 sdb-v1-200043.71+224239.1       0       0 
+  WISE22      5.427      0.033       0.057    0  mag 2010AJ....140.1868W     qual:A  Var:2420 sdb-v1-200043.71+224239.1       0       0 
+  MIPS70        5.8        6.1       0.232    0  mJy 2009ApJ...705.1226B      Star:    Note:c                 HD 189733       0       0 
+ PACS100 0.00167677 0.00085519 4.22715e-05    0   Jy             HSA_GMK 1342244238  Phot:PSF                 HD 189733       0       0 
+ PACS160 0.00948282 0.00413914 0.000391852    0   Jy             HSA_GMK 1342244238  Phot:PSF                 HD 189733       0       0 
