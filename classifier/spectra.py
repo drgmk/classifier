@@ -5,6 +5,8 @@ import numpy as np
 import scipy.ndimage.filters
 
 import sdf.spectrum
+import sdf.utils
+import sdf.config
 
 from . import config as cfg
 from . import utils
@@ -76,12 +78,14 @@ def get_data(label_file='irs_labels_cassis.txt',label_skip=[],
 
     # the label order we desire, all labels in label_file must be here
     label_order  = [
-    'Class I','Class II','Transition','Kuiper','Star','Be Star',
-    'O-type','B-type','A-type','F-type','G-type','K-type','M-type','Brown Dwarf',
-    'Am Sil Em','Cryst Sil Em','PAH Em','Gas Em',
-    'Am Sil Abs','Ice Abs','Gas Abs',
-    '[NeV]',
-    'SL/LL offset'
+        'class I','class II','transition',
+        'debris','star','be star',
+        'o-type','b-type','a-type','f-type','g-type',
+        'k-type','m-type','brown dwarf',
+        'am sil em','cryst sil em','pah em','gas em',
+        'am sil abs','ice abs','gas abs',
+        '[nev]',
+        'sl/ll offset'
                     ]
 
     files = []
@@ -255,6 +259,41 @@ def predict_spectra_labels(spec_file,return_labels=False,
         
     else:
         return labels[pred.astype(bool)]
+
+
+def predict_spectra_rawphot(file,class_=True,labels=False):
+    '''Predict class and labels given an sdb rawphot file.
+
+    Parameters
+    ----------
+    file : str
+        Name of rawphot file, which may have an IRS spectrum.
+    class_ : bool, optional
+        Whether to return classification.
+    labels : bool, optional
+        Whether to return labels.
+    '''
+
+    kw = sdf.utils.get_sdb_keywords(file)
+    cls = None
+    lab = None
+    for key in kw.keys():
+        if 'irsstare' in key:
+            cls_tmp = predict_spectra_class(sdf.config.file['spectra']+kw[key])
+            if cls_tmp is not None:
+                cls = cls_tmp
+            lab_tmp = predict_spectra_labels(sdf.config.file['spectra']+kw[key])
+            if lab_tmp is not None:
+                lab = lab_tmp
+
+    if class_ and not labels:
+        return cls
+    elif labels and not class_:
+        return lab
+    elif not class_ and not labels:
+        raise ValueError('Need to set one of class_ or labels')
+    else:
+        return cls,lab
 
 
 def predict_irs_shell():

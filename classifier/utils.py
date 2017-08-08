@@ -24,7 +24,7 @@ def plot_multilabel_confusion_matrix(true,pred,label_names,lines=[]):
     is given +1.
     '''
     nlabels = len(label_names)
-    cm = np.zeros((nlabels,nlabels))
+    cm = np.zeros((nlabels,nlabels),dtype=int)
     diag = np.zeros(nlabels,dtype=int)
     for i,p_list in enumerate(pred):
         t_list = true[i]
@@ -38,7 +38,7 @@ def plot_multilabel_confusion_matrix(true,pred,label_names,lines=[]):
                     if t == 1:
                         cm[l,k] += 1
 
-    fig,ax = plt.subplots(figsize=(9.5,7))
+    fig,ax = plt.subplots(figsize=(7.,5.5))
     im = ax.imshow(cm, interpolation='nearest', cmap=plt.cm.Blues)
 
     for i in range(nlabels):
@@ -54,11 +54,13 @@ def plot_multilabel_confusion_matrix(true,pred,label_names,lines=[]):
 
     tick_marks = np.arange(nlabels)
     ax.set_xticks(tick_marks)
-    ax.set_xticklabels( label_names, rotation=90)
+    ax.set_xticklabels( label_names, rotation=45)
     ax.set_yticks(tick_marks)
     ax.set_yticklabels( label_names)
     ax.set_ylabel('True labels')
     ax.set_xlabel('Predicted labels')
+    fig.tight_layout()
+    plt.subplots_adjust(bottom=0.18)
 
 
 def plot_confusion_matrix(cm, classes,
@@ -72,7 +74,7 @@ def plot_confusion_matrix(cm, classes,
     
     From http://scikit-learn.org/stable/auto_examples/model_selection/plot_confusion_matrix.html#sphx-glr-auto-examples-model-selection-plot-confusion-matrix-py
     """
-    fig,ax = plt.subplots(figsize=(9.5,5))
+    fig,ax = plt.subplots(figsize=(7.,5.5))
     im = ax.imshow(cm, interpolation='nearest', cmap=cmap)
     ax.set_title(title)
     fig.colorbar(im)
@@ -97,6 +99,7 @@ def plot_confusion_matrix(cm, classes,
         ax.plot([n,n],ax.get_ylim(),color='grey')
 
     fig.tight_layout()
+    plt.subplots_adjust(bottom=0.16)
     ax.set_ylabel('True label')
     ax.set_xlabel('Predicted label')
 

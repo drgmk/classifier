@@ -2,6 +2,7 @@
 classification of photometry and spectra.'''
 
 import os
+import shutil
 from functools import lru_cache
 import itertools
 import pickle
@@ -42,12 +43,13 @@ def download_photometry(sdbid):
     fname = sdbid+'-rawphot.txt'
     dir = cfg.training_dir+'photometry/photometry_files/'
     try:
-        p = sdf.photometry.Photometry.read_sdb_file(
-                '/Users/grant/a-extra/sdb/masters/'+sdbid+'/public/'+fname
-                                                    )
+        file = '/Users/grant/a-extra/sdb/masters/'+sdbid+'/public/'+fname
+        p = sdf.photometry.Photometry.read_sdb_file(file)
+
     except FileNotFoundError:
         try:
-            p = sdf.photometry.Photometry.read_sdb_file(dir+fname)
+            file = dir+fname
+            p = sdf.photometry.Photometry.read_sdb_file(file)
 
         except FileNotFoundError:
             r = requests.get('http://drgmk.com/sdb/seds/masters/'+
@@ -57,7 +59,11 @@ def download_photometry(sdbid):
                 f.write(r.text)
 
             p = sdf.photometry.Photometry.read_sdb_file(dir+fname)
-            
+
+    # copy the file to the training dir
+    if not os.path.exists(dir+fname):
+        shutil.copyfile(file,dir+fname)
+
     return p
 
 
@@ -483,8 +489,11 @@ def get_data(files):
         t = Table.read(file,comment='#')
         label_names = np.append(label_names, 
                                 np.unique(t['label'].tolist()) )
-        
-    label_names = np.unique(label_names)
+
+#    label_names = np.unique(label_names)
+    # we know the names, so do them in this order
+    label_names = ['class I','class II','transition','debris','star']
+
     n_labels = len(label_names)
     print('Classes: {}'.format(label_names))
     l_dict = dict(zip(label_names,range(n_labels)))

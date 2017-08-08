@@ -151,14 +151,14 @@ files = [os.path.basename(f) for f in files]
 print('{} files'.format(len(files)))
 
 # the labels to use
-label_names = np.array(['Class I','Class II','Transition',
-                        'Kuiper','Star','Be Star',
-                        'Am Sil Em','Cryst Sil Em',
-                        'Am Sil Abs','Ice Abs','Gas Abs',
-                        'PAH Em','Gas Em','[NeV]',
-                        'O-type','B-type','A-type','F-type','G-type',
-                        'K-type','M-type','Brown Dwarf',
-                        'SL/LL offset'])
+label_names = np.array(['class I','class II','transition',
+                        'debris','star','be star',
+                        'am sil em','cryst sil em',
+                        'am sil abs','ice abs','gas abs',
+                        'pah em','gas em','[nev]',
+                        'o-type','b-type','a-type','f-type','g-type',
+                        'k-type','m-type','brown dwarf',
+                        'sl/ll offset'])
 
 # check we have all labels
 label_counts = {}
@@ -215,7 +215,7 @@ for file in files:
 #            continue
 
         # or only do ones we want to re-do
-        if 'Cryst Sil Em' not in data[file_name]:
+        if 'transition' not in data[file_name]:
             continue
 #        skip = 0
 #        for label in data[file_name]:
@@ -253,14 +253,14 @@ for file in files:
                     if sp_type == l[0]:
                         labels_init[i] = True
             if sp_type == ['L','T','Y']:
-                labels_init[np.where(label_names == 'Brown Dwarf')] = True
+                labels_init[np.where(label_names == 'brown dwarf')] = True
 
         if 'BD*' in res['OTYPE'][0].decode():
-            labels_init[np.where(label_names == 'Brown Dwarf')] = True
+            labels_init[np.where(label_names == 'brown dwarf')] = True
 
         if 'Be*' in res['OTYPE'][0].decode():
-            labels_init[np.where(label_names == 'Be Star')] = True
-            labels_init[np.where(label_names == 'Gas Em')] = True
+            labels_init[np.where(label_names == 'be star')] = True
+            labels_init[np.where(label_names == 'gas em')] = True
 
     print('Initial: {}'.format(np.array(labels_init,dtype=int)))
 
